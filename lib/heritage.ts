@@ -7,6 +7,10 @@ import aguegues from "@/data/aguegues.json";
 import akproMisserete from "@/data/akpro-misserete.json";
 import allada from "@/data/allada.json";
 import aplahoue from "@/data/aplahoue.json";
+import abomeyCalavi from "@/data/abomey-calavi.json";
+import abomey from "@/data/abomey.json";
+import cotonou from "@/data/cotonou.json";
+import ze from "@/data/ze.json";
 import athieme from "@/data/athieme.json";
 import avrankou from "@/data/avrankou.json";
 import banikoara from "@/data/banikoara.json";
@@ -21,6 +25,7 @@ import djakotomey from "@/data/djakotomey.json";
 import djidja from "@/data/djidja.json";
 import djougou from "@/data/djougou.json";
 import dogbo from "@/data/dogbo.json";
+import grandPopo from "@/data/grand-popo.json";
 
 import boniYayi from "@/data/boni-yayi.json";
 import hubertMaga from "@/data/hubert-maga.json";
@@ -47,12 +52,17 @@ const seriesBDetails = Object.fromEntries(
 ) as Record<string, HeritageItem>;
 
 const fullTextDetails: Record<string, HeritageItem> = {
+  abomey: abomey as HeritageItem,
+  "abomey-calavi": abomeyCalavi as HeritageItem,
+  cotonou: cotonou as HeritageItem,
+  ze: ze as HeritageItem,
   dangbo: dangbo as HeritageItem,
   "dassa-zoume": dassaZoume as HeritageItem,
   djakotomey: djakotomey as HeritageItem,
   djidja: djidja as HeritageItem,
   djougou: djougou as HeritageItem,
   dogbo: dogbo as HeritageItem,
+  "grand-popo": grandPopo as HeritageItem,
 
 };
 
