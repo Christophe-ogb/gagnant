@@ -1,0 +1,20 @@
+{
+  "id": "hubert-maga",
+  "type": "contemporain",
+  "nom": "Hubert Maga",
+  "sousTitre": "Le Père de l'Indépendance et le Bâtisseur de la Première République",
+  "communeAssociee": "Parakou",
+  "imageUrl": "/games/Hubert_Maga.jpg",
+  "imageAlt": "Portrait officiel du Président Hubert Maga",
+  "descriptionHistoire": "01. 1916–1960 · De l’instituteur au père de la Nation\nNé le 10 août 1916 à Parakou, Hubert Maga se forme comme instituteur à l’École normale William-Ponty de Dakar. Personnalité politique du Nord, il fonde le Mouvement démocratique dahoméen, puis devient député au Parlement français et Premier ministre du territoire. Le 1er août 1960, il proclame l’indépendance de la République du Dahomey.\n\n02. 1960–1963 · La première présidence\nHubert Maga devient le premier président de la République du Dahomey. Il participe à la mise en place des institutions du jeune État, fait construire le Palais de la Présidence à Cotonou et contribue à l’admission du Dahomey à l’Organisation des Nations unies.\n\n03. 1970–1972 · Le Conseil présidentiel\nAprès les crises politiques des premières années, Maga rejoint le Conseil présidentiel avec Justin Ahomadégbé et Sourou Migan Apithy. Il en assume la présidence dans une recherche de concorde nationale avant le coup d’État de Mathieu Kérékou en 1972.\n\n04. 1972–2000 · Le sage de la Nation\nPlacé en résidence surveillée après le coup d’État, puis libéré, Hubert Maga participe à la Conférence Nationale de 1990 et au Haut Conseil de la République. Il meurt le 8 mai 2000 à Cotonou et reste associé à l’indépendance du Bénin.",
+  "leSaviezVous": "Hubert Maga a proclamé l’indépendance de la République du Dahomey le 1er août 1960. Il a aussi participé au Conseil présidentiel de 1970 à 1972 avec Apithy et Ahomadégbé.",
+  "scenes": [],
+  "challenge": { "badge": "Sceau de l’Indépendance et de la Nation", "accroche": "Découvrez le parcours du premier président du Dahomey indépendant", "encouragement": "Vous maîtrisez l’histoire du père de l’indépendance Hubert Maga." },
+  "quiz": [
+    { "question": "À quelle date Hubert Maga a-t-il proclamé l’indépendance du Dahomey ?", "options": ["Le 1er août 1960", "Le 26 octobre 1972", "Le 28 février 1990", "Le 6 avril 2006"], "reponseCorrecteIndex": 0, "explication": "L’indépendance est proclamée le 1er août 1960.", "points": 20 },
+    { "question": "Dans quelle ville Hubert Maga est-il né ?", "options": ["Natitingou", "Parakou", "Kandi", "Djougou"], "reponseCorrecteIndex": 1, "explication": "Hubert Maga est originaire de Parakou.", "points": 20 },
+    { "question": "Quelle était sa première profession ?", "options": ["Instituteur", "Médecin", "Avocat", "Ingénieur"], "reponseCorrecteIndex": 0, "explication": "Il a commencé sa carrière comme instituteur.", "points": 20 },
+    { "question": "Quel système de gouvernement partagé a-t-il présidé de 1970 à 1972 ?", "options": ["Le Conseil présidentiel", "Le Comité révolutionnaire", "Le Directoire militaire", "La monarchie constitutionnelle"], "reponseCorrecteIndex": 0, "explication": "Il préside le Conseil présidentiel avec Apithy et Ahomadégbé.", "points": 20 }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,721 @@
+[
+  {
+    "id": "ouidah",
+    "type": "commune",
+    "nom": "Ouidah",
+    "sousTitre": "Au carrefour des mémoires, des rites et de l’océan",
+    "communeAssociee": "Ouidah",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_city_of_Ouidah.jpg",
+    "imageAlt": "Paysage tropical éclairé par le soleil",
+    "descriptionHistoire": "Située dans le département de l’Atlantique, sur la côte du golfe de Guinée, Ouidah est une commune où se rencontrent des mémoires historiques, spirituelles et diasporiques. Ancienne façade maritime du royaume du Danxomè, la ville est profondément liée à l’histoire de la traite atlantique. Elle est aussi un territoire où les traditions vodun restent vivantes et où se tiennent les Vodun Days. Découvrir Ouidah demande de tenir ensemble ces histoires : honorer les mémoires douloureuses, écouter les cultures vivantes et regarder la ville comme un lieu de transmission.",
+    "leSaviezVous": "Ouidah compte parmi les communes associées aux sites marquants de la Route de l’Esclave au Bénin, avec des lieux de mémoire qui relient l’histoire locale à celle des diasporas africaines.",
+    "scenes": [
+      {
+        "titre": "La Route de l’Esclave & la Porte du Non-Retour",
+        "localisation": "De la Place Chacha à la plage de Djègbadji · Ouidah",
+        "texte": "Ce parcours de mémoire relie le centre historique au littoral. Il rappelle les itinéraires empruntés par des personnes réduites en esclavage avant leur déportation vers les Amériques. Érigée en 1995 à l’initiative de l’UNESCO, la Porte du Non-Retour est un arc mémorial qui invite au recueillement, à la transmission et au dialogue avec les diasporas.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Porte_du_non-retour_au_Benin.jpg/1280px-Porte_du_non-retour_au_Benin.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "imageAlt": "Image d’ambiance du littoral de Ouidah"
+      },
+      {
+        "titre": "Le Temple des Pythons · culte Dangbé",
+        "localisation": "Quartier Dangbexuè · Place Agoli · Ouidah",
+        "texte": "Le Temple des Pythons est un sanctuaire vodun situé face à la basilique de l’Immaculée-Conception. Il est lié à la communauté Xwéda et à la vénération de Dangbé. Les pratiques qui s’y déroulent font partie d’un patrimoine vivant : une visite demande écoute, retenue et respect des règles du lieu.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Entr%C3%A9e_du_Temple_des_Pythons_%28Ouidah%29.jpg/960px-Entr%C3%A9e_du_Temple_des_Pythons_%28Ouidah%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "imageAlt": "Temple des Pythons de Ouidah"
+      },
+      {
+        "titre": "La Place Chacha & l’ancien marché",
+        "localisation": "Centre historique · Ouidah",
+        "texte": "La Place Chacha, aussi appelée Place des enchères, est un lieu majeur de la mémoire de la traite à Ouidah. Son nom est associé à Francisco Félix de Souza, surnommé Chacha. Les récits transmis autour de l’Arbre de l’Oubli et de l’Arbre du Retour font partie de la mémoire symbolique de ce parcours ; ils doivent être abordés avec dignité, sans transformer la souffrance en spectacle.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Les_lieux_touristiques_de_Ouidah,_place_Chacha.jpg",
+        "imageAlt": "Image d’ambiance d’un lieu historique d’Ouidah"
+      },
+      {
+        "titre": "Le Fort Portugais · Musée d’Histoire de Ouidah",
+        "localisation": "Centre historique · Ouidah",
+        "texte": "Le Fort Portugais témoigne de la présence marchande et diplomatique européenne sur la côte. Devenu Musée d’Histoire de Ouidah, il permet de replacer les échanges avec les royaumes de la région dans leur contexte historique. Le site fait partie des monuments au cœur des projets de revalorisation de la cité historique.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fort_of_S%C3%A3o_Jo%C3%A3o_Baptista_de_Ajud%C3%A1_%281890%29.jpg/1280px-Fort_of_S%C3%A3o_Jo%C3%A3o_Baptista_de_Ajud%C3%A1_%281890%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "imageAlt": "Architecture ancienne évoquant un fort historique"
+      },
+      {
+        "titre": "La Basilique de l’Immaculée-Conception",
+        "localisation": "Place Agoli · face au Temple des Pythons · Ouidah",
+        "texte": "La basilique fait face au Temple des Pythons, sur la Place Agoli. Cette proximité est souvent citée comme un repère de la diversité religieuse de Ouidah. Elle invite à raconter la ville avec nuance : plusieurs traditions, croyances et mémoires y coexistent et façonnent son identité.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Basilica_of_Ouidah.jpg/500px-Basilica_of_Ouidah.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "imageAlt": "Église historique illuminée par le soleil"
+      },
+      {
+        "titre": "La Forêt sacrée de Kpassè",
+        "localisation": "Cité historique de Ouidah",
+        "texte": "La forêt sacrée de Kpassè est reconnue comme un haut lieu spirituel du Vodun et accueille notamment des rituels liés au Tofâ. Des traditions orales relient ce lieu à la mémoire du roi Kpassè et à la fondation de la cité. Ces récits font partie d’un patrimoine vivant : ils ne se résument pas à une légende touristique et gagnent à être transmis avec les détenteurs de savoirs.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/For%C3%AAt_sacr%C3%A9e_de_Ouidah_01.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+        "imageAlt": "Forêt dense et chemin sous les arbres"
+      },
+      {
+        "titre": "La Maison du Brésil & les héritages afro-brésiliens",
+        "localisation": "Cité historique · Ouidah",
+        "texte": "Ouidah conserve des maisons à architecture afro-brésilienne et des traces des liens tissés de part et d’autre de l’Atlantique. La Maison du Brésil participe à cette mémoire architecturale et culturelle. Elle rappelle que les héritages de la diaspora se lisent aussi dans les savoir-faire, les cuisines, les langues et les histoires familiales.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fort_Ouidah_Benin.JPG/960px-Fort_Ouidah_Benin.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "imageAlt": "Maison ancienne aux détails architecturaux"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Quel événement culturel met notamment Ouidah à l’honneur ?",
+        "options": ["Les Vodun Days", "La Gaani de Nikki", "Le Festival des Masques de Porto-Novo", "Le Tour du Bénin"],
+        "reponseCorrecteIndex": 0,
+        "explication": "Les Vodun Days sont organisés à Ouidah et célèbrent des expressions culturelles et artistiques béninoises.",
+        "points": 20
+      },
+      {
+        "question": "Quel lieu de Ouidah se trouve face à la basilique de l’Immaculée-Conception ?",
+        "options": ["Le Temple des Pythons", "Le Palais royal d’Abomey", "Le Musée de Porto-Novo", "La place de la Gaani"],
+        "reponseCorrecteIndex": 0,
+        "explication": "Le Temple des Pythons est situé à Dangbexuè, face à la basilique de l’Immaculée-Conception.",
+        "points": 20
+      },
+      {
+        "question": "Quel monument conclut le parcours de mémoire de la Route de l’Esclave à Ouidah ?",
+        "options": ["La Porte du Non-Retour", "L’Arc de Triomphe", "Le Monument de l’Indépendance", "Le Fort de Ouidah"],
+        "reponseCorrecteIndex": 0,
+        "explication": "La Porte du Non-Retour est un repère majeur de la Route de l’Esclave à Ouidah.",
+        "points": 20
+      },
+      {
+        "question": "Quel lieu de Ouidah est associé au roi Kpassè dans les traditions orales ?",
+        "options": ["La Forêt sacrée de Kpassè", "Le lac Nokoué", "Le palais de Nikki", "Le parc de la Pendjari"],
+        "reponseCorrecteIndex": 0,
+        "explication": "La Forêt sacrée de Kpassè est un haut lieu spirituel dont les traditions orales sont liées à la mémoire du roi Kpassè.",
+        "points": 20
+      },
+      {
+        "question": "Quel héritage culturel rappelle la Maison du Brésil à Ouidah ?",
+        "options": ["Les liens afro-brésiliens à travers l’Atlantique", "Une ancienne ligne de chemin de fer", "La naissance du lac Nokoué", "Les royaumes du Nord"],
+        "reponseCorrecteIndex": 0,
+        "explication": "La Maison du Brésil évoque les héritages afro-brésiliens visibles dans l’architecture, les savoir-faire et les mémoires familiales.",
+        "points": 20
+      }
+    ]
+  },
+  {
+    "id": "behanzin",
+    "type": "roi",
+    "nom": "Roi Béhanzin",
+    "sousTitre": "Le Requin et Résistant",
+    "communeAssociee": "Abomey",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Behanzin-1895.jpg/500px-Behanzin-1895.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageAlt": "Silhouette du roi Béhanzin",
+    "descriptionHistoire": "Prince Kondo, Béhanzin succède à son père Glèlè en décembre 1889. Son nom de règne est associé à l’image de l’œuf du monde qui couve la terre, tandis que le requin et le poisson Gbê comptent parmi ses symboles. Il refuse le protectorat français et défend la souveraineté du Danxomè durant les deux guerres de 1890 et de 1892 à 1894, avec l’armée royale et les Agojié. Pour éviter le massacre de son peuple, il se rend le 25 janvier 1894 à Goho. Déporté en Martinique de 1894 à 1906 puis transféré en Algérie, il meurt de maladie à Blida le 10 décembre 1906. Ses cendres sont ramenées au Bénin en 1928.",
+    "leSaviezVous": "La statue commémorative de Béhanzin, le poing levé, se dresse à la place Goho à Bohicon, un lieu majeur de mémoire de la résistance du Danxomè.",
+    "scenes": [
+      { "titre": "Goho · le choix de la reddition", "localisation": "Place Goho · Bohicon", "texte": "À Abomey, le poste militaire de Goho fut le théâtre de la reddition du roi Béhanzin le 15 janvier 1894. Face à la supériorité des troupes coloniales du général Dodds et pour épargner son peuple d'un massacre total, le souverain du Danhomè fit le choix de se rendre, marquant la fin de la résistance royale armée", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DEGAN_Gabin_%28CANA%2C_place_of_remembrance%29.jpg/960px-DEGAN_Gabin_%28CANA%2C_place_of_remembrance%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "imageAlt": "Silhouette historique, image temporaire à remplacer par une image autorisée de la place Goho" },
+      { "titre": "Le requin · un symbole de résistance", "localisation": "Royaume du Danxomè · Abomey", "texte": "Le requin et le poisson Gbê sont associés à l’identité symbolique de Béhanzin. Ces emblèmes racontent un règne marqué par la défense de la souveraineté du Danxomè face aux troupes françaises et au colonel Alfred Dodds.", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Symbole_de_Behanzin_roi_du_Dahomey_au_mur_de_la_place_Goho_%C3%A0_Abomey_au_B%C3%A9nin2.jpg/960px-Symbole_de_Behanzin_roi_du_Dahomey_au_mur_de_la_place_Goho_%C3%A0_Abomey_au_B%C3%A9nin2.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "imageAlt": "Architecture historique, image temporaire à remplacer par une image autorisée des palais d’Abomey" },
+      { "titre": "De la Martinique à Blida · un exil politique", "localisation": "Martinique puis Blida · 1894–1906", "texte": "Après sa reddition, Béhanzin est déporté en Martinique avec une partie de sa famille, puis transféré en Algérie. Il meurt à Blida le 10 décembre 1906, avant que ses cendres ne soient ramenées au Bénin en 1928.", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Behanzin_captif.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", "imageAlt": "Paysage, image temporaire à remplacer par une image historique autorisée" }
+    ],
+    "challenge": { "badge": "Sceau du Résistant", "accroche": "Connais-tu vraiment le roi Béhanzin et son combat ?", "encouragement": "Presque ! Retourne vers les symboles de sa résistance et observe mieux." },
+    "quiz": [
+      { "question": "Que signifie le nom de règne « Béhanzin » ?", "options": ["Le roi des océans", "L’œuf du monde qui couve la terre", "Le fer qui coupe le bois", "La lumière du soleil"], "reponseCorrecteIndex": 1, "explication": "Le nom de règne Béhanzin est associé à l’expression Gbé hîn azîn bò bò djè agbàn, invoquant la protection du royaume.", "points": 20 },
+      { "question": "Quel commandant militaire français a dirigé la campagne contre Béhanzin ?", "options": ["Général Faidherbe", "Colonel Alfred Dodds", "Capitaine Marchand", "Maréchal Lyautey"], "reponseCorrecteIndex": 1, "explication": "Alfred Dodds dirige l’expédition militaire française de 1892 à 1894 contre le Danxomè.", "points": 20 },
+      { "question": "Quelle fut la décision de Béhanzin le 25 janvier 1894 à Goho ?", "options": ["Fuir vers le Nigeria", "Se rendre pour préserver la vie de son peuple", "Signer un traité de paix définitif", "Réorganiser un nouvel empire"], "reponseCorrecteIndex": 1, "explication": "Béhanzin se rend à Goho dans le but de mettre fin aux souffrances et de préserver la vie de son peuple.", "points": 20 },
+      { "question": "Quelle île des Caraïbes fut le premier lieu de déportation de Béhanzin ?", "options": ["La Guadeloupe", "La Martinique (Fort-de-France)", "Haïti", "La Réunion"], "reponseCorrecteIndex": 1, "explication": "Après sa reddition, Béhanzin est déporté en Martinique avec une partie de sa famille proche.", "points": 20 },
+      { "question": "Dans quel pays le roi Béhanzin est-il mort en 1906 ?", "options": ["En France", "Au Bénin", "En Algérie (Blida)", "Au Sénégal"], "reponseCorrecteIndex": 2, "explication": "Après son transfert depuis la Martinique, Béhanzin meurt de maladie à Blida, en Algérie, le 10 décembre 1906.", "points": 20 },
+      { "question": "Où la statue commémorative majeure de Béhanzin, le poing levé, est-elle dressée ?", "options": ["Porto-Novo", "Place Goho à Bohicon", "Cotonou", "Ouidah"], "reponseCorrecteIndex": 1, "explication": "La statue de la place Goho à Bohicon commémore la figure de résistance de Béhanzin.", "points": 20 }
+    ],
+    "isReady": true
+  },
+  {
+    "id": "segbo-lissa",
+    "type": "divinite",
+    "nom": "Sègbo Lissa",
+    "sousTitre": "Un repère spirituel du panthéon vodun",
+    "communeAssociee": "Ouidah",
+    "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Ciel lumineux au-dessus d’un paysage naturel",
+    "descriptionHistoire": "Dans les traditions vodun du golfe du Bénin, Sègbo Lissa est évoqué comme une figure liée à la création et à l’ordre du monde. Cette fiche présente un repère d’initiation : elle ne remplace ni la parole des communautés, ni la transmission des détenteurs de savoirs.",
+    "leSaviezVous": "Les traditions vodun sont vivantes et diverses : les noms, récits et pratiques peuvent varier selon les communautés et les lignées.",
+    "quiz": {
+      "question": "Cette fiche invite surtout à aborder Sègbo Lissa avec…",
+      "options": ["Respect et écoute des traditions vivantes", "Une réponse unique imposée", "Une logique de compétition", "Une lecture sans contexte"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les patrimoines spirituels demandent une approche respectueuse, contextualisée et ouverte à la parole des communautés.",
+      "points": 100
+    }
+  },
+  {
+    "id": "ganvie",
+    "type": "site",
+    "nom": "Ganvié",
+    "sousTitre": "Une cité lacustre au rythme de l’eau",
+    "communeAssociee": "Sô-Ava",
+    "imageUrl": "/games/ganvie1.webp",
+    "imageAlt": "Étendue d’eau calme bordée d’un horizon tropical",
+    "descriptionHistoire": "Ganvié est une cité lacustre du lac Nokoué, dans la commune de Sô-Ava. Son histoire est liée aux populations Tofinu qui se sont établies sur l’eau pour échapper aux razzias esclavagistes. Aujourd’hui, les pirogues, les habitations sur pilotis, la pêche et les marchés flottants structurent encore le quotidien de cette communauté, dont le patrimoine reste vivant et fragile.",
+    "leSaviezVous": "Ganvié est souvent appelée « la Venise de l’Afrique », mais elle est avant tout une communauté habitée : une visite responsable respecte les habitants, l’eau et leurs activités.",
+    "scenes": [
+      {
+        "titre": "L’embarcadère d’Abomey-Calavi · la porte des eaux",
+        "localisation": "Abomey-Calavi · accès vers Sô-Ava et Ganvié",
+        "texte": "L’embarcadère est l’un des points d’accès au monde lacustre. C’est ici que le trajet terrestre laisse place à la pirogue et aux chenaux. Le projet de revalorisation de Ganvié inclut cet accès afin de mieux relier Abomey-Calavi, Sô-Ava et la cité lacustre, tout en améliorant les conditions d’accueil et de mobilité.",
+        "imageUrl": "/games/ambacadaieaganvie.webp",
+        "imageAlt": "Embarcadère de Ganvié à Abomey-Calavi"
+      },
+      {
+        "titre": "Le cœur du village lacustre · les maisons sur pilotis",
+        "localisation": "Lac Nokoué · Ganvié I et Ganvié II · Sô-Ava",
+        "texte": "Les maisons, écoles, lieux de culte et espaces de vie sont adaptés au milieu aquatique. Bénin Tourisme situe l’origine de Ganvié au XVIIIe siècle, lorsque des populations se sont installées sur le lac Nokoué pour échapper aux razzias esclavagistes. Les habitations sur pilotis racontent ainsi une histoire de refuge, d’adaptation et de continuité.",
+        "imageUrl": "https://cdn.getyourguide.com/image/format=auto,fit=crop,gravity=auto,quality=60,width=375,height=375,dpr=2/tour_img/73dbefb083c0334826c0e9f9082e5c7d32e1e3d27b7900830fcba60491528a49.jpg",
+        "imageAlt": "Maisons et pirogues du village lacustre de Ganvié"
+      },
+      {
+        "titre": "Le marché flottant",
+        "localisation": "Ganvié · commune de Sô-Ava",
+        "texte": "À Ganvié, les pirogues sont aussi des moyens de transport pour le commerce quotidien. Poissons, produits vivriers et services circulent sur l’eau. Les marchés flottants font partie des équipements et activités que les programmes de revalorisation cherchent à accompagner, car ils participent directement à la vie économique de la cité.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Damoen_Saduk_Floating_Market.jpg/500px-Damoen_Saduk_Floating_Market.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "imageAlt": "Marché flottant animé sur l’eau"
+      },
+      {
+        "titre": "Les acadjas · les parcs à poissons traditionnels",
+        "localisation": "Lac Nokoué · zone lacustre de Sô-Ava",
+        "texte": "Les acadjas sont des installations de pêche traditionnelles réalisées avec des branchages immergés. Ils font partie des techniques qui soutiennent les activités halieutiques locales. Leur présence rappelle que le lac est à la fois un espace de vie, de travail et un écosystème qui demande une gestion attentive : les autorités soulignent notamment les enjeux d’envasement et de biodiversité.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5pyAiLGpYD6ujtQOGJZZWR-F-UyOeWvRtdL6GRKTU09NxIIe52Hl25k&s=10",
+        "imageAlt": "Pirogues et vie quotidienne sur le lac Nokoué"
+      },
+      {
+        "titre": "Les rues de pirogues · la vie quotidienne",
+        "localisation": "Ganvié · lac Nokoué · Sô-Ava",
+        "texte": "À Ganvié, la navigation relie les maisons, les écoles, les marchés et les lieux de vie. La pirogue n’est pas seulement un objet de visite : elle est un moyen de déplacement essentiel. Ce rythme quotidien rend visible une manière d’habiter l’eau, transmise par les familles et adaptée aux réalités contemporaines.",
+        "imageUrl": "/games/ruedepirogue.webp",
+        "imageAlt": "Élèves se rendant à l’école en pirogue à Ganvié"
+      }
+    ],
+    "challenge": {
+      "badge": "Maître des Pirogues",
+      "accroche": "Tu penses maîtriser l’histoire de la Venise de l’Afrique, ou tu risques de prendre l’eau ?",
+      "encouragement": "Presque ! Garde le cap : la pirogue t’attend. Réessaie !"
+    },
+    "quiz": [
+      {
+        "question": "Que signifie traditionnellement le nom « Ganvié » ?",
+        "options": ["La cité sur pilotis", "Le grand marché du lac", "Nous sommes sauvés", "Le royaume des poissons"],
+        "reponseCorrecteIndex": 2,
+        "explication": "Le nom est couramment interprété comme « nous sommes sauvés », en référence à l’installation sur le lac comme refuge.",
+        "points": 20
+      },
+      {
+        "question": "Sur quel lac se trouve la cité lacustre de Ganvié ?",
+        "options": ["Le lac Nokoué", "Le lac Ahémé", "Le lac Toho", "Le lac Volta"],
+        "reponseCorrecteIndex": 0,
+        "explication": "Ganvié se trouve sur le lac Nokoué, dans la commune de Sô-Ava.",
+        "points": 20
+      },
+      {
+        "question": "Que désignent les acadjas dans la zone lacustre ?",
+        "options": ["Des parcs à poissons traditionnels", "Des ponts en béton", "Des palais royaux", "Des danses cérémonielles"],
+        "reponseCorrecteIndex": 0,
+        "explication": "Les acadjas sont des installations de pêche utilisant des branchages immergés.",
+        "points": 20
+      },
+      {
+        "question": "Quelle population est traditionnellement associée à la fondation de Ganvié ?",
+        "options": ["Les Tofinu", "Les Bariba", "Les Betammaribè", "Les Mina"],
+        "reponseCorrecteIndex": 0,
+        "explication": "L’histoire de Ganvié est liée aux populations Tofinu qui ont trouvé refuge sur le lac Nokoué.",
+        "points": 20
+      },
+      {
+        "question": "Quel moyen de déplacement structure la vie quotidienne à Ganvié ?",
+        "options": ["La pirogue", "Le tramway", "Le téléphérique", "Le train"],
+        "reponseCorrecteIndex": 0,
+        "explication": "À Ganvié, la pirogue relie les maisons, les écoles, les marchés et les différents lieux de vie.",
+        "points": 20
+      }
+    ]
+  },
+  {
+    "id": "ketou",
+    "type": "commune",
+    "nom": "Kétou",
+    "sousTitre": "Un territoire de mémoire à la frontière orientale",
+    "communeAssociee": "Kétou",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkVIYlrjRBkHLC4BFc2AEoSeY5w7DyCkmQZ-Sz-SvKGdIPvcwF5TtQGsD1eP5RXT-gLyLWg_2dhaOe8S8OhqAX8U36yQhqXLB3yPt5UQ7XcigKuw4TZjOEcLtBesCJ1aRQyhMfmyA=s680-w680-h510-rw",
+    "imageAlt": "Sentier traversant une végétation dense",
+    "descriptionHistoire": "Kétou est un territoire dont l’histoire s’inscrit dans les circulations culturelles et politiques de la région yoruba. Sa mémoire royale, ses traditions et ses liens transfrontaliers en font une étape essentielle pour découvrir la diversité des récits béninois.",
+    "leSaviezVous": "La commune de Kétou est située dans le département du Plateau, à l’est du Bénin.",
+    "quiz": {
+      "question": "Dans quel département se situe la commune de Kétou ?",
+      "options": ["Le Plateau", "Le Littoral", "L’Atacora", "L’Alibori"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kétou est une commune du département du Plateau, dans l’est du Bénin.",
+      "points": 100
+    }
+  },
+  {
+    "id": "porto-novo",
+    "type": "commune",
+    "nom": "Porto-Novo",
+    "sousTitre": "La capitale aux mémoires plurielles",
+    "communeAssociee": "Porto-Novo",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWknvZiCo_53WkuJgRi13GwkpRa5RL2h81wKmcB0guLBoL3Feo-RCUuVy4_WWdEpW8zaRZxSSupdKjgJxmzw90YIil5RQn_MuqRq7EWgnUfRc9viWyh37qd85BvoFOCJr4rXSitA=s680-w680-h510-rw",
+    "imageAlt": "Façade architecturale colorée sous un ciel lumineux",
+    "descriptionHistoire": "Porto-Novo, aussi appelée Hogbonou ou Adjatchè selon les langues et les mémoires, est la capitale du Bénin. Son histoire porte les traces d’un ancien royaume, de circulations culturelles et d’un patrimoine architectural afro-brésilien remarquable.",
+    "leSaviezVous": "La Présidence de la République du Bénin cite Xogbonou, ou Porto-Novo, parmi les royaumes historiques qui ont marqué le territoire de l’actuel Bénin.",
+    "quiz": {
+      "question": "Quel est le statut institutionnel de Porto-Novo au Bénin ?",
+      "options": ["La capitale du Bénin", "La capitale du Togo", "Un village lacustre", "Un parc national"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Porto-Novo est la capitale du Bénin et porte plusieurs mémoires historiques et culturelles.",
+      "points": 100
+    }
+  },
+  {
+    "id": "abomey",
+    "type": "commune",
+    "nom": "Abomey",
+    "sousTitre": "La mémoire vivante des palais royaux du Danxomè",
+    "communeAssociee": "Abomey",
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkKJ2S5O_YxDNdnbWoDBy2kC7ed77CkL02V-21kfeuNz_6CSzf4C4zjUQTH1eOMufV_L79r0SCEHQt41YEJPboyBjqxliezKKAxgWeNVPHydC_BPu4dme4-UkrKHdzMvfY1Y7aE=s680-w680-h510-rw",
+    "imageAlt": "Architecture historique dans une lumière chaude",
+    "descriptionHistoire": "Abomey fut la capitale historique du royaume du Danxomè jusqu’à la fin du XIXe siècle. Ses palais royaux conservent une mémoire essentielle des dynasties, des arts et de l’organisation politique de ce royaume.",
+    "leSaviezVous": "Les Palais royaux d’Abomey sont inscrits sur la Liste du patrimoine mondial de l’UNESCO.",
+    "quiz": {
+      "question": "Quel royaume avait Abomey pour capitale historique ?",
+      "options": ["Le Danxomè", "Le Mali", "Le Songhaï", "Le Kongo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Abomey fut la capitale historique du royaume du Danxomè.",
+      "points": 100
+    }
+  },
+  {
+    "id": "natitingou",
+    "type": "commune",
+    "nom": "Natitingou",
+    "sousTitre": "Aux portes de l’Atacora et des paysages du Nord",
+    "communeAssociee": "Natitingou",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Benin_Natitingou.JPG/960px-Benin_Natitingou.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageAlt": "Paysage de collines et végétation au soleil",
+    "descriptionHistoire": "Natitingou est une commune du nord-ouest du Bénin, dans le département de l’Atacora. Elle constitue une porte d’entrée vers des paysages de collines et vers des patrimoines culturels liés aux communautés de cette région.",
+    "leSaviezVous": "Natitingou est souvent choisie comme point de départ pour découvrir la chaîne de l’Atacora et les territoires voisins.",
+    "quiz": {
+      "question": "Dans quel département se situe Natitingou ?",
+      "options": ["L’Atacora", "Le Littoral", "Le Plateau", "L’Ouémé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Natitingou est située dans le département de l’Atacora, au nord-ouest du Bénin.",
+      "points": 100
+    }
+  },
+  { "id": "banikoara", "type": "commune", "nom": "Banikoara", "sousTitre": "Fiche à compléter", "communeAssociee": "Banikoara", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "gogounou", "type": "commune", "nom": "Gogounou", "sousTitre": "Fiche à compléter", "communeAssociee": "Gogounou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "kandi", "type": "commune", "nom": "Kandi", "sousTitre": "Fiche à compléter", "communeAssociee": "Kandi", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "karimama", "type": "commune", "nom": "Karimama", "sousTitre": "Fiche à compléter", "communeAssociee": "Karimama", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "malanville", "type": "commune", "nom": "Malanville", "sousTitre": "Fiche à compléter", "communeAssociee": "Malanville", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "segbana", "type": "commune", "nom": "Ségbana", "sousTitre": "Fiche à compléter", "communeAssociee": "Ségbana", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "boukoumbe", "type": "commune", "nom": "Boukombé", "sousTitre": "Fiche à compléter", "communeAssociee": "Boukombé", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "cobly", "type": "commune", "nom": "Cobly", "sousTitre": "Fiche à compléter", "communeAssociee": "Cobly", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "kerou", "type": "commune", "nom": "Kérou", "sousTitre": "Fiche à compléter", "communeAssociee": "Kérou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "kouande", "type": "commune", "nom": "Kouandé", "sousTitre": "Fiche à compléter", "communeAssociee": "Kouandé", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "materi", "type": "commune", "nom": "Matéri", "sousTitre": "Fiche à compléter", "communeAssociee": "Matéri", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "ouassa-pehunco", "type": "commune", "nom": "Ouassa-Péhunco", "sousTitre": "Fiche à compléter", "communeAssociee": "Ouassa-Péhunco", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "tanguieta", "type": "commune", "nom": "Tanguiéta", "sousTitre": "Fiche à compléter", "communeAssociee": "Tanguiéta", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "toucountouna", "type": "commune", "nom": "Toucountouna", "sousTitre": "Fiche à compléter", "communeAssociee": "Toucountouna", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "abomey-calavi", "type": "commune", "nom": "Abomey-Calavi", "sousTitre": "Fiche à compléter", "communeAssociee": "Abomey-Calavi", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "allada", "type": "commune", "nom": "Allada", "sousTitre": "Fiche à compléter", "communeAssociee": "Allada", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "kpomasse", "type": "commune", "nom": "Kpomassè", "sousTitre": "Fiche à compléter", "communeAssociee": "Kpomassè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "so-ava", "type": "commune", "nom": "Sô-Ava", "sousTitre": "Fiche à compléter", "communeAssociee": "Sô-Ava", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "toffo", "type": "commune", "nom": "Toffo", "sousTitre": "Fiche à compléter", "communeAssociee": "Toffo", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "tori-bossito", "type": "commune", "nom": "Tori-Bossito", "sousTitre": "Fiche à compléter", "communeAssociee": "Tori-Bossito", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "ze", "type": "commune", "nom": "Zè", "sousTitre": "Fiche à compléter", "communeAssociee": "Zè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "bembereke", "type": "commune", "nom": "Bembéréké", "sousTitre": "Fiche à compléter", "communeAssociee": "Bembéréké", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "kalale", "type": "commune", "nom": "Kalalé", "sousTitre": "Fiche à compléter", "communeAssociee": "Kalalé", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "ndali", "type": "commune", "nom": "N’Dali", "sousTitre": "Fiche à compléter", "communeAssociee": "N’Dali", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "nikki", "type": "commune", "nom": "Nikki", "sousTitre": "Fiche à compléter", "communeAssociee": "Nikki", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "parakou", "type": "commune", "nom": "Parakou", "sousTitre": "Fiche à compléter", "communeAssociee": "Parakou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "perere", "type": "commune", "nom": "Pèrèrè", "sousTitre": "Fiche à compléter", "communeAssociee": "Pèrèrè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "sinende", "type": "commune", "nom": "Sinendé", "sousTitre": "Fiche à compléter", "communeAssociee": "Sinendé", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "tchaourou", "type": "commune", "nom": "Tchaourou", "sousTitre": "Fiche à compléter", "communeAssociee": "Tchaourou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "bante", "type": "commune", "nom": "Bantè", "sousTitre": "Fiche à compléter", "communeAssociee": "Bantè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "dassa-zoume", "type": "commune", "nom": "Dassa-Zoumè", "sousTitre": "Fiche à compléter", "communeAssociee": "Dassa-Zoumè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "glazoue", "type": "commune", "nom": "Glazoué", "sousTitre": "Fiche à compléter", "communeAssociee": "Glazoué", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "ouesse", "type": "commune", "nom": "Ouèssè", "sousTitre": "Fiche à compléter", "communeAssociee": "Ouèssè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "savalou", "type": "commune", "nom": "Savalou", "sousTitre": "Fiche à compléter", "communeAssociee": "Savalou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "save", "type": "commune", "nom": "Savè", "sousTitre": "Fiche à compléter", "communeAssociee": "Savè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "aplahoue", "type": "commune", "nom": "Aplahoué", "sousTitre": "Fiche à compléter", "communeAssociee": "Aplahoué", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "djakotomey", "type": "commune", "nom": "Djakotomey", "sousTitre": "Fiche à compléter", "communeAssociee": "Djakotomey", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "dogbo", "type": "commune", "nom": "Dogbo", "sousTitre": "Fiche à compléter", "communeAssociee": "Dogbo", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "klouekanme", "type": "commune", "nom": "Klouékanmè", "sousTitre": "Fiche à compléter", "communeAssociee": "Klouékanmè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "lalo", "type": "commune", "nom": "Lalo", "sousTitre": "Fiche à compléter", "communeAssociee": "Lalo", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "toviklin", "type": "commune", "nom": "Toviklin", "sousTitre": "Fiche à compléter", "communeAssociee": "Toviklin", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "bassila", "type": "commune", "nom": "Bassila", "sousTitre": "Fiche à compléter", "communeAssociee": "Bassila", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "copargo", "type": "commune", "nom": "Copargo", "sousTitre": "Fiche à compléter", "communeAssociee": "Copargo", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "djougou", "type": "commune", "nom": "Djougou", "sousTitre": "Fiche à compléter", "communeAssociee": "Djougou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "ouake", "type": "commune", "nom": "Ouaké", "sousTitre": "Fiche à compléter", "communeAssociee": "Ouaké", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "cotonou", "type": "commune", "nom": "Cotonou", "sousTitre": "Fiche à compléter", "communeAssociee": "Cotonou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "athieme", "type": "commune", "nom": "Athiémé", "sousTitre": "Fiche à compléter", "communeAssociee": "Athiémé", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "bopa", "type": "commune", "nom": "Bopa", "sousTitre": "Fiche à compléter", "communeAssociee": "Bopa", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "come", "type": "commune", "nom": "Comè", "sousTitre": "Fiche à compléter", "communeAssociee": "Comè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "grand-popo", "type": "commune", "nom": "Grand-Popo", "sousTitre": "Fiche à compléter", "communeAssociee": "Grand-Popo", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "houeyogbe", "type": "commune", "nom": "Houéyogbé", "sousTitre": "Fiche à compléter", "communeAssociee": "Houéyogbé", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "lokossa", "type": "commune", "nom": "Lokossa", "sousTitre": "Fiche à compléter", "communeAssociee": "Lokossa", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "adjara", "type": "commune", "nom": "Adjara", "sousTitre": "Fiche à compléter", "communeAssociee": "Adjara", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "adjohoun", "type": "commune", "nom": "Adjohoun", "sousTitre": "Fiche à compléter", "communeAssociee": "Adjohoun", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "aguegues", "type": "commune", "nom": "Aguégués", "sousTitre": "Fiche à compléter", "communeAssociee": "Aguégués", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "akpro-misserete", "type": "commune", "nom": "Akpro-Missérété", "sousTitre": "Fiche à compléter", "communeAssociee": "Akpro-Missérété", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "avrankou", "type": "commune", "nom": "Avrankou", "sousTitre": "Fiche à compléter", "communeAssociee": "Avrankou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "bonou", "type": "commune", "nom": "Bonou", "sousTitre": "Fiche à compléter", "communeAssociee": "Bonou", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "dangbo", "type": "commune", "nom": "Dangbo", "sousTitre": "Fiche à compléter", "communeAssociee": "Dangbo", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "seme-podji", "type": "commune", "nom": "Sèmè-Podji", "sousTitre": "Fiche à compléter", "communeAssociee": "Sèmè-Podji", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  {
+    "id": "adja-ouere",
+    "type": "commune",
+    "nom": "Adja-Ouèrè",
+    "sousTitre": "Une terre de rencontres et de mixage culturel",
+    "communeAssociee": "Adja-Ouèrè",
+    "imageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Paysage verdoyant, image d’ambiance à remplacer par une photo autorisée d’Adja-Ouèrè",
+    "descriptionHistoire": "Située dans le département du Plateau, Adja-Ouèrè est une commune marquée par des histoires de migration, de rencontres et de transmission culturelle. Les récits locaux évoquent notamment des groupes venus d’Adja-Tado et des relations avec les populations Holi, Nago-Yoruba, Wémè, Goun et Adja. Cette diversité se retrouve dans les langues, les pratiques culturelles, l’artisanat et les rythmes de la commune. Son territoire comprend six arrondissements : Adja-Ouèrè, Ikpinlè, Kpoulou, Massè, Oko-Akaré et Tatonnonkon.",
+    "leSaviezVous": "La présentation officielle de la commune met en avant les forêts sacrées, le site de la divinité tutélaire Ihingba et le site d’Oju-Igba, lié dans la tradition locale au parcours des fondateurs et à l’intronisation des rois.",
+    "quiz": {
+      "question": "Dans quel département du Bénin se situe la commune d’Adja-Ouèrè ?",
+      "options": ["Le Plateau", "L’Atlantique", "Le Borgou", "Le Mono"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Adja-Ouèrè est une commune du département du Plateau, dans le sud-est du Bénin.",
+      "points": 100
+    },
+    "isReady": true
+  },
+  { "id": "ifangni", "type": "commune", "nom": "Ifangni", "sousTitre": "Fiche à compléter", "communeAssociee": "Ifangni", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "pobe", "type": "commune", "nom": "Pobè", "sousTitre": "Fiche à compléter", "communeAssociee": "Pobè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "sakete", "type": "commune", "nom": "Sakété", "sousTitre": "Fiche à compléter", "communeAssociee": "Sakété", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "agbangnizoun", "type": "commune", "nom": "Agbangnizoun", "sousTitre": "Fiche à compléter", "communeAssociee": "Agbangnizoun", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "bohicon", "type": "commune", "nom": "Bohicon", "sousTitre": "Fiche à compléter", "communeAssociee": "Bohicon", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "cove", "type": "commune", "nom": "Covè", "sousTitre": "Fiche à compléter", "communeAssociee": "Covè", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "djidja", "type": "commune", "nom": "Djidja", "sousTitre": "Fiche à compléter", "communeAssociee": "Djidja", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "ouinhi", "type": "commune", "nom": "Ouinhi", "sousTitre": "Fiche à compléter", "communeAssociee": "Ouinhi", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "zagnanado", "type": "commune", "nom": "Zagnanado", "sousTitre": "Fiche à compléter", "communeAssociee": "Zagnanado", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "za-kpota", "type": "commune", "nom": "Za-Kpota", "sousTitre": "Fiche à compléter", "communeAssociee": "Za-Kpota", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "zogbodomey", "type": "commune", "nom": "Zogbodomey", "sousTitre": "Fiche à compléter", "communeAssociee": "Zogbodomey", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Image temporaire à remplacer", "descriptionHistoire": "Histoire à compléter.", "leSaviezVous": "Information à compléter.", "scenes": [], "quiz": [], "isReady": false },
+  { "id": "agadja", "type": "roi", "nom": "Roi Agadja", "sousTitre": "Le Conquérant de la Côte et l’Unificateur du Danxomè", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Agadja_Dahomey.jpg", "imageAlt": "Illustration historique du Roi Agadja", "descriptionHistoire": "01. 1711 · L’avènement d’un prince après la régence\nAprès la mort d’Akaba, Agadja monte sur le trône à la fin de la régence de sa sœur Tassi Hangbè. Il poursuit l’agrandissement territorial voulu par les premiers rois du Danxomè.\n\n02. La conquête d’Allada\nAgadja étend l’autorité du royaume vers le sud et conquiert Allada, ancienne terre d’origine de la dynastie. Cette victoire renforce la puissance politique et commerciale d’Abomey.\n\n03. 1727 · La prise de Ouidah\nIl s’empare de Ouidah et ouvre au Danxomè un accès stratégique au commerce côtier. La ville devient un point essentiel des échanges avec les marchands européens.\n\n04. 1732 · Un royaume agrandi\nÀ la fin de son règne, Agadja laisse un territoire plus vaste et une administration renforcée à son fils Tegbessou, qui lui succède après une crise dynastique.", "leSaviezVous": "Agadja est souvent présenté comme le roi qui a donné au Danxomè un accès direct à la côte en prenant Allada puis Ouidah.", "scenes": [], "challenge": { "badge": "Sceau de la Pirogue d’Agadja", "accroche": "Découvrez le roi qui a ouvert le Danxomè vers la côte", "encouragement": "Bravo ! Vous avez suivi l’expansion d’Agadja jusqu’à Ouidah." }, "quiz": [{ "question": "Qui assure la régence avant l’avènement d’Agadja ?", "options": ["Tassi Hangbè", "Na Guèdè", "La reine Idia", "La princesse Kpodjito"], "reponseCorrecteIndex": 0, "explication": "Tassi Hangbè assure la régence après la mort de son frère Akaba.", "points": 20 }, { "question": "Quelle ancienne cité Agadja conquiert-il avant Ouidah ?", "options": ["Allada", "Nikki", "Kétou", "Porto-Novo"], "reponseCorrecteIndex": 0, "explication": "La conquête d’Allada étend le Danxomè vers le sud.", "points": 20 }, { "question": "Quelle ville côtière Agadja prend-il en 1727 ?", "options": ["Ouidah", "Lomé", "Badagry", "Cotonou"], "reponseCorrecteIndex": 0, "explication": "La prise de Ouidah donne au royaume un accès stratégique à la côte.", "points": 20 }, { "question": "Qui lui succède ?", "options": ["Tegbessou", "Kpengla", "Ghézo", "Glèlè"], "reponseCorrecteIndex": 0, "explication": "Son fils Tegbessou lui succède en 1732.", "points": 20 }], "isReady": true },
+  {
+    "id": "ghezo",
+    "type": "roi",
+    "nom": "Roi Ghézo",
+    "sousTitre": "Un souverain majeur du Danxomè au XIXe siècle",
+    "communeAssociee": "Abomey",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Gezo_%282%29.jpg/330px-Gezo_%282%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageAlt": "Architecture historique, image temporaire à remplacer",
+    "descriptionHistoire": "Ghézo, né prince Gakpé, règne sur le Danxomè de 1818 à 1858. Son arrivée au pouvoir met fin au règne de son frère Adandozan, dans un contexte de tensions au palais et de recomposition des alliances commerciales. Son règne est associé à de profondes réorganisations politiques, militaires et économiques. Il faut cependant raconter cette période avec nuance : le développement du palmier à huile s’est fait dans une économie encore marquée par la traite atlantique, dont le recul fut progressif et conflictuel.",
+    "leSaviezVous": "Le palais de Ghézo, appelé Singbodji (« sur l’étage »), fait partie de l’ensemble des Palais royaux d’Abomey, inscrit au patrimoine mondial de l’UNESCO.",
+    "scenes": [
+      {
+        "titre": "Le palais Singbodji · le pouvoir à Abomey",
+        "localisation": "Palais royaux d’Abomey · Zou",
+        "texte": "Le palais de Ghézo est connu sous le nom de Singbodji, « sur l’étage ». Il rappelle que le palais était à la fois un lieu de résidence, de décision, de cérémonies et de transmission des symboles royaux. Les palais de Ghézo et de Glèlè abritent aujourd’hui le Musée historique d’Abomey.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Abomey-K%C3%B6nigspalast2.jpg/960px-Abomey-K%C3%B6nigspalast2.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "imageAlt": "Architecture historique, image temporaire à remplacer par une photo autorisée du palais"
+      },
+      {
+        "titre": "La jarre trouée · une image de l’unité",
+        "localisation": "Mémoire royale du Danxomè · Abomey",
+        "texte": "La tradition attribue à Ghézo l’allégorie de la jarre trouée : si les enfants du pays unissent leurs doigts pour en boucher les trous, l’eau demeure dans la jarre. Cette image invite à comprendre l’unité comme une responsabilité partagée, plutôt que comme l’œuvre d’un seul homme.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO5tc4P2FTAjNCXP8Rmd2amX1wX_BeBPFsYNmaikxK0A&s=10",
+        "imageAlt": "Récipient artisanal, image temporaire à remplacer"
+      },
+      {
+        "titre": "Palmiers à huile · une économie en transformation",
+        "localisation": "Royaume du Danxomè · XIXe siècle",
+        "texte": "Sous Ghézo, la culture du palmier à huile et les productions agricoles prennent une importance croissante. Cette évolution accompagne les pressions abolitionnistes et les changements du commerce atlantique. Elle ne signifie pas une rupture immédiate avec la traite : les deux activités ont coexisté durant une partie du règne.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkRXTrloNPTWoNCfXak549XEI8kLuV2h7ICCzjfCKGg&s=10",
+        "imageAlt": "Paysage végétal, image temporaire à remplacer par une photo de palmiers autorisée"
+      }
+    ],
+    "challenge": {
+      "badge": "Sceau du Réformateur",
+      "accroche": "Penses-tu connaître le roi Ghézo, ou seulement son nom ?",
+      "encouragement": "Presque ! Retourne vers les symboles du règne et observe mieux."
+    },
+    "quiz": [
+      {
+        "question": "Comment Ghézo arrive-t-il au pouvoir en 1818 ?",
+        "options": ["Par succession directe après la mort de son père", "En renversant son frère Adandozan avec l’appui d’alliés", "Par un traité diplomatique avec la France", "Par une élection de chasseurs"],
+        "reponseCorrecteIndex": 1,
+        "explication": "Ghézo succède à Adandozan après un renversement de pouvoir soutenu par des alliés du palais et par Francisco Félix de Souza.",
+        "points": 20
+      },
+      {
+        "question": "Quelle image de l’unité est attribuée à Ghézo ?",
+        "options": ["Le réceptacle du python", "La jarre trouée", "L’arbre de l’oubli", "La chaîne du souvenir"],
+        "reponseCorrecteIndex": 1,
+        "explication": "La jarre trouée symbolise l’idée que chaque enfant du pays contribue à préserver le bien commun.",
+        "points": 20
+      },
+      {
+        "question": "Quelle production prend une importance croissante sous le règne de Ghézo ?",
+        "options": ["La culture du coton", "L’huile de palme", "L’extraction de l’or", "Le sel marin"],
+        "reponseCorrecteIndex": 1,
+        "explication": "Le royaume développe notamment le palmier à huile et les productions agricoles, dans une période de transition économique.",
+        "points": 20
+      },
+      {
+        "question": "Quel corps militaire féminin est associé au royaume du Danxomè et à cette période ?",
+        "options": ["Les cavaliers du Nord", "Les gardiennes de la mer", "Les Agojié", "Les tirailleurs du Danxomè"],
+        "reponseCorrecteIndex": 2,
+        "explication": "Les Agojié sont les unités militaires féminines du Danxomè, souvent mises en avant dans les récits de cette période.",
+        "points": 20
+      },
+      {
+        "question": "Quel commerçant, surnommé le Chacha, est lié à l’accession de Ghézo ?",
+        "options": ["Francisco Félix de Souza", "Pierre Verger", "Joaquim da Silva", "Pedro Alvares"],
+        "reponseCorrecteIndex": 0,
+        "explication": "Francisco Félix de Souza, surnommé le Chacha, est documenté comme un allié de Ghézo lors du renversement d’Adandozan.",
+        "points": 20
+      },
+      {
+        "question": "Quelle affirmation est la plus sûre à propos de la fin du règne de Ghézo ?",
+        "options": ["Il meurt en exil", "Il règne jusqu’en 1858", "Il est déposé par la France en 1894", "Il abdique en 1848"],
+        "reponseCorrecteIndex": 1,
+        "explication": "Les sources patrimoniales situent le règne de Ghézo de 1818 à 1858 ; les récits sur la cause précise de sa mort ne concordent pas tous.",
+        "points": 20
+      }
+    ],
+    "isReady": true
+  },
+  {
+    "id": "glele",
+    "type": "roi",
+    "nom": "Roi Glèlè",
+    "sousTitre": "Le Lion du Danxomè",
+    "communeAssociee": "Abomey",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Symbole_de_Gl%C3%A8l%C3%A8_roi_du_Dahomey_au_mur_de_la_place_Goho_%C3%A0_Abomey_au_B%C3%A9nin1.jpg/960px-Symbole_de_Gl%C3%A8l%C3%A8_roi_du_Dahomey_au_mur_de_la_place_Goho_%C3%A0_Abomey_au_B%C3%A9nin1.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "imageAlt": "Architecture historique, image temporaire à remplacer",
+    "descriptionHistoire": "Prince Badahou, Glèlè monte sur le trône à la mort de son père Ghézo en 1858. Il choisit le lion et le sabre comme symboles. Roi guerrier et protecteur des traditions, il mène plus de 40 campagnes militaires pour affirmer la puissance du Danxomè. Grand bâtisseur, il enrichit les palais d’Abomey de bas-reliefs artistiques et conclut en 1868 une convention avec la France concernant le site de Cotonou. Son harem royal est estimé à plus de 300 épouses et il a de nombreux enfants, dont le prince Kondo, futur Béhanzin. Il meurt en décembre 1889 après une grave maladie, alors que les tensions militaires avec la France s’intensifient.",
+    "leSaviezVous": "Le lion et le sabre sont les symboles associés à Glèlè, tandis que les bas-reliefs des palais royaux d’Abomey racontent les victoires et les emblèmes de son règne.",
+    "scenes": [
+      { "titre": "Le lion et le sabre · les emblèmes du roi", "localisation": "Royaume du Danxomè · Abomey", "texte": "Glèlè choisit le lion comme animal-totem et le sabre comme symbole. Ces images expriment la force, la souveraineté et la capacité du roi à protéger le royaume.", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Symbole_de_Gl%C3%A8l%C3%A8_roi_du_Dahomey_au_mur_de_la_place_Goho_%C3%A0_Abomey_au_B%C3%A9nin1.jpg/960px-Symbole_de_Gl%C3%A8l%C3%A8_roi_du_Dahomey_au_mur_de_la_place_Goho_%C3%A0_Abomey_au_B%C3%A9nin1.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "imageAlt": "Architecture historique, image temporaire à remplacer par une image autorisée" },
+      { "titre": "Les bas-reliefs · la mémoire gravée des palais", "localisation": "Palais royaux d’Abomey · Zou", "texte": "Grand bâtisseur, Glèlè contribue à enrichir les palais d’Abomey de bas-reliefs. Ces œuvres représentent des victoires, des symboles et des épisodes liés à la mémoire du royaume du Danxomè.", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Statue_du_roi_Gl%C3%A9l%C3%A9-Fon_%282%29.jpg/500px-Statue_du_roi_Gl%C3%A9l%C3%A9-Fon_%282%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail", "imageAlt": "Architecture historique, image temporaire à remplacer par une photo autorisée des bas-reliefs" }
+      
+    ],
+    "challenge": { "badge": "Sceau du Lion", "accroche": "Le lion du Danxomè rugit encore : connais-tu le règne de Glèlè ?", "encouragement": "Presque ! Retourne vers les emblèmes et les palais de Glèlè." },
+    "quiz": [
+      { "question": "Quel animal-totem symbolise le règne du roi Glèlè ?", "options": ["Le requin", "Le lion", "L’éléphant", "La panthère"], "reponseCorrecteIndex": 1, "explication": "Glèlè choisit le lion pour incarner la souveraineté et la force.", "points": 20 },
+      { "question": "Combien de campagnes militaires Glèlè a-t-il menées durant son règne ?", "options": ["Moins de 5", "Environ 15", "Plus de 40", "Exactement 100"], "reponseCorrecteIndex": 2, "explication": "Son règne de 31 ans est marqué par une forte activité militaire régionale, avec plus de 40 campagnes attribuées à son règne.", "points": 20 },
+      { "question": "Quel accord territorial notable Glèlè a-t-il conclu en 1868 ?", "options": ["Le traité d’Ouidah", "La cession temporaire du territoire de Cotonou", "Le pacte de Porto-Novo", "L’accord d’Abomey"], "reponseCorrecteIndex": 1, "explication": "Il conclut une convention autorisant l’usage commercial du site de Cotonou.", "points": 20 },
+      { "question": "Quel élément culturel et architectural caractérise le règne de Glèlè ?", "options": ["La construction de cathédrales", "L’essor des bas-reliefs sur les murs des palais royaux", "La sculpture de masques en pierre", "La fabrication de monnaie en argent"], "reponseCorrecteIndex": 1, "explication": "Les bas-reliefs d’Abomey illustrent les victoires et les symboles associés au règne de Glèlè.", "points": 20 },
+      { "question": "Quel prince héritier succéda au roi Glèlè à sa mort ?", "options": ["Prince Gakpé", "Prince Kondo (Béhanzin)", "Prince Toffa", "Prince Agoli-Agbo"], "reponseCorrecteIndex": 1, "explication": "Le prince Kondo monte sur le trône sous le nom de Béhanzin.", "points": 20 },
+      { "question": "En quelle année le roi Glèlè s’est-il éteint ?", "options": ["1858", "1889", "1894", "1900"], "reponseCorrecteIndex": 1, "explication": "Glèlè meurt en décembre 1889, après 31 ans de règne.", "points": 20 }
+    ],
+    "isReady": true
+  },
+  {
+    "id": "toffa-1er",
+    "type": "roi",
+    "nom": "Roi Toffa 1er",
+    "sousTitre": "Le Strategiste de Hogbonu et Batisseur de Porto-Novo",
+    "communeAssociee": "Porto-Novo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/King_Toffa_I_crop.jpg",
+    "imageAlt": "Portrait officiel du Roi Toffa 1er",
+    "descriptionHistoire": "01. 1874 · L'Ascension d'un Prince en Exil\nFils du Roi Sodji, le prince Toffa connaît une jeunesse mouvementée. Pris dans les querelles de succession à la cour de Hogbonu (ancien nom de Porto-Novo), il est contraint à l'exil à Lagos, puis trouve refuge à la cour d'Abomey auprès de son cousin, le puissant roi Glèlè du Danxomè. C'est le 16 septembre 1874 qu'il monte enfin sur le trône de la dynastie Tè Agbalin. Dès son intronisation au Palais de Honmè, Toffa 1er fait face à un double défi mortel : résister à l'expansionnisme militaire d'Abomey qui menace d'annexer Porto-Novo, et négocier avec la présence grandissante des marchands et marins européens sur la côte.\n\n02. 1882 · La Diplomatie du Protectorat\nRefusant de soumettre son peuple aux raids d'Abomey et constatant les visées des Britanniques basés à Lagos, Toffa 1er choisit la voie diplomatique. Le 14 avril 1882, il signe au Palais de Honmè un traité de protectorat avec le capitaine de vaisseau français Émile Pustel. Cet accord garantit la protection militaire française contre les troupes du Danxomè en échange de droits commerciaux. Ce choix stratégique permet à Porto-Novo d'éviter la destruction, tout en servant plus tard de base arrière à l'armée française lors des campagnes contre le roi Béhanzin entre 1892 et 1894.\n\n03. L'Essor Economique et la Residence d'Awanou\nSous le règne de Toffa 1er, Porto-Novo se transforme en une plaque tournante du commerce régional. Le roi encourage le négoce d'huile de palme, s'allie aux marchands afro-brésiliens (les Agudas) et favorise l'installation d'écoles missionnaires. Pour manifester son autorité et son ouverture, il fait construire en 1880 son palais d'été à Awanou (commune de Sèmè-Kpodji), un bâtiment moderne à étage en briques de terre cuite importées de Badagry au Nigéria, abritant ses salles d'audience, sa cour et sa résidence secondaire.\n\n04. 1908 · Les Dernières Années au Palais de Honmè\nAu fil des ans, l'administration coloniale française rogne progressivement les pouvoirs politiques réels du souverain. Homme de caractère, Toffa 1er multiplie les actes de résistance passive pour défendre les prérogatives de son trône. Il s'éteint le 25 mai 1908 au Palais de Honmè après 34 ans d'un règne qui a marqué la géopolitique du Golfe du Bénin. Aujourd'hui, le Palais de Honmè est devenu un musée national qui conserve son trône, ses armes cérémonielles et le souvenir de cette dynastie.",
+    "leSaviezVous": "Pour construire son palais d'été à Awanou en 1880, le Roi Toffa 1er a fait importer des briques spéciales cuites au four depuis Badagry (au Nigéria actuel). De plus, vers la fin de sa vie, pour protester contre l'administration coloniale française qui réduisait son autorité, le souverain a refusé d'être soigné par les médecins français et arrachait lui-même ses pansements !",
+    "challenge": {
+      "badge": "Sceau du Diplomate de Honmè",
+      "accroche": "Découvrez les secrets de la diplomatie du Roi Toffa 1er",
+      "encouragement": "Bravo ! Vous avez maîtrisé l'histoire détaillée du souverain qui a façonné Porto-Novo."
+    },
+    "quiz": [
+      {
+        "question": "Où le prince Toffa a-t-il dû s'exiler avant de monter sur le trône de Porto-Novo en 1874 ?",
+        "options": ["À Badagry puis Ouidah", "À Lagos puis à la cour d'Abomey", "À Cotonou puis Kétou", "À Lomé puis Accra"],
+        "reponseCorrecteIndex": 1,
+        "explication": "Avant son intronisation en 1874, Toffa s'est exilé à Lagos puis a trouvé refuge à Abomey auprès du roi Glèlè.",
+        "points": 20
+      },
+      {
+        "question": "En quelle année et dans quel palais Toffa 1er a-t-il signé le traité de protectorat avec la France ?",
+        "options": ["En 1870 au Palais de Badagry", "En 1882 au Palais de Honmè", "En 1894 au Palais d'Abomey", "En 1908 à la résidence d'Awanou"],
+        "reponseCorrecteIndex": 1,
+        "explication": "C'est le 14 avril 1882 au Palais de Honmè à Porto-Novo que Toffa 1er a signé le traité de protectorat.",
+        "points": 20
+      },
+      {
+        "question": "Où le Roi Toffa 1er a-t-il fait construire son célèbre palais d'été à deux niveaux en 1880 ?",
+        "options": ["À Awanou (Djrèrègbé / Sèmè-Kpodji)", "À Guévié (Porto-Novo)", "À Zinkomey", "À Avrankou"],
+        "reponseCorrecteIndex": 0,
+        "explication": "Toffa 1er a édifié sa résidence d'été à Awanou, construite avec des briques importées de Badagry.",
+        "points": 20
+      },
+    
+      {
+        "question": "Quelle grande dynastie royale Toffa 1er représentait-il sur le trône de Hogbonu ?",
+        "options": ["La dynastie Houegbadja", "La dynastie Tè Agbalin", "La dynastie Kika", "La dynastie Akaba"],
+        "reponseCorrecteIndex": 1,
+        "explication": "Toffa 1er appartient à la lignée royale de la dynastie Tè Agbalin, fondatrice du royaume de Porto-Novo.",
+        "points": 20
+      }
+    ],
+    "isReady": true
+  },
+  { "id": "gangnihessou", "type": "roi", "nom": "Roi Gangnihessou", "sousTitre": "Le Précurseur et l’Oiseau Migrateur d’Abomey", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Symbole_Gangnihessou_Goho.jpg", "imageAlt": "Symbole du Roi Gangnihessou", "descriptionHistoire": "01. 1600 · L’installation du clan Adja-Tado sur le plateau d’Abomey\nGangnihessou mène une partie du clan royal d’Allada vers le plateau d’Abomey et établit les bases d’une communauté structurée. Il est traditionnellement considéré comme le premier précurseur de la lignée royale d’Abomey.\n\n02. Les symboles du roi voyageur\nIl incarne la sagesse, la chasse et l’agilité. Ses emblèmes sont un oiseau mâle, un tambour de guerre et des lances de chasse.\n\n03. Le pouvoir partagé\nLors d’un voyage diplomatique vers Allada, Gangnihessou confie les affaires courantes de la cité à son frère cadet Dakodonou.\n\n04. 1620 · La prise de pouvoir de Dakodonou\nÀ son retour, Gangnihessou s’incline pour éviter une guerre fratricide et laisse le souvenir du patriarche qui a guidé son peuple vers son berceau historique.", "leSaviezVous": "Le nom Gangnihessou est associé à un oiseau migrateur. Certains historiens le présentent comme un chef fondateur plutôt que comme un roi couronné au sens strict.", "scenes": [], "challenge": { "badge": "Sceau de l’Oiseau Migrateur", "accroche": "Découvrez l’origine de la dynastie des rois d’Abomey", "encouragement": "Bravo ! Vous avez exploré les fondations du royaume d’Abomey." }, "quiz": [{ "question": "De quelle cité le clan de Gangnihessou est-il parti ?", "options": ["Allada", "Porto-Novo", "Ouidah", "Kétou"], "reponseCorrecteIndex": 0, "explication": "Le clan fondateur vient du royaume d’Allada.", "points": 20 }, { "question": "Quel est l’un de ses symboles principaux ?", "options": ["Le requin", "L’oiseau Gangnihessou", "Le lion", "Le sanglier"], "reponseCorrecteIndex": 1, "explication": "L’oiseau est associé à son nom et à ses emblèmes.", "points": 20 }, { "question": "Qui prend le pouvoir en 1620 ?", "options": ["Akaba", "Dakodonou", "Agadja", "Glèlè"], "reponseCorrecteIndex": 1, "explication": "Son frère cadet Dakodonou prend les rênes du pouvoir.", "points": 20 }, { "question": "Quelle période est associée à Gangnihessou ?", "options": ["1500–1520", "1600–1620", "1700–1720", "1800–1820"], "reponseCorrecteIndex": 1, "explication": "La tradition situe son action autour de 1600–1620.", "points": 20 }], "isReady": true },
+  { "id": "dakodonou", "type": "roi", "nom": "Roi Dakodonou", "sousTitre": "Le Bâtisseur Guerrier et Conquérant du Plateau", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Symbole_Dako_Donou_Goho.jpg", "imageAlt": "Symbole du Roi Dakodonou", "descriptionHistoire": "01. 1620 · L’affirmation du pouvoir royal\nDakodonou s’empare du pouvoir à la suite de son frère Gangnihessou et transforme le groupe venu d’Allada en principauté militaire.\n\n02. L’origine du nom\nAprès sa victoire sur le marchand d’indigo Donou, son nom devient Dako-Donou, « Dako tue Donou ».\n\n03. L’expansion territoriale\nDurant 25 ans, il mène des campagnes contre les chefs locaux Gedevi et sécurise les terres agricoles du plateau.\n\n04. 1645 · La transmission à Aho Houegbadja\nIl laisse un territoire consolidé à Aho Houegbadja, qui donnera au royaume sa structure juridique et son nom définitif : Danxomè.", "leSaviezVous": "Ses symboles sont une jarre à indigo et un briquet, liés à sa victoire sur Donou et à sa force au combat.", "scenes": [], "challenge": { "badge": "Sceau de la Jarre d’Indigo", "accroche": "Découvrez l’histoire du conquérant Dakodonou", "encouragement": "Bravo ! Vous avez maîtrisé l’histoire du roi guerrier Dakodonou." }, "quiz": [{ "question": "Quels sont ses symboles ?", "options": ["Un oiseau et un tambour", "Une jarre à indigo et un briquet", "Un poisson et une nasse", "Un sanglier et un couteau"], "reponseCorrecteIndex": 1, "explication": "La jarre rappelle Donou et le briquet sa force au combat.", "points": 20 }, { "question": "D’où vient le nom Dakodonou ?", "options": ["D’un chant religieux", "De sa victoire sur Donou", "D’un palais", "D’un pacte avec Oyo"], "reponseCorrecteIndex": 1, "explication": "Le nom évoque Dako tue Donou.", "points": 20 }, { "question": "Combien de temps a-t-il régné ?", "options": ["10 ans", "25 ans", "40 ans", "15 ans"], "reponseCorrecteIndex": 1, "explication": "Son règne est situé entre 1620 et 1645.", "points": 20 }, { "question": "Qui lui succède ?", "options": ["Akaba", "Aho Houegbadja", "Agadja", "Tegbesu"], "reponseCorrecteIndex": 1, "explication": "Aho Houegbadja lui succède en 1645.", "points": 20 }], "isReady": true },
+  { "id": "houegbadja", "type": "roi", "nom": "Roi Aho Houegbadja", "sousTitre": "Le Fondateur du Royaume du Danxomè et Législateur", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Symbole_Houegbadja_Goho.jpg", "imageAlt": "Symbole du Roi Houegbadja", "descriptionHistoire": "01. 1645 · L’avènement d’Aho et la fondation d’Agbome\nHouegbadja monte sur le trône et fait construire le premier palais royal au cœur d’Agbome, donnant son nom à Abomey.\n\n02. L’origine du nom Danxomè\nAprès un conflit avec le chef Dan, il bâtit son palais sur le lieu de sa victoire et associe le royaume à l’expression « dans le ventre de Dan ».\n\n03. Le grand législateur\nIl édicte les lois fondamentales, organise les impôts, les fonctions ministérielles et les cérémonies royales.\n\n04. 1685 · Un royaume institutionnalisé\nAprès 40 ans de règne, il laisse à Akaba un État structuré, dont les symboles sont le poisson et la nasse.", "leSaviezVous": "Houegbadja aurait imposé que chaque nouveau roi agrandisse les frontières reçues de son père.", "scenes": [], "challenge": { "badge": "Sceau du Poisson et de la Nasse", "accroche": "Découvrez l’histoire du roi fondateur du Danxomè", "encouragement": "Vous connaissez désormais le fondateur des lois d’Abomey." }, "quiz": [{ "question": "Que signifie Agbome ?", "options": ["La cité du Lion", "Au milieu des remparts", "La terre des braves", "Le palais du poisson"], "reponseCorrecteIndex": 1, "explication": "Agbome signifie au milieu des remparts.", "points": 20 }, { "question": "Quels sont ses symboles ?", "options": ["Un requin et une pirogue", "Un poisson et une nasse", "Un lion et un sabre", "Un oiseau et des lances"], "reponseCorrecteIndex": 1, "explication": "Le poisson et la nasse sont ses symboles.", "points": 20 }, { "question": "D’où vient le nom Danxomè ?", "options": ["D’une rivière", "De l’expression dans le ventre de Dan", "D’un mot yoruba", "D’un marché"], "reponseCorrecteIndex": 1, "explication": "Le nom renvoie au chef Dan et aux fondations du palais.", "points": 20 }, { "question": "Combien de temps a-t-il régné ?", "options": ["20 ans", "25 ans", "40 ans", "50 ans"], "reponseCorrecteIndex": 2, "explication": "Son règne est situé entre 1645 et 1685.", "points": 20 }], "isReady": true },
+  { "id": "akaba", "type": "roi", "nom": "Roi Houessou Akaba", "sousTitre": "Le Sanglier Conquérant et le Consolidateur du Palais Central", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Symbole_Akaba_Goho.jpg", "imageAlt": "Symbole du Roi Houessou Akaba", "descriptionHistoire": "01. 1685 · L’héritage du prince Houessou\nAkaba succède à Houegbadja et poursuit l’extension du territoire du Danxomè.\n\n02. Le sanglier et le couteau\nIl choisit ces deux symboles de ténacité et agrandit le complexe des palais d’Abomey.\n\n03. Les campagnes et Tassi Hangbè\nIl mène des guerres à l’est. Sa sœur jumelle Tassi Hangbè l’accompagne et assurera la régence après sa mort.\n\n04. 1708 · La variole et la régence\nAkaba meurt de la variole à Lissèzoun. Hangbè cache d’abord sa mort, puis gouverne jusqu’à l’avènement d’Agadja.", "leSaviezVous": "Tassi Hangbè est la sœur jumelle d’Akaba et la seule femme à avoir gouverné le Danxomè.", "scenes": [], "challenge": { "badge": "Sceau du Sanglier Guerrier", "accroche": "Pénétrez dans le règne du roi conquérant Akaba", "encouragement": "Vous avez découvert Akaba et la régence d’Abomey." }, "quiz": [{ "question": "Quels sont ses symboles ?", "options": ["Le requin et le palmier", "Le sanglier et le couteau", "Le lion et la récade", "Le poisson et le filet"], "reponseCorrecteIndex": 1, "explication": "Akaba est associé au sanglier et au couteau.", "points": 20 }, { "question": "Qui assure la régence après sa mort ?", "options": ["Tassi Hangbè", "Na Guèdè", "Seh-Dong-Hong-Be", "Yennenga"], "reponseCorrecteIndex": 0, "explication": "Sa sœur jumelle Tassi Hangbè assure la régence.", "points": 20 }, { "question": "De quelle maladie meurt Akaba ?", "options": ["Du paludisme", "De la variole", "De la fièvre jaune", "D’une blessure"], "reponseCorrecteIndex": 1, "explication": "Il meurt de la variole en campagne.", "points": 20 }, { "question": "Qui lui succède après la régence ?", "options": ["Agadja", "Tegbesu", "Kpengla", "Agonglo"], "reponseCorrecteIndex": 0, "explication": "Agadja monte sur le trône en 1711.", "points": 20 }], "isReady": true },
+  { "id": "tegbessou", "type": "roi", "nom": "Roi Tegbessou", "sousTitre": "Le Monopoliste du Commerce Maritime et Réformateur du Culte Vodun", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Roi_Tegbessou.jpg", "imageAlt": "Illustration du Roi Tegbessou", "descriptionHistoire": "01. 1732 · Une succession éprouvée\nNé prince Avissu, Tegbessou revient d’un séjour comme otage à la cour d’Oyo et gagne la crise de succession qui suit la mort d’Agadja.\n\n02. Le contrôle de Ouidah\nIl consolide l’autorité du Danxomè sur le port et crée la charge du Yovogan pour superviser les marchands européens.\n\n03. La réforme religieuse\nIl réorganise les cultes de Sakpata, Mawu-Lissa et Heviosso et renforce les cérémonies royales.\n\n04. 1774 · Un long règne de prospérité\nAprès 42 ans, il laisse à Kpengla un État riche, centralisé et organisé.", "leSaviezVous": "Le Yovogan, littéralement le chef des Blancs, était l’intermédiaire officiel entre les marchands européens et la cour.", "scenes": [], "challenge": { "badge": "Sceau du Yovogan de Ouidah", "accroche": "Découvrez le règne du bâtisseur de l’économie d’Abomey", "encouragement": "Vous avez percé les secrets de la diplomatie de Tegbessou." }, "quiz": [{ "question": "Quel titre désignait le gouverneur royal de Ouidah ?", "options": ["Le Migan", "Le Mehou", "Le Yovogan", "Le Kpossu"], "reponseCorrecteIndex": 2, "explication": "Le Yovogan supervisait les marchands européens.", "points": 20 }, { "question": "Où Tegbessou fut-il retenu comme otage ?", "options": ["À la cour d’Oyo", "À Porto-Novo", "À Allada", "À Accra"], "reponseCorrecteIndex": 0, "explication": "Il fut envoyé à la cour de l’Empire d’Oyo.", "points": 20 }, { "question": "Combien d’années a duré son règne ?", "options": ["12 ans", "25 ans", "42 ans", "50 ans"], "reponseCorrecteIndex": 2, "explication": "Il a régné de 1732 à 1774.", "points": 20 }, { "question": "Quels cultes a-t-il réorganisés ?", "options": ["Sakpata, Mawu-Lissa et Heviosso", "Le culte Bori", "Le culte d’Osiris", "Le shintoïsme"], "reponseCorrecteIndex": 0, "explication": "Il structure plusieurs cultes vodun au niveau de l’État.", "points": 20 }], "isReady": true },
+  { "id": "kpengla", "type": "roi", "nom": "Roi Kpengla", "sousTitre": "Le Guerrier de la Côte et Protecteur des Routes Commerciales", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kpengla_Dahomey.jpg", "imageAlt": "Illustration du Roi Kpengla", "descriptionHistoire": "01. 1774 · L’oiseau et le poisson\nKpengla succède à Tegbessou et réorganise les forces armées face au recul des revenus côtiers.\n\n02. Les campagnes contre Ekpè et Badagry\nIl mène des expéditions pour sécuriser le monopole commercial d’Abomey et ramener les flux vers Ouidah.\n\n03. Les chroniques de cour\nSon règne est documenté par des visiteurs européens et voit progresser les tentures appliquées qui racontent l’histoire royale.\n\n04. 1789 · La fin sous l’ombre d’Oyo\nKpengla meurt de la variole au palais d’Abomey, laissant un royaume étendu mais confronté à de nouveaux défis économiques.", "leSaviezVous": "Les tentures appliquées, tableaux en tissu cousu, servaient de mémoire visuelle aux rois et aux victoires du Danxomè.", "scenes": [], "challenge": { "badge": "Sceau de l’Oiseau et du Poisson", "accroche": "Explorez les batailles terrestres et maritimes du Roi Kpengla", "encouragement": "Vous avez découvert la stratégie militaire de Kpengla." }, "quiz": [{ "question": "Quel animal complète l’oiseau dans les symboles de Kpengla ?", "options": ["Le poisson", "Le lion", "Le serpent", "Le taureau"], "reponseCorrecteIndex": 0, "explication": "L’oiseau et le poisson représentent les forces terrestres et maritimes.", "points": 20 }, { "question": "Quelle cité Kpengla a-t-il attaquée ?", "options": ["Badagry", "Lomé", "Kétou", "Nikki"], "reponseCorrecteIndex": 0, "explication": "Il attaque Badagry pour protéger le monopole de Ouidah.", "points": 20 }, { "question": "De quelle maladie est-il mort ?", "options": ["La variole", "Le paludisme", "La fièvre jaune", "Le choléra"], "reponseCorrecteIndex": 0, "explication": "Kpengla meurt de la variole en 1789.", "points": 20 }, { "question": "Quel art raconte la mémoire royale sur tissu ?", "options": ["Les tentures appliquées", "La poterie", "Le vitrail", "La mosaïque"], "reponseCorrecteIndex": 0, "explication": "Les tentures appliquées sont des archives visuelles cousues.", "points": 20 }], "isReady": true },
+  { "id": "agonglo", "type": "roi", "nom": "Roi Agonglo", "sousTitre": "Le Roi Réformateur et le Pionnier de l’Ouverture Spirituelle", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Roi_Agonglo.jpg", "imageAlt": "Illustration du Roi Agonglo", "descriptionHistoire": "01. 1789 · L’avènement d’un prince humaniste\nAgonglo monte sur le trône et choisit l’ananas comme symbole de résilience.\n\n02. Réformes fiscales et adoucissement des lois\nIl diminue certaines taxes, assouplit des lois et soutient les artistes, les danses et les instruments de musique.\n\n03. L’ouverture vers le christianisme et l’islam\nIl correspond avec le Portugal et accueille des commerçants musulmans et chrétiens, espérant renforcer les alliances.\n\n04. 1797 · L’assassinat au palais royal\nSes réformes déplaisent aux conservateurs. Agonglo est assassiné le 9 avril 1797 dans un complot de cour.", "leSaviezVous": "L’ananas était le symbole d’Agonglo, associé à la résistance face aux épreuves.", "scenes": [], "challenge": { "badge": "Sceau de l’Ananas d’Abomey", "accroche": "Découvrez le destin tragique du roi réformateur Agonglo", "encouragement": "Vous avez appris l’histoire du roi qui voulait moderniser le Danxomè." }, "quiz": [{ "question": "Quel fruit était le symbole d’Agonglo ?", "options": ["L’ananas", "La mangue", "La banane", "La grenade"], "reponseCorrecteIndex": 0, "explication": "L’ananas représentait sa résilience.", "points": 20 }, { "question": "Quelle ouverture diplomatique a-t-il recherchée ?", "options": ["Des missionnaires et artisans portugais", "L’annexion du Portugal", "Une guerre contre la France", "La fermeture des marchés"], "reponseCorrecteIndex": 0, "explication": "Il demandait l’envoi de missionnaires et d’artisans.", "points": 20 }, { "question": "Comment est-il mort ?", "options": ["Assassiné au palais", "Au combat contre Oyo", "De vieillesse", "Dans un naufrage"], "reponseCorrecteIndex": 0, "explication": "Il est assassiné le 9 avril 1797.", "points": 20 }, { "question": "Quelle mesure a aidé les paysans ?", "options": ["La réduction des taxes sur les vivres", "L’interdiction des marchés", "L’expropriation des terres", "La culture obligatoire du blé"], "reponseCorrecteIndex": 0, "explication": "Agonglo réduit certaines taxes sur les vivres.", "points": 20 }], "isReady": true },
+  { "id": "adandozan", "type": "roi", "nom": "Roi Adandozan", "sousTitre": "Le Souverain Contesté et effacé de la Liste Officielle", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Adandozan_Dahomey.jpg", "imageAlt": "Illustration du Roi Adandozan", "descriptionHistoire": "01. 1797 · La régence et la prise du pouvoir\nAprès l’assassinat d’Agonglo, Adandozan prend d’abord la régence du jeune Gakpe, puis s’empare du trône dans un royaume divisé et endetté envers Oyo.\n\n02. La résistance contre Oyo et les tensions avec Ouidah\nIl refuse les exigences d’Oyo et entre en conflit avec Francisco Félix de Souza, qu’il fait emprisonner à Abomey.\n\n03. Les savoirs botaniques\nMalgré une mémoire controversée, il développe des jardins d’expérimentation et l’élevage de chevaux pour la cavalerie royale.\n\n04. 1818 · Le renversement et l’oubli\nGakpe et De Souza le renversent. Adandozan vit ensuite sous surveillance, tandis que la tradition officielle efface longtemps son nom de la liste des rois légitimes.", "leSaviezVous": "La tradition orale officielle d’Abomey a longtemps refusé de compter Adandozan parmi les rois légitimes du Danxomè.", "scenes": [], "challenge": { "badge": "Sceau du Babouin d’Abomey", "accroche": "Pénétrez dans l’histoire méconnue du souverain oublié Adandozan", "encouragement": "Vous avez exploré un chapitre mystérieux du Danxomè." }, "quiz": [{ "question": "Quel marchand Adandozan a-t-il emprisonné ?", "options": ["Francisco Félix de Souza", "Émile Pustel", "Archibald Dalzel", "Alfred Dodds"], "reponseCorrecteIndex": 0, "explication": "Le Chacha Francisco Félix de Souza devient ensuite l’allié de Gakpe.", "points": 20 }, { "question": "Qui le renverse en 1818 ?", "options": ["Le prince Gakpe", "Le prince Kondo", "Le prince Badohoun", "Le prince Sodji"], "reponseCorrecteIndex": 0, "explication": "Le futur Ghézo le renverse avec l’appui de De Souza.", "points": 20 }, { "question": "Quelle passion lui attribue-t-on ?", "options": ["La botanique et l’agriculture", "L’astronomie", "La navigation", "L’horlogerie"], "reponseCorrecteIndex": 0, "explication": "Il développe des jardins d’expérimentation.", "points": 20 }, { "question": "Pourquoi son nom fut-il effacé ?", "options": ["Il fut considéré comme usurpateur et cruel", "Il partit en Europe", "Il n’était pas prince", "Il vendit le palais"], "reponseCorrecteIndex": 0, "explication": "La tradition officielle a longtemps condamné sa mémoire.", "points": 20 }], "isReady": true },
+  { "id": "agoli-agbo", "type": "roi", "nom": "Roi Agoli-Agbo", "sousTitre": "Le Dernier Souverain d’Abomey sous la Tutelle Coloniale", "communeAssociee": "Abomey", "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/King_Agoli-agbo.jpg", "imageAlt": "Photo historique du Roi Agoli-Agbo", "descriptionHistoire": "01. 1894 · Le choix d’un roi dans les ruines d’Abomey\nAprès la reddition de Béhanzin, le prince Goutchili est intronisé sous le nom d’Agoli-Agbo. Son symbole est une jambe entravée ou un sabot de cheval.\n\n02. Un règne sous le protectorat strict\nIl gouverne un territoire amputé, sous la surveillance d’un résident français, tout en essayant de préserver les coutumes et les cérémonies royales.\n\n03. Les tensions et l’exil de 1900\nAccusé de soutenir des résistances contre les impôts coloniaux, il est déchu et déporté au Gabon en 1900.\n\n04. 1910–1940 · Le retour et la mémoire nationale\nAutorisé à revenir en 1910 avec un statut de chef traditionnel, il meurt le 5 avril 1940. Il incarne le lien entre le passé royal et le Bénin moderne.", "leSaviezVous": "Agoli-Agbo portait un cache-nez cérémoniel en argent, associé à la protection du souffle royal.", "scenes": [], "challenge": { "badge": "Sceau de la Pierre d’Abomey", "accroche": "Découvrez l’histoire du dernier roi d’Abomey", "encouragement": "Vous avez complété le chapitre de la dynastie des rois du Danxomè." }, "quiz": [{ "question": "En quelle année Goutchili devient-il Agoli-Agbo ?", "options": ["En 1894", "En 1889", "En 1900", "En 1910"], "reponseCorrecteIndex": 0, "explication": "Il est intronisé en janvier 1894 après la reddition de Béhanzin.", "points": 20 }, { "question": "Quel accessoire cérémoniel portait-il ?", "options": ["Un cache-nez métallique", "Un masque d’or", "Une couronne de perles", "Un monocle"], "reponseCorrecteIndex": 0, "explication": "Le cache-nez protégeait symboliquement le souffle royal.", "points": 20 }, { "question": "Où fut-il déporté en 1900 ?", "options": ["Au Gabon", "Au Congo", "Au Cameroun", "En Centrafrique"], "reponseCorrecteIndex": 0, "explication": "Il est exilé au Gabon.", "points": 20 }, { "question": "Que signifie le nom Agoli-Agbo ?", "options": ["Le pied a heurté la pierre, mais la pierre n’est pas tombée", "Le lion rugit dans la forêt", "L’oiseau au-dessus du feu", "Le grand fleuve"], "reponseCorrecteIndex": 0, "explication": "Le nom exprime la résistance et la résilience.", "points": 20 }], "isReady": true },
+  {
+    "id": "hubert-maga",
+    "type": "contemporain",
+    "nom": "Hubert Maga",
+    "sousTitre": "Le Premier Président",
+    "communeAssociee": "Parakou",
+    "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Bâtiment institutionnel, image temporaire à remplacer par une photo autorisée",
+    "descriptionHistoire": "Originaire de Parakou et instituteur de formation, Hubert Maga est une figure majeure de la décolonisation. Le 1er août 1960, il proclame l’indépendance de la République du Dahomey et devient le premier Président de la République. Il pose les premières bases des institutions de l’État moderne, fait construire le Palais de la Marina à Cotonou et représente la jeune nation sur la scène internationale. Après une carrière politique mouvementée et sa participation au Conseil Présidentiel, il se retire progressivement de la vie publique et meurt à Cotonou le 8 mai 2000.",
+    "leSaviezVous": "Hubert Maga a commencé sa carrière comme enseignant et directeur d’école avant de devenir le premier président du Dahomey indépendant.",
+    "scenes": [
+      { "titre": "Le 1er août 1960 · la naissance de la République", "localisation": "Dahomey · 1er août 1960", "texte": "Hubert Maga proclame l’indépendance de la République du Dahomey et devient son premier président.", "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Bâtiment institutionnel, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Le Palais de la Marina · les premières institutions", "localisation": "Cotonou", "texte": "La construction du Palais de la Marina accompagne la mise en place du pouvoir exécutif de l’État nouvellement indépendant.", "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Bâtiment contemporain, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Parakou · un ancrage politique dans le Nord", "localisation": "Parakou · Borgou", "texte": "Parakou, sa ville d’origine, constitue le principal ancrage politique initial de Hubert Maga.", "imageUrl": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Paysage, image temporaire à remplacer par une photo autorisée" }
+    ],
+    "challenge": { "badge": "Sceau du Premier Président", "accroche": "Connais-tu le parcours du premier président du Dahomey indépendant ?", "encouragement": "Presque ! Retourne vers l’indépendance et les premières institutions." },
+    "quiz": [
+      { "question": "Quelle fonction historique Hubert Maga a-t-il exercée le 1er août 1960 ?", "options": ["Premier Ministre de la France", "Premier Président de la République du Dahomey indépendante", "Président de l’Assemblée Nationale uniquement", "Ambassadeur aux Nations Unies"], "reponseCorrecteIndex": 1, "explication": "Il proclame l’indépendance et devient le premier président du Dahomey indépendant.", "points": 20 },
+      { "question": "Quelle était la profession d’origine d’Hubert Maga ?", "options": ["Avocat", "Médecin", "Tisseur", "Instituteur"], "reponseCorrecteIndex": 3, "explication": "Il commence sa carrière comme enseignant et directeur d’école.", "points": 20 },
+      { "question": "Dans quelle ville du Nord Hubert Maga a-t-il ancré son parcours politique initial ?", "options": ["Natitingou", "Parakou", "Djougou", "Kandi"], "reponseCorrecteIndex": 1, "explication": "Parakou est son principal bastion politique initial.", "points": 20 },
+      { "question": "Quel bâtiment emblématique du pouvoir exécutif a été érigé sous sa présidence ?", "options": ["Le Palais de la Marina", "La Statue de la Réconciliation", "Le Stade de l’Amitié", "Le Musée Honmè"], "reponseCorrecteIndex": 0, "explication": "Le Palais de la Marina est construit pour abriter la présidence de la République.", "points": 20 },
+      { "question": "En quelle année la République du Dahomey a-t-elle accédé à l’indépendance sous Maga ?", "options": ["1958", "1960", "1972", "1990"], "reponseCorrecteIndex": 1, "explication": "L’indépendance est proclamée le 1er août 1960.", "points": 20 },
+      { "question": "En quelle année Hubert Maga s’est-il éteint à Cotonou ?", "options": ["1989", "2000", "2010", "2015"], "reponseCorrecteIndex": 1, "explication": "Il meurt le 8 mai 2000 à Cotonou.", "points": 20 }
+    ],
+    "isReady": true
+  },
+  {
+    "id": "mathieu-kerekou",
+    "type": "contemporain",
+    "nom": "Mathieu Kérékou",
+    "sousTitre": "Le Caméléon et Père de la Transition",
+    "communeAssociee": "Atacora",
+    "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Bâtiment institutionnel, image temporaire à remplacer par une photo autorisée",
+    "descriptionHistoire": "Militaire de carrière né à Kouarfa dans l’Atacora, Mathieu Kérékou prend le pouvoir le 26 octobre 1972. Il dirige le pays pendant près de 30 ans sous deux ères : le régime de la Révolution de 1972 à 1989, puis la démocratie multipartite après sa réélection en 1996. Surnommé le Caméléon, il accepte la Conférence Nationale des Forces Vives de février 1990, permettant une transition démocratique sans effusion de sang. Après avoir respecté les limites constitutionnelles de mandat en 2006, il se retire et meurt à Cotonou le 14 octobre 2015.",
+    "leSaviezVous": "La Conférence Nationale de février 1990 ouvre au Bénin le passage pacifique du parti unique au pluralisme démocratique.",
+    "scenes": [
+      { "titre": "Le 26 octobre 1972 · la prise du pouvoir", "localisation": "Bénin · 1972", "texte": "Mathieu Kérékou prend la tête de l’État le 26 octobre 1972 et dirige le pays pendant une première période révolutionnaire.", "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Bâtiment institutionnel, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "La Conférence Nationale · le tournant démocratique", "localisation": "Cotonou · février 1990", "texte": "En acceptant la convocation de la Conférence Nationale des Forces Vives, Kérékou accompagne la transition du parti unique vers la démocratie multipartite.", "imageUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Réunion, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Le retour par les urnes", "localisation": "Bénin · 1996–2006", "texte": "Mathieu Kérékou revient au pouvoir en 1996 après une élection présidentielle démocratique, puis respecte la limite constitutionnelle de ses mandats.", "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Bâtiment contemporain, image temporaire à remplacer par une photo autorisée" }
+    ],
+    "challenge": { "badge": "Sceau du Caméléon", "accroche": "Peux-tu retracer les deux vies politiques de Mathieu Kérékou ?", "encouragement": "Presque ! Retourne vers la Révolution et la transition démocratique." },
+    "quiz": [
+      { "question": "En quelle année Mathieu Kérékou est-il arrivé au pouvoir pour la première fois ?", "options": ["1960", "1972", "1990", "1996"], "reponseCorrecteIndex": 1, "explication": "Il prend la tête de l’État le 26 octobre 1972.", "points": 20 },
+      { "question": "Quel surnom traduisait sa capacité d’adaptation politique ?", "options": ["Le Requin", "Le Lion", "Le Caméléon", "L’Éléphant"], "reponseCorrecteIndex": 2, "explication": "Il est surnommé le Caméléon dans la mémoire politique béninoise.", "points": 20 },
+      { "question": "Quel événement majeur de février 1990 Kérékou a-t-il initié et accepté ?", "options": ["Le traité de Cotonou", "La Conférence Nationale des Forces Vives de la Nation", "La création de l’Union Africaine", "La réforme monétaire"], "reponseCorrecteIndex": 1, "explication": "La Conférence Nationale permet le passage pacifique à la démocratie.", "points": 20 },
+      { "question": "Quelle idéologie officielle a guidé la République Populaire du Bénin entre 1974 et 1989 ?", "options": ["Le libéralisme économique", "Le marxisme-léninisme", "Le panafricanisme fédéraliste", "Le conservatisme monarchique"], "reponseCorrecteIndex": 1, "explication": "Le marxisme-léninisme est proclamé comme idéologie officielle en 1974.", "points": 20 },
+      { "question": "Comment Kérékou est-il revenu au pouvoir en 1996 ?", "options": ["Par un nouveau coup d’État", "Par une élection présidentielle démocratique", "Par nomination de l’Assemblée", "Par décret intérimaire"], "reponseCorrecteIndex": 1, "explication": "Il est élu au second tour face à Nicéphore Soglo.", "points": 20 },
+      { "question": "Dans quel département Mathieu Kérékou est-il né ?", "options": ["Le Borgou", "L’Atacora", "Le Zou", "L’Atlantique"], "reponseCorrecteIndex": 1, "explication": "Il est né à Kouarfa, dans l’Atacora.", "points": 20 }
+    ],
+    "isReady": true
+  },
+  {
+    "id": "nicéphore-soglo",
+    "type": "contemporain",
+    "nom": "Nicéphore Dieudonné Soglo",
+    "sousTitre": "L’Architecte du Renouveau Économique",
+    "communeAssociee": "Cotonou",
+    "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Bâtiment contemporain, image temporaire à remplacer par une photo autorisée",
+    "descriptionHistoire": "Ancien haut fonctionnaire à la Banque Mondiale et économiste, Nicéphore Dieudonné Soglo est choisi en 1990 par la Conférence Nationale pour diriger le gouvernement de transition comme Premier Ministre. Il est élu Président de la République en 1991. Il redresse l’économie au début des années 1990, relance les infrastructures urbaines, réorganise les finances publiques et officialise la célébration annuelle des Fêtes Vodun le 10 janvier. Après sa présidence de 1991 à 1996, il devient maire de Cotonou de 2003 à 2015.",
+    "leSaviezVous": "Nicéphore Soglo a exercé la fonction de maire de Cotonou de 2003 à 2015 après sa présidence.",
+    "scenes": [
+      { "titre": "Le gouvernement de transition", "localisation": "Bénin · 1990–1991", "texte": "Après la Conférence Nationale, Nicéphore Soglo conduit le gouvernement de transition comme Premier Ministre.", "imageUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Réunion, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Le renouveau économique", "localisation": "Bénin · 1991–1996", "texte": "Sa présidence est associée au redressement économique, à la réorganisation des finances publiques et à la relance des infrastructures urbaines.", "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Bâtiment contemporain, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Le 10 janvier · mémoire des traditions", "localisation": "Bénin · 10 janvier", "texte": "L’institution de la fête nationale des religions traditionnelles contribue à la visibilité publique du patrimoine religieux et culturel béninois.", "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Paysage culturel, image temporaire à remplacer par une photo autorisée" }
+    ],
+    "challenge": { "badge": "Sceau du Renouveau", "accroche": "Connais-tu le rôle de Nicéphore Soglo dans le renouveau démocratique ?", "encouragement": "Presque ! Retourne vers la transition, l’économie et la culture." },
+    "quiz": [
+      { "question": "Quel rôle Nicéphore Soglo exerce-t-il après la Conférence Nationale de 1990 ?", "options": ["Président de la Cour Constitutionnelle", "Premier Ministre du gouvernement de transition", "Président de l’Assemblée Nationale", "Ministre des Affaires Étrangères"], "reponseCorrecteIndex": 1, "explication": "Il conduit le gouvernement de transition de 1990 à 1991.", "points": 20 },
+      { "question": "Quelle décision culturelle concernant le patrimoine religieux est prise sous son mandat ?", "options": ["L’interdiction des cultes traditionnels", "L’institution de la fête nationale du Vodun le 10 janvier", "La construction d’un musée unique à Paris", "La modification de l’hymne national"], "reponseCorrecteIndex": 1, "explication": "Le 10 janvier est consacré aux religions traditionnelles et au Vodun.", "points": 20 },
+      { "question": "Quelle institution internationale Soglo a-t-il servie avant 1990 ?", "options": ["L’UNESCO", "La Banque Mondiale", "L’Organisation Mondiale de la Santé", "La Cour Internationale de Justice"], "reponseCorrecteIndex": 1, "explication": "Son expertise financière vient notamment de ses fonctions à la Banque Mondiale.", "points": 20 },
+      { "question": "Quelle fonction municipale Nicéphore Soglo exerce-t-il de 2003 à 2015 ?", "options": ["Maire de Porto-Novo", "Maire de Parakou", "Maire de Cotonou", "Maire d’Abomey-Calavi"], "reponseCorrecteIndex": 2, "explication": "Il dirige la municipalité de Cotonou durant cette période.", "points": 20 },
+      { "question": "En quelle année Nicéphore Soglo remporte-t-il l’élection présidentielle ?", "options": ["1985", "1991", "1998", "2006"], "reponseCorrecteIndex": 1, "explication": "Il est élu président en 1991, au début de l’ère démocratique.", "points": 20 },
+      { "question": "Quel est le domaine d’expertise professionnelle de Nicéphore Soglo ?", "options": ["Architecture militaire", "Économie et finances", "Médecine chirurgicale", "Agronomie forestière"], "reponseCorrecteIndex": 1, "explication": "Sa formation et sa carrière sont axées sur l’économie et la haute finance.", "points": 20 }
+    ],
+    "isReady": true
+  },
+  {
+    "id": "isidore-de-souza",
+    "type": "contemporain",
+    "nom": "Mgr Isidore de Souza",
+    "sousTitre": "Le Guide de la Conscience Nationale",
+    "communeAssociee": "Ouidah",
+    "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Édifice religieux, image temporaire à remplacer par une photo autorisée",
+    "descriptionHistoire": "Archevêque de Cotonou et homme de foi, Mgr Isidore de Souza préside le Présidium de la Conférence Nationale de février 1990. Par son calme, son autorité morale et son esprit réconciliateur, il apaise les tensions, évite le basculement dans la violence et guide l’adoption du Haut Conseil de la République. Il poursuit son ministère épiscopal au service de la paix et des œuvres sociales jusqu’à son décès le 13 mars 1999.",
+    "leSaviezVous": "Le Haut Conseil de la République a joué le rôle d’organe législatif de transition de 1990 à 1991.",
+    "scenes": [
+      { "titre": "Le Présidium de la Conférence Nationale", "localisation": "Cotonou · février 1990", "texte": "Mgr Isidore de Souza préside les débats de la Conférence Nationale des Forces Vives et contribue à maintenir un dialogue entre les acteurs du pays.", "imageUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Réunion, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Le Haut Conseil de la République", "localisation": "Bénin · 1990–1991", "texte": "Il préside l’institution de transition chargée d’accompagner les réformes et de veiller à leur mise en œuvre.", "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Bâtiment institutionnel, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Ouidah · une figure de paix", "localisation": "Ouidah · Bénin", "texte": "Né à Ouidah, Mgr Isidore de Souza laisse une mémoire liée au dialogue, à la paix et aux œuvres sociales.", "imageUrl": "https://images.unsplash.com/photo-1519817650390-64a93db51149?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Édifice religieux, image temporaire à remplacer par une photo autorisée" }
+    ],
+    "challenge": { "badge": "Sceau de la Paix", "accroche": "Connais-tu le rôle de Mgr Isidore de Souza dans le renouveau national ?", "encouragement": "Presque ! Retourne vers la Conférence Nationale et son rôle de médiateur." },
+    "quiz": [
+      { "question": "Quel rôle historique Mgr Isidore de Souza joue-t-il en février 1990 ?", "options": ["Président du tribunal militaire", "Président du Présidium de la Conférence Nationale", "Chef du gouvernement provisoire", "Rédacteur en chef du journal officiel"], "reponseCorrecteIndex": 1, "explication": "Il dirige les débats de la Conférence Nationale avec une autorité morale reconnue.", "points": 20 },
+      { "question": "Quelle charge ecclésiastique principale occupe-t-il ?", "options": ["Évêque de Natitingou", "Archevêque de Cotonou", "Cardinal de Rome", "Prêtre de Ouidah"], "reponseCorrecteIndex": 1, "explication": "Il est l’archevêque métropolitain de Cotonou.", "points": 20 },
+      { "question": "Quelle institution de transition préside-t-il de 1990 à 1991 ?", "options": ["La Cour Suprême", "Le Haut Conseil de la République", "La Commission Électorale", "Le Conseil Économique et Social"], "reponseCorrecteIndex": 1, "explication": "Le HCR fait office d’organe législatif de transition.", "points": 20 },
+      { "question": "Quelle vertu lui permet de maintenir la paix durant les débats de 1990 ?", "options": ["Sa rigueur militaire", "Son autorité morale, son impartialité et son sens du dialogue", "Son appartenance à un parti politique", "Son pouvoir financier"], "reponseCorrecteIndex": 1, "explication": "Sa neutralité et sa capacité de dialogue instaurent un climat de confiance.", "points": 20 },
+      { "question": "Dans quelle ville Mgr Isidore de Souza est-il né en 1934 ?", "options": ["Cotonou", "Ouidah", "Porto-Novo", "Abomey"], "reponseCorrecteIndex": 1, "explication": "Il est issu de la ville historique de Ouidah.", "points": 20 },
+      { "question": "En quelle année Mgr Isidore de Souza est-il décédé ?", "options": ["1990", "1999", "2006", "2012"], "reponseCorrecteIndex": 1, "explication": "Il meurt le 13 mars 1999.", "points": 20 }
+    ],
+    "isReady": true
+  },
+  {
+    "id": "thomas-boni-yayi",
+    "type": "contemporain",
+    "nom": "Thomas Boni Yayi",
+    "sousTitre": "La Modernisation et la Gouvernance de Développement",
+    "communeAssociee": "Bénin",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlnIUNiu3jUdxtTCT3W0AMCXpJMeQ9iZFGaSC8beIyULOVS23YWXtn2E&s=10",
+    "imageAlt": "Salle institutionnelle, image temporaire à remplacer par une photo autorisée",
+    "descriptionHistoire": "Économiste et ancien président de la Banque Ouest-Africaine de Développement, Thomas Boni Yayi est élu président de la République en 2006 puis réélu au premier tour en 2012. Ses deux mandats, de 2006 à 2016, sont marqués par des travaux d’infrastructures, le soutien au monde rural et des programmes sociaux comme le Microcrédit aux Plus Pauvres et la gratuité du traitement du paludisme pour les enfants. Il préside l’Union Africaine en 2012. En 2016, au terme de ses deux mandats constitutionnels, il assure une transmission pacifique du pouvoir.",
+    "leSaviezVous": "Thomas Boni Yayi a présidé l’Union Africaine en exercice de janvier 2012 à janvier 2013, en portant les enjeux de sécurité et de développement du continent.",
+    "scenes": [
+      { "titre": "De la BOAD à la présidence", "localisation": "Bénin · 2006", "texte": "Son parcours d’économiste et son expérience à la tête de la BOAD précèdent son élection à la présidence de la République en 2006.", "imageUrl": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Salle institutionnelle, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Infrastructures et programmes sociaux", "localisation": "Bénin · 2006–2016", "texte": "Ses mandats mettent l’accent sur les échangeurs routiers, l’extension du Port Autonome de Cotonou, la filière coton et le Microcrédit aux Plus Pauvres.", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Infrastructure, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Une alternance républicaine", "localisation": "Bénin · 2016", "texte": "À la fin de ses deux mandats constitutionnels, Thomas Boni Yayi transmet pacifiquement le pouvoir à son successeur, un moment important de la vie républicaine béninoise.", "imageUrl": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Réunion institutionnelle, image temporaire à remplacer par une photo autorisée" }
+    ],
+    "challenge": { "badge": "Sceau du Bâtisseur social", "accroche": "Connais-tu le parcours présidentiel de Thomas Boni Yayi ?", "encouragement": "Presque ! Retourne vers ses mandats et ses grandes initiatives." },
+    "quiz": [
+      { "question": "Quelle fonction institutionnelle majeure Boni Yayi occupait-il avant son élection en 2006 ?", "options": ["Président de la Cour Constitutionnelle", "Président de la BOAD", "Ministre des Finances", "Gouverneur de la BCEAO"], "reponseCorrecteIndex": 1, "explication": "Il était économiste et ancien président de la Banque Ouest-Africaine de Développement.", "points": 20 },
+      { "question": "En quelle année a-t-il été réélu pour un second mandat dès le premier tour ?", "options": ["2008", "2011", "2012", "2016"], "reponseCorrecteIndex": 2, "explication": "Il remporte l’élection présidentielle de mars 2012 au premier tour.", "points": 20 },
+      { "question": "Quelle organisation continentale Boni Yayi a-t-il présidée au cours de l’année 2012 ?", "options": ["La CEDEAO", "L’Union Africaine", "La UEMOA", "Le Conseil de l’Entente"], "reponseCorrecteIndex": 1, "explication": "Il a été président en exercice de l’Union Africaine de janvier 2012 à janvier 2013.", "points": 20 },
+      { "question": "Quel programme d’inclusion financière a été introduit sous sa présidence ?", "options": ["Le Microcrédit aux Plus Pauvres (MCPP)", "Le Plan Épargne Logement", "La Bourse Jeunesse", "La Caisse Nationale d’Épargne"], "reponseCorrecteIndex": 0, "explication": "Le MCPP visait notamment l’autonomisation financière de personnes vulnérables.", "points": 20 },
+      { "question": "Quelle infrastructure majeure de Cotonou a connu une modernisation soutenue sous ses mandats ?", "options": ["L’aéroport de Parakou", "Le Port Autonome de Cotonou et les échangeurs routiers", "Le pont de Malanville", "Le chemin de fer Cotonou-Niamey"], "reponseCorrecteIndex": 1, "explication": "Les grands travaux ont notamment concerné le port et les échangeurs urbains de Cotonou.", "points": 20 },
+      { "question": "Quelle règle républicaine le président Boni Yayi a-t-il honorée en 2016 ?", "options": ["Le report des élections", "L’alternance républicaine au terme de deux mandats constitutionnels", "La révision d’urgence de la Constitution", "Le recours à une transition militaire"], "reponseCorrecteIndex": 1, "explication": "Il quitte ses fonctions en 2016 au terme de son second mandat constitutionnel.", "points": 20 }
+    ],
+    "isReady": true
+  },
+  {
+    "id": "patrice-talon",
+    "type": "contemporain",
+    "nom": "Patrice Talon",
+    "sousTitre": "Le Bâtisseur et Réformateur de l’État",
+    "communeAssociee": "Bénin",
+    "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85",
+    "imageAlt": "Bâtiment contemporain, image temporaire à remplacer par une photo autorisée",
+    "descriptionHistoire": "Opérateur économique du secteur industriel et cotonnier béninois, Patrice Talon remporte l’élection présidentielle de mars 2016 au second tour puis est réélu en 2021. Avec le Programme d’Action du Gouvernement, ou Bénin Révélé, il engage des transformations dans les infrastructures, l’énergie, l’eau, l’urbanisme et le tourisme. Sa présidence est aussi associée à la valorisation du patrimoine, notamment au retour au Bénin de 26 trésors royaux restitués par la France en 2021. Il défend une vision d’État axée sur la rigueur de gestion, la souveraineté économique et le rayonnement culturel.",
+    "leSaviezVous": "La révision constitutionnelle de 2019 a notamment introduit le poste de Vice-Président de la République dans le cadre institutionnel béninois.",
+    "scenes": [
+      { "titre": "Le PAG · Bénin Révélé", "localisation": "Bénin · depuis 2016", "texte": "Le Programme d’Action du Gouvernement structure les investissements et les réformes de la présidence de Patrice Talon, avec des projets dans les infrastructures, l’énergie, l’eau et le tourisme.", "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Bâtiment contemporain, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Asphaltage · transformer les villes", "localisation": "Cotonou, Porto-Novo, Parakou et autres villes", "texte": "Le programme Asphaltage modernise la voirie et les espaces urbains de plusieurs villes béninoises, dans une politique plus large d’aménagement et d’assainissement.", "imageUrl": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Voirie urbaine, image temporaire à remplacer par une photo autorisée" },
+      { "titre": "Le retour des trésors royaux", "localisation": "Cotonou · novembre 2021", "texte": "En novembre 2021, 26 trésors royaux d’Abomey sont restitués par la France et rapatriés au Bénin, donnant une portée internationale à la politique de valorisation du patrimoine.", "imageUrl": "https://images.unsplash.com/photo-1564399579883-451a5d44ec08?auto=format&fit=crop&w=1400&q=85", "imageAlt": "Objet patrimonial, image temporaire à remplacer par une photo autorisée" }
+    ],
+    "challenge": { "badge": "Sceau du Réformateur", "accroche": "Peux-tu reconnaître les grandes réformes de Patrice Talon ?", "encouragement": "Presque ! Retourne vers le PAG, les villes et le patrimoine." },
+    "quiz": [
+      { "question": "Quel est le nom du programme stratégique qui structure l’action du président Patrice Talon ?", "options": ["Bénin Émergent", "Programme d’Action du Gouvernement (PAG / Bénin Révélé)", "Vision Bénin 2025", "Plan de Renaissance Nationale"], "reponseCorrecteIndex": 1, "explication": "Le PAG encadre les principaux projets d’infrastructures et de réformes.", "points": 20 },
+      { "question": "Quel événement patrimonial majeur a eu lieu en novembre 2021 ?", "options": ["La découverte d’un gisement pétrolier", "Le retour au Bénin de 26 trésors royaux restitués par la France", "L’inauguration du nouveau Palais des Gouverneurs", "La création de la monnaie unique"], "reponseCorrecteIndex": 1, "explication": "Les 26 œuvres royales d’Abomey ont été rapatriées à Cotonou.", "points": 20 },
+      { "question": "Quelle innovation institutionnelle la révision constitutionnelle de 2019 a-t-elle introduite ?", "options": ["La création d’un Sénat", "L’instauration du poste de Vice-Président de la République", "Le passage au septennat", "La suppression du poste de Premier Ministre"], "reponseCorrecteIndex": 1, "explication": "La révision a notamment introduit le ticket présidentiel avec un Vice-Président.", "points": 20 },
+      { "question": "Quel grand projet d’aménagement urbain a transformé la voirie des principales villes béninoises ?", "options": ["Projet Route Verte", "Programme Asphaltage", "Projet Cités Nouvelles", "Plan Pavage National"], "reponseCorrecteIndex": 1, "explication": "Le programme Asphaltage modernise les réseaux routiers et les espaces urbains.", "points": 20 },
+      { "question": "Dans quel secteur privé Patrice Talon s’était-il illustré avant son entrée en politique ?", "options": ["Les télécommunications", "L’industrie du coton et la logistique", "La grande distribution", "La banque d’affaires"], "reponseCorrecteIndex": 1, "explication": "Il était un acteur important de l’égrenage du coton et des services agricoles.", "points": 20 },
+      { "question": "Quel regroupement électoral est prévu à partir de 2026 grâce à l’alignement des mandats ?", "options": ["L’élection au suffrage indirect", "L’année électorale générale avec scrutins groupés", "Le vote électronique obligatoire", "La suppression des élections communales"], "reponseCorrecteIndex": 1, "explication": "L’alignement des mandats permet de regrouper les scrutins présidentiel, législatif et communal.", "points": 20 }
+    ],
+    "isReady": true
+  }
+]

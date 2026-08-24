@@ -1,26 +1,99 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-earth: #1a120b;
+  --color-panel: #2b1e16;
+  --color-gold: #d4af37;
+  --color-bronze: #c5a059;
+  --color-laterite: #a83232;
+  --color-kaolin: #f4f1ea;
+  --font-gagnants-display: var(--font-display);
+  --font-sans: var(--font-body);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  color-scheme: dark;
+  background: #1a120b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  min-width: 320px;
+  overflow-x: hidden;
+  background: #1a120b;
+  color: #f4f1ea;
+  font-family: var(--font-body), Arial, sans-serif;
+}
+
+/* Les pages utilisent le header global afin de conserver le même logo et la même navigation partout. */
+main > header,
+main > div > header {
+  display: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+::selection {
+  background: #d4af37;
+  color: #1a120b;
+}
+
+.font-display {
+  font-family: var(--font-display), Georgia, serif;
+}
+
+.hero-orb {
+  pointer-events: none;
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(1px);
+  opacity: 0.52;
+}
+
+.hero-orb-top {
+  top: -13rem;
+  right: -12rem;
+  width: 31rem;
+  height: 31rem;
+  background: radial-gradient(circle, rgba(212, 175, 55, 0.32), rgba(168, 50, 50, 0.12) 40%, transparent 69%);
+}
+
+.hero-orb-bottom {
+  top: 27rem;
+  left: -16rem;
+  width: 34rem;
+  height: 34rem;
+  background: radial-gradient(circle, rgba(197, 160, 89, 0.18), rgba(43, 30, 22, 0.08) 43%, transparent 70%);
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
 }

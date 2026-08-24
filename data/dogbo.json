@@ -1,0 +1,206 @@
+{
+  "id": "dogbo",
+  "type": "commune",
+  "nom": "Dogbo",
+  "sousTitre": "Poumon commercial du Couffo, carrefour stratégique et terre de traditions Adja",
+  "communeAssociee": "Dogbo",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+  "imageAlt": "Vue panoramique des paysages et du dynamisme de la commune de Dogbo",
+  "descriptionHistoire": "01. Origines et Fondation du Pays Adja\nL'histoire de Dogbo remonte aux vagues migratoires du peuple Adja en provenance de Tado (Togo actuel). Attirées par des terres arables propices à la culture et à l'installation durable, les premières communautés ont structuré la région autour de chefferies traditionnelles solides.\n\n02. L'Émergence d'Azovè comme Carrefour Commercial\nAu cours du XXe siècle, l'agglomération de Dogbo-Tota et surtout le marché international d'Azovè sont devenus le premier pôle de transactions commerciales du département du Couffo, attirant des négociants de toute la sous-région (Bénin, Togo, Ghana, Nigéria).\n\n03. Un Foyer Culturel et Spirituel Préservé\nDogbo demeure un centre majeur pour la sauvegarde des arts et traditions Adja, célèbre pour ses divinités ancestrales, ses cérémonies d'initiation et sa production artisanale de boissons traditionnelles (Sodabi).\n\n04. Dogbo Aujourd'hui : Pôle d'Échanges et Agro-industrie\nAujourd'hui, Dogbo se modernise en renforçant ses infrastructures marchandes, ses unités d'agro-transformation (huile de palme, gari, maïs) et sa connectivité routière avec Lokossa, Aplahoué et la frontière togolaise.",
+  "leSaviezVous": "La commune de Dogbo abrite le marché international d'Azovè, l'un des plus grands marchés périodiques du Bénin, réputé pour la vente en gros de céréales, d'huile de palme et de produits vivriers.",
+  "statistiquesGlobales": {
+    "superficieKm2": 475,
+    "population": 115000,
+    "rangPopulationNational": 39,
+    "densiteHabitantKm2": 242,
+    "arrondissements": 7,
+    "villagesEtQuartiers": 65,
+    "altitudeMoyenneM": 70,
+    "anneeCreationCommune": 1978,
+    "partPopulationDuDepartementPct": 15.4
+  },
+  "geographieClimat": {
+    "altitudeMaxM": 105,
+    "altitudeMinM": 35,
+    "precipitationsAnnuellesMm": 1100,
+    "temperatureMoyenneC": 27.3,
+    "temperatureMaxMoyenneC": 33.2,
+    "temperatureMinMoyenneC": 22.8,
+    "saisonSècheMois": "Novembre à Mars / Juillet à Août",
+    "saisonPluiesMois": "Avril à Juin / Septembre à Octobre",
+    "reseauHydrographique": [
+      "Bas-fonds marécageux et cours d'eau saisonniers",
+      "Lac Toho (en bordure)",
+      "Retenues d'eau pastorales"
+    ],
+    "reliefEtPaysage": "Plateau de terre de barre vallonné, alternant palmeraies, cuvettes marécageuses et zones de grandes cultures"
+  },
+  "donneesEconomiques": {
+    "pibParHabitantUsd Estimate": 870,
+    "secteursEconomiques": [
+      {
+        "secteur": "Commerce, Négoce & Transports",
+        "pourcentage": 45
+      },
+      {
+        "secteur": "Agriculture, Palmeraies & Élevage",
+        "pourcentage": 43
+      },
+      {
+        "secteur": "Artisanat & Services",
+        "pourcentage": 12
+      }
+    ],
+    "principalesCultures": [
+      "Maïs (Grandes surfaces cultivées)",
+      "Manioc (Transformation en gari supérieur)",
+      "Palmier à huile",
+      "Haricot et Niébé",
+      "Cultures maraîchères (Piment, Tomate)"
+    ],
+    "elevageEtRessources": [
+      "Élevage de volailles et de petits ruminants",
+      "Production et distillation artisanale de Sodabi",
+      "Unités de transformation d'huile de palme"
+    ],
+    "infrastructuresTransport": [
+      "Route bitumée Lokossa-Dogbo-Azovè-Aplahoué",
+      "Axe routier reliant Dogbo à la frontière du Togo (Lalo / Djakotomey)"
+    ]
+  },
+  "arrondissements": [
+    {
+      "nom": "Dogbo-Tota (Centre)",
+      "population": 38000,
+      "chefLieu": "Dogbo-Tota",
+      "specialite": "Centre administratif, banques, hôpital et services urbains"
+    },
+    {
+      "nom": "Ayomi",
+      "population": 14000,
+      "chefLieu": "Ayomi",
+      "specialite": "Production d'huile de palme, palmeraies et maïs"
+    },
+    {
+      "nom": "Lokogba",
+      "population": 13000,
+      "chefLieu": "Lokogba",
+      "specialite": "Cultures de manioc, transformation de gari et arachide"
+    },
+    {
+      "nom": "Madjre",
+      "population": 11000,
+      "chefLieu": "Madjre",
+      "specialite": "Agriculture vivrière, maïs et élevage"
+    },
+    {
+      "nom": "Tota",
+      "population": 12000,
+      "chefLieu": "Tota",
+      "specialite": "Activités artisanales et commerce de proximité"
+    },
+    {
+      "nom": "Totchagni",
+      "population": 9000,
+      "chefLieu": "Totchagni",
+      "specialite": "Cultures maraîchères et petit élevage"
+    },
+    {
+      "nom": "Devè",
+      "population": 18000,
+      "chefLieu": "Devè",
+      "specialite": "Grandes zones agricoles et pôle de production vivrière"
+    }
+  ],
+  "démographie": {
+    "groupesEthniquesMajoritaires": [
+      "Adja (Groupe prédominant)",
+      "Fon",
+      "Kotafon"
+    ],
+    "languesParlees": [
+      "Adjagbe",
+      "Fongbe",
+      "Français"
+    ],
+    "religions": [
+      "Religions traditionnelles (Vodoun, Sakpata, Heviosso)",
+      "Christianisme (Catholiques, Évangéliques, Célestes)",
+      "Islam"
+    ]
+  },
+  "lieuxAVisiter": [
+    {
+      "id": "marche-international-azove",
+      "nom": "Marché International d'Azovè",
+      "description": "L'un des marchés régionaux les plus spectaculaires du Bénin, vibrant d'animations tous les 5 jours et proposant une immense variété de céréales et de produits artisanaux.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bohicon_Street.jpg",
+      "imageAlt": "Animation et effervescence du marché d'Azovè à Dogbo"
+    },
+    {
+      "id": "palmeraies-dogbo",
+      "nom": "Paysages des Palmeraies et Unités Traditionnelles",
+      "description": "Découverte des circuits d'extraction de l'huile de palme et du vin de palme, piliers de la vie rurale en pays Adja.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+      "imageAlt": "Vue sur les palmeraies et plantations de la commune de Dogbo"
+    },
+    {
+      "id": "couvents-vodoun-dogbo",
+      "nom": "Patrimoine Immatériel et Couvents Traditionnels",
+      "description": "Exploration du riche patrimoine sacré de la culture Adja, de sa musique traditionnelle et de ses fêtes coutumières.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Forge_traditionnelle_au_Benin.jpg",
+      "imageAlt": "Symboles traditionnels et culturels de la région de Dogbo"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Dogbo ?",
+      "options": [
+        "Le Couffo",
+        "Le Mono",
+        "L'Zou",
+        "L'Atlantique"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Dogbo est une commune majeure du département du Couffo, au sud-ouest du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel célèbre marché international à très grande affluence se trouve dans la commune de Dogbo ?",
+      "options": [
+        "Le marché d'Azovè",
+        "Le marché de Dantokpa",
+        "Le marché de Glazoué",
+        "Le marché de Bohicon"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le marché d'Azovè, situé dans la commune de Dogbo, est le principal carrefour commercial du département du Couffo.",
+      "points": 25
+    },
+    {
+      "question": "Quel est le groupe ethnique prédominant dans la commune de Dogbo ?",
+      "options": [
+        "Les Adja",
+        "Les Bariba",
+        "Les Yom",
+        "Les Dendi"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de Dogbo est très majoritairement composée du peuple Adja.",
+      "points": 25
+    },
+    {
+      "question": "Combien d'arrondissements compte la commune de Dogbo ?",
+      "options": [
+        "7",
+        "10",
+        "5",
+        "12"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Dogbo compte 7 arrondissements administratifs.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,48 @@
+{
+  "id": "thomas-boni-yayi",
+  "type": "contemporain",
+  "nom": "Thomas Boni Yayi",
+  "sousTitre": "L'Économiste de la Banque et l'Artisan du Changement",
+  "communeAssociee": "Tchaourou",
+  "imageUrl": "/games/yayiboni.webp",
+  "imageAlt": "Portrait officiel du Président Thomas Boni Yayi",
+  "descriptionHistoire": "01. 2006 · De la Finance à la Magistrature Suprême\nNé le 1er juillet 1952 à Tchaourou et docteur en économie de l'Université Paris-Dauphine, Thomas Boni Yayi effectue une carrière dans la haute finance africaine et devient président de la Banque Ouest-Africaine de Développement (BOAD) de 1994 à 2006. En mars 2006, il se présente comme candidat indépendant, porté par le slogan « Le Changement » et une coalition citoyenne. Il remporte le second tour le 19 mars 2006 avec plus de 74 % des voix face à Adrien Houngbédji.\n\n02. Les grands chantiers et les réformes sociales\nDès son premier mandat, Boni Yayi lance des chantiers de modernisation à travers le pays. Il crée le programme des Microcrédits aux Plus Pauvres (MCPP), notamment pour autonomiser les femmes du secteur informel, et instaure la gratuité de la césarienne. Son gouvernement construit le grand échangeur de Godomey, modernise le Port Autonome de Cotonou et renforce les réseaux routiers inter-États.\n\n03. 2011 · Le « K.O. » et l’Union Africaine\nÀ l’élection présidentielle de mars 2011, Boni Yayi est réélu dès le premier tour avec plus de 53 % des suffrages, un succès appelé « K.O. ». Son second mandat est associé à la « Refondation » et à sa présidence en exercice de l’Union Africaine en 2012, où il participe aux échanges diplomatiques sur les crises régionales.\n\n04. 2016 · Le respect de l’alternance\nFidèle à la Constitution béninoise qui limite le nombre de mandats à deux, Thomas Boni Yayi ne se représente pas. Le 6 avril 2016, il transmet le pouvoir au président élu Patrice Talon. Après sa présidence, il continue d’intervenir comme médiateur politique régional et figure de la vie publique béninoise.",
+  "leSaviezVous": "Avant de devenir chef de l'État en 2006, Thomas Boni Yayi a dirigé la BOAD pendant 12 ans. Son élection dès le premier tour en 2011 est un moment marquant du renouveau démocratique béninois.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de l'Émergence et de la Démocratie",
+    "accroche": "Découvrez le parcours du 6e Président du Bénin démocratique",
+    "encouragement": "Félicitations ! Vous maîtrisez les dates et les réformes du président Thomas Boni Yayi."
+  },
+  "quiz": [
+    {
+      "question": "Quelle institution financière Thomas Boni Yayi a-t-il présidée de 1994 à 2006 ?",
+      "options": ["La BCEAO", "La BOAD", "La Banque Mondiale", "La BAD"],
+      "reponseCorrecteIndex": 1,
+      "explication": "Thomas Boni Yayi a présidé la Banque Ouest-Africaine de Développement pendant 12 ans.",
+      "points": 20
+    },
+    {
+      "question": "Quel slogan a accompagné son arrivée au pouvoir en 2006 ?",
+      "options": ["La Rupture", "Le Changement", "Le Renouveau", "La Continuité"],
+      "reponseCorrecteIndex": 1,
+      "explication": "Le Changement était le slogan de sa campagne présidentielle de 2006.",
+      "points": 20
+    },
+    {
+      "question": "Quelle mesure sociale a été introduite pour réduire la mortalité maternelle ?",
+      "options": ["La gratuité des césariennes", "La gratuité des lunettes", "La construction d'hôpitaux privés", "L'interdiction des pharmacies"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La gratuité de la césarienne a été mise en place sous son gouvernement.",
+      "points": 20
+    },
+    {
+      "question": "En quelle année Thomas Boni Yayi a-t-il exercé la présidence de l'Union Africaine ?",
+      "options": ["En 2006", "En 2012", "En 2016", "En 2020"],
+      "reponseCorrecteIndex": 1,
+      "explication": "Il a été président en exercice de l'Union Africaine de janvier 2012 à janvier 2013.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,26 @@
+{
+  "id": "agbangnizoun",
+  "type": "commune",
+  "nom": "Agbangnizoun",
+  "sousTitre": "Terre de mémoire, d’artisanat et de coutumes du Zou",
+  "communeAssociee": "Agbangnizoun",
+  "imageUrl": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=1600&q=85",
+  "imageAlt": "Travail artisanal du métal, image d’ambiance à remplacer par une photo autorisée d’Agbangnizoun",
+  "descriptionHistoire": "01. Un territoire du Zou\nAgbangnizoun se situe dans le département du Zou, dans une région proche d’Abomey dont l’histoire est marquée par les royaumes, les traditions fon et les échanges entre communautés. Sa mémoire locale mérite d’être racontée avec l’écoute des habitants, des artisans et des détenteurs de savoirs.\n\n02. Artisanat et travail du fer\nLes savoir-faire liés au métal, à la poterie et au travail du bois font partie des thèmes à valoriser dans la commune. Ces métiers transmettent des gestes, des outils et des connaissances qui participent à l’identité des territoires du Zou.\n\n03. Patrimoines vivants et espaces de mémoire\nLes pratiques culturelles, les lieux de culte et les espaces naturels sont des patrimoines vivants. Ils doivent être présentés avec précision et respect, sans transformer les rites ou les communautés en simples décors touristiques.\n\n04. Agbangnizoun aujourd’hui\nL’agriculture, l’artisanat et les activités locales structurent la vie de la commune. Cette fiche est une invitation à découvrir son territoire, à documenter ses histoires et à faire connaître ses initiatives culturelles.",
+  "leSaviezVous": "Agbangnizoun fait partie des communes du département du Zou, une région fortement liée à l’histoire et aux patrimoines du Danxomè.",
+  "lieuxAVisiter": [
+    { "id": "ateliers-artisans", "nom": "Les ateliers d’artisans", "description": "Des espaces de transmission où les gestes artisanaux, les matériaux et les outils racontent une part de la mémoire locale.", "imageUrl": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Atelier artisanal, image d’ambiance à remplacer par une photo autorisée" },
+    { "id": "memoire-royale", "nom": "Les repères de mémoire royale", "description": "Des lieux et récits qui relient la commune à l’histoire plus large des territoires du Zou et du Danxomè.", "imageUrl": "https://images.unsplash.com/photo-1564399579883-451a5d44ec08?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Patrimoine architectural, image d’ambiance à remplacer par une photo autorisée" },
+    { "id": "espaces-naturels", "nom": "Les espaces naturels et sacrés", "description": "Des espaces à approcher avec discrétion et respect des règles locales, des communautés et des pratiques vivantes.", "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Forêt, image d’ambiance à remplacer par une photo autorisée" },
+    { "id": "marche-local", "nom": "Le marché local", "description": "Un lieu de circulation des produits agricoles, des objets artisanaux et des échanges quotidiens.", "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Marché, image d’ambiance à remplacer par une photo autorisée" }
+  ],
+  "scenes": [],
+  "challenge": { "badge": "Sceau des Savoir-faire du Zou", "accroche": "Penses-tu connaître les mémoires et les savoir-faire d’Agbangnizoun ?", "encouragement": "Presque ! Retourne découvrir les artisans, les repères du Zou et les espaces de mémoire." },
+  "quiz": [
+    { "question": "Dans quel département se situe Agbangnizoun ?", "options": ["Le Zou", "L’Ouémé", "Le Mono", "L’Alibori"], "reponseCorrecteIndex": 0, "explication": "Agbangnizoun est une commune du département du Zou.", "points": 25 },
+    { "question": "Quel domaine fait partie des savoir-faire à valoriser dans la fiche ?", "options": ["L’artisanat et le travail du métal", "La construction de métro", "La pêche en haute mer", "La culture du blé"], "reponseCorrecteIndex": 0, "explication": "La fiche met en avant l’artisanat et les gestes liés au travail des matériaux.", "points": 25 },
+    { "question": "Quelle ville historique est proche d’Agbangnizoun ?", "options": ["Abomey", "Kandi", "Malanville", "Natitingou"], "reponseCorrecteIndex": 0, "explication": "Agbangnizoun appartient à la région du Zou, proche d’Abomey.", "points": 25 },
+    { "question": "Comment faut-il aborder les patrimoines vivants ?", "options": ["Avec respect des communautés et des règles locales", "Comme un simple décor", "Sans contexte", "En les modifiant"], "reponseCorrecteIndex": 0, "explication": "Les pratiques et espaces vivants demandent une approche respectueuse et contextualisée.", "points": 25 }
+  ],
+  "isReady": true
+}

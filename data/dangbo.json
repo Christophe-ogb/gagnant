@@ -1,0 +1,208 @@
+{
+  "id": "dangbo",
+  "type": "commune",
+  "nom": "Dangbo",
+  "sousTitre": "Joyau de la vallée de l'Ouémé, terre maraîchère et berceau de traditions",
+  "communeAssociee": "Dangbo",
+  "imageUrl": "/games/ambacadaieaganvie.webp",
+  "imageAlt": "Vue panoramique sur la vallée et les paysages agricoles de Dangbo",
+  "descriptionHistoire": "01. Les Origines et l'Enracinement Wémènou\nL'histoire de Dangbo est étroitement liée au peuplement Wémènou (sous-groupe de l'aire culturelle Gbe). S'installant le long de la vallée de l'Ouémé pour fuir les conflits régionaux et exploiter les terres alluviales exceptionnellement fertiles, ces populations ont fondé des communautés organisées autour de la pêche et de l'agriculture flood-plain (cultures de décrue).\n\n02. Le Pôle Maraîcher et Nourricier du Sud-Bénin\nGrâce aux inondations périodiques du fleuve Ouémé qui déposent du limon riche en nutriments, Dangbo est devenue l'un des plus grands centres de production maraîchère et pimentière du Bénin, approvisionnant quotidiennement les grands marchés de Porto-Novo et Cotonou.\n\n03. Le Modèle d'Équilibre Écologique et Agricole (Centre Songhaï)\nDangbo accueille le grand site d'extension du Centre Songhaï, véritable modèle international d'agriculture intégrée, d'agro-écologie et d'entrepreneuriat rural qui attire stagiaires, chercheurs et visiteurs de toute l'Afrique.\n\n04. Dangbo Aujourd'hui : Écotourisme et Développement Rural\nAujourd'hui, la commune de Dangbo combine valorisation du patrimoine naturel (berges du fleuve Ouémé, zones humides) et dynamisme économique. Elle s'impose comme une étape incontournable pour la découverte du tourisme vert et de la culture Wémè.",
+  "leSaviezVous": "Dangbo abrite un site majeur du Centre Songhaï dédié à la production agro-écologique, à l'élevage et à la formation des jeunes entrepreneurs agricoles de toute l'Afrique de l'Ouest.",
+  "statistiquesGlobales": {
+    "superficieKm2": 340,
+    "population": 128000,
+    "rangPopulationNational": 35,
+    "densiteHabitantKm2": 376,
+    "arrondissements": 7,
+    "villagesEtQuartiers": 51,
+    "altitudeMoyenneM": 28,
+    "anneeCreationCommune": 1978,
+    "partPopulationDuDepartementPct": 11.6
+  },
+  "geographieClimat": {
+    "altitudeMaxM": 65,
+    "altitudeMinM": 5,
+    "precipitationsAnnuellesMm": 1200,
+    "temperatureMoyenneC": 27.0,
+    "temperatureMaxMoyenneC": 32.5,
+    "temperatureMinMoyenneC": 23.0,
+    "saisonSècheMois": "Novembre à Mars / Juillet à Août",
+    "saisonPluiesMois": "Avril à Juin / Septembre à Octobre",
+    "reseauHydrographique": [
+      "Fleuve Ouémé",
+      "Rivière Sô",
+      "Plaines d'inondation et lacs secondaires"
+    ],
+    "reliefEtPaysage": "Plateau sablo-argileux cédant la place à une vaste plaine alluviale inondable très fertile le long du fleuve Ouémé"
+  },
+  "donneesEconomiques": {
+    "pibParHabitantUsd Estimate": 850,
+    "secteursEconomiques": [
+      {
+        "secteur": "Agriculture, Maraîchage & Pêche",
+        "pourcentage": 70
+      },
+      {
+        "secteur": "Commerce & Transport Fluvial/Routier",
+        "pourcentage": 20
+      },
+      {
+        "secteur": "Artisanat & Services",
+        "pourcentage": 10
+      }
+    ],
+    "principalesCultures": [
+      "Piment (Célèbre piment de la vallée)",
+      "Maïs et Manioc",
+      "Cultures maraîchères (Tomate, Gombo, Légumes feuilles)",
+      "Riz de décrue",
+      "Palmier à huile"
+    ],
+    "elevageEtRessources": [
+      "Pêche continentale et pisciculture",
+      "Élevage de bovins, porcins et volailles",
+      "Apiculture et élevage de lapins"
+    ],
+    "infrastructuresTransport": [
+      "Route Nationale Inter-États (RNIE 4) reliant Porto-Novo à Adjohoun et Bonou",
+      "Voies d'eau et embarcadères sur le fleuve Ouémé"
+    ]
+  },
+  "arrondissements": [
+    {
+      "nom": "Dangbo (Centre)",
+      "population": 28000,
+      "chefLieu": "Dangbo",
+      "specialite": "Centre administratif, grands marchés, services et banques"
+    },
+    {
+      "nom": "Dekin",
+      "population": 16000,
+      "chefLieu": "Dekin",
+      "specialite": "Pêche continentale, maraîchage et zones humides"
+    },
+    {
+      "nom": "Gbeko",
+      "population": 18000,
+      "chefLieu": "Gbeko",
+      "specialite": "Cultures maraîchères intensives et maïs"
+    },
+    {
+      "nom": "Houedomey-Gbo",
+      "population": 17000,
+      "chefLieu": "Houedomey-Gbo",
+      "specialite": "Riziculture de décrue et cultures vivrières"
+    },
+    {
+      "nom": "Kessounou",
+      "population": 21000,
+      "chefLieu": "Kessounou",
+      "specialite": "Transformation du manioc (gari), palmeraies et piment"
+    },
+    {
+      "nom": "Zoungue",
+      "population": 15000,
+      "chefLieu": "Zoungue",
+      "specialite": "Pêche artisanale, navigation sur l'Ouémé et piroguerie"
+    },
+    {
+      "nom": "Hetin-Sota",
+      "population": 13000,
+      "chefLieu": "Hetin-Sota",
+      "specialite": "Maraîchage de vallée, élevage et marchés fluviaux"
+    }
+  ],
+  "démographie": {
+    "groupesEthniquesMajoritaires": [
+      "Wémènou (Groupe majoritaire)",
+      "Goun",
+      "Yoruba / Nagot",
+      "Fon"
+    ],
+    "languesParlees": [
+      "Wemengbe",
+      "Goungbe",
+      "Fongbe",
+      "Français"
+    ],
+    "religions": [
+      "Christianisme (Catholiques, Célestes, Évangéliques)",
+      "Vodoun (Cultes Mami Wata, Oro, Zangbeto)",
+      "Islam"
+    ]
+  },
+  "lieuxAVisiter": [
+    {
+      "id": "ferme-songhai-dangbo",
+      "nom": "Le Site Agro-écologique Songhaï de Dangbo",
+      "description": "Vaste centre d'expérimentation et de production agricole intégrée mettant en valeur les techniques de culture biologique et durables.",
+      "imageUrl": "/games/songhai.jfif",
+      "imageAlt": "Installations agricoles écologiques à Dangbo"
+    },
+    {
+      "id": "vallee-oueme-dangbo",
+      "nom": "La Vallée et les Périmètres Maraîchers de Dangbo",
+      "description": "Paysages d'enfilades de jardins maraîchers s'étendant à perte de vue le long des berges fécondes du fleuve Ouémé.",
+      "imageUrl": "/games/valledeleau.jfif",
+      "imageAlt": "Vue sur les zones cultivées de la vallée de l'Ouémé"
+    },
+    {
+      "id": "embarcadere-fleuve-oueme",
+      "nom": "Les Embarcadères Fluviaux de Dangbo",
+      "description": "Points de départ pour des promenades en pirogue à la découverte de la faune aquatique, de la pêche traditionnelle et de la vie riveraine Wémè.",
+      "imageUrl": "/games/ambacadairedangbo.jfif",
+      "imageAlt": "Pirogues au bord du fleuve Ouémé à Dangbo"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se trouve la commune de Dangbo ?",
+      "options": [
+        "L'Ouémé",
+        "Le Plateau",
+        "L'Atlantique",
+        "Le Zou"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Dangbo est une commune majeure située dans la vallée du fleuve Ouémé, dans le département de l'Ouémé.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socio-culturel est prédominant dans la commune de Dangbo ?",
+      "options": [
+        "Les Wémènou",
+        "Les Bariba",
+        "Les Dendi",
+        "Les Waama"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Wémènou sont les habitants autochtones emblématiques de la vallée de l'Ouémé à Dangbo.",
+      "points": 25
+    },
+    {
+      "question": "Quel grand cours d'eau arrose la commune et enrichit ses terres agricoles ?",
+      "options": [
+        "Le fleuve Ouémé",
+        "Le fleuve Mono",
+        "Le fleuve Niger",
+        "La rivière Couffo"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le fleuve Ouémé borde et traverse la commune, déposant des limons fertiles propices au maraîchage.",
+      "points": 25
+    },
+    {
+      "question": "Quel centre célèbre de formation et de production agro-écologique possède un grand site à Dangbo ?",
+      "options": [
+        "Le Centre Songhaï",
+        "L'Institut Agrivision",
+        "La Ferme Biovallée",
+        "L'Agro-Hub Bénin"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Dangbo accueille une importante extension du Centre Songhaï dédiée à l'entrepreneuriat agricole durable.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

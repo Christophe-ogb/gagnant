@@ -1,0 +1,237 @@
+{
+  "id": "djidja",
+  "type": "commune",
+  "nom": "Djidja",
+  "sousTitre": "Le grenier agricole du Zou et terre d'histoire du royaume de Danxomè",
+  "communeAssociee": "Djidja",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+  "imageAlt": "Vue panoramique des paysages agricoles et des savanes de la commune de Djidja",
+  "descriptionHistoire": "01. Origines et Intégration au Royaume du Danxomè\nL'histoire de Djidja est étroitement liée à l'expansion du royaume d'Abomey (Danxomè). Stratégiquement située au nord du plateau d'Abomey, la région servait de zone de culture, de refuge et de front pionnier pour le royaume, avec une cohabitation entre les populations autochtones Fongbe et Mahi.\n\n02. Le Poumon Agricole et Céréalier du Zou\nGrâce à sa vaste superficie et à ses sols ferrallitiques extrêmement fertiles, Djidja est devenue au fil du XXe siècle le principal grenier à céréales (maïs, sorgho) et à igname du département du Zou, approvisionnant Abomey, Bohicon et les marchés du Sud-Bénin.\n\n03. Un Carrefour d'Échanges Culturels Mahi et Fon\nPoint de rencontre entre les aires culturelles Fon et Mahi, Djidja conserve une riche tradition orale, des cultes Vodoun historiques et un patrimoine immatériel preservé à travers ses villages traditionnels.\n\n04. Djidja Aujourd'hui : Modernisation Agro-pastorale\nAujourd'hui, Djidja est la plus vaste commune du département du Zou. Elle mise sur la mécanisation agricole, le développement de la filière anacarde et coton, ainsi que la valorisation de son potentiel écotouristique.",
+  "leSaviezVous": "Avec plus de 2 100 km², Djidja est la plus grande commune du département du Zou en superficie, couvrant près du tiers de la surface totale du département.",
+  "statistiquesGlobales": {
+    "superficieKm2": 2184,
+    "population": 123000,
+    "rangPopulationNational": 37,
+    "densiteHabitantKm2": 56,
+    "arrondissements": 12,
+    "villagesEtQuartiers": 89,
+    "altitudeMoyenneM": 145,
+    "anneeCreationCommune": 1978,
+    "partPopulationDuDepartementPct": 14.5
+  },
+  "geographieClimat": {
+    "altitudeMaxM": 280,
+    "altitudeMinM": 60,
+    "precipitationsAnnuellesMm": 1100,
+    "temperatureMoyenneC": 27.5,
+    "temperatureMaxMoyenneC": 33.5,
+    "temperatureMinMoyenneC": 22.0,
+    "saisonSècheMois": "Novembre à Mars / Juillet à Août",
+    "saisonPluiesMois": "Avril à Juin / Septembre à Octobre",
+    "reseauHydrographique": [
+      "Rivière Zou",
+      "Rivière Couffo (Bordure occidentale)",
+      "Plan d'eau et retenues d'eau de barrage"
+    ],
+    "reliefEtPaysage": "Plateau légèrement ondulé s'abaissant vers des plaines alluviales et des savanes boisées"
+  },
+  "donneesEconomiques": {
+    "pibParHabitantUsd Estimate": 840,
+    "secteursEconomiques": [
+      {
+        "secteur": "Agriculture, Élevage & Chasse",
+        "pourcentage": 75
+      },
+      {
+        "secteur": "Commerce & Transformation de Produits Agricoles",
+        "pourcentage": 15
+      },
+      {
+        "secteur": "Artisanat & Services",
+        "pourcentage": 10
+      }
+    ],
+    "principalesCultures": [
+      "Maïs (Grande production)",
+      "Igname (Très réputée dans le département)",
+      "Anacarde (Noix de cajou)",
+      "Coton",
+      "Manioc et Arachide"
+    ],
+    "elevageEtRessources": [
+      "Élevage bovin, ovin et caprin",
+      "Élevage de volailles de race locale et moderne",
+      "Exploitation forestière contrôlée et apiculture"
+    ],
+    "infrastructuresTransport": [
+      "Route bitumée Bohicon-Djidja-Savalou",
+      "Réseau dense de pistes de desserte agricole reliées à Abomey et Bohicon"
+    ]
+  },
+  "arrondissements": [
+    {
+      "nom": "Djidja (Centre)",
+      "population": 18000,
+      "chefLieu": "Djidja",
+      "specialite": "Centre administratif, commerce, infrastructures scolaires et santé"
+    },
+    {
+      "nom": "Agondji",
+      "population": 11000,
+      "chefLieu": "Agondji",
+      "specialite": "Production d'igname, de maïs et élevage"
+    },
+    {
+      "nom": "Agouna",
+      "population": 16000,
+      "chefLieu": "Agouna",
+      "specialite": "Grand centre de production de noix de cajou et céréales"
+    },
+    {
+      "nom": "Dan",
+      "population": 12000,
+      "chefLieu": "Dan",
+      "specialite": "Carrefour commercial, maraîchage et maïs"
+    },
+    {
+      "nom": "Dohoume",
+      "population": 8500,
+      "chefLieu": "Dohoume",
+      "specialite": "Cultures vivrières et arboriculture"
+    },
+    {
+      "nom": "Gobeyi",
+      "population": 7500,
+      "chefLieu": "Gobeyi",
+      "specialite": "Agriculture traditionnelle et chasse"
+    },
+    {
+      "nom": "Outo",
+      "population": 9000,
+      "chefLieu": "Outo",
+      "specialite": "Cultures d'igname et petit élevage"
+    },
+    {
+      "nom": "Ounbegame",
+      "population": 8000,
+      "chefLieu": "Ounbegame",
+      "specialite": "Production de manioc, gari et arachide"
+    },
+    {
+      "nom": "Setto",
+      "population": 10500,
+      "chefLieu": "Setto",
+      "specialite": "Pôle cotonner et grandes cultures céréalières"
+    },
+    {
+      "nom": "Zoukon",
+      "population": 8500,
+      "chefLieu": "Zoukon",
+      "specialite": "Cultures vivrières et palmeraies"
+    },
+    {
+      "nom": "Mougnon",
+      "population": 9000,
+      "chefLieu": "Mougnon",
+      "specialite": "Patrimoine historique, maïs et manioc"
+    },
+    {
+      "nom": "Monsourou",
+      "population": 5000,
+      "chefLieu": "Monsourou",
+      "specialite": "Cultures de savane, arachide et élevage"
+    }
+  ],
+  "démographie": {
+    "groupesEthniquesMajoritaires": [
+      "Fon (Majoritaire)",
+      "Mahi",
+      "Yoruba / Nago",
+      "Fulbé (Peuls)"
+    ],
+    "languesParlees": [
+      "Fongbe",
+      "Mahigbe",
+      "Français"
+    ],
+    "religions": [
+      "Cultes traditionnels (Vodoun, Dan, Gou)",
+      "Christianisme (Catholiques, Célestes, Évangéliques)",
+      "Islam"
+    ]
+  },
+  "lieuxAVisiter": [
+    {
+      "id": "plaines-agricoles-djidja",
+      "nom": "Les Grandes Exploitations et Plantations d'Anacarde",
+      "description": "Découverte des paysages agricoles de la commune, entre vergers de cajou à perte de vue et champs de maïs et d'igname.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bohicon_Street.jpg",
+      "imageAlt": "Paysage champêtre et savane agricole à Djidja"
+    },
+    {
+      "id": "marches-locaux-djidja",
+      "nom": "Les Marchés Vivriers d'Agouna et Dan",
+      "description": "Hauts lieux de négociation des produits de la terre où convergent acheteurs du Bénin et des pays voisins.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Forge_traditionnelle_au_Benin.jpg",
+      "imageAlt": "Échanges commerciaux et produits locaux sur un marché rural"
+    },
+    {
+      "id": "sites-historiques-mougnon",
+      "nom": "Sites Mémoriels et Couvents de Mougnon",
+      "description": "Lieux sacrés préservant la mémoire historique du royaume d'Abomey et les rites traditionnels de l'ère précoloniale.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+      "imageAlt": "Sanctuaire traditionnel et élément du patrimoine culturel"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Djidja ?",
+      "options": [
+        "Le Zou",
+        "Les Collines",
+        "Le Atlantique",
+        "Le Mono"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Djidja est située au nord-ouest du département du Zou.",
+      "points": 25
+    },
+    {
+      "question": "Quelle est la particularité géographique de Djidja au sein du département du Zou ?",
+      "options": [
+        "C'est la plus grande commune en superficie",
+        "C'est la commune la moins peuplée",
+        "C'est la commune la plus haute en altitude",
+        "C'est la seule commune côtière"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Avec plus de 2 100 km², Djidja est la commune la plus vaste du département du Zou.",
+      "points": 25
+    },
+    {
+      "question": "Quelle culture d'exportation occupe une place majeure dans l'agriculture de Djidja, notamment à Agouna ?",
+      "options": [
+        "L'Anacarde (Noix de cajou)",
+        "Le Cacao",
+        "Le Thé",
+        "La Vanille"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La production de noix de cajou (anacarde) connait un essor très important dans la commune de Djidja.",
+      "points": 25
+    },
+    {
+      "question": "Combien d'arrondissements compte la commune de Djidja ?",
+      "options": [
+        "12",
+        "8",
+        "5",
+        "15"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Djidja regroupe 12 arrondissements administratifs.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

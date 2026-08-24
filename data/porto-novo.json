@@ -1,0 +1,73 @@
+{
+  "id": "porto-novo",
+  "type": "commune",
+  "nom": "Porto-Novo",
+  "sousTitre": "La capitale aux mémoires plurielles et au patrimoine afro-brésilien",
+  "communeAssociee": "Porto-Novo",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Grande_Mosquee_de_Porto-Novo.jpg",
+  "imageAlt": "La Grande Mosquée de Porto-Novo à l’architecture afro-brésilienne",
+  "descriptionHistoire": "01. Fondations royales et origines (XVIe–XVIIe siècle)\nÀ l'origine, la région était habitée par les peuples Goun et Torri. Selon la tradition orale, la ville a été fondée au XVIe siècle par le prince Tê-Agbanlin, originaire d'Allada. À la suite d'une querelle de succession, Tê-Agbanlin a migré vers le sud et fondé le royaume de Hogbonou, instaurant une prestigieuse dynastie royale.\n\n02. L'arrivée des Portugais et le nom Porto-Novo\nAu XVIIIe siècle, la cité est devenue un comptoir commercial majeur sur la lagune. Vers 1750, le navigateur portugais Eucharistus de Campos a nommé la ville Porto-Novo, « Nouveau Port », en raison de sa ressemblance géographique avec la ville de Porto au Portugal. La cité est aussi devenue un point de passage de la traite transatlantique vers le Brésil.\n\n03. L'héritage afro-brésilien et la culture Agouda\nAu XIXe siècle, après l'abolition de l'esclavage au Brésil, de nombreux Afro-descendants libérés, appelés les Agoudas, sont revenus s'installer à Porto-Novo. Ils ont apporté leur savoir-faire, leur gastronomie et une architecture d'inspiration baroque brésilienne qui marque encore les quartiers historiques de la ville.\n\n04. La période coloniale et la capitale de la République\nEn 1863, le roi Toffa Ier a signé un traité de protectorat avec la France pour prémunir son royaume contre les attaques du Dahomey. En 1894, Porto-Novo est devenue la capitale administrative de la colonie. Lors de l'indépendance en 1960, elle a conservé son statut de capitale officielle de la République du Bénin.",
+  "leSaviezVous": "La Grande Mosquée de Porto-Novo ressemble à une église baroque brésilienne. Elle a été bâtie entre 1912 et 1935 par la communauté musulmane Agouda, inspirée par la cathédrale de Salvador de Bahia.",
+  "lieuxAVisiter": [
+    {
+      "id": "grande-mosquee",
+      "nom": "La Grande Mosquée de Porto-Novo",
+      "description": "Chef-d'œuvre architectural d'inspiration afro-brésilienne construit au début du XXe siècle par les Agoudas, descendants d'esclaves revenus du Brésil.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Grande_Mosquee_de_Porto-Novo.jpg",
+      "imageAlt": "Façade colorée de la Grande Mosquée de Porto-Novo"
+    },
+    {
+      "id": "musee-honme",
+      "nom": "Le Musée Honmè, ancien palais des rois Toffa",
+      "description": "Ancien palais royal du roi Toffa Ier, retraçant la vie de la cour, les objets rituels et l'histoire du royaume de Hogbonou.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Front_yard_Musee_Honme_Porto_Novo_Benin_Dec_2017.jpg",
+      "imageAlt": "Cour intérieure du Musée Honmè à Porto-Novo"
+    },
+    {
+      "id": "musee-da-silva",
+      "nom": "Le Musée da Silva des Arts et de la Culture",
+      "description": "Espace dédié au patrimoine et à l'histoire des Afro-Brésiliens réinstallés au Bénin, retraçant leur mémoire et leur influence culturelle.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Mus%C3%A9e_da_Silva.jpg",
+      "imageAlt": "Façade du Musée da Silva à Porto-Novo"
+    },
+    {
+      "id": "jardin-des-plantes",
+      "nom": "Le Jardin des Plantes et de la Nature",
+      "description": "Forêt sacrée centenaire reconvertie en jardin botanique de 9 hectares au cœur de la ville, abritant des arbres sacrés et une faune remarquable.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+      "imageAlt": "Allée ombragée dans le Jardin des Plantes et de la Nature de Porto-Novo"
+    }
+  ],
+  "scenes": [],
+  "quiz": [
+    {
+      "question": "Quel prince issu du royaume d'Allada est associé à la fondation de Hogbonou ?",
+      "options": ["Tê-Agbanlin", "Toffa Ier", "Houegbadja", "Kpodégbé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La tradition orale associe le prince Tê-Agbanlin à la fondation du royaume de Hogbonou.",
+      "points": 25
+    },
+    {
+      "question": "De quelle origine s'inspire l'architecture de la Grande Mosquée de Porto-Novo ?",
+      "options": ["Baroque afro-brésilienne", "Soudano-sahélienne", "Gothique européenne", "Ottomane"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Grande Mosquée reprend une inspiration baroque afro-brésilienne liée aux Agoudas.",
+      "points": 25
+    },
+    {
+      "question": "Quel souverain de Porto-Novo a signé un traité de protectorat avec la France ?",
+      "options": ["Le roi Toffa Ier", "Le roi Béhanzin", "Le roi Ghézo", "Le roi Agadja"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le roi Toffa Ier a signé ce traité pour protéger son royaume des attaques du Dahomey.",
+      "points": 25
+    },
+    {
+      "question": "Quelle était la fonction originale du Jardin des Plantes et de la Nature ?",
+      "options": ["La forêt sacrée du royaume de Hogbonou", "Un marché aux esclaves", "Un champ de coton", "Un port lagunaire"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le site était une forêt sacrée liée aux rois de Hogbonou avant son aménagement botanique.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

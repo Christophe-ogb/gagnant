@@ -1,0 +1,26 @@
+{
+  "id": "aguegues",
+  "type": "commune",
+  "nom": "Les Aguégués",
+  "sousTitre": "Une commune lacustre au rythme du delta de l’Ouémé",
+  "communeAssociee": "Les Aguégués",
+  "imageUrl": "https://images.unsplash.com/photo-1544550285-f813152fb2fd?auto=format&fit=crop&w=1600&q=85",
+  "imageAlt": "Pirogue sur l’eau, image d’ambiance à remplacer par une photo autorisée des Aguégués",
+  "descriptionHistoire": "01. Un territoire d’eau\nLes Aguégués sont une commune du département de l’Ouémé, au sein d’un environnement de fleuve, de lacs et de zones humides. Le déplacement par pirogue, la proximité de l’eau et les paysages du delta structurent l’expérience quotidienne de nombreuses localités.\n\n02. Habiter et circuler sur l’eau\nDans les zones lacustres, les habitants ont développé des solutions adaptées aux crues, aux déplacements et aux échanges. La pirogue relie les maisons, les marchés, les écoles et les activités de pêche ; elle est un outil de mobilité et de transmission.\n\n03. Pêche et acadjas\nLa pêche artisanale occupe une place importante dans les écosystèmes de la basse vallée. Les acadjas sont des installations de branchages immergés associées à des pratiques de pêche et à des enjeux environnementaux : l’eau, les poissons et les milieux humides doivent être préservés.\n\n04. Un avenir d’écotourisme responsable\nLes paysages fluviaux des Aguégués invitent à découvrir le territoire avec attention. Un tourisme responsable respecte les habitants, les rythmes locaux, les usages de l’eau et la protection des écosystèmes.",
+  "leSaviezVous": "Aux Aguégués, la pirogue est un moyen essentiel de déplacement dans les zones reliées par l’eau.",
+  "lieuxAVisiter": [
+    { "id": "villages-lacustres", "nom": "Les villages lacustres", "description": "Des paysages habités où l’eau, la pirogue et les constructions adaptées composent le quotidien.", "imageUrl": "https://images.unsplash.com/photo-1544550285-f813152fb2fd?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Pirogue sur l’eau, image d’ambiance à remplacer par une photo autorisée" },
+    { "id": "parcs-acadja", "nom": "Les parcs à poissons acadjas", "description": "Des branchages immergés liés aux pratiques de pêche traditionnelle et aux équilibres écologiques des milieux humides.", "imageUrl": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Paysage aquatique, image d’ambiance à remplacer par une photo autorisée" },
+    { "id": "marche-lacustre", "nom": "Les échanges sur l’eau", "description": "Des circuits de commerce et de rencontre où poissons, produits vivriers et services circulent au fil de l’eau.", "imageUrl": "https://images.unsplash.com/photo-1563191911-e65f7f2392e9?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Marché, image d’ambiance à remplacer par une photo autorisée" },
+    { "id": "circuit-fluvial", "nom": "Les circuits du delta", "description": "Des itinéraires à parcourir en pirogue avec des guides locaux et dans le respect des communautés riveraines.", "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Paysage naturel, image d’ambiance à remplacer par une photo autorisée" }
+  ],
+  "scenes": [],
+  "challenge": { "badge": "Sceau des Eaux de l’Ouémé", "accroche": "Penses-tu connaître la vie lacustre des Aguégués ?", "encouragement": "Presque ! Retourne explorer la pirogue, les acadjas et les paysages du delta." },
+  "quiz": [
+    { "question": "Quel moyen de transport est essentiel dans les zones lacustres des Aguégués ?", "options": ["La pirogue", "Le train", "La charrette", "Le métro"], "reponseCorrecteIndex": 0, "explication": "La pirogue permet les déplacements quotidiens dans les zones reliées par l’eau.", "points": 25 },
+    { "question": "Comment s’appellent les installations de branchages immergés associées à la pêche ?", "options": ["Les acadjas", "Les caravelles", "Les pagodes", "Les digues"], "reponseCorrecteIndex": 0, "explication": "Les acadjas sont des installations de branchages liées aux pratiques de pêche traditionnelles.", "points": 25 },
+    { "question": "Dans quel département se situent les Aguégués ?", "options": ["L’Ouémé", "Le Zou", "Le Borgou", "L’Atacora"], "reponseCorrecteIndex": 0, "explication": "Les Aguégués sont une commune du département de l’Ouémé.", "points": 25 },
+    { "question": "Quelle attitude convient lors d’une découverte des paysages lacustres ?", "options": ["Respecter les habitants et les écosystèmes", "Jeter des déchets dans l’eau", "Entrer partout sans autorisation", "Déranger les activités de pêche"], "reponseCorrecteIndex": 0, "explication": "La visite doit respecter les communautés, l’eau et les activités locales.", "points": 25 }
+  ],
+  "isReady": true
+}

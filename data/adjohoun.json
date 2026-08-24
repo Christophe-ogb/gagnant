@@ -1,0 +1,26 @@
+{
+  "id": "adjohoun",
+  "type": "commune",
+  "nom": "Adjohoun",
+  "sousTitre": "Au cœur de la vallée de l’Ouémé, entre traditions et biodiversité",
+  "communeAssociee": "Adjohoun",
+  "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=85",
+  "imageAlt": "Paysage fluvial, image d’ambiance à remplacer par une photo autorisée d’Adjohoun",
+  "descriptionHistoire": "01. Origines et repères de la vallée de l’Ouémé\nAdjohoun se situe au centre du département de l’Ouémé, dans un territoire façonné par le fleuve et ses plaines. L’histoire locale est liée à des migrations et à la rencontre de plusieurs groupes socioculturels, dont les Wémènou, les Fon, les Yoruba et les Adja. Le fleuve a longtemps soutenu les déplacements, les échanges et les activités quotidiennes de la commune.\n\n02. Une culture Wémè vivante\nLa commune participe à la richesse culturelle de l’aire Wémè. Les traditions, les rites et les expressions collectives s’y transmettent de génération en génération. Ces patrimoines vivants doivent être découverts avec respect, en écoutant les communautés et les détenteurs de savoirs qui les font vivre.\n\n03. Le fleuve et les plaines agricoles\nLes eaux et les terres de la vallée de l’Ouémé soutiennent l’agriculture, la pêche et le maraîchage. Les crues saisonnières influencent les paysages comme les pratiques agricoles. Elles rappellent aussi l’importance de préserver les milieux humides, essentiels à la vie des habitants et à la biodiversité.\n\n04. Adjohoun aujourd’hui : échanges et écotourisme\nBalades fluviales, marchés, activités agricoles et paysages de vallée composent l’identité d’Adjohoun. La commune peut valoriser ces atouts par un tourisme responsable, attentif aux habitants, aux cultures locales et à la protection du fleuve.",
+  "leSaviezVous": "La commune d’Adjohoun célèbre le Wémèxhoué, une fête identitaire de l’aire Wémè, dont elle accueille les manifestations officielles à intervalles réguliers.",
+  "lieuxAVisiter": [
+    { "id": "fleuve-oueme-adjohoun", "nom": "Les berges du fleuve Ouémé", "description": "Des paysages fluviaux où la pirogue, la pêche et les échanges locaux rappellent le lien quotidien entre les habitants et le fleuve.", "imageUrl": "https://images.unsplash.com/photo-1544550285-f813152fb2fd?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Pirogue sur un cours d’eau, image d’ambiance à remplacer par une photo autorisée d’Adjohoun" },
+    { "id": "plaines-azowlisse", "nom": "Les plaines agricoles d’Azowlissè", "description": "Des étendues agricoles liées aux pratiques de maraîchage, de riziculture et de cultures vivrières de la vallée.", "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Cultures dans une plaine, image d’ambiance à remplacer par une photo autorisée d’Azowlissè" },
+    { "id": "patrimoines-weme", "nom": "Les patrimoines vivants de l’aire Wémè", "description": "Un ensemble de traditions et de pratiques culturelles à découvrir dans le respect des communautés et des contextes rituels.", "imageUrl": "https://images.unsplash.com/photo-1531219572328-a0171b4448a3?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Scène culturelle, image d’ambiance à remplacer par une photo autorisée d’Adjohoun" },
+    { "id": "marche-azowlisse", "nom": "Le marché d’Azowlissè", "description": "Un lieu d’échanges de produits agricoles, de poissons et de savoir-faire du terroir Wémè.", "imageUrl": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Marché, image d’ambiance à remplacer par une photo autorisée d’Azowlissè" }
+  ],
+  "scenes": [],
+  "challenge": { "badge": "Sceau de la Vallée de l’Ouémé", "accroche": "Penses-tu connaître les eaux, les cultures et les traditions d’Adjohoun ?", "encouragement": "Presque ! Retourne découvrir le fleuve, les plaines et les traditions de la vallée." },
+  "quiz": [
+    { "question": "Dans quelle vallée se situe la commune d’Adjohoun ?", "options": ["La vallée de l’Ouémé", "La vallée du Niger", "La vallée de la Pendjari", "La vallée du Couffo"], "reponseCorrecteIndex": 0, "explication": "Adjohoun se situe dans le département et la vallée de l’Ouémé.", "points": 25 },
+    { "question": "Quel fleuve structure les paysages et les activités d’Adjohoun ?", "options": ["L’Ouémé", "Le Mono", "La Pendjari", "Le Niger"], "reponseCorrecteIndex": 0, "explication": "Le fleuve Ouémé joue un rôle essentiel dans la vie et les paysages de la commune.", "points": 25 },
+    { "question": "Quelle fête identitaire est associée à l’aire Wémè ?", "options": ["Le Wémèxhoué", "La Gaani", "Le Fâ", "Le Kankourang"], "reponseCorrecteIndex": 0, "explication": "Le Wémèxhoué est une fête identitaire liée à l’aire Wémè.", "points": 25 },
+    { "question": "Quelle activité est liée aux plaines de la vallée ?", "options": ["Le maraîchage et les cultures vivrières", "L’extraction de pétrole", "La pêche en haute mer", "La culture du blé"], "reponseCorrecteIndex": 0, "explication": "Les plaines de la vallée soutiennent notamment le maraîchage et les productions vivrières.", "points": 25 }
+  ],
+  "isReady": true
+}

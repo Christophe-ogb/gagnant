@@ -1,0 +1,26 @@
+{
+  "id": "allada",
+  "type": "commune",
+  "nom": "Allada",
+  "sousTitre": "Capitale du royaume d’Ardra, berceau des dynasties royales du Bénin",
+  "communeAssociee": "Allada",
+  "imageUrl": "/games/allada.jfif",
+  "imageAlt": "Paysage du Bénin illustrant Allada",
+  "descriptionHistoire": "01. Les origines et le royaume d’Ardra\nAllada, aussi appelée Ardra dans plusieurs récits historiques, est une cité majeure de l’histoire des royaumes du sud du Bénin. Les traditions orales la présentent comme un important foyer dynastique dont l’histoire éclaire les liens entre les royaumes d’Allada, d’Abomey et de Porto-Novo.\n\n02. Une mémoire atlantique et haïtienne\nAllada est également associée à la mémoire de Toussaint Louverture. Cette histoire rappelle les liens profonds et douloureux qui ont uni les côtes du Bénin, la traite atlantique et les diasporas, ainsi que la portée universelle des combats pour la liberté.\n\n03. Rites dynastiques et héritages culturels\nLes repères de la monarchie, les lieux de mémoire et les traditions de la région constituent un patrimoine vivant. Ils invitent à une visite attentive, menée dans le respect des communautés qui en assurent la transmission.\n\n04. Allada aujourd’hui : agriculture et carrefour régional\nChef-lieu du département de l’Atlantique, Allada est aussi reconnue pour son agriculture, notamment l’ananas. Entre mémoire royale, production agricole et axes de circulation, la commune occupe une place importante dans la vie régionale.",
+  "leSaviezVous": "Allada est souvent présentée dans les traditions historiques comme une cité liée aux origines dynastiques d’Abomey et de Porto-Novo.",
+  "lieuxAVisiter": [
+    { "id": "memoire-toussaint-louverture", "nom": "Le repère mémoriel de Toussaint Louverture", "description": "Un lieu qui évoque les liens entre Allada, les diasporas africaines et l’histoire d’Haïti.", "imageUrl": "/games/Place_Toussaint_Louverture_à_Allada.jpg", "imageAlt": "Monument, image d’ambiance" },
+    { "id": "patrimoine-royal-allada", "nom": "Les repères du patrimoine royal", "description": "Des traces matérielles et des récits liés aux traditions dynastiques de la région d’Allada.", "imageUrl": "/games/ambition.jfif", "imageAlt": "Architecture patrimoniale, image d’ambiance" },
+    { "id": "plantations-ananas", "nom": "Les plantations d’ananas", "description": "Des paysages agricoles qui témoignent du rôle de l’ananas dans l’économie et l’identité de la commune.", "imageUrl": "/games/plantation.jfif", "imageAlt": "Culture d’ananas, image d’ambiance" },
+    { "id": "marche-allada", "nom": "Le marché d’Allada", "description": "Un espace de vie et d’échanges où se rencontrent produits vivriers, fruits, huile de palme et artisanat local.", "imageUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=1600&q=85", "imageAlt": "Marché local, image d’ambiance" }
+  ],
+  "scenes": [],
+  "challenge": { "badge": "Sceau des Dynasties d’Allada", "accroche": "Penses-tu connaître la cité qui relie les grandes mémoires royales du sud Bénin ?", "encouragement": "Presque ! Reviens explorer les repères d’Allada et retente le défi." },
+  "quiz": [
+    { "question": "Quels royaumes sont fréquemment associés aux traditions dynastiques issues d’Allada ?", "options": ["Danxomè (Abomey) et Hogbonou (Porto-Novo)", "Nikki et Kouandé", "Djougou et Natitingou", "Kandi et Malanville"], "reponseCorrecteIndex": 0, "explication": "Les récits historiques et les traditions orales relient Allada aux histoires dynastiques d’Abomey et de Porto-Novo.", "points": 25 },
+    { "question": "À quelle mémoire caribéenne Allada est-elle associée dans cette fiche ?", "options": ["À celle de Toussaint Louverture et d’Haïti", "À la fondation de Cuba", "À l’empire du Brésil", "À la route de la soie"], "reponseCorrecteIndex": 0, "explication": "La fiche présente Allada à travers les liens mémoriels associés à Toussaint Louverture et Haïti.", "points": 25 },
+    { "question": "Quelle production agricole est particulièrement associée à Allada ?", "options": ["L’ananas", "Le blé", "Le cacao", "Le thé"], "reponseCorrecteIndex": 0, "explication": "L’ananas fait partie des productions emblématiques mises en avant pour Allada.", "points": 25 },
+    { "question": "De quel département Allada est-elle le chef-lieu ?", "options": ["L’Atlantique", "Le Littoral", "L’Ouémé", "Le Zou"], "reponseCorrecteIndex": 0, "explication": "Allada est le chef-lieu du département de l’Atlantique.", "points": 25 }
+  ],
+  "isReady": true
+}

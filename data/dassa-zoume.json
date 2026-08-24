@@ -1,0 +1,227 @@
+{
+  "id": "dassa-zoume",
+  "type": "commune",
+  "nom": "Dassa-Zoumé",
+  "sousTitre": "La cité des 40 collines, carrefour culturel et haut lieu spirituel du Bénin",
+  "communeAssociee": "Dassa-Zoumé",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+  "imageAlt": "Vue panoramique des collines impressionnantes et du paysage de Dassa-Zoumé",
+  "descriptionHistoire": "01. Les Origines et le Royaume d'Idaasha\nL'histoire de Dassa-Zoumé remonte au XIIe siècle avec l'arrivée des groupes Yoruba/Nago conduits par le prince Jagou Olofin. Ils ont fondé le royaume d'Idaasha (ou Dassa) en tirant parti du relief accidenté des collines pour se protéger des invasions extérieures et bâtir une civilisation collinéenne unique.\n\n02. Le Sanctuaire des 40 Collines et le Refuge Historique\nDurant les guerres régionales des XVIIIe et XIXe siècles, les collines de Dassa ont servi de forteresses naturelles inexpugnables. Chaque colline conserve des légendes, des autels sacrés et des sites d'anciennes fortifications royales.\n\n03. L'Émergence d'un Haut Lieu de Pèlerinage National\nAu XXe siècle, avec l'érection de la Grotte Notre-Dame d'Arigbo en 1954, Dassa-Zoumé est devenue la capitale spirituelle du catholicisme béninois, accueillant chaque année en août des dizaines de milliers de pèlerins venus de toute la sous-région.\n\n04. Dassa-Zoumé Aujourd'hui : Carrefour Stratégique du Centre-Bénin\nAujourd'hui, chef-lieu du département des Collines, Dassa-Zoumé est un nœud routier et ferroviaire majeur. Elle allie tourisme religieux, écotourisme de randonnée et dynamisme agricole grâce à sa production de céréales et de tubercules.",
+  "leSaviezVous": "Dassa-Zoumé est entourée de 40 collines sacrées. La tradition veut que chaque colline ait son nom, son histoire et sa divinité protectrice dans la cosmogonie Idaasha.",
+  "statistiquesGlobales": {
+    "superficieKm2": 1711,
+    "population": 112000,
+    "rangPopulationNational": 42,
+    "densiteHabitantKm2": 65,
+    "arrondissements": 10,
+    "villagesEtQuartiers": 69,
+    "altitudeMoyenneM": 156,
+    "anneeCreationCommune": 1978,
+    "partPopulationDuDepartementPct": 15.5
+  },
+  "geographieClimat": {
+    "altitudeMaxM": 415,
+    "altitudeMinM": 85,
+    "precipitationsAnnuellesMm": 1150,
+    "temperatureMoyenneC": 27.5,
+    "temperatureMaxMoyenneC": 34.0,
+    "temperatureMinMoyenneC": 22.0,
+    "saisonSècheMois": "Novembre à Mars / Juillet à Août",
+    "saisonPluiesMois": "Avril à Juin / Septembre à Octobre",
+    "reseauHydrographique": [
+      "Fleuve Ouémé (Bordure orientale)",
+      "Rivière Zou",
+      "Retenues d'eau et cours d'eau saisonniers"
+    ],
+    "reliefEtPaysage": "Paysage spectaculaire de granites et d'inselbergs (collines), alternant avec des savanes arborées et des plaines agricoles"
+  },
+  "donneesEconomiques": {
+    "pibParHabitantUsd Estimate": 890,
+    "secteursEconomiques": [
+      {
+        "secteur": "Agriculture, Élevage & Chasse",
+        "pourcentage": 62
+      },
+      {
+        "secteur": "Commerce, Transport & Hôtellerie",
+        "pourcentage": 26
+      },
+      {
+        "secteur": "Artisanat & Services",
+        "pourcentage": 12
+      }
+    ],
+    "principalesCultures": [
+      "Igname (Variétés renommées)",
+      "Maïs et Manioc",
+      "Anacarde (Noix de cajou)",
+      "Soja et Arachide",
+      "Coton"
+    ],
+    "elevageEtRessources": [
+      "Élevage bovin transhumant et sédentaire",
+      "Petits ruminants et volailles",
+      "Exploitation de carrières de granite"
+    ],
+    "infrastructuresTransport": [
+      "Route Nationale Inter-États RNIE 2 (Axe Cotonou-Parakou)",
+      "Ligne ferroviaire Cotonou-Parakou (Passage historique)",
+      "Carrefour routier reliant Savalou et Djougou"
+    ]
+  },
+  "arrondissements": [
+    {
+      "nom": "Dassa I (Centre-Ville)",
+      "population": 21000,
+      "chefLieu": "Dassa-Zoumé",
+      "specialite": "Centre administratif, commerce, hôtellerie et sanctuaires"
+    },
+    {
+      "nom": "Dassa II",
+      "population": 15000,
+      "chefLieu": "Dassa II",
+      "specialite": "Services urbains, artisanat et transport"
+    },
+    {
+      "nom": "Akoffodjoule",
+      "population": 9500,
+      "chefLieu": "Akoffodjoule",
+      "specialite": "Agriculture vivrière et cultures de tubercules"
+    },
+    {
+      "nom": "Gbaffo",
+      "population": 11000,
+      "chefLieu": "Gbaffo",
+      "specialite": "Production d'igname, de maïs et élevage"
+    },
+    {
+      "nom": "Kere",
+      "population": 10500,
+      "chefLieu": "Kere",
+      "specialite": "Arboriculture (anacarde) et céréales"
+    },
+    {
+      "nom": "Kpingni",
+      "population": 8500,
+      "chefLieu": "Kpingni",
+      "specialite": "Cultures maraîchères et vivrières"
+    },
+    {
+      "nom": "Lema",
+      "population": 9000,
+      "chefLieu": "Lema",
+      "specialite": "Production d'igname et palmeraies"
+    },
+    {
+      "nom": "Paouingnan",
+      "population": 14500,
+      "chefLieu": "Paouingnan",
+      "specialite": "Grand marché agricole, carrefour commercial et manioc"
+    },
+    {
+      "nom": "Soclogbo",
+      "population": 8000,
+      "chefLieu": "Soclogbo",
+      "specialite": "Agriculture traditionnelle et extraction artisanale"
+    },
+    {
+      "nom": "Tre",
+      "population": 5000,
+      "chefLieu": "Tre",
+      "specialite": "Élevage et cultures de savane"
+    }
+  ],
+  "démographie": {
+    "groupesEthniquesMajoritaires": [
+      "Idaasha (Groupe Nago / Yoruba majoritaire)",
+      "Mahi",
+      "Fon",
+      "Fulbé (Peuls)"
+    ],
+    "languesParlees": [
+      "Idaasha",
+      "Mahigbe",
+      "Fongbe",
+      "Français"
+    ],
+    "religions": [
+      "Christianisme (Catholiques, Évangéliques, Célestes)",
+      "Religions traditionnelles (Cultes des collines, Orisha, Vodoun)",
+      "Islam"
+    ]
+  },
+  "lieuxAVisiter": [
+    {
+      "id": "grotte-notre-dame-arigbo",
+      "nom": "Grotte Notre-Dame d'Arigbo",
+      "description": "Lieu de pèlerinage catholique majeur situé au pied d'une falaise rocheuse impressionnante, accueillant des milliers de fidèles chaque mois d'août.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Forge_traditionnelle_au_Benin.jpg",
+      "imageAlt": "La grotte mémoriale et le sanctuaire d'Arigbo à Dassa-Zoumé"
+    },
+    {
+      "id": "collines-de-dassa",
+      "nom": "Circuit des Collines Sacrées et Randonnées",
+      "description": "Formations granitiques spectaculaires offrant des parcours de randonnée magnifiques et des panoramas uniques sur tout le département des Collines.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+      "imageAlt": "Vue sur les monts et inselbergs granitiques de Dassa"
+    },
+    {
+      "id": "palais-royal-idaasha",
+      "nom": "Site Historique du Royaume d'Idaasha",
+      "description": "Lieu chargé d'histoire retraçant les dynasties royales Idaasha, les cérémonies traditionnelles et la mémoire des rois de Dassa.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bohicon_Street.jpg",
+      "imageAlt": "Architecture et éléments royaux de la culture Idaasha"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel surnom géographique donne-t-on couramment à la commune de Dassa-Zoumé ?",
+      "options": [
+        "La cité des 40 collines",
+        "La cité des 7 lacs",
+        "La cité des lagunes",
+        "La vallée des baobabs"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Dassa-Zoumé est célèbre dans tout le Bénin pour être entourée de 40 collines granitiques imposantes.",
+      "points": 25
+    },
+    {
+      "question": "De quel département la ville de Dassa-Zoumé est-elle le chef-lieu ?",
+      "options": [
+        "Le département des Collines",
+        "Le Zou",
+        "Borgou",
+        "Donga"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Dassa-Zoumé est la préfecture et le chef-lieu administratif du département des Collines.",
+      "points": 25
+    },
+    {
+      "question": "Quel célèbre sanctuaire religieux catholique attire des milliers de pèlerins chaque mois d'août à Dassa ?",
+      "options": [
+        "La Grotte Notre-Dame d'Arigbo",
+        "La Basilique de l'Immaculée Conception",
+        "La Cathedrale Saint-Michel",
+        "Le Monastère du Mont Sinaï"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Grotte Notre-Dame d'Arigbo à Dassa-Zoumé est le principal pèlerinage marial du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel est le groupe ethnique et culturel historiquement fondateur de Dassa-Zoumé ?",
+      "options": [
+        "Les Idaasha",
+        "Les Bariba",
+        "Les Dendi",
+        "Les Somba"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Idaasha (sous-groupe Nago/Yoruba) sont la population fondatrice du royaume d'Idaasha à Dassa-Zoumé.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

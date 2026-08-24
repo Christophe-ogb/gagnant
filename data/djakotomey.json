@@ -1,0 +1,223 @@
+{
+  "id": "djakotomey",
+  "type": "commune",
+  "nom": "Djakotomey",
+  "sousTitre": "Terre de traditions adja, carrefour commercial et grenier agricole du Couffo",
+  "communeAssociee": "Djakotomey",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+  "imageAlt": "Vue sur les paysages agricoles et ruraux de la commune de Djakotomey",
+  "descriptionHistoire": "01. Les Origines Adja-Tado\nL'histoire de Djakotomey s'inscrit au cœur du grand foyer de peuplement Adja-Tado. Bâtie par des groupes migratoires en quête de terres fertiles et de sécurité, la localité s'est développée autour de chefs de terre et d'us coutumes fortement ancrés dans la tradition Adja.\n\n02. Le Pôle Commercial et Agricole du Couffo\nGrâce à des sols ferrallitiques profonds et à sa position stratégique près des axes de circulation du sud-ouest, Djakotomey s'est imposée comme un centre majeur de production et d'échange de céréales, de tubercules et d'huile de palme.\n\n03. Préservation des Traditions et des Cultes\nCommune à l'identité culturelle affirmée, Djakotomey abrite de nombreux couvents traditionnels, des divinités tutélaires (Vodoun) et des manifestations folkloriques qui rythment la vie des populations locales.\n\n04. Djakotomey Aujourd'hui : Modernisation Rurale\nAujourd'hui, la commune de Djakotomey investit dans la transformation des produits agricoles (huile de palme, gari, farine de maïs), le renforcement des infrastructures de marché et le développement de services pour ses dix arrondissements.",
+  "leSaviezVous": "Djakotomey abrite certains des marchés ruraux les plus dynamiques du département du Couffo, fréquentés régulièrement par des commerçants venus du Togo voisin et de tout le Sud-Bénin.",
+  "statistiquesGlobales": {
+    "superficieKm2": 325,
+    "population": 134000,
+    "rangPopulationNational": 32,
+    "densiteHabitantKm2": 412,
+    "arrondissements": 10,
+    "villagesEtQuartiers": 84,
+    "altitudeMoyenneM": 75,
+    "anneeCreationCommune": 1978,
+    "partPopulationDuDepartementPct": 18.0
+  },
+  "geographieClimat": {
+    "altitudeMaxM": 110,
+    "altitudeMinM": 40,
+    "precipitationsAnnuellesMm": 1100,
+    "temperatureMoyenneC": 27.2,
+    "temperatureMaxMoyenneC": 33.0,
+    "temperatureMinMoyenneC": 22.5,
+    "saisonSècheMois": "Novembre à Mars / Juillet à Août",
+    "saisonPluiesMois": "Avril à Juin / Septembre à Octobre",
+    "reseauHydrographique": [
+      "Cours d'eau saisonniers et bas-fonds",
+      "Retenues d'eau et mares naturelles"
+    ],
+    "reliefEtPaysage": "Plateau de terre de barre à relief peu accidenté, ponctué de bas-fonds marécageux et de palmeraies"
+  },
+  "donneesEconomiques": {
+    "pibParHabitantUsd Estimate": 820,
+    "secteursEconomiques": [
+      {
+        "secteur": "Agriculture, Élevage & Palmeraies",
+        "pourcentage": 72
+      },
+      {
+        "secteur": "Commerce, Marchés & Agro-transformation",
+        "pourcentage": 18
+      },
+      {
+        "secteur": "Artisanat & Services",
+        "pourcentage": 10
+      }
+    ],
+    "principalesCultures": [
+      "Maïs (Culture reine)",
+      "Manioc (Transformation en Gari/Tapioca)",
+      "Palmier à huile",
+      "Haricot et Niébé",
+      "Arachide"
+    ],
+    "elevageEtRessources": [
+      "Élevage de volailles et de petits ruminants (cabris, moutons)",
+      "Pisciculture en bas-fonds",
+      "Production d'huile de palme et de sodabi (alcool traditionnel)"
+    ],
+    "infrastructuresTransport": [
+      "Axes routiers reliant Djakotomey à Azovè, Dogbo et Aplahoué",
+      "Pistes rurales de desserte agricole"
+    ]
+  },
+  "arrondissements": [
+    {
+      "nom": "Djakotomey I (Centre)",
+      "population": 22000,
+      "chefLieu": "Djakotomey",
+      "specialite": "Centre administratif, services, commerce et équipements publics"
+    },
+    {
+      "nom": "Djakotomey II",
+      "population": 16000,
+      "chefLieu": "Djakotomey II",
+      "specialite": "Activités commerciales, artisanat et maïs"
+    },
+    {
+      "nom": "Adjintimey",
+      "population": 14000,
+      "chefLieu": "Adjintimey",
+      "specialite": "Transformation du manioc et palmeraies"
+    },
+    {
+      "nom": "Betoumey",
+      "population": 12000,
+      "chefLieu": "Betoumey",
+      "specialite": "Cultures vivrières et maraîchage de bas-fonds"
+    },
+    {
+      "nom": "Gohomey",
+      "population": 15000,
+      "chefLieu": "Gohomey",
+      "specialite": "Grand marché local, céréales et huile de palme"
+    },
+    {
+      "nom": "Houegamey",
+      "population": 11000,
+      "chefLieu": "Houegamey",
+      "specialite": "Production d'arachide, niébé et élevage"
+    },
+    {
+      "nom": "Kpoba",
+      "population": 13000,
+      "chefLieu": "Kpoba",
+      "specialite": "Arboriculture et cultures de manioc"
+    },
+    {
+      "nom": "Koudo",
+      "population": 12500,
+      "chefLieu": "Koudo",
+      "specialite": "Production d'huile de palme et petit élevage"
+    },
+    {
+      "nom": "Soklogbo",
+      "population": 10000,
+      "chefLieu": "Soklogbo",
+      "specialite": "Agriculture traditionnelle et extraction d'huile"
+    },
+    {
+      "nom": "Yemfin",
+      "population": 8500,
+      "chefLieu": "Yemfin",
+      "specialite": "Cultures de maïs, haricot et artisanat rural"
+    }
+  ],
+  "démographie": {
+    "groupesEthniquesMajoritaires": [
+      "Adja (Groupe très largement majoritaire)",
+      "Fon",
+      "Kotafon"
+    ],
+    "languesParlees": [
+      "Adjagbe",
+      "Fongbe",
+      "Français"
+    ],
+    "religions": [
+      "Religions traditionnelles (Vodoun, Sakpata, Heviosso)",
+      "Christianisme (Catholiques, Évangéliques, Célestes)",
+      "Islam"
+    ]
+  },
+  "lieuxAVisiter": [
+    {
+      "id": "marches-traditionnels-djakotomey",
+      "nom": "Marchés Traditionnels et Agricoles de Djakotomey",
+      "description": "Lieux d'échanges animés où s'achètent produits vivriers frais, huile de palme artisanale, condiments et produits de l'artisanat local.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bohicon_Street.jpg",
+      "imageAlt": "Animation d'un marché rural dans la région du Couffo"
+    },
+    {
+      "id": "palmeraies-unites-huile",
+      "nom": "Circuits des Palmeraies et Unités d'Extraction d'Huile",
+      "description": "Découverte des méthodes traditionnelles et semi-mécanisées de fabrication de l'huile de palme rouge et du palmiste.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+      "imageAlt": "Paysage de palmeraies et de plantations rurales"
+    },
+    {
+      "id": "sites-culturels-adja",
+      "nom": "Couvents et Sanctuaires de la Culture Adja",
+      "description": "Patrimoine immatériel riche à travers la découverte des traditions, de la musique sacrée et des festivités coutumières du pays Adja.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Forge_traditionnelle_au_Benin.jpg",
+      "imageAlt": "Éléments et symboles de la culture traditionnelle"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Djakotomey ?",
+      "options": [
+        "Le Couffo",
+        "Le Mono",
+        "Le Zou",
+        "L'Atlantique"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Djakotomey est l'une des communes phares du département du Couffo, dans le Sud-Ouest du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe ethnique et culturel constitue la majorité de la population à Djakotomey ?",
+      "options": [
+        "Les Adja",
+        "Les Bariba",
+        "Les Yom",
+        "Les Nagot"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Djakotomey est un important bastion de la culture et du peuple Adja.",
+      "points": 25
+    },
+    {
+      "question": "Quelle est l'une des principales spéculations agricoles transformées localement à Djakotomey ?",
+      "options": [
+        "Le palmier à huile (Huile de palme)",
+        "Le cacao",
+        "Le café",
+        "Le thé"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'exploitation des palmeraies et la transformation des régimes de palme constituent un pilier économique majeur à Djakotomey.",
+      "points": 25
+    },
+    {
+      "question": "Combien d'arrondissements compte la commune de Djakotomey ?",
+      "options": [
+        "10",
+        "5",
+        "12",
+        "7"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Djakotomey se compose de 10 arrondissements ruraux et urbains.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

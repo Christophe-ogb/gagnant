@@ -1,0 +1,20 @@
+{
+  "id": "nicéphore-soglo",
+  "type": "contemporain",
+  "nom": "Nicéphore Dieudonné Soglo",
+  "sousTitre": "Le Technocrate, l’Artisan du Redressement Économique et du Renouveau Démocratique",
+  "communeAssociee": "Zou",
+  "imageUrl": "/games/soglo.webp",
+  "imageAlt": "Portrait du Président Nicéphore Dieudonné Soglo",
+  "descriptionHistoire": "01. 1934–1990 · Le haut fonctionnaire international\nNé le 29 novembre 1934 à Lomé dans une famille originaire de Bohicon et d’Abomey, Nicéphore Soglo étudie le droit et l’économie en France. Il devient inspecteur des finances puis administrateur à la Banque Mondiale, où il suit les dossiers de plusieurs pays africains.\n\n02. 1990–1991 · Le Premier ministre de la transition\nAprès la Conférence des Forces Vives de la Nation, Soglo est choisi comme Premier ministre du gouvernement de transition. Il travaille au redressement des finances publiques, au paiement des salaires et à l’organisation d’élections libres.\n\n03. 1991–1996 · L’élection et la reconstruction\nEn mars 1991, il remporte l’élection présidentielle et devient le premier président de l’ère démocratique. Son mandat est associé aux réformes économiques, aux infrastructures, à la filière cotonnière et à l’ouverture aux investissements, dans le contexte difficile de la dévaluation du franc CFA en 1994.\n\n04. 1996–2015 · L’opposition et l’engagement municipal\nAprès sa défaite électorale de 1996, Soglo respecte le verdict des urnes et reste engagé dans l’opposition démocratique. Il devient maire de Cotonou en 2003, est réélu en 2008 et exerce cette fonction jusqu’en 2015, tout en jouant un rôle de médiateur politique.",
+  "leSaviezVous": "Nicéphore Soglo a été Premier ministre de la transition avant de devenir président en 1991, puis maire de Cotonou de 2003 à 2015.",
+  "scenes": [],
+  "challenge": { "badge": "Sceau de la Reconstruction et du Renouveau", "accroche": "Découvrez l’économiste qui a redressé le Bénin en 1990", "encouragement": "Vous maîtrisez l’histoire et les réalisations de Nicéphore Soglo." },
+  "quiz": [
+    { "question": "Quelle fonction internationale Soglo occupait-il avant la transition ?", "options": ["Administrateur à la Banque Mondiale", "Directeur à l’UNESCO", "Ambassadeur aux Nations Unies", "Président de la CEDEAO"], "reponseCorrecteIndex": 0, "explication": "Il était administrateur à la Banque Mondiale.", "points": 20 },
+    { "question": "Quel poste occupe-t-il de 1990 à 1991 ?", "options": ["Premier ministre de transition", "Président de la Cour constitutionnelle", "Ministre de la Défense", "Président de l’Assemblée nationale"], "reponseCorrecteIndex": 0, "explication": "Il dirige le gouvernement de transition comme Premier ministre.", "points": 20 },
+    { "question": "Quel parti politique est associé à son action ?", "options": ["La Renaissance du Bénin", "Les FCBE", "Le PRPB", "L’Union fait la Nation"], "reponseCorrecteIndex": 0, "explication": "La Renaissance du Bénin a soutenu son action politique.", "points": 20 },
+    { "question": "Quelle ville a-t-il dirigée comme maire ?", "options": ["Cotonou", "Porto-Novo", "Parakou", "Abomey"], "reponseCorrecteIndex": 0, "explication": "Il a été maire de Cotonou de 2003 à 2015.", "points": 20 }
+  ],
+  "isReady": true
+}

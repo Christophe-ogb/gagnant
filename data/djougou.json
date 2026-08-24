@@ -1,0 +1,241 @@
+{
+  "id": "djougou",
+  "type": "commune",
+  "nom": "Djougou",
+  "sousTitre": "Carrefour stratégique du Nord-Bénin, cité marchande et berceau de diversité culturelle",
+  "communeAssociee": "Djougou",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+  "imageAlt": "Vue sur la ville commerçante de Djougou et les reliefs de la Donga",
+  "descriptionHistoire": "01. Origines et Fondation du Royaume de Kilir\nL'histoire de Djjougou remonte au XIVe siècle avec la fondation du royaume de Kilir par les dignitaires Dendi et Yom. La position de Djougou au croisement des routes caravanières reliant la boucle du Niger à la côte du golfe de Guinée en a fait très tôt une plaque tournante du commerce précolonial.\n\n02. Le Grand Carrefour Commercial du Nord\nGrâce à sa situation géographique d'intersection entre les grands axes Nord-Sud (Cotonou-Malanville) et Est-Ouest (Togo-Nigéria), Djougou est devenue la première ville marchande et le poumon économique de la région septentrionale du Bénin.\n\n03. Un Modèle de Cohabitation Interculturelle et Religieuse\nHistoriquement marquée par une forte tradition musulmane associée aux coutumes royales Yom et Lokpa, Djjougou est reconnue comme un exemple remarquable de tolérance religieuse et d'intégration de nombreuses communautés (Dendi, Peul, Fon, Bariba).\n\n04. Djjougou Aujourd'hui : Chef-Lieu de la Donga et Métropole Régionale\nAujourd'hui, Djjougou est la préfecture du département de la Donga et la troisième plus grande ville du Bénin par sa population. Elle continue de se moderniser avec le développement des infrastructures routières, le commerce transfrontalier et le traitement agro-industriel de l'anacarde.",
+  "leSaviezVous": "Djougou est historiquement surnommée 'la cité des trois cavaliers' en référence aux fondateurs légendaires et aux cavaliers du royaume de Kilir, symbole de puissance et de tradition.",
+  "statistiquesGlobales": {
+    "superficieKm2": 3966,
+    "population": 267000,
+    "rangPopulationNational": 4,
+    "densiteHabitantKm2": 67,
+    "arrondissements": 12,
+    "villagesEtQuartiers": 131,
+    "altitudeMoyenneM": 430,
+    "anneeCreationCommune": 1978,
+    "partPopulationDuDepartementPct": 49.2
+  },
+  "geographieClimat": {
+    "altitudeMaxM": 620,
+    "altitudeMinM": 320,
+    "precipitationsAnnuellesMm": 1250,
+    "temperatureMoyenneC": 26.5,
+    "temperatureMaxMoyenneC": 34.5,
+    "temperatureMinMoyenneC": 20.5,
+    "saisonSècheMois": "Novembre à Mars (Marquée par l'Harmattan)",
+    "saisonPluiesMois": "Avril à Octobre",
+    "reseauHydrographique": [
+      "Rivière Affon",
+      "Rivière Donga",
+      "Bassin supérieur du fleuve Mono"
+    ],
+    "reliefEtPaysage": "Plateau soudano-guinéen dominé par la chaîne de l'Atacora au nord, alternant vallées, inselbergs et forêts claires"
+  },
+  "donneesEconomiques": {
+    "pibParHabitantUsd Estimate": 980,
+    "secteursEconomiques": [
+      {
+        "secteur": "Commerce, Transport & Logistique Transfrontalière",
+        "pourcentage": 48
+      },
+      {
+        "secteur": "Agriculture & Élevage",
+        "pourcentage": 42
+      },
+      {
+        "secteur": "Artisanat, Agro-industrie & Services",
+        "pourcentage": 10
+      }
+    ],
+    "principalesCultures": [
+      "Anacarde (Djougou est un pôle majeur du cajou)",
+      "Igname (Grande production locale)",
+      "Maïs et Sorgho",
+      "Soja et Arachide",
+      "Coton"
+    ],
+    "elevageEtRessources": [
+      "Élevage bovin, ovin et caprin de grande échelle",
+      "Transformation de noix de cajou",
+      "Artisanat du cuir et de la forge"
+    ],
+    "infrastructuresTransport": [
+      "Axe international RNIE 3 (Natitingou-Djougou-Togo)",
+      "Axe international RNIE 2 / Route Parakou-Djougou",
+      "Gare routière internationale de Djougou"
+    ]
+  },
+  "arrondissements": [
+    {
+      "nom": "Djougou I (Centre-Ville)",
+      "population": 38000,
+      "chefLieu": "Djougou",
+      "specialite": "Centre commercial, banques, marchés et services administratifs"
+    },
+    {
+      "nom": "Djougou II",
+      "population": 32000,
+      "chefLieu": "Djougou II",
+      "specialite": "Quartiers résidentiels, artisanat et transport"
+    },
+    {
+      "nom": "Djougou III",
+      "population": 29000,
+      "chefLieu": "Djougou III",
+      "specialite": "Commerce de transit, dépôts et services"
+    },
+    {
+      "nom": "Bariénou",
+      "population": 22000,
+      "chefLieu": "Bariénou",
+      "specialite": "Production d'igname, maïs et élevage"
+    },
+    {
+      "nom": "Bellefoungou",
+      "population": 16000,
+      "chefLieu": "Bellefoungou",
+      "specialite": "Forêt classée, écotourisme et filière bois"
+    },
+    {
+      "nom": "Bougou",
+      "population": 19000,
+      "chefLieu": "Bougou",
+      "specialite": "Grandes plantations d'anacarde et maïs"
+    },
+    {
+      "nom": "Kolokondé",
+      "population": 28000,
+      "chefLieu": "Kolokondé",
+      "specialite": "Marché à bétail régional et cultures vivrières"
+    },
+    {
+      "nom": "Onklou",
+      "population": 24000,
+      "chefLieu": "Onklou",
+      "specialite": "Production de soja, arachide et igname"
+    },
+    {
+      "nom": "Patargo",
+      "population": 18000,
+      "chefLieu": "Patargo",
+      "specialite": "Arboriculture (cajou) et petit élevage"
+    },
+    {
+      "nom": "Pélébina",
+      "population": 12000,
+      "chefLieu": "Pélébina",
+      "specialite": "Cultures vivrières et tradition réputée de forge"
+    },
+    {
+      "nom": "Sérou",
+      "population": 15000,
+      "chefLieu": "Sérou",
+      "specialite": "Agriculture de savane et élevage bovin"
+    },
+    {
+      "nom": "Taïacou",
+      "population": 14000,
+      "chefLieu": "Taïacou",
+      "specialite": "Produits maraîchers et maïs"
+    }
+  ],
+  "démographie": {
+    "groupesEthniquesMajoritaires": [
+      "Yom",
+      "Lokpa",
+      "Dendi",
+      "Fulbé (Peuls)",
+      "Bariba"
+    ],
+    "languesParlees": [
+      "Yomgbe",
+      "Lokpagbe",
+      "Dendigbe",
+      "Fulfulde",
+      "Français"
+    ],
+    "religions": [
+      "Islam (Majoritaire)",
+      "Christianisme (Catholiques, Évangéliques)",
+      "Traditions coutumières et cultes royaux"
+    ]
+  },
+  "lieuxAVisiter": [
+    {
+      "id": "palais-royal-kilir",
+      "nom": "Palais Royal du Kilir et Chefferie Traditionnelle",
+      "description": "Siège de la chefferie traditionnelle Yom et Dendi, gardien des coutumes ancestrales et des cérémonies de chevauchée royale.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Forge_traditionnelle_au_Benin.jpg",
+      "imageAlt": "Architecture royale et symboles de la chefferie à Djougou"
+    },
+    {
+      "id": "foret-classee-bellefoungou",
+      "nom": "Forêt Classée de Bellefoungou",
+      "description": "Réserve naturelle idéale pour la randonnée, la découverte de la biodiversité végétale et l'observation de la faune locale.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Le_Jardin_des_Plantes_de_la_Nature_de_Porto_Novo.jpg",
+      "imageAlt": "Paysage végétal et forêt boisée de la région de Djougou"
+    },
+    {
+      "id": "grand-marche-djougou",
+      "nom": "Le Grand Marché Central de Djjougou",
+      "description": "Plaque tournante du commerce sous-régional où se croisent étoffes, épices, céréales, bétail et produits importés du Togo et du Nigéria.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Bohicon_Street.jpg",
+      "imageAlt": "Animation et étals colorés du grand marché de Djougou"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "De quel département la ville de Djjougou est-elle le chef-lieu et la préfecture ?",
+      "options": [
+        "La Donga",
+        "L'Atacora",
+        "Le Borgou",
+        "L'Alibori"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Djougou est la préfecture et la plus grande ville du département de la Donga.",
+      "points": 25
+    },
+    {
+      "question": "Quel royaume historique est à l'origine de la fondation de Djjougou ?",
+      "options": [
+        "Le Royaume du Kilir",
+        "Le Royaume de Nikki",
+        "Le Royaume de Kouande",
+        "Le Royaume de Kétou"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le royaume de Kilir est l'entité politique traditionnelle fondatrice de Djougou.",
+      "points": 25
+    },
+    {
+      "question": "Quelle culture de rente fait de Djjougou un grand centre de collecte et de transformation agro-alimentaire ?",
+      "options": [
+        "L'Anacarde (Noix de cajou)",
+        "Le Café",
+        "La Canne à sucre",
+        "Le Cacao"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Djougou est l'un des plus grands carrefours de production et de négoce de la noix de cajou au Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quelle est la principale religion pratiquée par la majorité des habitants de la ville de Djjougou ?",
+      "options": [
+        "L'Islam",
+        "Le Catholicisme",
+        "Le Protestantisme",
+        "Le Bouddhisme"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'Islam est la religion historiquement et démographiquement majoritaire à Djjougou.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

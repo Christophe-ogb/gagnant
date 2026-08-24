@@ -1,0 +1,20 @@
+{
+  "id": "patrice-talon",
+  "type": "contemporain",
+  "nom": "Patrice Talon",
+  "sousTitre": "Le Bâtisseur de la Rupture et le Promoteur de la Renaissance Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/talon.webp",
+  "imageAlt": "Portrait officiel du Président Patrice Talon",
+  "descriptionHistoire": "01. 2016 · De l’industrie au Palais de la Marina\nActeur majeur de l’économie béninoise et de la filière cotonnière, Patrice Talon se présente à l’élection présidentielle de mars 2016 sous le slogan de la « Rupture ». Il remporte le second tour face à Lionel Zinsou avec plus de 65 % des suffrages et prend ses fonctions le 6 avril 2016.\n\n02. Le PAG et la transformation structurelle\nDès le début de son mandat, il lance le Programme d’Action du Gouvernement, ou Bénin Révélé. Le plan concerne les infrastructures, l’énergie, le numérique, l’eau et le tourisme. Le projet Asphaltage transforme la voirie et la Zone Économique Spéciale de Glo-Djigbé vise la transformation industrielle des produits locaux.\n\n03. 2021 · Réformes et réélection\nPatrice Talon est réélu en avril 2021 pour un second mandat. Son gouvernement poursuit les réformes institutionnelles, judiciaires et politiques, notamment la restructuration du système partisan et la création de la CRIET.\n\n04. Le retour des trésors royaux\nLa diplomatie culturelle de son gouvernement accompagne la restitution par la France, en novembre 2021, de 26 trésors royaux d’Abomey. Cet événement renforce le rayonnement culturel du Bénin, avec la valorisation des musées et les Vodun Days à Ouidah.",
+  "leSaviezVous": "En novembre 2021, 26 trésors royaux d’Abomey ont été restitués au Bénin après plus d’un siècle hors du pays. Les Vodun Days sont également organisés à Ouidah sous son mandat.",
+  "scenes": [],
+  "challenge": { "badge": "Sceau de la Renaissance et de la Rupture", "accroche": "Explorez les réformes et les grands travaux du Président Patrice Talon", "encouragement": "Vous maîtrisez les projets et les accomplissements du président Patrice Talon." },
+  "quiz": [
+    { "question": "Quel slogan a guidé l’arrivée de Patrice Talon au pouvoir en 2016 ?", "options": ["La Rupture / Le Nouveau Départ", "Le Changement", "La Refondation", "Le Renouveau démocratique"], "reponseCorrecteIndex": 0, "explication": "Son projet de société était associé à la Rupture et au Nouveau Départ.", "points": 20 },
+    { "question": "Quelle zone industrielle transforme les ressources béninoises ?", "options": ["La GDIZ de Glo-Djigbé", "La zone franche de Sèmè-Kpodji", "Le parc industriel de Malanville", "Le port sec de Parakou"], "reponseCorrecteIndex": 0, "explication": "La GDIZ vise la transformation industrielle locale.", "points": 20 },
+    { "question": "Combien de trésors royaux ont été restitués au Bénin en 2021 ?", "options": ["12", "26", "50", "100"], "reponseCorrecteIndex": 1, "explication": "26 trésors royaux d’Abomey ont été rapatriés.", "points": 20 },
+    { "question": "Quel événement culturel célèbre le patrimoine vodun à Ouidah ?", "options": ["Les Vodun Days", "Le Festival de Cannes", "La Biennale de Cotonou", "Les Journées du Coton"], "reponseCorrecteIndex": 0, "explication": "Les Vodun Days mettent en valeur les arts et la culture vodun.", "points": 20 }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": "isidore-de-souza",
+  "type": "contemporain",
+  "nom": "Monseigneur Isidore de Souza",
+  "sousTitre": "Le Prélat de la Nation et le Guide de la Transition Démocratique",
+  "communeAssociee": "Ouidah",
+  "imageUrl": "/games/desouza.jfif",
+  "imageAlt": "Portrait de Monseigneur Isidore de Souza",
+  "descriptionHistoire": "01. 1934–1990 · De la vocation sacerdotale à l’archevêché\nNé le 4 avril 1934 à Ouidah, Isidore de Souza étudie la théologie et l’Écriture Sainte à Rome. Ordonné prêtre en 1962, il enseigne à Ouidah et à Abidjan. Il devient archevêque coadjuteur de Cotonou en 1981, puis archevêque métropolitain en 1990.\n\n02. Février 1990 · Le présidium de la Conférence Nationale\nDans une période de crise économique, sociale et politique, les délégués choisissent Mgr de Souza pour présider la Conférence des Forces Vives de la Nation. Son calme, son autorité morale et son sens du dialogue aident à maintenir un consensus pacifique.\n\n03. 1990–1991 · Le Haut Conseil de la République\nAprès la Conférence, il préside le Haut Conseil de la République, organe de transition chargé d’accompagner les réformes, le calendrier électoral et la préparation de la Constitution du 11 décembre 1990.\n\n04. 1999 · Un héritage de paix\nAprès la transition, Mgr de Souza retourne à son ministère pastoral et à ses œuvres sociales. Il meurt à Ouidah le 13 mars 1999 et reste associé au renouveau démocratique béninois.",
+  "leSaviezVous": "Pendant la Conférence Nationale de 1990, Mgr de Souza a utilisé son autorité morale et le dialogue pour aider les délégués à éviter un affrontement violent.",
+  "scenes": [],
+  "challenge": { "badge": "Sceau du Sage de l’Aledjo", "accroche": "Découvrez l’homme qui a guidé la transition démocratique béninoise", "encouragement": "Vous connaissez le rôle déterminant de Mgr Isidore de Souza." },
+  "quiz": [
+    { "question": "Quelle assemblée Mgr de Souza a-t-il présidée en février 1990 ?", "options": ["La Conférence des Forces Vives de la Nation", "Le sommet de la CEDEAO", "Le congrès du parti unique", "Le Conseil d’administration de l’ONU"], "reponseCorrecteIndex": 0, "explication": "Il préside la Conférence Nationale de 1990.", "points": 20 },
+    { "question": "Quelle fonction religieuse occupait-il pendant la transition ?", "options": ["Archevêque de Cotonou", "Pasteur de Parakou", "Imam de la Grande Mosquée", "Doyen de l’Université"], "reponseCorrecteIndex": 0, "explication": "Il était archevêque métropolitain de Cotonou.", "points": 20 },
+    { "question": "Quel organe de transition a-t-il présidé ?", "options": ["Le Haut Conseil de la République", "La Cour constitutionnelle", "Le Comité révolutionnaire", "Le Sénat"], "reponseCorrecteIndex": 0, "explication": "Il a présidé le HCR de 1990 à 1991.", "points": 20 },
+    { "question": "Dans quelle ville est-il né et décédé ?", "options": ["Ouidah", "Porto-Novo", "Abomey", "Natitingou"], "reponseCorrecteIndex": 0, "explication": "Mgr Isidore de Souza est né et mort à Ouidah.", "points": 20 }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mathieu-kerekou",
+  "type": "contemporain",
+  "nom": "Mathieu Kérékou",
+  "sousTitre": "Le Caméléon, Père de la Révolution et de la Transition Démocratique",
+  "communeAssociee": "Kouarfa",
+  "imageUrl":  "/games/kerekou.webp",
+  "imageAlt": "Portrait officiel du Président Mathieu Kérékou",
+  "descriptionHistoire": "01. 1972 · Le coup d’État et la Révolution\nNé le 2 septembre 1933 à Kouarfa, Mathieu Kérékou suit une formation militaire. Le 26 octobre 1972, il prend le pouvoir par un coup d’État pour mettre fin à l’instabilité du Conseil présidentiel. En 1974, il proclame le marxisme-léninisme comme idéologie officielle et le pays devient la République populaire du Bénin en 1975.\n\n02. L’ère marxiste et la souveraineté nationale\nLe régime nationalise des entreprises stratégiques, les banques et une partie de l’enseignement. Kérékou crée le Parti de la Révolution populaire du Bénin et développe des complexes industriels et agricoles, malgré les difficultés économiques et les tensions extérieures.\n\n03. 1990 · La Conférence Nationale\nFace à la crise économique et aux grèves, Kérékou convoque la Conférence des Forces Vives de la Nation. Il accepte la fin du parti unique, accompagne la transition dirigée par Nicéphore Soglo et quitte pacifiquement le pouvoir après l’élection de 1991.\n\n04. 1996–2006 · Le retour par les urnes\nSurnommé le Caméléon, Kérékou revient au pouvoir par l’élection de 1996 et est réélu en 2001. Il consolide le multipartisme et quitte la présidence en 2006, dans le respect de la Constitution. Il meurt à Cotonou le 14 octobre 2015.",
+  "leSaviezVous": "Mathieu Kérékou est l’un des rares dirigeants béninois à avoir dirigé le pays sous deux régimes : révolutionnaire puis démocratique après son retour par les urnes.",
+  "scenes": [],
+  "challenge": { "badge": "Sceau du Caméléon et de la Réconciliation", "accroche": "Découvrez la figure centrale du Bénin moderne", "encouragement": "Vous connaissez le parcours unique du Général Mathieu Kérékou." },
+  "quiz": [
+    { "question": "En quelle année Mathieu Kérékou a-t-il pris le pouvoir ?", "options": ["En 1960", "En 1972", "En 1980", "En 1990"], "reponseCorrecteIndex": 1, "explication": "Il prend le pouvoir le 26 octobre 1972.", "points": 20 },
+    { "question": "Quel surnom lui était attribué ?", "options": ["Le Lion", "Le Caméléon", "L’Éléphant", "Le Requin"], "reponseCorrecteIndex": 1, "explication": "Il était surnommé le Caméléon pour sa capacité d’adaptation politique.", "points": 20 },
+    { "question": "Quel événement ouvre la transition démocratique de 1990 ?", "options": ["La Conférence des Forces Vives de la Nation", "Le Sommet de l’OUA", "La Réunion des Armées", "Le Congrès de Bamako"], "reponseCorrecteIndex": 0, "explication": "La Conférence Nationale de février 1990 ouvre la transition.", "points": 20 },
+    { "question": "En quelle année le pays devient-il la République populaire du Bénin ?", "options": ["En 1972", "En 1975", "En 1990", "En 1996"], "reponseCorrecteIndex": 1, "explication": "Le changement de nom intervient le 30 novembre 1975.", "points": 20 }
+  ],
+  "isReady": true
+}

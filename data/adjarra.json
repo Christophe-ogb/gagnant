@@ -1,0 +1,78 @@
+{
+  "id": "adjara",
+  "type": "commune",
+  "nom": "Adjarra",
+  "sousTitre": "La Cité des Tambours, de la poterie et de la Rivière Noire",
+  "communeAssociee": "Adjarra",
+  "imageUrl": "https://www.gouv.bj/upload/thumbnails/articles//0178437001607155527.jpeg",
+  "imageAlt": "Tambours traditionnels en bois taillé d’Adjarra",
+  "descriptionHistoire": "01. Les origines et la fondation (XVIIIe siècle)\nAdjarra est liée aux migrations de peuples Adja venus de Tado et d’Allada. Selon les récits transmis localement, des chasseurs et des chefs de famille se sont établis dans cette région à la recherche de terres fertiles et sûres. Le nom de la commune est associé à cette installation progressive sur un territoire généreux.\n\n02. Le berceau de la vannerie, de la poterie et de la musique\nLa commune s’est distinguée par le travail du bois et de la terre cuite. Les artisans fabriquent notamment des instruments de percussion traditionnels, dont les tambours utilisés dans les cérémonies, les fêtes et les expressions culturelles. Le travail de l’argile à Médédjonou fait aussi partie des savoir-faire artisanaux associés à Adjarra.\n\n03. La Rivière Noire et le patrimoine naturel\nLa Rivière Noire de Djègbé est un repère naturel de la commune. Ses eaux et la végétation qui les borde ont longtemps soutenu les déplacements locaux, la pêche et la découverte du territoire en pirogue. Ce paysage invite à une approche respectueuse des écosystèmes et des habitants qui y vivent.\n\n04. Adjarra aujourd’hui : culture et artisanat\nAdjarra valorise ses artisans, ses percussionnistes, ses potières et ses activités liées au patrimoine naturel. Située près de Porto-Novo, la commune est un territoire où les savoir-faire, les échanges et les initiatives culturelles continuent de nourrir la vie locale.",
+  "leSaviezVous": "Adjarra est connue au Bénin pour ses artisans fabricants de tambours et pour la poterie traditionnelle de Médédjonou. La commune est aussi associée à la Rivière Noire de Djègbé.",
+  "lieuxAVisiter": [
+    {
+      "id": "village-des-tambours",
+      "nom": "Les ateliers de fabrication de tambours",
+      "description": "Des artisans travaillent le bois et les peaux pour fabriquer des tambours traditionnels utilisés dans les expressions musicales et cérémonielles béninoises.",
+      "imageUrl": "https://www.gouv.bj/upload/thumbnails/articles//0178437001607155527.jpeg",
+      "imageAlt": "Fabrication de tambours traditionnels à Adjarra"
+    },
+    {
+      "id": "riviere-noire",
+      "nom": "La Rivière Noire de Djègbé",
+      "description": "Un repère naturel de la commune, découvert en pirogue dans le respect de l’environnement et des communautés riveraines.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Embarcad%C3%A8re_%C3%A0_l%27entr%C3%A9e_de_la_rivi%C3%A8re_noire_%C3%A0_Adjarra_au_B%C3%A9nin_01.jpg",
+      "imageAlt": "Embarcadère et pirogues sur la Rivière Noire à Adjarra"
+    },
+    {
+      "id": "poterie-mededjonou",
+      "nom": "Le centre de poterie de Médédjonou",
+      "description": "Des artisanes y façonnent des objets, des récipients et des jarres en terre cuite, perpétuant un savoir-faire transmis de génération en génération.",
+      "imageUrl": "https://www.gouv.bj/upload/thumbnails/articles//0178437001607155527.jpeg",
+      "imageAlt": "Poteries artisanales de Médédjonou"
+    },
+    {
+      "id": "marche-adjarra",
+      "nom": "Le marché artisanal d’Adjarra",
+      "description": "Un espace d’échanges où se rencontrent artisanat, instruments de musique, produits agricoles et pratiques commerciales locales.",
+      "imageUrl": "https://www.gouv.bj/upload/thumbnails/articles//0178437001607155527.jpeg",
+      "imageAlt": "Artisanat et échanges à Adjarra"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité des Tambours",
+    "accroche": "Penses-tu connaître les rythmes, les artisans et les paysages d’Adjarra ?",
+    "encouragement": "Presque ! Retourne découvrir les tambours, la poterie et la Rivière Noire."
+  },
+  "quiz": [
+    {
+      "question": "Quel surnom culturel est souvent associé à Adjarra ?",
+      "options": ["La Cité des Tambours", "La Cité des Tertres", "La Capitale de la Cire", "La Cité des Guerriers"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Adjarra est reconnue pour le savoir-faire de ses fabricants de tambours traditionnels.",
+      "points": 25
+    },
+    {
+      "question": "Quel cours d’eau est un repère naturel d’Adjarra ?",
+      "options": ["La Rivière Noire de Djègbé", "Le fleuve Mono", "La Rivière Rouge", "Le lac Ahémé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Rivière Noire de Djègbé fait partie des sites naturels associés à la commune.",
+      "points": 25
+    },
+    {
+      "question": "Quel lieu est réputé pour la poterie traditionnelle à Adjarra ?",
+      "options": ["Médédjonou", "Honvié", "Malanhoui", "Aglogbé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Médédjonou est associé à la fabrication artisanale de poteries en terre cuite.",
+      "points": 25
+    },
+    {
+      "question": "Quel artisanat est particulièrement mis en valeur à Adjarra ?",
+      "options": ["La fabrication de tambours", "La construction navale", "Le tissage de la soie", "L’orfèvrerie"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les tambours traditionnels font partie des savoir-faire emblématiques de la commune.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,48 @@
+{
+  "id": "tegbessou",
+  "type": "roi",
+  "nom": "Roi Tegbessou",
+  "sousTitre": "Le Monopoliste de Ouidah, Maître du Vaudou et Strategiste du Danxomè",
+  "communeAssociee": "Abomey",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Roi_Tegbessou.jpg",
+  "imageAlt": "Illustration du Roi Tegbessou",
+  "descriptionHistoire": "01. 1732 · L'Otage D'Oyo et la Guerre des Frères\nAvant de porter la couronne, le prince Avissu connaît l'humiliation. Garçonnet, il est livré par son père le Roi Agadja comme otage politique à la cour redoutable de l'Empire d'Oyo, pour sceller un traité de paix. C'est dans ce palais étranger qu'il apprend la diplomatie, la patience et les secrets des Yoruba. À la mort d'Agadja en 1732, Avissu rentre précipitamment à Abomey, mais son frère le prince Possu s'est déjà emparé du palais. Une guerre de succession sanglante éclate au cœur de la capitale. Grâce à la ferveur de ses partisans et à l'appui des chefs militaires, Avissu élimine ses rivaux et monte sur le trône sous le nom de Tegbessou. Sa devise annonce la couleur : « L'oiseau qui se pose sur le sommet du grand arbre voit tout et ne craint pas la tempête ».\n\n02. Le Drame de Ouidah et l'Invention du Yovogan\nLorsqu'il prend le pouvoir, le port de Ouidah (Glēxwé) est au bord du chaos. Les capitaines de navires français, anglais et portugais profitent de l'anarchie pour ne plus payer de taxes et traiter directement avec des intermédiaires locaux. Tegbessou décide de frapper un grand coup. Il fait raser les comptoirs rebelles, fait arrêter les marchands fraudeurs et crée une fonction unique dans l'histoire de l'Afrique de l'Ouest : le « Yovogan » (littéralement « le chef des Blancs »). Désormais, aucun navire européen ne peut jeter l'ancre, acheter une marchandise ou charger une cargaison sans l'autorisation écrite et le tampon du Yovogan. Le port devient une machine financière redoutable qui déverse de l'or, des armes à feu et des tissus d'Europe directement dans les coffres du palais d'Abomey.\n\n03. La Grande Peur des Dieux et la Domestication du Vaudou\nEn annexant les royaumes d'Allada et de Ouidah, le Danxomè s'est emparé de territoires pratiquant des cultes sacrés très divers et parfois violents. Craignant des rébellions guidées par les prêtres locaux, Tegbessou décide de domestiquer le Vaudou pour en faire un pilier de l'État. Il fait venir à Abomey les plus grands devins Bokonon, fait ériger le culte de Sakpata (dieu de la terre et de la variole), d'Heviosso (dieu du tonnerre) et de Mawu-Lissa sous la protection directe du trône. Pour honorer les esprits des rois défunts et affirmer la continuité divine, il instaure les cérémonies annuelles des « Coutumes » où sont confectionnés les autels métalliques sacrés (les Asen) et où le peuple se rassemble pendant des semaines autour de festins et de rituels imprescriptibles.\n\n04. 1774 · 42 Ans de Règne, d'Intrigues et de Richesse\nPendant quatre décennies, Tegbessou doit jouer un jeu dangereux : satisfaire l'Empire d'Oyo en leur versant un lourd tribut annuel d'esclaves, d'or et de coris, tout en accumulant assez de puissance militaire pour protéger ses propres frontières. Il survit à trois tentatives d'assassinat fomentées par des princes envieux dans son propre palais. Lorsqu'il s'éteint en 1774 dans son palais d'Abomey après 42 ans de règne, il laisse un royaume totalement métamorphosé, doté d'une administration douanière stricte, d'un Vaudou d'État structuré et d'un trésor royal plein à craquer. C'est ce royaume prospère et redouté qu'il transmet à son fils, le roi Kpengla.",
+  "leSaviezVous": "Le Roi Tegbessou aimait tellement le prestige qu'il portait régulièrement des manteaux brodés d'or offerts par le roi de Portugal et exigeait que les capitaines de navires européens s'agenouillent et retirent leur chapeau avant d'entrer sous sa tente à Ouidah !",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Maître de Ouidah",
+    "accroche": "Plongez dans les intrigues du roi qui a dompté le commerce européen",
+    "encouragement": "Bravo ! Vous avez découvert le récit fascinant et méconnu du Roi Tegbessou."
+  },
+  "quiz": [
+    {
+      "question": "Où le prince Avissu (futur Tegbessou) a-t-il été retenu comme otage politique durant son enfance ?",
+      "options": ["À la cour de l'Empire d'Oyo", "Dans le fort portugais de Ouidah", "Au royaume de Porto-Novo", "À la cour du roi d'Ashanti"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Tegbessou a été livré comme otage à la cour d'Oyo par son père Agadja pour garantir un traité de paix.",
+      "points": 20
+    },
+    {
+      "question": "Quelle mesure radicale le Roi Tegbessou a-t-il prise pour contrôler les commerçants européens à Ouidah ?",
+      "options": ["L'interdiction totale de débarquer", "La création de la fonction de Yovogan (gouverneur royal)", "La destruction complète de la ville", "La vente du port aux Britanniques"],
+      "reponseCorrecteIndex": 1,
+      "explication": "Il a nommé le Yovogan (« chef des Blancs ») pour être le seul contrôleur des navires et des taxes douanières.",
+      "points": 20
+    },
+    {
+      "question": "Pourquoi Tegbessou a-t-il réorganisé les cultes Vaudou au niveau de l'État ?",
+      "options": ["Pour interdire toutes les religions", "Pour unifier les peuples conquis et éviter les rébellions", "Pour faire plaisir aux marchands européens", "Parce qu'il ne croyait pas aux ancêtres"],
+      "reponseCorrecteIndex": 1,
+      "explication": "En centralisant le Vaudou, il a utilisé la religion pour unifier le royaume sous son autorité.",
+      "points": 20
+    },
+    {
+      "question": "Combien de temps le Roi Tegbessou a-t-il dirigé le Danxomè, de 1732 à 1774 ?",
+      "options": ["15 ans", "28 ans", "42 ans", "50 ans"],
+      "reponseCorrecteIndex": 2,
+      "explication": "Tegbessou a régné pendant 42 ans, l'une des périodes les plus longues de la dynastie.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}
