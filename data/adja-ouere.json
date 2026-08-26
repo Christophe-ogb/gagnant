@@ -4,7 +4,7 @@
   "nom": "Adja-Ouèrè",
   "sousTitre": "Terre de mixage culturel, de traditions sacrées et de savoir-faire artisanaux",
   "communeAssociee": "Adja-Ouèrè",
-  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vue_d_une_piste_a_Adja-Ouere.jpg",
+  "imageUrl": "/games/ouere1.jpeg",
   "imageAlt": "Paysage naturel et terre ocre de la commune d'Adja-Ouèrè",
   "descriptionHistoire": "01. Les origines et la migration depuis Wèdème (XVIIe–XVIIIe siècle)\nSelon les traditions orales, le nom Adja-Ouèrè dérive de « Adja-Ouèdèmè », signifiant les Adjas installés à l’aise sur leur nouveau territoire. La cité a été fondée par des groupes de chasseurs et de migrants venus du village de Wèdème d’Adja, dans l’actuel département du Mono. En quête de terres fertiles et d’espaces paisibles, ils se sont installés dans le Plateau, au milieu des ensembles Holis, Nagots et Yorubas.\n\n02. L’enracinement d’un royaume pacifique et le mixage culturel\nContrairement aux royaumes voisins fortement militarisés, Adja-Ouèrè s’est structurée comme une entité non guerrière. Sa position, proche de Kétou, Pobè et de la frontière nigériane, en a fait un carrefour d’intégration culturelle. Les apports Adja, Yoruba, Nagot et Holi se sont mêlés, donnant une identité fondée sur le dialogue, les coutumes et l’artisanat.\n\n03. Les sacres royaux et les traditions sacrées\nLa vie politique et spirituelle d’Adja-Ouèrè reste marquée par des rituels anciens. Le site d’Oju-Igba constitue un sanctuaire associé à la migration des fondateurs et à l’intronisation des nouveaux rois. Les forêts sacrées abritent aussi la divinité tutélaire Ihingba, garante de la protection, de la paix et de la prospérité de la communauté.\n\n04. Un patrimoine artisanal, agricole et contemporain\nAujourd’hui, Adja-Ouèrè s’illustre par ses palmeraies, ses cultures de maïs, son élevage et un artisanat vivant : nattes tressées, poteries, vanneries et sculptures sur bois. La commune conjugue la préservation des valeurs ancestrales avec l’ouverture au développement durable.",
   "leSaviezVous": "Le nom « Adja-Ouèrè » provient d’une déformation de « Adja-Ouèdèmè », qui exprime l’aise et le bien-être ressentis par les migrants Adja venus du Mono lorsqu’ils ont découvert ces terres fertiles.",
@@ -13,14 +13,14 @@
       "id": "site-oju-igba",
       "nom": "Le Site Sacré d’Oju-Igba",
       "description": "Lieu de mémoire marquant la fin de la migration des peuples fondateurs d’Adja-Ouèrè. Ce sanctuaire est associé aux rituels d’intronisation et aux prestations de serment des souverains.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vue_d_une_piste_a_Adja-Ouere.jpg",
+      "imageUrl": "/games/ouere2.jfif",
       "imageAlt": "Site patrimonial et naturel à Adja-Ouèrè"
     },
     {
       "id": "foret-ihingba",
       "nom": "La Forêt Sacrée de la Divinité Ihingba",
       "description": "Espace boisé préservé associé à la divinité tutélaire Ihingba. Il conserve une mémoire spirituelle et sert de cadre aux cérémonies de protection de la cité.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Vue_d_une_piste_a_Adja-Ouere.jpg",
+      "imageUrl": "/games/ouere",
       "imageAlt": "Forêt sacrée et végétation verdoyante d’Adja-Ouèrè"
     },
     {

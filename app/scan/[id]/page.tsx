@@ -46,20 +46,34 @@ export default async function HeritageScanPage({
     texte: place.description,
     imageUrl: place.imageUrl,
     imageAlt: place.imageAlt,
+    imagePending: heritage.imagePending,
   }));
+  const returnTarget = heritage.type === "commune"
+    ? { href: "/communes", label: "Retour aux communes" }
+    : heritage.type === "roi"
+      ? { href: "/royaumes", label: "Retour aux royaumes" }
+      : heritage.type === "contemporain"
+        ? { href: "/contemporain/personnalites", label: "Retour aux personnalités" }
+        : undefined;
 
   return (
     <main className="min-h-screen bg-earth px-5 py-5 text-kaolin sm:px-8 sm:py-8">
       <div className="mx-auto w-full max-w-3xl">
-        <ReturnToExploration />
+        <ReturnToExploration {...returnTarget} />
 
         <article className="mt-5 overflow-hidden rounded-3xl border border-gold/25 bg-panel shadow-[0_24px_80px_rgba(0,0,0,0.32)]">
           <div className="relative min-h-90 overflow-hidden sm:min-h-105">
-            <img
-              src={heritage.imageUrl}
-              alt={heritage.imageAlt}
-              className="absolute inset-0 h-full w-full object-cover opacity-75"
-            />
+            {heritage.imagePending ? (
+              <div className="absolute inset-0 grid place-items-center bg-[#251910] px-6 text-center">
+                <p className="text-sm font-bold uppercase tracking-[0.16em] text-gold">Image bientôt disponible</p>
+              </div>
+            ) : (
+              <img
+                src={heritage.imageUrl}
+                alt={heritage.imageAlt}
+                className="absolute inset-0 h-full w-full object-cover opacity-75"
+              />
+            )}
             <div className="absolute inset-0 bg-gradient-to-t from-[#1a120b] via-[#1a120b]/55 to-transparent" />
             <div className="relative flex min-h-90 flex-col justify-end p-6 sm:min-h-105 sm:p-9">
               <span className="w-fit rounded-full border border-gold/45 bg-earth/55 px-3 py-1.5 text-xs font-bold uppercase tracking-[0.14em] text-gold backdrop-blur-sm">

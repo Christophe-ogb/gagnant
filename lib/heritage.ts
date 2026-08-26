@@ -66,10 +66,28 @@ const fullTextDetails: Record<string, HeritageItem> = {
 
 };
 
+// Ces communes possèdent actuellement des visuels validés. Les autres fiches
+// restent volontairement sans image jusqu'à l'ajout de leurs photos officielles.
+const communesWithAvailableImages = new Set([
+  "dangbo",
+  "allada",
+  "cotonou",
+  "ganvie",
+  "abomey",
+  "ze",
+  "ouidah",
+  "natitingou",
+  "porto-novo",
+  "abomey-calavi",
+]);
+
 const heritageItems = (patrimoine as HeritageItem[]).map((item) => {
   const source = item.id === "tegbessou" ? tegbessou as HeritageItem : item.id === "porto-novo" ? portoNovo as HeritageItem : item.id === "adja-ouere" ? adjaOuere as HeritageItem : item.id === "adjara" ? adjarra as HeritageItem : item.id === "adjohoun" ? adjohoun as HeritageItem : item.id === "agbangnizoun" ? agbangnizoun as HeritageItem : item.id === "aguegues" ? aguegues as HeritageItem : item.id === "akpro-misserete" ? akproMisserete as HeritageItem : item.id === "allada" ? allada as HeritageItem : item.id === "aplahoue" ? aplahoue as HeritageItem : item.id === "athieme" ? athieme as HeritageItem : item.id === "avrankou" ? avrankou as HeritageItem : item.id === "banikoara" ? banikoara as HeritageItem : item.id === "bante" ? bante as HeritageItem : item.id === "bassila" ? bassila as HeritageItem : item.id === "bembereke" ? bembereke as HeritageItem : item.id === "bohicon" ? bohicon as HeritageItem : item.id === "boukoumbe" ? { ...seriesBDetails.boukombe, id: item.id } : fullTextDetails[item.id] ?? seriesBDetails[item.id] ?? contemporaryDetails[item.id] ?? item;
   const descriptionHistoire = royalDetails[source.id as keyof typeof royalDetails];
-  return descriptionHistoire ? { ...source, descriptionHistoire } : source;
+  const enriched = descriptionHistoire ? { ...source, descriptionHistoire } : source;
+  return enriched.type === "commune" && !communesWithAvailableImages.has(enriched.id)
+    ? { ...enriched, imagePending: true }
+    : enriched;
 });
 
 export function getAllHeritage(): HeritageItem[] {

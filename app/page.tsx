@@ -23,7 +23,7 @@ const destinationTaglines: Record<string, string> = {
   ze: "Au cœur de la civilisation Aïzo",
   cotonou: "Le poumon cosmopolite du Bénin",
 };
-const orderMessage = "Bonjour, je souhaite commander un jeu. Je voudrais choisir le jeu et les motifs QR personnalisés.";
+const orderMessage = "Bonjour Gagnants, je souhaite commander un jeu. Je voudrais choisir d'autres personnages et motifs personnalisés selon mes goûts.";
 
 export default function Home() {
   const communes = getAllHeritage().filter((heritage) => communeIds.has(heritage.id));
@@ -106,7 +106,10 @@ export default function Home() {
                 <p className="text-xs font-bold uppercase tracking-[0.14em] text-gold">Dames des 77 Communes</p>
                 <h3 className="font-display mt-2 text-2xl text-white sm:text-3xl">Jouez le Bénin, case après case.</h3>
                 <p className="mt-3 max-w-2xl text-sm leading-6 text-kaolin/70">Une partie de dames familière, enrichie par les 77 communes, leurs départements et des défis de connaissance. Une manière simple de faire découvrir le pays en jouant.</p>
-                <Link href="/communes" className="mt-5 inline-flex min-h-11 items-center gap-2 rounded-xl bg-gold px-4 py-2.5 text-sm font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Découvrir les communes <ArrowRight aria-hidden="true" size={17} /></Link>
+                <div className="mt-5 grid grid-cols-2 gap-2">
+                  <Link href="/communes" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Découvrir les communes <ArrowRight aria-hidden="true" size={16} /></Link>
+                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants, je souhaite commander un jeu dames.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Commander</a>
+                </div>
               </div>
             </article>
 
@@ -118,7 +121,10 @@ export default function Home() {
                 <p className="text-xs font-bold uppercase tracking-[0.14em] text-gold">Ludo des Royaumes</p>
                 <h3 className="font-display mt-2 text-2xl text-white">Traversez les grandes histoires.</h3>
                 <p className="mt-3 text-sm leading-6 text-kaolin/70">Un Ludo inspiré des rois, des cours et des personnages historiques du Bénin.</p>
-                <Link href="/royaumes" className="mt-5 inline-flex min-h-11 items-center gap-2 rounded-xl bg-gold px-4 py-2.5 text-sm font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Explorer les royaumes <ArrowRight aria-hidden="true" size={17} /></Link>
+                <div className="mt-5 grid grid-cols-2 gap-2">
+                  <Link href="/royaumes" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Explorer les royaumes <ArrowRight aria-hidden="true" size={16} /></Link>
+                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants, je souhaite commander un jeu de ludo.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Commander</a>
+                </div>
               </div>
             </article>
 

@@ -17,7 +17,7 @@ export function HeritagePhotoStory({ scenes, heritageName, heading, description,
   const activeImageFailed = failedUrls.includes(activeScene.imageUrl);
 
   useEffect(() => {
-    const imageUrls = [...new Set(scenes.map((scene) => scene.imageUrl))];
+    const imageUrls = [...new Set(scenes.filter((scene) => !scene.imagePending).map((scene) => scene.imageUrl))];
     const preload = (url: string) => {
       const image = new window.Image();
       image.src = url;
@@ -39,7 +39,7 @@ export function HeritagePhotoStory({ scenes, heritageName, heading, description,
     </div>
     <article className="mt-4 overflow-hidden rounded-2xl border border-gold/25 bg-panel">
       <div className="relative h-64 w-full bg-earth/60 sm:h-96">
-        {activeImageFailed ? <div className="absolute inset-0 grid place-items-center px-6 text-center text-sm font-semibold text-kaolin/75"><span>Image du lieu indisponible pour le moment.</span></div> : <>
+        {activeScene.imagePending ? <div className="absolute inset-0 grid place-items-center px-6 text-center text-sm font-bold uppercase tracking-[0.14em] text-gold"><span>Image bientôt disponible</span></div> : activeImageFailed ? <div className="absolute inset-0 grid place-items-center px-6 text-center text-sm font-semibold text-kaolin/75"><span>Image du lieu indisponible pour le moment.</span></div> : <>
           {!activeImageIsLoaded && <div className="absolute inset-0 z-10 grid place-items-center bg-earth/65 text-xs font-bold uppercase tracking-[0.14em] text-gold">Chargement de l’image…</div>}
           <img src={activeScene.imageUrl} alt={activeScene.imageAlt} onLoad={() => setLoadedUrls((urls) => urls.includes(activeScene.imageUrl) ? urls : [...urls, activeScene.imageUrl])} onError={() => setFailedUrls((urls) => urls.includes(activeScene.imageUrl) ? urls : [...urls, activeScene.imageUrl])} className={`h-full w-full object-cover transition-opacity duration-300 ${activeImageIsLoaded ? "opacity-100" : "opacity-0"}`} />
         </>}

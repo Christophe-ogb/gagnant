@@ -14,6 +14,7 @@ export type HeritageScene = {
   texte: string;
   imageUrl: string;
   imageAlt: string;
+  imagePending?: boolean;
 };
 
 export type HeritagePlace = {
@@ -32,6 +33,8 @@ export type HeritageItem = {
   communeAssociee: string;
   imageUrl: string;
   imageAlt: string;
+  /** Masque les images provisoires en attendant les photos officielles. */
+  imagePending?: boolean;
   descriptionHistoire: string;
   leSaviezVous: string;
   scenes?: HeritageScene[];
