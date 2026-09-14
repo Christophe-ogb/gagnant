@@ -1,0 +1,48 @@
+{
+  "id": "ciara",
+  "type": "contemporain",
+  "nom": "Ciara",
+  "sousTitre": "Icône du R&B mondial, Étoile de la Danse et Citoyenne d'Honneur du Bénin",
+  "communeAssociee": "Ouidah",
+  "imageUrl": "/games/ciara.webp",
+  "imageAlt": "Portrait de la chanteuse internationale Ciara",
+  "descriptionHistoire": "01. 2004 · L'ascension d'une icône mondiale du R&B\nOriginaire des États-Unis, Ciara s'impose au début des années 2000 comme la « Princess of Crunk & B ». Son premier album « Goodies » et le single éponyme deviennent d'immenses succès mondiaux. Grâce à ses performances scéniques spectaculaires, sa voix et ses chorégraphies impressionnantes, elle enchaîne les tubes internationaux comme « 1, 2 Step », « Oh » ou « Level Up », accumulant des millions de ventes, un Grammy Award et des récompenses à travers le monde.\n\n02. 2019 - 2023 · La quête des origines et le voyage en Afrique\nGuidée par le désir de renouer avec ses racines ancestrales, Ciara effectue plusieurs voyages sur le continent africain. À travers des tests ADN et des démarches généalogiques, elle découvre des liens profonds avec l'Afrique de l'Ouest, ce qui l'amène à s'intéresser de près au patrimoine, à la culture et à l'histoire du Bénin.\n\n03. 2024 · Le pèlerinage historique au Bénin\nCiara se rend au Bénin pour un séjour marquant et hautement symbolique. À Ouidah, lieu chargé d'histoire, elle franchit la Porte du Non-Retour, participe aux célébrations culturelles et va à la rencontre des autorités et des populations locales. Elle exprime publiquement son émotion et sa fierté d'embrasser l'héritage béninois, célébrant la richesse de la culture Vodun et l'accueil chaleureux du peuple béninois.\n\n04. Nationalité béninoise et ambassadrice de cœur\nEn reconnaissance de son attachement envers la nation et de son engagement pour le rayonnement de la culture africaine, Ciara obtient la nationalité béninoise. Elle devient ainsi un pont artistique et culturel puissant entre la diaspora afro-américaine et le Bénin, portant fièrement les couleurs de sa nouvelle patrie sur la scène internationale.",
+  "leSaviezVous": "Lors de son pèlerinage au Bénin, Ciara s'est rendue à Ouidah pour se recueillir à la Porte du Non-Retour. Très touchée par cet accueil, elle a officiellement reçu la nationalité béninoise, scellant son lien indéfectible avec le pays.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de l'Alliance culturelle et du Niveau Supérieur (Level Up)",
+    "accroche": "Explorez la carrière de Ciara et son retour émouvant aux sources béninoises",
+    "encouragement": "Vous connaissez parfaitement le parcours de Ciara et son histoire unique avec le Bénin."
+  },
+  "quiz": [
+    {
+      "question": "Quel hit mondial a révélé Ciara au grand public au début de sa carrière en 2004 ?",
+      "options": ["Goodies", "Level Up", "Ride", "Body Party"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le single « Goodies » a propulsé Ciara au sommet des charts internationaux dès 2004.",
+      "points": 20
+    },
+    {
+      "question": "Dans quelle ville historique béninoise Ciara s'est-elle recueillie à la Porte du Non-Retour ?",
+      "options": ["Ouidah", "Abomey", "Porto-Novo", "Parakou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ciara a visité Ouidah, un lieu emblématique du souvenir et de l'histoire du Bénin.",
+      "points": 20
+    },
+    {
+      "question": "Quel statut officiel honorifique a été accordé à Ciara lors de son lien fort avec le Bénin ?",
+      "options": ["La nationalité béninoise", "Ambassadrice à l'ONU", "Ministre de la Culture", "Maire de Ouidah"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ciara a obtenu la nationalité béninoise en symbole de son appartenance et de son engagement envers le pays.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le titre de son morceau au succès viral sorti en 2018 prônant le dépassement de soi ?",
+      "options": ["Level Up", "1, 2 Step", "Promise", "Like a Boy"],
+      "reponseCorrecteIndex": 0,
+      "explication": "« Level Up » est devenu un hymne mondial à l'empouvoirement et à la résilience.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

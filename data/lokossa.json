@@ -1,0 +1,78 @@
+{
+  "id": "lokossa",
+  "type": "commune",
+  "nom": "Lokossa",
+  "sousTitre": "Chef-lieu du Mono, cité de l'iroko et cœur historique du peuple Kotafon",
+  "communeAssociee": "Lokossa",
+  "imageUrl": "/games/lokossa1.jfif",
+  "imageAlt": "Patrimoine et paysages de Lokossa",
+  "descriptionHistoire": "01. Origines et fondation sous l'iroko\nFondée au XIXe siècle par le chasseur et chef Kotafon Kpohito, Lokossa tire son nom de l’expression « Lokotin sa », signifiant « sous l'arbre iroko ». La cité s'est développée autour de cet arbre sacré, devenu le refuge et le point de ralliement des premières populations Kotafon.\n\n02. Chef-lieu et pôle administratif du Mono\nDevenue chef-lieu du département du Mono, Lokossa s'est progressivement transformée en un centre administratif, commercial et éducatif majeur du sud-ouest du Bénin, tout en conservant ses liens étroits avec les communes environnantes du bassin du Couffo et du Mono.\n\n03. Une culture Kotafon vivante et spirituelle\nLokossa est le berceau de la culture Kotafon et abrite un riche patrimoine immatériel. Le culte des ancêtres, les forêts sacrées (telles que la forêt de Kpohito), le Vodoun et les manifestations folkloriques comme les danses Zangbeto et Sato y sont profondément ancrés.\n\n04. Lokossa aujourd'hui : carrefour en modernisation\nVille dynamique en constante mutation, Lokossa concilie son statut de centre administratif moderne avec le développement de ses infrastructures universitaires, hospitalières et marchandes, tout en valorisant son rôle de carrefour culturel du Mono.",
+  "leSaviezVous": "Le nom « Lokossa » vient de la contraction de « Lokotin sa » qui signifie littéralement « sous l'iroko », en hommage à l’arbre majestueux sous lequel le fondateur Kpohito s'était installé.",
+  "lieuxAVisiter": [
+    {
+      "id": "foret-sacree-kpohito",
+      "nom": "La forêt sacrée de Kpohito et l'iroko fondateur",
+      "description": "Lieu de mémoire sanctifié abritant la mémoire du fondateur de la ville, des arbres centenaires et les autels des divinités tutélaires du peuple Kotafon.",
+      "imageUrl": "/games/lokossa_foret.webp",
+      "imageAlt": "Forêt sacrée à Lokossa"
+    },
+    {
+      "id": "place-iroko-lokossa",
+      "nom": "La Place de l'Iroko et le centre historique",
+      "description": "Espace mémoriel symbolique marquant le cœur originel de la cité de Lokossa et ses monuments historiques.",
+      "imageUrl": "/games/lokossa_place.jfif",
+      "imageAlt": "Monument et place centrale de Lokossa"
+    },
+    {
+      "id": "marche-central-lokossa",
+      "nom": "Le grand marché central de Lokossa",
+      "description": "Cœur de l'animation économique du Mono où se côtoient produits agricoles locaux (piment, huile de palme, maïs), artisanat et textiles.",
+      "imageUrl": "/games/lokossa_marche.jfif",
+      "imageAlt": "Marché animé à Lokossa"
+    },
+    {
+      "id": "cathedrale-saint-pierre-paul",
+      "nom": "La Cathédrale Saint-Pierre-et-Saint-Paul de Lokossa",
+      "description": "Édifice religieux remarquable et siège du diocèse de Lokossa, témoignant de l'histoire spirituelle et architecturale de la ville.",
+      "imageUrl": "/games/lokossa_cathedrale.jfif",
+      "imageAlt": "Façade de la cathédrale de Lokossa"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Chef-Lieu de la Cité de l'Iroko",
+    "accroche": "Penses-tu connaître l'histoire du fondateur Kpohito, la culture Kotafon et le patrimoine de Lokossa ?",
+    "encouragement": "Revois l'histoire du département du Mono, le peuple Kotafon et les origines de Lokossa pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "De quel département du Bénin la commune de Lokossa est-elle le chef-lieu ?",
+      "options": ["Le Mono", "Le Couffo", "L’Atlantique", "Le Zou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Lokossa est la préfecture et le chef-lieu administratif du département du Mono.",
+      "points": 25
+    },
+    {
+      "question": "Que signifie littéralement le nom « Lokossa » (Lokotin sa) ?",
+      "options": ["Sous l'iroko", "Au bord du lac", "La terre du roi", "Le grand marché"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le nom Lokossa dérive de « Lokotin sa », qui signifie « sous l'iroko », en référence à l'arbre sous lequel s'est établi le fondateur Kpohito.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel est historiquement le peuple fondateur de Lokossa ?",
+      "options": ["Les Kotafon", "Les Bariba", "Les Dendi", "Les Yom"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Kotafon constituent la communauté socioculturelle fondatrice et majoritaire de Lokossa.",
+      "points": 25
+    },
+    {
+      "question": "Qui est reconnu par la tradition orale comme le chasseur fondateur de la cité de Lokossa ?",
+      "options": ["Kpohito", "Houegbadja", "Kaba", "Bio Guera"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Selon la tradition, c'est le chasseur Kpohito qui a fondé le premier campement sous l'iroko qui deviendra Lokossa.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

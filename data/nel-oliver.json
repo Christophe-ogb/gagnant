@@ -1,0 +1,48 @@
+{
+  "id": "nel-oliver",
+  "type": "contemporain",
+  "nom": "Nel Oliver",
+  "sousTitre": "Le Pionnier de l'Afro-Funk et le Maître de la Production Musicale Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/nel-oliver.webp",
+  "imageAlt": "Portrait de l'artiste et producteur béninois Nel Oliver",
+  "descriptionHistoire": "01. 1970 - 1980 · Des débuts béninois à la conquête de la scène parisienne\nOriginaire du Bénin, Noël Lawson, connu sous le nom de scène Nel Oliver, commence sa carrière musicale très jeune. Dans les années 1970, il s'installe en France pour perfectionner son art. Inspiré par le funk, le jazz et la soul, tout en restant profondément ancré dans ses racines africaines, il crée un style Afro-funk et Afro-pop novateur qui séduit le public européen et africain.\n\n02. Les grands hits mondiaux et l'ère « Baby Girl »\nEn 1980, Nel Oliver sort le titre emblématique « Baby Girl », suivi de morceaux mythiques comme « In the Street » et « Tobolo ». Ces succès planétaires le propulsent au sommet des charts et font de lui l'un des premiers artistes béninois à s'imposer sur la scène internationale du pop-funk aux côtés de figures majeures de la World Music.\n\n03. Le retour au pays et la révolution du studio Pao Sound\nFort de son expérience internationale, Nel Oliver décide de revenir au Bénin à la fin des années 1980 pour investir dans l'industrie musicale locale. Il fonde à Cotonou le studio d'enregistrement « Pao Sound », une infrastructure moderne de pointe qui permettra de produire et de propulser plusieurs générations de talentueux artistes béninois et ouest-africains.\n\n04. Un monument vivant du patrimoine musical\nAuteur, compositeur, interprète et producteur chevronné, Nel Oliver a traversé les décennies avec une élégance et une rigueur exemplaires. Il demeure un monument de la musique africaine, respecté pour sa contribution exceptionnelle à la modernisation et à la professionnalisation du secteur musical au Bénin.",
+  "leSaviezVous": "Nel Oliver a été l'un des premiers artistes africains à créer son propre studio d'enregistrement de niveau international au Bénin (Pao Sound), permettant à de nombreux musiciens locaux d'enregistrer des albums de très haute qualité sur place.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Pionnier Afro-Funk et du Son d'Or",
+    "accroche": "Explorez l'histoire et les grands classiques du légendaire Nel Oliver",
+    "encouragement": "Vous maîtrisez parfaitement la carrière et l'héritage musical de Nel Oliver."
+  },
+  "quiz": [
+    {
+      "question": "Quel hit international sorti en 1980 a marqué la carrière de Nel Oliver ?",
+      "options": ["Baby Girl", "Agolo", "On va faire comment ?", "Wazakina"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le titre « Baby Girl » a rencontré un succès retentissant en Afrique et en Europe.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le nom du célèbre studio d'enregistrement fondé par Nel Oliver à Cotonou ?",
+      "options": ["Pao Sound", "Blue Diamond", "Island Records", "Cotonou Beat Studio"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le studio Pao Sound a révolutionné la production musicale au Bénin.",
+      "points": 20
+    },
+    {
+      "question": "Quel genre musical novateur fusionnant funk, soul et rythmes africains Nel Oliver a-t-il contribué à populariser ?",
+      "options": ["L'Afro-funk / Afro-pop", "Le Reggae roots", "Le Rock gothique", "Le Tango traditionnel"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Son style pionnier associait le funk et la pop aux rythmes africains.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le vrai nom à l'état civil de Nel Oliver ?",
+      "options": ["Noël Lawson", "Aurelus Ahouansou", "Simplice Behanzin", "Christelle Guédou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Nel Oliver s'appelle à l'état civil Noël Lawson.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

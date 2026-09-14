@@ -1,0 +1,78 @@
+{
+  "id": "save",
+  "type": "commune",
+  "nom": "Savè",
+  "sousTitre": "Cité des trois mamelles, capitale du Royaume Shabè et perle des Collines",
+  "communeAssociee": "Savè",
+  "imageUrl": "/games/save1.jfif",
+  "imageAlt": "Les collines pittoresques et les trois mamelles de Savè",
+  "descriptionHistoire": "01. Origines et fondation du royaume Shabè\nFondée au XVIIe siècle par des vagues de migrations Yoruba venues d'Ife et d'Oyó, Savè (Sèbè) est la capitale historique du royaume Shabè. S'installant au pied de gigantesques inselbergs rocheux, les populations ont érigé une cité souveraine protégée par ses reliefs naturels.\n\n02. Les Mamelles de Savè et le cadre naturel\nSavè est mondialement célèbre pour ses formations géologiques spectaculaires, en particulier ses imposantes collines roches appelées « Les Trois Mamelles de Savè » (Oke Oyi, Oke Shamou, Oke Djabata). Ces reliefs pittoresques dominent la ville et constituent des repères à la fois sacrés, touristiques et géographiques.\n\n03. Richesses culturelles et traditions Tchabè\nLa cité préserve avec ferveur son patrimoine immatériel Nago-Tchabè. Le Roi de Savè (l'Onisabè), la société des masques Egungun, le culte du Gėlėdė et la vénération des divinités rocheuses témoignent d'une identité spirituelle forte et inaltérée.\n\n04. Savè aujourd'hui : carrefour ferroviaire, routier et agricole\nÉtape majeure sur l'axe routier et ferroviaire reliant le sud au nord du Bénin, Savè est un pôle économique dynamique. La commune est reconnue pour sa production massive d'igname, d'anacarde, de maïs et de manioc, ainsi que pour son industrie sucrière (SUCOBE).",
+  "leSaviezVous": "Les célèbres collines rocheuses entourant Savè, appelées « Les Trois Mamelles », servaient de refuges stratégiques et de points d'observation militaire pour le royaume Shabè lors des conflits historiques.",
+  "lieuxAVisiter": [
+    {
+      "id": "trois-mamelles-save",
+      "nom": "Les Trois Mamelles et les inselbergs de Savè",
+      "description": "Formations rocheuses majeures et emblématiques offrant des circuits de randonnée d'exception et une vue panoramique sur toute la région des Collines.",
+      "imageUrl": "/games/save_mamelles.webp",
+      "imageAlt": "Formations rocheuses des Trois Mamelles à Savè"
+    },
+    {
+      "id": "palais-onisabe-save",
+      "nom": "Le Palais Royal de l'Onisabè de Savè",
+      "description": "Siège suprême du royaume Shabè où réside l’Onisabè (Roi de Savè), gardien des attributs du trône, des cérémonies ancestrales et du protocole royal.",
+      "imageUrl": "/games/save_palais.jfif",
+      "imageAlt": "Façade du Palais Royal à Savè"
+    },
+    {
+      "id": "marche-central-save",
+      "nom": "Le grand marché commercial de Savè",
+      "description": "Lieu d'échanges animé situé au bord des grands axes, réputé pour la vente d'ignames, de beignets d'arachide, de tubercules et de cosmétiques traditionnels.",
+      "imageUrl": "/games/save_marche.jfif",
+      "imageAlt": "Animation au marché traditionnel de Savè"
+    },
+    {
+      "id": "complexe-sucrier-save",
+      "nom": "La vallée agricole et le site de la Sucrerie (SUCOBE)",
+      "description": "Vastes périmètres agricoles et complexes agro-industriels dédiés à la culture de la canne à sucre et aux cultures vivrières de la région.",
+      "imageUrl": "/games/save_sucrerie.jfif",
+      "imageAlt": "Plaines et cultures agricoles à Savè"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Royaume Shabè et des Trois Mamelles",
+    "accroche": "Penses-tu connaître l'histoire de l'Onisabè, le relief des Trois Mamelles et le patrimoine de Savè ?",
+    "encouragement": "Revois la géographie du département des Collines, la culture Shabè et les reliefs de Savè pour réussir ce défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Savè ?",
+      "options": ["Les Collines", "Le Zou", "Le Borgou", "Le Plateau"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Savè est située dans la partie orientale du département des Collines.",
+      "points": 25
+    },
+    {
+      "question": "Quel titre traditionnel porte le souverain du royaume historique de Savè ?",
+      "options": ["L’Onisabè", "Le Sina Boro", "Le Bagana", "Le Kabiési"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Roi du royaume Shabè de Savè porte traditionnellement le titre d'Onisabè.",
+      "points": 25
+    },
+    {
+      "question": "Quel célèbre ensemble de formations rocheuses naturelles fait la renommée touristique de Savè ?",
+      "options": ["Les Trois Mamelles", "Les Monts Kinyami", "Les Falaises de Gouandé", "Les Collines de Dassa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Savè est mondialement connue pour ses imposing inselbergs rocheux surnommés « Les Trois Mamelles de Savè ».",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel d'origine Yoruba est le peuple fondateur du royaume de Savè ?",
+      "options": ["Les Shabè (Tchabè)", "Les Bariba", "Les Fon", "Les Somba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La ville et le royaume de Savè ont été fondés par le peuple Shabè (ou Tchabè), sous-groupe de la culture Yoruba.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,48 @@
+{
+  "id": "angelique-kidjo",
+  "type": "contemporain",
+  "nom": "Angélique Kidjo",
+  "sousTitre": "La Diva de la Musique Africaine et Ambassadrice de la Culture Béninoise",
+  "communeAssociee": "Ouidah",
+  "imageUrl": "/games/kidjo.webp",
+  "imageAlt": "Portrait officiel d'Angélique Kidjo",
+  "descriptionHistoire": "01. 1960 - 1983 · Des côtes de Ouidah à la scène internationale\nNée à Ouidah au Bénin, Angélique Kidjo baigne dès son enfance dans un univers artistique riche grâce à sa mère, directrice d'une troupe de théâtre. Elle commence à chanter très jeune et connaît rapidement un grand succès au Bénin. En 1983, pour échapper au régime politique de l'époque et poursuivre ses ambitions artistiques, elle s'installe à Paris où elle étudie le jazz au CIM.\n\n02. L'explosion internationale et les succès mondiaux\nAu début des années 1990, elle signe avec le label Island Records et sort des albums emblématiques comme « Parakou », « Logozo » et « Aye ». Portée par des tubes planétaires comme « Agolo » et « Batonga », elle devient une figure majeure de la World Music, fusionnant avec brio les rythmes traditionnels béninois (Fon, Yoruba) avec le funk, le jazz et la pop.\n\n03. Récompenses d'exception et engagement humanitaire\nAu cours de sa carrière remarquable, Angélique Kidjo a remporté 5 Grammy Awards, faisant d'elle l'une des artistes africaines les plus récompensées de l'histoire. En parallèle de sa musique, elle s'engage activement pour l'éducation des jeunes filles en Afrique à travers sa fondation Batonga et agit en tant qu'ambassadrice de bonne volonté de l'UNICEF.\n\n04. Un pont culturel entre les continents\nReconnue mondialement, elle collabore avec les plus grands artistes internationaux (Carlos Santana, Burna Boy, Alicia Keys, Yo-Yo Ma). À travers ses réinterprétations d'œuvres classiques ou ses créations originales, elle continue de célébrer l'héritage culturel béninois et panafricain sur toutes les plus grandes scènes du monde.",
+  "leSaviezVous": "Angélique Kidjo a remporté 5 Grammy Awards au cours de sa carrière et parle couramment cinq langues (fon, yoruba, gén, français et anglais), qu'elle utilise toutes dans ses chansons.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Voix d'Or et de la Culture",
+    "accroche": "Explorez le parcours exceptionnel et la discographie d'Angélique Kidjo",
+    "encouragement": "Vous maîtrisez la carrière et les engagements de la diva Angélique Kidjo."
+  },
+  "quiz": [
+    {
+      "question": "Combien de Grammy Awards Angélique Kidjo a-t-elle remportés dans sa carrière ?",
+      "options": ["3", "5", "7", "10"],
+      "reponseCorrecteIndex": 1,
+      "explication": "Angélique Kidjo a remporté 5 Grammy Awards pour ses albums d'exception.",
+      "points": 20
+    },
+    {
+      "question": "Quel titre à succès sorti dans les années 90 l'a révélée au grand public mondial ?",
+      "options": ["Agolo", "Sodabi", "Wabolowolo", "Djié"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le titre « Agolo » a rencontré un immense succès international.",
+      "points": 20
+    },
+    {
+      "question": "Quelle est la fondation créée par Angélique Kidjo pour promouvoir l'éducation des filles en Afrique ?",
+      "options": ["Fondation Batonga", "Fondation Benin Révélé", "Fondation Amazones", "Fondation Africa Lead"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Fondation Batonga soutient l'éducation et l'autonomisation des jeunes filles en Afrique.",
+      "points": 20
+    },
+    {
+      "question": "Dans quelle ville béninoise Angélique Kidjo a-t-elle grandi et fait ses premiers pas artistiques ?",
+      "options": ["Ouidah", "Parakou", "Natitingou", "Kandi"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Elle a grandi à Ouidah et à Cotonou au sein d'une famille passionnée d'art et de culture.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

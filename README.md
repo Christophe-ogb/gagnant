@@ -1,14 +1,27 @@
-# Jeux Gagnants — MVP Vodun Days
+# Gagnants 229 — MVP Vodun Days
+
+## Ajouter les images d’une fête
+
+Dans le fichier `data/nom-de-la-fete.json`, ajoute au maximum cinq images dans `galerie`. Les boutons de défilement apparaissent automatiquement dès qu’il y a deux images ou plus :
+
+```json
+"galerie": [
+  { "imageUrl": "/games/fete-photo-1.webp", "imageAlt": "Description de la première photo" },
+  { "imageUrl": "/games/fete-photo-2.webp", "imageAlt": "Description de la deuxième photo" }
+]
+```
+
+Place d’abord les fichiers image dans `public/games/`, puis utilise le chemin `/games/nom-image.webp`. La carte de fête affiche jusqu’à cinq images ; les suivantes ne sont pas affichées.
 
 > Feuille de route de construction — à suivre étape par étape.
 
 ## 1. Vision du projet
 
-**Jeux Gagnants** prolonge le jeu physique béninois par une expérience mobile : un joueur scanne un QR code présent sur un plateau, une carte ou un support culturel ; il découvre un lieu, un roi, un héros ou une divinité, puis répond à un quiz pour gagner des points et débloquer des badges.
+**Gagnants 229** prolonge le jeu physique béninois par une expérience mobile : un joueur scanne un QR code présent sur un plateau, une carte ou un support culturel ; il découvre un lieu, un roi, un héros ou une divinité, puis répond à un quiz pour gagner des points et débloquer des badges.
 
 Le MVP destiné aux **Vodun Days** doit faire ressentir trois choses dès les premières secondes : la richesse du patrimoine béninois, le plaisir du jeu et le caractère premium de l’expérience. Le site n’est pas encore un jeu de plateau numérique complet : c’est une démonstration interactive, fluide et mémorable du pont entre le plateau physique et le contenu culturel.
 
-Les références visuelles transmises serviront de base : le logo Gagnants, le plateau coloré, les cartes de communes et les scènes de jeu réelles. L’identité numérique sera plus immersive, avec une direction sombre, terreuse, dorée et contemporaine.
+Les références visuelles transmises serviront de base : le logo Gagnants 229, le plateau coloré, les cartes de communes et les scènes de jeu réelles. L’identité numérique sera plus immersive, avec une direction sombre, terreuse, dorée et contemporaine.
 
 ## 2. Cadre du MVP
 
@@ -27,11 +40,11 @@ Les références visuelles transmises serviront de base : le logo Gagnants, le p
 - Connexion utilisateur, compte, classement en ligne ou paiement.
 - Base de données, API ou serveur métier.
 - Vrai lecteur de QR code par caméra : le bouton de simulation démontre le parcours. Le vrai scan viendra ensuite.
-- Ludo, dames ou échecs jouables en ligne : ils apparaîtront d’abord comme extensions de l’univers Gagnants.
+- Ludo, dames ou échecs jouables en ligne : ils apparaîtront d’abord comme extensions de l’univers Gagnants 229.
 
 ## 3. Stack déjà installée
 
-| Outil | Rôle dans Jeux Gagnants |
+| Outil | Rôle dans Gagnants 229 |
 | --- | --- |
 | `next` 16.3.2 | Framework principal : pages, routes telles que `/scan/ouidah` et application performante. |
 | `react` / `react-dom` 19.2.8 | Composants interactifs : quiz, cartes, compteurs et badges. |

@@ -1,0 +1,78 @@
+{
+  "id": "nikki",
+  "type": "commune",
+  "nom": "Nikki",
+  "sousTitre": "Capitale historique du Royaume du Borgou, berceau du peuple Baatonu et de la Gaani",
+  "communeAssociee": "Nikki",
+  "imageUrl": "/games/nikki1.jfif",
+  "imageAlt": "Palais royal et traditions de Nikki",
+  "descriptionHistoire": "01. Capitale historique et berceau du Royaume du Borgou\nFondée au XVIe siècle par Sunon Séro, la ville de Nikki est la capitale historique et le centre spirituel incontesté du puissant empire du Borgou. Durant plusieurs siècles, le trône de Nikki a régné sur un vaste territoire s'étendant du nord Bénin jusqu'à l'ouest du Nigéria actuel.\n\n02. Le Palais Royal et le Sina Boro\nNikki abrite la cour du Sina Boro (Roi de Nikki), gardien suprême des traditions Wassangari et Baatonu. Le palais royal, avec ses règles protocolaire séculaires, demeure le symbole vivant de la souveraineté coutumière et de la mémoire aristocratique du peuple Bariba.\n\n03. La fête de la Gaani et les traditions équestres\nChaque année, Nikki accueille la célèbre fête de la Gaani, un rassemblement culturel et équestre majeur de la sous-région. Des milliers de cavaliers vêtus de parures traditionnelles y effectuent la spectaculaire parade équestre devant le palais royal pour rendre hommage au souverain.\n\n04. Nikki aujourd'hui : capitale culturelle et carrefour transfrontalier\nChef-lieu de commune dans le département du Borgou et située à proximité immédiate du Nigéria, Nikki concilie la préservation de son illustre trône avec le développement d'un tourisme culturel de premier plan et l'essor des échanges agropastoraux.",
+  "leSaviezVous": "La ville de Nikki est le sanctuaire mondial de la culture Baatonu ; c'est le Sina Boro de Nikki qui autorise chaque année le lancement officiel des festivités de la Gaani à travers tout le royaume du Borgou.",
+  "lieuxAVisiter": [
+    {
+      "id": "palais-royal-nikki",
+      "nom": "Le Palais Royal du Sina Boro de Nikki",
+      "description": "Siège suprême du royaume du Borgou où réside le Roi. On y découvre les attributs sacrés du pouvoir, les cours royales historiques et les tombeaux des anciens souverains.",
+      "imageUrl": "/games/nikki_palais.webp",
+      "imageAlt": "Façade et cour du Palais Royal de Nikki"
+    },
+    {
+      "id": "place-gaani-nikki",
+      "nom": "La Place de la Gaani et l'arène équestre",
+      "description": "Lieu rassembleur où se déroulent les impressionnantes démonstrations équestres, la danse du Takai et les cérémonies officielles lors de la fête annuelle de la Gaani.",
+      "imageUrl": "/games/nikki_gaani.jfif",
+      "imageAlt": "Cavaliers en parade équestre à Nikki"
+    },
+    {
+      "id": "palais-danri-nikki",
+      "nom": "Le Palais du Danri (Premier Premier Ministre)",
+      "description": "Site coutumier d'une grande valeur historique, résidence du premier dignitaire et conseiller du roi, pilier essentiel du protocole royal.",
+      "imageUrl": "/games/nikki_danri.jfif",
+      "imageAlt": "Architecture traditionnelle du palais Danri à Nikki"
+    },
+    {
+      "id": "marche-central-nikki",
+      "nom": "Le marché traditionnel de Nikki",
+      "description": "Centre d'échanges animé marquant le carrefour commercial avec le Nigéria, réputé pour la vente de tissus traditionnels, d'équipements équestres et de produits agropastoraux.",
+      "imageUrl": "/games/nikki_marche.jfif",
+      "imageAlt": "Marché local et objets traditionnels à Nikki"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Royaume Suprême du Borgou à Nikki",
+    "accroche": "Penses-tu connaître la dynastie des Sina Boro, la fête de la Gaani et l'histoire glorieuse de Nikki ?",
+    "encouragement": "Revois l'histoire des souverains du Borgou, la tradition équestre et la culture Baatonu pour valider ce défi avec succès !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Nikki ?",
+      "options": ["Le Borgou", "L’Alibori", "L’Atacora", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Nikki est une grande commune située à l'est du département du Borgou, près de la frontière avec le Nigéria.",
+      "points": 25
+    },
+    {
+      "question": "Quel titre traditionnel porte le souverain suprême du royaume de Nikki et du Borgou ?",
+      "options": ["Le Sina Boro", "Le Bagana", "Le Kabiési", "Le Bio Kina"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le roi de Nikki, souverain suprême de la culture Baatonu/Wassangari du Borgou, porte le titre de Sina Boro.",
+      "points": 25
+    },
+    {
+      "question": "Quelle grande fête traditionnelle et équestre a pour capitale et épicentre la ville de Nikki ?",
+      "options": ["La fête de la Gaani", "La fête de la Nonvitcha", "Le festival Vodoun Days", "La fête du Gèlèdé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Nikki est la capitale historique de la fête de la Gaani, rassemblement majeur marquant le nouvel an et les parades équestres du peuple Bariba.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe aristocratique et guerrier historique a fondé la dynastie royale de Nikki ?",
+      "options": ["Les Wassangari", "Les Agosuvi", "Les Fon", "Les Kotafon"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La fondation du royaume de Nikki et l'organisation politique du Borgou sont l'œuvre des princes et guerriers Wassangari.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

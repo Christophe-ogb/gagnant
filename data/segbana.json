@@ -1,0 +1,78 @@
+{
+  "id": "segbana",
+  "type": "commune",
+  "nom": "Ségbana",
+  "sousTitre": "Terre des Boko et des Peuls, carrefour transfrontalier de l'Alibori et pôle agropastoral",
+  "communeAssociee": "Ségbana",
+  "imageUrl": "/games/segbana1.jfif",
+  "imageAlt": "Paysages et patrimoine de Ségbana",
+  "descriptionHistoire": "01. Origines et fondation en pays Boko\nSituée dans la partie sud-est du département de l'Alibori, le long de la frontière avec le Nigéria, la commune de Ségbana est le foyer historique du peuple Boko (ou Boo). Fondée par des groupes de chasseurs et d'agriculteurs, la cité s'est développée autour de chefs traditionnels gardiens des terres et des cultes ancestraux.\n\n02. Espace de coexistence et de traditions pastorales\nSégbana se caractérise par une riche diversité socioculturelle où le mode de vie des populations Boko s'harmonise avec celui des communautés Peules. L'élevage bovin, la transhumance et les traditions artisanales (travail du cuir, vannerie, transformation du lait en wagashi) forment le cœur du quotidien local.\n\n03. Carrefour commercial transfrontalier avec le Nigéria\nDe par sa position géographique limitrophe de l'État de Kebbi au Nigéria, Ségbana est un centre d'échanges économiques dynamique. Son grand marché frontalier facilite le transit des céréales, du bétail, des tubercules et des produits manufacturés entre les deux nations.\n\n04. Ségbana aujourd'hui : essor agricole et développement rural\nGrand bassin de production de coton, de maïs, de sorgho et d'anacarde, Ségbana investit dans le désenclavement de ses axes routiers et la modernisation de ses infrastructures publiques pour consolider son potentiel agropastoral.",
+  "leSaviezVous": "La commune de Ségbana est le principal berceau de la langue et de la culture Boko au Bénin, un groupe linguistique rattaché à la famille des langues mandées.",
+  "lieuxAVisiter": [
+    {
+      "id": "marche-transfrontalier-segbana",
+      "nom": "Le marché transfrontalier de Ségbana",
+      "description": "Lieu de commerce international très animé où s'échangent bétail, céréales, tissus et marchandises diverses entre le Bénin et le Nigéria.",
+      "imageUrl": "/games/segbana_marche.webp",
+      "imageAlt": "Animation au marché transfrontalier de Ségbana"
+    },
+    {
+      "id": "palais-chefferies-segbana",
+      "nom": "Les chefferies traditionnelles Boko",
+      "description": "Sièges du pouvoir coutumier gardant la mémoire des fondateurs, les attributs de la royauté Boko et les sanctuaires rituels de la région.",
+      "imageUrl": "/games/segbana_palais.jfif",
+      "imageAlt": "Architecture traditionnelle à Ségbana"
+    },
+    {
+      "id": "campements-pastoraux-segbana",
+      "nom": "Les campements pastoraux Peuls et circuits d'élevage",
+      "description": "Espaces d'immersion rurale permettant de découvrir le mode de vie pastoral, les techniques de transhumance et la fabrication du fromage traditionnel.",
+      "imageUrl": "/games/segbana_peul.jfif",
+      "imageAlt": "Campement pastoral à Ségbana"
+    },
+    {
+      "id": "champs-coton-segbana",
+      "nom": "Les grandes plaines agricoles de Ségbana",
+      "description": "Vastes étendues cultivées dédiées à la production du coton, du maïs et du sorgho, témoins de la vitalité agropastorale du sud de l'Alibori.",
+      "imageUrl": "/games/segbana_agriculture.jfif",
+      "imageAlt": "Plaines agricoles à Ségbana"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Terroir Boko et de la Frontière de l'Alibori",
+    "accroche": "Penses-tu connaître l'histoire du peuple Boko, la culture agropastorale et le rôle transfrontalier de Ségbana ?",
+    "encouragement": "Revois la géographie de l'Alibori, les traditions Boko-Peule et le commerce de Ségbana pour valider ce défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Ségbana ?",
+      "options": ["L'Alibori", "Le Borgou", "L'Atacora", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ségbana est située dans la partie sud-est du département de l'Alibori.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel a pour foyer historique principal la commune de Ségbana ?",
+      "options": ["Les Boko (Boo)", "Les Fon", "Les Adja", "Les Somba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Ségbana est le foyer historique et culturel majeur du peuple Boko au Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Avec quel pays voisin la commune de Ségbana partage-t-elle une frontière directe à l'Est ?",
+      "options": ["Le Nigéria", "Le Niger", "Le Togo", "Le Burkina Faso"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ségbana est une commune frontalière limitrophe de la République Fédérale du Nigéria.",
+      "points": 25
+    },
+    {
+      "question": "Quelles sont les deux activités économiques dominantes de la population de Ségbana ?",
+      "options": ["L'agriculture et l'élevage (agropastoralisme)", "La pêche industrielle", "L'exploitation minière de diamants", "Le tourisme balnéaire"],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'économie de Ségbana repose essentiellement sur l'agriculture (coton, céréales) et l'élevage pastoral.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

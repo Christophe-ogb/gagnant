@@ -1,0 +1,48 @@
+{
+  "id": "bio-guerra",
+  "type": "roi",
+  "nom": "Gbaasi N'Gobi (Bio Guerra)",
+  "sousTitre": "Le héros de la résistance wassangari, prince de Kalalé et figure de la liberté",
+  "communeAssociee": "Parakou",
+  "imageUrl": "/games/bioguerra.webp",
+  "imageAlt": "Statue équestre du héros Bio Guerra",
+  "descriptionHistoire": "01. Vers 1856 · La naissance d'un prince guerrier\nNé sous le nom de Gbaasi N'Gobi à Kalalé vers 1856, il est présenté par la tradition comme le fils d'une princesse baatonu et d'un père peul. Grandissant au cœur du royaume de Nikki, il apprend l'art équestre, le maniement des armes et les codes d'honneur wassangari. Son audace, sa maîtrise du cheval et sa bravoure lui valent le nom de Bio Guerra, « Bio le Guerrier ». Il devient une figure respectée des communautés du Borgou, associée à la rencontre des héritages peul et baatonu.\n\n02. 1897 · Le refus de la domination coloniale\nÀ la fin du XIXe siècle, l'administration coloniale française étend son contrôle sur le Borgou. Les traités imposés, les réquisitions, la conscription et le travail forcé nourrissent les tensions. Bio Guerra refuse la soumission et rassemble des cavaliers ainsi que des combattants connaissant profondément les pistes, les plaines et les zones boisées de la région. Dès 1897, il mène des actions contre les garnisons et les convois coloniaux.\n\n03. 1915–1916 · L'insurrection du Borgou\nPendant la Première Guerre mondiale, l'intensification du recrutement forcé de jeunes hommes pour l'armée française provoque une mobilisation plus large. Bio Guerra prend part à une insurrection qui touche plusieurs localités du Borgou, notamment autour de Baura, Bembérékè et Parakou. Ses combattants privilégient la mobilité : embuscades, attaques rapides de convois puis repli. Cette stratégie de guérilla permet de résister à une armée mieux équipée, tout en s'appuyant sur les solidarités locales.\n\n04. 17 décembre 1916 · Le dernier combat de Baura\nFace à l'ampleur de la révolte, l'administration coloniale envoie des renforts armés de mitrailleuses et d'artillerie. Le 17 décembre 1916, dans la région de Baura, Bio Guerra et ses derniers compagnons affrontent ces forces dans un combat très inégal. Il y trouve la mort, selon les récits transmis, sans accepter la reddition. La répression met fin à l'insurrection armée, mais son nom demeure un symbole majeur de la résistance anticoloniale dans le nord du Bénin.",
+  "leSaviezVous": "Bio Guerra est surtout célébré comme un cavalier d'exception. La tradition orale raconte qu'il pouvait manier ses armes à cheval au galop, une image devenue emblématique de sa bravoure.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Insigne du Cavalier Wassangari",
+    "accroche": "Marche dans les pas du prince guerrier qui a résisté à l'armée coloniale.",
+    "encouragement": "Bravo ! Tu as découvert le parcours de Bio Guerra et la résistance du Borgou."
+  },
+  "quiz": [
+    {
+      "question": "Quel était le nom de naissance de Bio Guerra ?",
+      "options": ["Gbaasi N'Gobi", "Kora Unshina", "Sabi Gbasi", "Woru Yaru"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Bio Guerra est présenté sous le nom de naissance Gbaasi N'Gobi ; son surnom rappelle sa réputation de guerrier.",
+      "points": 20
+    },
+    {
+      "question": "Quelle cause a contribué à l'insurrection de 1915–1916 ?",
+      "options": ["Un conflit territorial avec le Danxomè", "Le recrutement forcé et le travail obligatoire", "Une succession au trône de Nikki", "Une dispute commerciale à Parakou"],
+      "reponseCorrecteIndex": 1,
+      "explication": "La mobilisation forcée pendant la Première Guerre mondiale et les contraintes coloniales ont nourri la révolte dans le Borgou.",
+      "points": 20
+    },
+    {
+      "question": "Quelle tactique utilisaient principalement Bio Guerra et ses cavaliers ?",
+      "options": ["La guerre navale", "La guérilla, les embuscades et la mobilité à cheval", "La construction de forts de pierre", "L'attente derrière les murailles"],
+      "reponseCorrecteIndex": 1,
+      "explication": "La rapidité des cavaliers et leur connaissance du terrain favorisaient les attaques surprises et les replis rapides.",
+      "points": 20
+    },
+    {
+      "question": "Où et quand Bio Guerra est-il mort au combat ?",
+      "options": ["En 1897 à Nikki", "Le 17 décembre 1916 à Baura", "En 1900 à Parakou", "Le 1er août 1960 à Cotonou"],
+      "reponseCorrecteIndex": 1,
+      "explication": "Bio Guerra est associé au combat de Baura du 17 décembre 1916, qui met un terme à l'insurrection armée.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

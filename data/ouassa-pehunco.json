@@ -1,0 +1,78 @@
+{
+  "id": "ouassa-pehunco",
+  "type": "commune",
+  "nom": "Ouassa-Péhunco",
+  "sousTitre": "Capitale nationale de l'or blanc, terre d'accueil des Baatonu et Peuls, et joyau de l'Atacora",
+  "communeAssociee": "Ouassa-Péhunco",
+  "imageUrl": "/games/ouassa_pehunco1.jfif",
+  "imageAlt": "Champs de coton et paysages de Ouassa-Péhunco",
+  "descriptionHistoire": "01. Origines et fondation en pays Baatonu\nSituée au sud-est du département de l'Atacora, la commune de Ouassa-Péhunco s'est développée autour de l'union des localités de Ouassa et de Péhunco. Son nom « Péhunco » dérive du baatonu signifiant « la pierre noire », en référence aux caractéristiques géologiques du site originel choisi par les fondateurs.\n\n02. Capitale incontestée de l'« Or Blanc »\nOuassa-Péhunco est historiquement réputée pour être l'un des plus importants bassins de production de coton du Bénin, ce qui lui vaut le surnom poétique de « Capitale de l'Or Blanc ». Cette activité agricole intensive rythme l'économie locale et les saisons de récolte.\n\n03. Une culture agropastorale riche et partagée\nLa commune abrite une population diversifiée où les traditions équestres et coutumières des Baatonu (Bariba) s'harmonisent avec le mode de vie pastoral des communautés Peules. La production de fromage traditionnel (wagashi), l'artisanat du cuir et le travail de la forge y sont très développés.\n\n04. Ouassa-Péhunco aujourd'hui : modernisation et développement rural\nCommune carrefour reliant le département de l'Atacora à celui du Borgou, Ouassa-Péhunco modernise ses infrastructures sociocommunautaires, ses pistes d'interconnexion rurale et ses équipements marchands tout en renforçant son potentiel agropastoral.",
+  "leSaviezVous": "Le nom « Péhunco » provient du mot baatonu « Kpé-hounko », qui signifie littéralement « la pierre noire » ou « le rocher noir », en référence aux blocs rocheux sombres qui marquaient le lieu d'installation originel.",
+  "lieuxAVisiter": [
+    {
+      "id": "champs-coton-pehunco",
+      "nom": "Les grandes exploitations cotonnières",
+      "description": "Paysages agricoles spectaculaires s'étendant à perte de vue, particulièrement impressionnants lors de la période de floraison et de récolte de l'or blanc.",
+      "imageUrl": "/games/pehunco_coton.webp",
+      "imageAlt": "Champ de coton prêt pour la récolte à Ouassa-Péhunco"
+    },
+    {
+      "id": "palais-royal-pehunco",
+      "nom": "Le Palais et les chefferies traditionnelles de Péhunco",
+      "description": "Siège du pouvoir coutumier Baatonu gardant les insignes royaux, les tambourins sacrés et l'histoire des dynasties locales.",
+      "imageUrl": "/games/pehunco_palais.jfif",
+      "imageAlt": "Architecture du palais traditionnel à Ouassa-Péhunco"
+    },
+    {
+      "id": "marche-betail-pehunco",
+      "nom": "Le grand marché et le champ de foire à bétail",
+      "description": "Lieu de transaction majeur du département où s'échangent bovins, ovins, fromage traditionnel (wagashi) et vivres agricoles.",
+      "imageUrl": "/games/pehunco_marche.jfif",
+      "imageAlt": "Marché commercial et à bétail de Péhunco"
+    },
+    {
+      "id": "rochers-noirs-pehunco",
+      "nom": "Les formations rocheuses de Péhunco",
+      "description": "Sites géologiques sacrés et collines de pierres sombres ayant donné leur nom à la ville originelle de Péhunco.",
+      "imageUrl": "/games/pehunco_rochers.jfif",
+      "imageAlt": "Formations rocheuses sombres à Ouassa-Péhunco"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Capitale de l'Or Blanc",
+    "accroche": "Penses-tu connaître l'histoire, la culture agropastorale et la renommée cotonnière de Ouassa-Péhunco ?",
+    "encouragement": "Revois la géographie de l'Atacora, la signification de Péhunco et la culture du coton pour valider ce défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Ouassa-Péhunco ?",
+      "options": ["L’Atacora", "Le Borgou", "L’Alibori", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ouassa-Péhunco est située dans la partie sud-est du département de l'Atacora.",
+      "points": 25
+    },
+    {
+      "question": "Quel surnom lié à une grande culture agricole vaut à Ouassa-Péhunco sa renommée nationale ?",
+      "options": ["La Capitale de l'Or Blanc (Coton)", "La Cité du Cacao", "La Terre du Café", "Le Paradis de l'Ananas"],
+      "reponseCorrecteIndex": 0,
+      "explication": "En raison de sa production record de coton, la commune de Ouassa-Péhunco est surnommée la Capitale de l'Or Blanc.",
+      "points": 25
+    },
+    {
+      "question": "Que signifie littéralement le mot « Péhunco » en langue baatonu ?",
+      "options": ["La pierre noire", "Le grand fleuve", "La terre des rois", "Le champ vert"],
+      "reponseCorrecteIndex": 0,
+      "explication": "« Péhunco » dérive de « Kpé-hounko », qui signifie « la pierre noire » ou « le rocher noir ».",
+      "points": 25
+    },
+    {
+      "question": "Quelles sont les deux principales communautés socioculturelles historiques de Ouassa-Péhunco ?",
+      "options": ["Les Baatonu et les Peuls", "Les Fon et les Goun", "Les Adja et les Mina", "Les Dendi et les Haoussa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Ouassa-Péhunco est historiquement peuplée par les communautés Baatonu (Bariba) et Peules.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

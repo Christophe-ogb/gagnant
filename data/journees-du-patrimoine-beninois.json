@@ -1,0 +1,48 @@
+{
+  "id": "journees-du-patrimoine-beninois",
+  "type": "evenement-national",
+  "nom": "Journées du Patrimoine Béninois",
+  "sousTitre": "La Célébration de la Mémoire, de l'Architecture et des Trésors Nationaux",
+  "communeAssociee": "Abomey",
+  "imageUrl": "/games/patrimoine-benin.webp",
+  "imageAlt": "Exposition des trésors royaux et sites patrimoniaux du Bénin",
+  "descriptionHistoire": "01. La genèse d'une initiative pour la mémoire collective\nInstaurées pour sensibiliser la population à la préservation des richesses matérielles et immatérielles du pays, les Journées du Patrimoine Béninois constituent un rendez-vous culturel majeur. Inspirées par la volonté de réappropriation de l'histoire nationale, elles ouvrent grand les portes des sites historiques, des palais royaux, des musées et des monuments emblématiques à travers tout le territoire.\n\n02. Un focus sur les trésors restitués et les cités historiques\nL'événement a pris une dimension nouvelle avec le retour au pays des 26 trésors royaux d'Abomey et la modernisation des grands musées nationaux. De la cité royale d'Abomey aux cités lacustres de Ganvié, en passant par Porto-Novo et ses maisons afro-brésiliennes ou Ouidah et sa Route des Esclaves, ces journées mettent en lumière la diversité exceptionnelle du patrimoine béninois.\n\n03. L'organisation et le déroulement des festivités\nOrganisées sous la tutelle du Ministère de la Culture et du Tourisme, ces journées s'articulent autour de visites guidées gratuites ou à tarif préférentiel, d'ateliers pédagogiques pour les jeunes scolaires, de conférences d'historiens et d'expositions itinérantes. Des démonstrations d'artisanat traditionnel (tissage, forge, sculpture) et des représentations de danses du terroir viennent animer les sites patrimoniaux.\n\n04. Transmettre l'héritage aux générations futures\nLes Journées du Patrimoine Béninois visent à ancrer la fierté culturelle au cœur de la jeunesse tout en stimulant l'économie du tourisme intérieur. Elles célèbrent la continuité entre le passé glorieux des royaumes anciens et le Bénin moderne, résolument tourné vers la sauvegarde de son identité.",
+  "leSaviezVous": "Lors des Journées du Patrimoine, l'accès à certains palais traditionnels et couvents habituellement réservés aux initiés est partiellement ouvert au public pour des explications pédagogiques sur l'architecture sacrée.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Gardien du Patrimoine et de la Mémoire",
+    "accroche": "Explorez la richesse des monuments, musées et trésors historiques du Bénin",
+    "encouragement": "Vous maîtrisez parfaitement la valeur et la diversité du patrimoine béninois."
+  },
+  "quiz": [
+    {
+      "question": "Quel est l'objectif principal des Journées du Patrimoine Béninois ?",
+      "options": ["Sensibiliser à la préservation de l'histoire, des musées et des monuments nationaux", "Organiser une compétition de sports mécaniques", "Vendre des équipements industriels importés", "Fermer temporairement l'accès aux sites touristiques"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ces journées visent à faire découvrir et protéger l'héritage culturel et historique du pays.",
+      "points": 20
+    },
+    {
+      "question": "Quelle cité historique emblématique abrite les palais royaux classés au patrimoine mondial de l'UNESCO ?",
+      "options": ["Abomey", "Natitingou", "Parakou", "Malanville"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Abomey est la capitale historique du royaume du Danxomè, célèbre pour ses palais royaux.",
+      "points": 20
+    },
+    {
+      "question": "Quel style architectural unique peut-on admirer à Porto-Novo lors des visites du patrimoine ?",
+      "options": ["L'architecture afro-brésilienne (style Agouda)", "L'architecture gothique du Moyen Âge", "Les gratte-ciels en verre modernes", "Les temples grecs anciens"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Porto-Novo abrite un riche patrimoine architectural afro-brésilien hérité des déportés revenus du Brésil.",
+      "points": 20
+    },
+    {
+      "question": "Quelles activités sont fréquemment proposées aux visiteurs durant ces journées ?",
+      "options": ["Des visites guidées, des expositions d'artisanat et des conférences historiques", "Des cours de pilotage d'avion", "Uniquement des matchs de football", "Des ventes aux enchères de produits informatiques"],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'événement propose un vaste programme éducatif, culturel et artistique accessible à tous.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

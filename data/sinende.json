@@ -1,0 +1,98 @@
+{
+  "id": "sinende",
+  "type": "commune",
+  "nom": "Sinendé",
+  "sousTitre": "Terre de la royauté baatonu, carrefour agropastoral et cité des collines du Borgou",
+  "communeAssociee": "Sinendé",
+  "imageUrl": "/games/sinende1.jfif",
+  "imageAlt": "Paysage et patrimoine de Sinendé",
+  "descriptionHistoire": "01. Origines et ancrage dans l'empire Wassangari\nFondée au cœur de la région du Borgou, Sinendé tire ses racines des migrations historiques et de l'expansion du peuple Baatonu (Bariba). Née du regroupement de communautés guidées par des chasseurs et des guerriers d'élite, la cité s'est progressivement structurée autour de valeurs de bravoure, de respect strict du code d'honneur Bariba et de cohésion sociale avec les communautés voisines.\n\n02. Une terre de traditions et de chefferie royale\nAu fil des siècles, Sinendé s'est affirmée comme un pôle politique et culturel majeur du Borgou. Sous l'autorité d'une chefferie traditionnelle respectée issue de la lignée royale Wassangari, la cité a préservé un patrimoine immatériel remarquable. La hiérarchie coutumière continue d'y jouer un rôle central dans la médiation locale, la protection des savoirs anciens et la célébration des fêtes épiques telles que la Gaani.\n\n03. Un grand bassin agricole et agropastoral du Nord-Bénin\nGrâce à la richesse de ses sols et à sa position géographique stratégique, Sinendé est devenue un véritable poumon économique du département. La commune se distingue par une agriculture florissante — marquée par la culture du coton, du maïs, du sorgho et de l'igname — associée à une forte tradition d'élevage bovin portée par la cohabitation harmonieuse entre agriculteurs Baatonu et éleveurs Peuls.\n\n04. Sinendé aujourd'hui : mémoire, culture et modernité\nChef-lieu de commune dynamique, Sinendé est engagée dans une phase de modernisation de ses infrastructures urbaines et rurales. Entre la valorisation de ses sites naturels, la préservation de son architecture coutumière et l'essor de ses marchés régionaux, la ville continue d'honorer son glorieux passé tout en se tournant résolument vers l'avenir.",
+  "leSaviezVous": "Le nom « Sinendé » dérive du baatonum et fait référence à une source d'eau paisible autour de laquelle les premiers habitants se sont installés pour fonder le campement originel.",
+  "lieuxAVisiter": [
+    {
+      "id": "palais-royal-sinende",
+      "nom": "Le Palais du Roi de Sinendé",
+      "description": "Siège du pouvoir traditionnel Baatonu, où se perpétuent la diplomatie coutumière, les récits épiques des cavaliers et le respect des insignes royaux.",
+      "imageUrl": "/games/palais-sinende.webp",
+      "imageAlt": "Palais de la chefferie traditionnelle de Sinendé"
+    },
+    {
+      "id": "marche-sinende",
+      "nom": "Le marché central de Sinendé",
+      "description": "Cœur battant du commerce local où se croisent agriculteurs, éleveurs et artisans. On y trouve céréales, tubercules, fromage traditionnel (Wagasi) et objets d'artisanat.",
+      "imageUrl": "/games/marche-sinende.jfif",
+      "imageAlt": "Marché animé de Sinendé"
+    },
+    {
+      "id": "marche-betail-sinende",
+      "nom": "Le marché à bétail de Sikki",
+      "description": "L'un des plus importants points d'échange de bétail du Nord-Bénin, témoignant du rôle central de l'élevage pastoral dans l'économie de la région.",
+      "imageUrl": "/games/betail-sinende.jfif",
+      "imageAlt": "Éleveurs et troupeaux au marché à bétail"
+    },
+    {
+      "id": "collines-paysages-sinende",
+      "nom": "Les collines et paysages naturels de Fô-Bouré",
+      "description": "Zone aux reliefs pittoresques et à la végétation de savane, idéale pour découvrir la faune locale, la flore et les traditions rurales environnantes.",
+      "imageUrl": "/games/paysage-sinende.jfif",
+      "imageAlt": "Paysage de savane et reliefs à Sinendé"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Insigne du Cavalier de Sinendé",
+    "accroche": "Penses-tu connaître l'histoire, les traditions Bariba, l'agriculture et les symboles de Sinendé ?",
+    "encouragement": "Presque ! Revois l'histoire des chefferies du Borgou et les richesses de la commune de Sinendé pour obtenir ton badge."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Sinendé ?",
+      "options": [
+        "Le Borgou",
+        "L’Alibori",
+        "La Donga",
+        "L’Atacora"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sinendé est une commune située dans le département du Borgou, au nord-est du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quelle est l'une des principales activités économiques et symboliques de la commune de Sinendé ?",
+      "options": [
+        "L'agriculture et l'élevage agropastoral",
+        "La pêche lagunaire",
+        "La saliculture",
+        "La taille du marbre"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sinendé est reconnue comme un grand bassin agricole (coton, céréales) et une zone d'élevage bovin importante.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socio-culturel majeur marque fortement l'identité et la chefferie traditionnelle de Sinendé ?",
+      "options": [
+        "Les Baatonu (Bariba)",
+        "Les Fon",
+        "Les Adja",
+        "Les Nagot"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sinendé est ancrée dans l'aire culturelle Baatonu (Bariba) ainsi que dans la culture Peule.",
+      "points": 25
+    },
+    {
+      "question": "Quelle fête traditionnelle majeure rassemble les peuples de la région du Borgou, y compris à Sinendé ?",
+      "options": [
+        "La Gaani",
+        "La Nonvitcha",
+        "La fête du Vaudou",
+        "Le festival dépani"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Gaani est la grande fête annuelle de la culture Bariba et des peuples du Borgou.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

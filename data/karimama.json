@@ -1,0 +1,78 @@
+{
+  "id": "karimama",
+  "type": "commune",
+  "nom": "Karimama",
+  "sousTitre": "Porte du Parc National du W, cité fluviale du Niger et terre des Dendi et Peuls",
+  "communeAssociee": "Karimama",
+  "imageUrl": "/games/karimama1.jfif",
+  "imageAlt": "Paysages du fleuve Niger à Karimama",
+  "descriptionHistoire": "01. Cité septentrionale et carrefour fluvial\nSituée à l'extrême nord du Bénin, Karimama est la commune la plus septentrionale du pays. Établie le long des berges du fleuve Niger, la cité s'est développée au fil des siècles comme un carrefour d'échanges culturels et commerciaux entre les populations Dendi, Peule et Bariba.\n\n02. La Porte du Parc National du W\nKarimama est le principal point d'entrée béninois du Parc National du W, réserve de biosphère transfrontalière classée au patrimoine mondial de l'UNESCO. La commune abrite une biodiversité exceptionnelle composée d'éléphants, de lions, d'hippopotames et d'une faune aviaire remarquable.\n\n03. Culture, pastoralisme et traditions de la vallée\nLa vie à Karimama est marquée par le rythme du fleuve Niger et les activités pastorales. La culture dendi, la pêche artisanale, l'élevage transhumant peul et l'artisanat du cuir et de la vannerie constituent le socle de l'identité et des traditions locales.\n\n04. Karimama aujourd'hui : écotourisme et résilience\nChef-lieu du département d'Alibori à la frontière du Niger et du Burkina Faso, Karimama valorise ses richesses naturelles et son potentiel écotouristique. La commune s'attache à préserver son cadre environnemental unique tout en développant l'agriculture de contre-saison et la pêche.",
+  "leSaviezVous": "Karimama est la commune la plus au nord du Bénin et la seule entièrement bordée par le majestueux fleuve Niger, ce qui en fait un haut lieu de pêche et de culture fluviale.",
+  "lieuxAVisiter": [
+    {
+      "id": "parc-national-w-karimama",
+      "nom": "Le Parc National du W (UNESCO)",
+      "description": "Réserve de biosphère transfrontalière abritant une faune sauvage spectaculaire (éléphants, hippopotames, lions, antilopes) et des paysages savaniers uniques.",
+      "imageUrl": "/games/karimama_parc_w.webp",
+      "imageAlt": "Faune sauvage dans le Parc National du W"
+    },
+    {
+      "id": "fleuve-niger-karimama",
+      "nom": "Les berges et îles du Fleuve Niger",
+      "description": "Espace naturel idéal pour les promenades en pirogue à la découverte des communautés de pêcheurs dendi et de l'observation des hippopotames.",
+      "imageUrl": "/games/karimama_niger.jfif",
+      "imageAlt": "Pirogues sur le fleuve Niger à Karimama"
+    },
+    {
+      "id": "ile-de-karafayji-karimama",
+      "nom": "L'Île de Karafayji et les villages fluviaux",
+      "description": "Îlots pittoresques situés sur le fleuve Niger offrant une immersion dans le mode de vie traditionnel des populations fluviales.",
+      "imageUrl": "/games/karimama_ile.jfif",
+      "imageAlt": "Village traditionnel sur les bords du Niger"
+    },
+    {
+      "id": "marche-karimama",
+      "nom": "Le marché traditionnel de Karimama",
+      "description": "Lieu de rencontre des éleveurs peuls et des commerçants dendi où l'on trouve du poisson séché, du fromage traditionnel (wagashi), du cuir et des céréales.",
+      "imageUrl": "/games/karimama_marche.jfif",
+      "imageAlt": "Marché local à Karimama"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Porte du Parc W et du Fleuve Niger",
+    "accroche": "Penses-tu connaître l'histoire, la faune sauvage et les traditions de la commune la plus septentrionale du Bénin ?",
+    "encouragement": "Revois la géographie de l'Alibori, le Parc National du W et le fleuve Niger pour réussir le défi de Karimama !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Karimama ?",
+      "options": ["L’Alibori", "Le Borgou", "L’Atacora", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Karimama est située à l'extrême nord du Bénin, dans le département de l'Alibori.",
+      "points": 25
+    },
+    {
+      "question": "Quel célèbre parc national classé à l'UNESCO a sa porte d'entrée béninoise à Karimama ?",
+      "options": ["Le Parc National du W", "Le Parc National de la Pendjari", "La Réserve de la Boucle du Baoulé", "Le Parc de la Keran"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Karimama est le principal point d'accès béninois au Parc National du W, réserve transfrontalière inscrite au patrimoine mondial.",
+      "points": 25
+    },
+    {
+      "question": "Quel grand fleuve d'Afrique de l'Ouest borde la commune de Karimama ?",
+      "options": ["Le fleuve Niger", "Le fleuve Ouémé", "Le fleuve Mono", "Le fleuve Volta"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Karimama se situe le long du fleuve Niger, qui marque la frontière naturelle entre le Bénin et le Niger.",
+      "points": 25
+    },
+    {
+      "question": "Quelle est la particularité géographique de la commune de Karimama par rapport au reste du Bénin ?",
+      "options": ["C'est la commune la plus au nord du Bénin", "C'est la commune la plus vaste du sud", "C'est la commune la plus élevée en altitude", "C'est la seule commune insulaire"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Karimama constitue le point le plus septentrional (le plus au nord) du territoire béninois.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

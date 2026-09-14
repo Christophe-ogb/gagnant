@@ -1,0 +1,78 @@
+{
+  "id": "materi",
+  "type": "commune",
+  "nom": "Matéri",
+  "sousTitre": "Terre des Biamu (Gourmantché), berceau des chutes de Kotiékou et porte ouest de la Pendjari",
+  "communeAssociee": "Matéri",
+  "imageUrl": "/games/materi1.jfif",
+  "imageAlt": "Paysages et reliefs à Matéri",
+  "descriptionHistoire": "01. Origines et terre d'accueil Biamu\nSituée au nord-ouest du département de l'Atacora, à la frontière avec le Burkina Faso, la commune de Matéri est une terre d'histoire fondée principalement par le peuple Biamu (Gourmantché). La cité s'est érigée autour de valeurs communautaires fortes, de la chasse et de la protection des contreforts de l'Atacora.\n\n02. Sanctuaire naturel et chutes d'eau spectaculaires\nMatéri bénéficie d'un patrimoine naturel exceptionnel abritant les célèbres chutes de Kotiékou, les vallées verdoyantes et le parc national de la Pendjari dont elle constitue l'un des points d'accès majeurs. Ses paysages de savane arborée et de falaises séduisent les amoureux de nature préservée.\n\n03. traditions Gourmantché et expressions culturelles\nLa vie socioculturelle de Matéri est marquée par le respect des coutumes ancestrales Gourmantché, Waama et Natimba. Les danses traditionnelles aux sonorités de flûtes de pan, l'artisanat du bois, de la poterie et de la vannerie ainsi que les cérémonies d'initiation perpétuent une identité forte.\n\n04. Matéri aujourd'hui : écotourisme et potentiel agropastoral\nCommune transfrontalière en plein essor, Matéri valorise ses ressources agropastorales (production de coton, céréales, sésame et élevage) tout en misant sur l'écotourisme grâce à ses sites naturels spectaculaires et son artisanat local.",
+  "leSaviezVous": "Matéri abrite les spectaculaires chutes de Kotiékou, une cascade naturelle nichée au cœur d'un paysage verdoyant, considérée comme l'une des merveilles cachées de la chaîne de l'Atacora.",
+  "lieuxAVisiter": [
+    {
+      "id": "chutes-kotiekou-materi",
+      "nom": "Les chutes de Kotiékou",
+      "description": "Cascade majestueuse entourée d'une végétation luxuriante, offrant un cadre rafraîchissant idéal pour la randonnée et la découverte de la nature sauvage.",
+      "imageUrl": "/games/materi_kotiekou.webp",
+      "imageAlt": "Chutes d'eau de Kotiékou à Matéri"
+    },
+    {
+      "id": "parc-pendjari-materi",
+      "nom": "L'accès au Parc National de la Pendjari",
+      "description": "Réserve de biosphère majeure d'Afrique de l'Ouest où s'observent éléphants, lions, hippopotames, babouins et de nombreuses espèces d'oiseaux.",
+      "imageUrl": "/games/materi_pendjari.jfif",
+      "imageAlt": "Faune sauvage dans la réserve de la Pendjari"
+    },
+    {
+      "id": "falaises-atacora-materi",
+      "nom": "Les falaises et panoramas de Gouandé",
+      "description": "Formations rocheuses et contreforts offrant un point de vue imprenable sur la chaîne de l'Atacora et les plaines frontalières du Burkina Faso.",
+      "imageUrl": "/games/materi_falaises.jfif",
+      "imageAlt": "Reliefs et falaises à Matéri"
+    },
+    {
+      "id": "marche-materi",
+      "nom": "Le marché traditionnel de Matéri",
+      "description": "Lieu de rencontres et de négoce local où l'on retrouve les céréales (sorgho, mil, maïs), le beurre de karité, le miel sauvage et la vannerie Biamu.",
+      "imageUrl": "/games/materi_marche.jfif",
+      "imageAlt": "Animation au marché traditionnel de Matéri"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité des Chutes de Kotiékou",
+    "accroche": "Penses-tu connaître l'histoire du peuple Biamu, les cascades de Kotiékou et la biodiversité de Matéri ?",
+    "encouragement": "Revois la géographie de l'Atacora, les sites naturels de Kotiékou et les traditions de Matéri pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Matéri ?",
+      "options": ["L’Atacora", "L’Alibori", "Le Borgou", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Matéri est située au nord-ouest du Bénin, dans le département de l'Atacora.",
+      "points": 25
+    },
+    {
+      "question": "Quel célèbre site naturel de cascades se trouve dans la commune de Matéri ?",
+      "options": ["Les chutes de Kotiékou", "Les cascades de Tanougou", "Les chutes de Kota", "Les cascades de Badagba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les chutes de Kotiékou constituent l'un des plus beaux sites naturels et touristiques de la commune de Matéri.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel est historiquement prédominant dans la commune de Matéri ?",
+      "options": ["Les Biamu (Gourmantché)", "Les Fon", "Les Yoruba", "Les Nagot"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le peuple Biamu (ou Gourmantché) constitue la communauté historique et majoritaire de Matéri.",
+      "points": 25
+    },
+    {
+      "question": "Quel grand parc national de faune sauvage est directement accessible depuis la commune de Matéri ?",
+      "options": ["Le Parc National de la Pendjari", "Le Parc National du W", "Le Parc de la Boucle du Baoulé", "Le Parc de Fazao-Malfakassa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Matéri partage ses limites avec le Parc National de la Pendjari, l'une des plus importantes réserves de faune d'Afrique de l'Ouest.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

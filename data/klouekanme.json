@@ -1,0 +1,78 @@
+{
+  "id": "klouekanme",
+  "type": "commune",
+  "nom": "Klouékanmè",
+  "sousTitre": "Cœur du pays Adja, carrefour commercial du Couffo et terre de traditions ancestrales",
+  "communeAssociee": "Klouékanmè",
+  "imageUrl": "/games/klouekanme1.jfif",
+  "imageAlt": "Paysages et marché de Klouékanmè",
+  "descriptionHistoire": "01. Origines et ancrage en pays Adja\nSituée au centre du département du Couffo, la commune de Klouékanmè est un pôle historique et culturel majeur du peuple Adja. Son nom dérive de l'expression fon/adja évoquant les caractéristiques de son terroir originel. La cité s'est développée autour de lignages royaux et de divinités protectrices du plateau.\n\n02. Un carrefour commercial et agricole stratégique\nEn raison de sa position géographique centrale dans le Couffo, Klouékanmè est devenue une plaque tournante du commerce agricole régional. La commune est réputée pour ses terres fertiles adaptées à la culture du maïs, du manioc, de l'ananas, de l'huile de palme et de la transformation du gari.\n\n03. Richesse spirituelle, rites et traditions\nLa vie communautaire à Klouékanmè reste profondément ancrée dans les traditions Adja-Tado. Le culte Vodoun, les couvents traditionnels, les cérémonies d'affliction ou de réjouissance (danses Tchinkounmey et Zangbeto) témoignent d'une identité culturelle préservée et vivante.\n\n04. Klouékanmè aujourd'hui : dynamique locale et modernisation\nCommune en pleine expansion économique et urbaine, Klouékanmè modernise ses équipements marchands et scolaires. Elle valorise son artisanat (tissage, poterie, forge) tout en s'affirmant comme un acteur incontournable de l'économie agropastorale du département du Couffo.",
+  "leSaviezVous": "Klouékanmè est célèbre dans tout le Sud-Bénin pour la qualité de ses produits agricoles dérivés du manioc (notamment le gari Klouékanmè) et la vitalité de son grand marché périodique.",
+  "lieuxAVisiter": [
+    {
+      "id": "marche-central-klouekanme",
+      "nom": "Le grand marché régional de Klouékanmè",
+      "description": "Véritable poumon économique du Couffo se tenant tous les 5 jours, où s'échangent les vivres locaux (gari, huile de palme, céréales), des textiles et de l'artisanat.",
+      "imageUrl": "/games/klouekanme_marche.webp",
+      "imageAlt": "Animation au grand marché de Klouékanmè"
+    },
+    {
+      "id": "palais-traditionnel-klouekanme",
+      "nom": "Les palais et chefferies traditionnelles de Klouékanmè",
+      "description": "Lieux de mémoire et de pouvoir coutumier où sont gardés les symboles royaux Adja et célébrés les rites ancestraux du terroir.",
+      "imageUrl": "/games/klouekanme_palais.jfif",
+      "imageAlt": "Architecture traditionnelle à Klouékanmè"
+    },
+    {
+      "id": "ateliers-transformation-gari",
+      "nom": "Les centres de transformation agricole d'Ahogbèya",
+      "description": "Sites artisanaux et coopératives villageoises spécialisés dans la transformation du manioc en gari de haute qualité et tapioca.",
+      "imageUrl": "/games/klouekanme_artisanat.jfif",
+      "imageAlt": "Transformation artisanale du manioc à Klouékanmè"
+    },
+    {
+      "id": "forets-sacrees-klouekanme",
+      "nom": "Les forêts sacrées et couvents Vodoun",
+      "description": "Espaces boisés protégés et sanctuaires spirituels préservant la biodiversité locale et la pratique des rites traditionnels Adja.",
+      "imageUrl": "/games/klouekanme_foret.jfif",
+      "imageAlt": "Forêt sacrée et sanctuaire traditionnel"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité Royale Adja du Couffo",
+    "accroche": "Penses-tu connaître l'histoire, la culture Adja et le potentiel agricole de la commune de Klouékanmè ?",
+    "encouragement": "Revois la géographie du Couffo, la culture Adja et les richesses de Klouékanmè pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Klouékanmè ?",
+      "options": ["Le Couffo", "Le Zou", "Le Mono", "L’Atlantique"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Klouékanmè est située dans le département du Couffo, au Sud-Ouest du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel grand groupe socioculturel est prédominant dans la commune de Klouékanmè ?",
+      "options": ["Les Adja", "Les Bariba", "Les Dendi", "Les Yom"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Klouékanmè est une commune clé du pays Adja, dont la culture et la langue façonnent l'identité locale.",
+      "points": 25
+    },
+    {
+      "question": "Quel produit transformé issu du manioc fait la renommée commerciale de Klouékanmè ?",
+      "options": ["Le gari", "Le wagashi", "L'huile d'arachide", "Le beurre de karité"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Klouékanmè est un grand centre de production et de commercialisation du gari de manioc.",
+      "points": 25
+    },
+    {
+      "question": "À quelle fréquence se tient le grand marché traditionnel et commercial de Klouékanmè ?",
+      "options": ["Tous les 5 jours", "Tous les jours", "Une fois par mois", "Tous les 15 jours"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Comme la plupart des grands marchés traditionnels du Sud-Bénin, le marché de Klouékanmè s'anime selon un cycle de 5 jours.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

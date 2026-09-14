@@ -1,0 +1,98 @@
+{
+  "id": "tanguieta",
+  "type": "commune",
+  "nom": "Tanguiéta",
+  "sousTitre": "Porte d'entrée du Parc National de la Pendjari, cité des Châteaux Somba et cœur de l'Atacora",
+  "communeAssociee": "Tanguiéta",
+  "imageUrl": "/games/tanguieta1.jfif",
+  "imageAlt": "Paysages montagneux de la chaîne de l'Atacora à Tanguiéta",
+  "descriptionHistoire": "01. Origines et terre d'accueil de la chaîne de l'Atacora\nNée au pied des majestueux reliefs de la chaîne de l'Atacora, Tanguiéta s'est constituée au fil des siècles comme un carrefour stratégique pour divers peuples du Nord-Bénin, notamment les Natemba, les Waama, les Otammari, les Gourmantché et les Fulbé (Peuls). Le nom de la ville témoigne de cet ancrage historique et de la topographie escarpée qui servait de rempart naturel face aux invasions expansionnistes.\n\n02. Un bastion culturel et architectural unique\nTanguiéta est indissociable de la culture unique de la région de l'Atacora. Elle est réputée pour sa proximité avec l'architecture vernaculaire des Tatas Somba — de véritables châteaux forts en terre bâtis par les peuples locaux pour se protéger des prédateurs et des razzias. La ville préserve des traditions vivantes, des danses ritualisées et des savoir-faire artisanaux transmis de génération en génération.\n\n03. La porte du joyau naturel de l'Afrique de l'Ouest\nHistoriquement positionnée comme le point de départ vers la réserve de biosphère du Parc National de la Pendjari, Tanguiéta est devenue le centre névralgique de la conservation de la faune sauvage en Afrique de l'Ouest. Éléphants, lions d'Afrique de l'Ouest, hippopotames et antilopes font la renommée de cet écosystème exceptionnel supervisé depuis la ville.\n\n04. Tanguiéta aujourd'hui : carrefour écotouristique et hospitalier\nAujourd'hui, Tanguiéta est une commune dynamique réputée pour son célèbre hôpital Saint-Jean de Dieu (pôle médical régional), son marché haut en couleur et son rôle pionnier dans l'écotourisme communautaire au Bénin.",
+  "leSaviezVous": "Le nom « Tanguiéta » dérive d'une expression locale signifiant « au-delà de la montagne » ou « au pied du rocher », en référence directe à la chaîne de l'Atacora qui surplombe la ville.",
+  "lieuxAVisiter": [
+    {
+      "id": "parc-pendjari-tanguieta",
+      "nom": "Le Parc National de la Pendjari",
+      "description": "L'une des plus importantes réserves de faune d'Afrique de l'Ouest (UNESCO). Point de départ privilégié pour des safaris à la rencontre des lions, éléphants, buffles et babouins.",
+      "imageUrl": "/games/pendjari.webp",
+      "imageAlt": "Faune sauvage dans la savane du Parc de la Pendjari"
+    },
+    {
+      "id": "chaine-atacora-tanguieta",
+      "nom": "La chaîne de l'Atacora et ses cascades",
+      "description": "Reliefs spectaculaires offrant des sentiers de randonnée pédestre, des points de vue panoramiques sur la savane et des sources d'eau fraîches nichées dans la montagne.",
+      "imageUrl": "/games/atacora.jfif",
+      "imageAlt": "Vue panoramique sur les montagnes de l'Atacora"
+    },
+    {
+      "id": "tatas-somba-tanguieta",
+      "nom": "Les Tatas Somba et villages traditionnels",
+      "description": "Habitations fortifiées en terre à deux étages, véritables chefs-d'œuvre d'architecture traditionnelle intégrant greniers à céréales et espaces de vie protégés.",
+      "imageUrl": "/games/tata-somba.jfif",
+      "imageAlt": "Architecture traditionnelle en terre d'une Tata Somba"
+    },
+    {
+      "id": "marche-tanguieta",
+      "nom": "Le marché traditionnel de Tanguiéta",
+      "description": "Grand marché coloré où se croisent les différentes ethnies de la région pour échanger miel sauvage, produits de la chasse, artisanat en paille et beurre de karité.",
+      "imageUrl": "/games/marche-tanguieta.jfif",
+      "imageAlt": "Échanges et étals colorés au marché de Tanguiéta"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Insigne du Gardien de la Pendjari",
+    "accroche": "Penses-tu connaître le parc de la Pendjari, la chaîne de l'Atacora et les mystères des Tatas Somba ?",
+    "encouragement": "Presque ! Revois la géographie de l'Atacora, la faune de la Pendjari et l'histoire de Tanguiéta pour remporter ton badge."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Tanguiéta ?",
+      "options": [
+        "L’Atacora",
+        "La Donga",
+        "L’Borgou",
+        "L’Alibori"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Tanguiéta est une commune majeure située dans le département de l'Atacora, au nord-ouest du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "De quel célèbre parc national riche en faune sauvage Tanguiéta est-elle la principale porte d'entrée ?",
+      "options": [
+        "Le Parc National de la Pendjari",
+        "Le Parc National du W",
+        "La Réserve de la Biosphère de la Boucle du Baoulé",
+        "Le Parc de la Kéran"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Tanguiéta est le point de départ privilégié pour accéder au Parc National de la Pendjari, l'une des plus grandes réserves de faune d'Afrique de l'Ouest.",
+      "points": 25
+    },
+    {
+      "question": "Quel nom donne-t-on aux maisons fortifiées traditionnelles en terre typiques de la région de l'Atacora ?",
+      "options": [
+        "Les Tatas Somba",
+        "Les Case-obus",
+        "Les Assins",
+        "Les Agbada"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Tatas Somba sont des architectures traditionnelles uniques ressemblant à de petits châteaux forts en terre.",
+      "points": 25
+    },
+    {
+      "question": "Quelle grande chaîne de montagnes borde la commune de Tanguiéta et façonne son paysage ?",
+      "options": [
+        "La chaîne de l'Atacora",
+        "Les monts Nimba",
+        "Le massif du Piton de la Fournaise",
+        "Les monts Mandara"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La chaîne de l'Atacora est la plus importante chaîne de montagnes du Bénin et traverse la commune de Tanguiéta.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

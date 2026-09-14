@@ -1,0 +1,48 @@
+{
+  "id": "roi-kpasse",
+  "type": "roi",
+  "nom": "Roi Kpassè",
+  "sousTitre": "Fondateur de Glèxwé (Ouidah), roi des Houéda et esprit de la forêt sacrée",
+  "communeAssociee": "Ouidah",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Foret_sacree_de_Kpasse_Ouidah_Benin.jpg/800px-Foret_sacree_de_Kpasse_Ouidah_Benin.jpg",
+  "imageAlt": "Arbre iroko sacré associé à la mémoire du roi Kpassè à Ouidah",
+  "descriptionHistoire": "01. Fin du XVIe siècle · La fondation de Glèxwé\nSelon les traditions orales, le prince Kpassè, successeur du roi Pasagung-lo, étend l'influence des Houéda vers la côte atlantique. Il est associé à la fondation de Glèxwé, la cité qui deviendra Ouidah. Son règne favorise le développement de la pêche, des échanges locaux et d'une organisation politique qui fait de la région un important carrefour commercial.\n\n02. Gardien des cultes et de la nature\nDans les récits liés à son règne, la spiritualité occupe une place centrale dans la vie des Houéda. Le culte du python Dangbé est associé à la protection de la communauté. Des rituels, des forêts sacrées et le respect des esprits ancestraux contribuent à la transmission des pratiques culturelles qui restent importantes dans l'histoire de Ouidah.\n\n03. La légende de la métamorphose\nLa tradition orale raconte que Kpassè se retire dans la forêt, au moment de tensions autour de la succession. Il s'y métamorphose en un grand iroko afin de continuer à veiller sur la cité et son peuple. Cette histoire relève du patrimoine spirituel vivant de Ouidah ; elle est transmise et honorée par les communautés qui en sont les gardiennes.\n\n04. La forêt sacrée, un lieu de mémoire vivant\nLa forêt sacrée de Kpassè, au cœur de Ouidah, demeure un espace de recueillement, de rites et de mémoire. Le roi Kpassè y est célébré comme une figure fondatrice liée à la cité, à la protection de la nature et aux traditions spirituelles béninoises.",
+  "leSaviezVous": "La forêt sacrée de Kpassè est un haut lieu du patrimoine spirituel de Ouidah. Les traditions orales y associent un iroko à la mémoire du roi Kpassè.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Roi Fondateur de Ouidah",
+    "accroche": "Entre dans la forêt sacrée et découvre la légende de l'iroko de Kpassè.",
+    "encouragement": "Bravo ! Tu as exploré l'histoire et la mémoire spirituelle du roi Kpassè."
+  },
+  "quiz": [
+    {
+      "question": "Quelle cité historique est associée à la fondation par le roi Kpassè ?",
+      "options": ["Ouidah (Glèxwé)", "Abomey", "Porto-Novo", "Parakou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les traditions orales relient Kpassè à la fondation de Glèxwé, aujourd'hui Ouidah.",
+      "points": 20
+    },
+    {
+      "question": "En quoi le roi Kpassè se serait-il métamorphosé selon la tradition ?",
+      "options": ["En un grand arbre iroko", "En serpent python Dangbé", "En panthère noire", "En statue d'or"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le récit traditionnel associe Kpassè à un iroko de la forêt sacrée.",
+      "points": 20
+    },
+    {
+      "question": "Quel sanctuaire naturel et spirituel de Ouidah porte son nom ?",
+      "options": ["La forêt sacrée de Kpassè", "Les palais royaux d'Abomey", "La porte du Non-Retour", "Le fort Saint-Jean-Baptiste"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La forêt sacrée de Kpassè est un lieu de rites et de mémoire lié aux traditions de Ouidah.",
+      "points": 20
+    },
+    {
+      "question": "Quel animal est associé au culte protecteur de la région dans ces traditions ?",
+      "options": ["Le serpent python Dangbé", "Le lion", "Le cheval", "L'aigle"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le python Dangbé occupe une place importante dans le patrimoine spirituel de Ouidah.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

@@ -12,7 +12,7 @@ export default function ContemporaryFiguresPage() {
         <header className="flex items-center justify-between gap-4">
           <Link href="/" className="group flex items-center gap-3 rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
             <span className="grid size-11 place-items-center rounded-full border border-gold/45 bg-gold/10 text-gold"><Trophy aria-hidden="true" size={21} /></span>
-            <span className="font-display text-lg text-white">JEUX GAGNANTS</span>
+            <span className="font-display text-lg text-white">GAGNANTS 229</span>
           </Link>
           <PlayerProgress />
         </header>

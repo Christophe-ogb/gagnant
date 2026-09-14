@@ -1,0 +1,78 @@
+{
+  "id": "tchaourou",
+  "type": "commune",
+  "nom": "Tchaourou",
+  "sousTitre": "Terre de diversité, porte du septentrion et plus vaste commune du Bénin",
+  "communeAssociee": "Tchaourou",
+  "imageUrl": "/games/tchaourou1.jfif",
+  "imageAlt": "Paysage et nature de Tchaourou",
+  "descriptionHistoire": "01. La plus vaste commune du Bénin\nS'étendant sur plus de 17 000 km², Tchaourou est la plus grande commune du Bénin par sa superficie. Idéalement située dans le département du Borgou, elle constitue un carrefour stratégique entre le sud du pays et les grandes villes du septentrion.\n\n02. Un carrefour culturel et ethnique\nProche de la frontière avec le Nigeria, Tchaourou se caractérise par un brassage culturel exceptionnel. On y retrouve une cohabitation harmonieuse entre plusieurs communautés majeures, notamment les Nagot (Yoruba), les Bariba, les Peuls et les Fon, qui enrichissent la vie sociale et les traditions locales.\n\n03. Un atout agricole et pastoral majeur\nVéritable poumon agricole du centre-nord du Bénin, la commune se distingue par une importante production de coton, d'acajou (anacarde), d'igname et de maïs. C'est également une zone majeure d'élevage transhumant et de transformation artisanale, notamment pour le fromage traditionnel (Waragashi).\n\n04. Tchaourou aujourd'hui : dynamique et tournée vers l'avenir\nEn pleine mutation socio-économique, Tchaourou mise sur la valorisation de ses ressources naturelles, la modernisation de son agriculture et le renforcement de ses infrastructures de transport pour consolider son rôle de hub économique régional.",
+  "leSaviezVous": "Avec une superficie supérieure à 17 000 km², la commune de Tchaourou est à elle seule plus grande que des pays comme le Liban, le Montenegro ou le Cap-Vert.",
+  "lieuxAVisiter": [
+    {
+      "id": "foret-classee-okpara-tchaourou",
+      "nom": "La forêt classée de l'Okpara",
+      "description": "Vaste espace naturel traversé par la rivière Okpara, offrant un cadre privilégié pour l'éco-tourisme, l'observation de la faune sauvage et la découverte de la biodiversité locale.",
+      "imageUrl": "/games/herttchaourou.webp",
+      "imageAlt": "Paysage naturel de la forêt de l'Okpara"
+    },
+    {
+      "id": "marche-central-tchaourou",
+      "nom": "Le marché central de Tchaourou",
+      "description": "Cœur névralgique du commerce local où se croisent marchands béninois et nigérians. On y trouve une grande variété de céréales, d'anacardes, de tubercules et de produits artisanaux.",
+      "imageUrl": "/games/tchaourou1.jfif",
+      "imageAlt": "Échanges commerciaux au marché de Tchaourou"
+    },
+    {
+      "id": "campements-peuls-tchaourou",
+      "nom": "Les campements pastoraux et traditions peules",
+      "description": "Espaces de découverte du mode de vie pastoral, où l'on peut apprécier l'élevage traditionnel du bétail et la fabrication du fromage peul local (Waragashi).",
+      "imageUrl": "/games/tchaourou2.jfif",
+      "imageAlt": "Troupeau de bovins et traditions pastorales"
+    },
+    {
+      "id": "frontiere-kaboua-tchaourou",
+      "nom": "La zone frontalière et les paysages de savane",
+      "description": "Zone de transit vers le Nigeria offrant des panoramas uniques de savane boisée, de collines rocheuses et de petits villages traditionnels nagot et bariba.",
+      "imageUrl": "/games/tchaourou3.jfif",
+      "imageAlt": "Paysage de savane à Tchaourou"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Grand Territoire de Tchaourou",
+    "accroche": "Connaissez-vous bien la géographie, l'agriculture et les spécificités de la plus vaste commune du Bénin ?",
+    "encouragement": "Presque ! Révisez la géographie du département du Borgou, la superficie de Tchaourou et ses richesses locales pour relever le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Tchaourou ?",
+      "options": ["Le Borgou", "Les Collines", "La Donga", "L'Alibori"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Tchaourou est située dans la partie sud du département du Borgou.",
+      "points": 25
+    },
+    {
+      "question": "Quelle est la particularité géologique et administrative majeure de Tchaourou au Bénin ?",
+      "options": ["C'est la commune la plus vaste du pays", "C'est la commune la plus peuplée", "C'est la plus petite commune du pays", "C'est la seule commune sans cours d'eau"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Avec plus de 17 000 km², Tchaourou est la plus grande commune du Bénin en termes de superficie.",
+      "points": 25
+    },
+    {
+      "question": "Quel grand pays voisin du Bénin partage une longue frontière avec la commune de Tchaourou ?",
+      "options": ["Le Nigeria", "Le Togo", "Le Burkina Faso", "Le Niger"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Tchaourou est frontalière avec le Nigeria à l'est, favorisant d'importants échanges commerciaux.",
+      "points": 25
+    },
+    {
+      "question": "Quel produit d'élevage traditionnel très réputé est fabriqué dans les campements pastoraux de Tchaourou ?",
+      "options": ["Le fromage peul (Waragashi)", "Le beurre de karité de cuisson", "Le kankanhian", "L'huile de palme rouge"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Waragashi est un fromage de lait de vache traditionnel fabriqué par les communautés peules de la région.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,78 @@
+{
+  "id": "tori-bossito",
+  "type": "commune",
+  "nom": "Tori-Bossito",
+  "sousTitre": "Terre de tradition, havre d'agronomie et cité verte de l'Atlantique",
+  "communeAssociee": "Tori-Bossito",
+  "imageUrl": "/games/tori-bossito1.jfif",
+  "imageAlt": "Paysage verdoyant et nature de Tori-Bossito",
+  "descriptionHistoire": "01. Origines et héritage culturel Aizo\nSituée au cœur du département de l'Atlantique, la commune de Tori-Bossito trouve ses racines dans l'histoire du peuple Aizo. Fondée par des vagues migratoires successives, la cité a su conserver ses traditions spirituelles, ses couvents sacrés et un mode de vie paisible ancré dans le respect des ancêtres.\n\n02. Un pôle de recherche agricole et agronomique\nTori-Bossito occupe une place stratégique dans le secteur de la recherche scientifique au Bénin. Elle abrite notamment la station de recherche du Centre de Recherches Agricoles (CRA-Sud / INRAB) et le Centre Songhaï de Tori, spécialisés dans l'expérimentation agricole, l'amélioration des semences et l'agroécologie.\n\n03. Vocation maraîchère et arboricole\nFavorisée par un sol ferrallitique fertile et une pluviométrie généreuse, Tori-Bossito est un bassin de production agricole majeur de l'Atlantique. La commune produit une grande quantité d'ananas, de maïs, de manioc, de légumes maraîchers ainsi que des régimes de palme à huile.\n\n04. Tori-Bossito aujourd'hui : transition écologique et essor local\nAlliant préservation de son cadre naturel et modernisation de son économie locale, la commune développe un modèle axé sur l'agriculture durable, la valorisation des filières paysannes et la promotion du tourisme vert.",
+  "leSaviezVous": "La commune de Tori-Bossito tire son nom du mot « Tori », désignant l'identité culturelle majeure du secteur, et de « Bossito », qui signifie littéralement « Sur la colline du roi / chef ».",
+  "lieuxAVisiter": [
+    {
+      "id": "station-recherche-inrab-tori",
+      "nom": "La station de recherche agricole d'INRAB / CRA-Sud",
+      "description": "Grand centre de recherche agronomique abritant des pépinières expérimentales, des banques de gènes végétales et des projets pionniers sur l'amélioration du palmier à huile et du maïs.",
+      "imageUrl": "/games/herttori-bossito.webp",
+      "imageAlt": "Champs d'expérimentation agricole à Tori"
+    },
+    {
+      "id": "marche-tori-ga-tori",
+      "nom": "Le marché de Tori-Gare",
+      "description": "Ancien point névralgique de la voie ferrée Bénin-Niger, ce marché traditionnel demeure un pôle dynamique de vente de produits vivriers, fruits frais et produits d'artisanat local.",
+      "imageUrl": "/games/tori-bossito1.jfif",
+      "imageAlt": "Animation du marché de Tori-Gare"
+    },
+    {
+      "id": "foret-sacree-tori",
+      "nom": "Les forêts sacrées et couvents d'Avame",
+      "description": "Espaces naturels préservés servant de lieux de rites spirituels, de conservation de la biodiversité locale et de préservation des plantes médicinales traditionnelles.",
+      "imageUrl": "/games/tori-bossito2.jfif",
+      "imageAlt": "Forêt sacrée et végétation préservée"
+    },
+    {
+      "id": "fermes-agroecologiques-tori",
+      "nom": "Les fermes agroécologiques et plantations d'ananas",
+      "description": "Exploitations agricoles durables proposant des parcours écotouristiques au milieu des champs d'ananas, des palmeraies et des sites d'élevage intégrés.",
+      "imageUrl": "/games/tori-bossito3.jfif",
+      "imageAlt": "Plantation d'ananas et paysage rural"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité Verte de Tori-Bossito",
+    "accroche": "Connaissez-vous l'histoire, l'agronomie et le patrimoine de Tori-Bossito ?",
+    "encouragement": "Presque ! Révisez la géographie du département de l'Atlantique et le rôle scientifique de Tori-Bossito pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Tori-Bossito ?",
+      "options": ["L'Atlantique", "Le Zou", "Le Ouémé", "Le Mono"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Tori-Bossito est l'une des communes rurales constituant le département de l'Atlantique.",
+      "points": 25
+    },
+    {
+      "question": "Quel secteur clé fait la renommée scientifique et technique de la commune de Tori-Bossito ?",
+      "options": ["La recherche agricole et l'agronomie", "La métallurgie lourde", "L'industrie textile industrielle", "La pêche hauturière"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Tori-Bossito abrite la station de recherche du CRA-Sud (INRAB) consacrée aux cultures agricoles.",
+      "points": 25
+    },
+    {
+      "question": "Quelle communauté socio-culturelle constitue le socle historique majeur de la commune de Tori-Bossito ?",
+      "options": ["Les Aizo", "Les Bariba", "Les Dendi", "Les Yom"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Tori-Bossito est historiquement ancrée dans l'aire culturelle Aizo (et Fon).",
+      "points": 25
+    },
+    {
+      "question": "Quel vestige du transport béninois a donné son nom à l'un des arrondissements et marchés célèbres de Tori ?",
+      "options": ["La ligne de chemin de fer (Tori-Gare)", "Un port fluvial sur le fleuve Niger", "Un ancien aéroport militaire", "Une gare routière internationale"],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'arrondissement de Tori-Gare doit son nom à l'ancienne station de train de l'historique ligne ferroviaire Bénin-Niger.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

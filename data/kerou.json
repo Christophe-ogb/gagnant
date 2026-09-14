@@ -1,0 +1,78 @@
+{
+  "id": "kerou",
+  "type": "commune",
+  "nom": "Kérou",
+  "sousTitre": "Terre des Baatonu et Peuls, berceau de la Mekrou et contrefort de l'Atacora",
+  "communeAssociee": "Kérou",
+  "imageUrl": "/games/kerou1.jfif",
+  "imageAlt": "Paysages savaniers et reliefs à Kérou",
+  "descriptionHistoire": "01. Origines et terre de traditions Bariba\nSituée au nord-est du département de l'Atacora, la commune de Kérou est une cité historique fondée par les populations Baatonu (Bariba). Son histoire est marquée par la puissance des chefferies traditionnelles et la cohabitation harmonieuse avec les communautés Peules pastorales.\n\n02. Un cadre naturel majestueux bordé par la Mékrou\nKérou bénéficie d'un environnement remarquable caractérisé par des collines, des plaines agricoles fertiles et le cours de la rivière Mékrou. La commune constitue également l'une des portes d'accès aux aires protégées et à la chaîne de l'Atacora.\n\n03. Culture, pastoralisme et traditions guerrières\nLa culture à Kérou est imprégnée des traditions équestres Bariba, des cérémonies coutumières et du mode de vie pastoral des Peuls. L'artisanat local, la poterie traditionnelle, la forge et la musique aux sonorités de flûtes et de tambours sacrés accompagnent les fêtes traditionnelles.\n\n04. Kérou aujourd'hui : pôle agricole et émergence\nGrand bassin de production agricole (coton, maïs, igname, arachide, anacarde) du nord Bénin, Kérou poursuit sa modernisation. La commune mise sur la valorisation de ses richesses agropastorales et la préservation de son patrimoine culturel pour soutenir son développement.",
+  "leSaviezVous": "La commune de Kérou est traversée par la rivière Mékrou, un affluent majeur du fleuve Niger qui donne son nom à l'un des principaux sous-bassins hydrographiques du nord Bénin.",
+  "lieuxAVisiter": [
+    {
+      "id": "riviere-mekrou-kerou",
+      "nom": "La vallée de la Mékrou",
+      "description": "Cours d'eau pittoresque traversant la commune, idéal pour découvrir des paysages naturels préservés, la faune aviaire et les zones de pêche artisanale.",
+      "imageUrl": "/games/kerou_mekrou.webp",
+      "imageAlt": "La rivière Mékrou à Kérou"
+    },
+    {
+      "id": "palais-royal-kerou",
+      "nom": "Le Palais Royal de Kérou",
+      "description": "Siège de la chefferie traditionnelle Baatonu où sont préservées les coutumes royales, la mémoire des fondateurs de la cité et les armes sacrées.",
+      "imageUrl": "/games/kerou_palais.jfif",
+      "imageAlt": "Architecture du palais traditionnel de Kérou"
+    },
+    {
+      "id": "collines-reliefs-kerou",
+      "nom": "Les collines et contreforts de Kérou",
+      "description": "Reliefs rocheux offrant des panoramas exceptionnels sur la savane arborée et constituant des lieux de randonnée et de découverte de la biodiversité.",
+      "imageUrl": "/games/kerou_collines.jfif",
+      "imageAlt": "Paysage de collines à Kérou"
+    },
+    {
+      "id": "marche-central-kerou",
+      "nom": "Le marché central de Kérou",
+      "description": "Cœur de la vie économique locale où s'échangent produits agricoles, bétail, produits dérivés du lait (wagashi) et objets d'artisanat traditionnel.",
+      "imageUrl": "/games/kerou_marche.jfif",
+      "imageAlt": "Marché traditionnel de Kérou"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité de la Mékrou et des Baatonu",
+    "accroche": "Penses-tu connaître l'histoire, la culture agropastorale et les paysages naturels de la commune de Kérou ?",
+    "encouragement": "Revois la géographie de l'Atacora, la rivière Mékrou et les traditions Baatonu pour réussir haut la main le défi de Kérou !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Kérou ?",
+      "options": ["L’Atacora", "Le Borgou", "L’Alibori", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Kérou est située dans la partie nord-est du département de l'Atacora.",
+      "points": 25
+    },
+    {
+      "question": "Quel cours d'eau important traverse la commune de Kérou ?",
+      "options": ["La Mékrou", "Le fleuve Mono", "La rivière Zou", "Le fleuve Couffo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Mékrou est la principale rivière qui arrose la commune de Kérou avant de poursuivre son cours vers le fleuve Niger.",
+      "points": 25
+    },
+    {
+      "question": "Quels sont les deux principaux groupes socioculturels historiques de la commune de Kérou ?",
+      "options": ["Les Baatonu (Bariba) et les Peuls", "Les Fon et les Goun", "Les Adja et les Mina", "Les Yoa et les Lokpa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de Kérou est principalement composée de communautés Baatonu (Bariba) et Peules.",
+      "points": 25
+    },
+    {
+      "question": "Quelle est l'une des principales activités économiques de la commune de Kérou ?",
+      "options": ["L'agriculture et l'élevage agropastoral", "La pêche industrielle en haute mer", "Le tourisme balnéaire", "L'exploitation minière du phosphate"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kérou est un important pôle agropastoral reconnu pour la culture de céréales, du coton et l'élevage bovin.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

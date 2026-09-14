@@ -1,0 +1,78 @@
+{
+  "id": "savalou",
+  "type": "commune",
+  "nom": "Savalou",
+  "sousTitre": "Capitale du royaume Mahi, cité des collines et sanctuaire de la fête de l'igname",
+  "communeAssociee": "Savalou",
+  "imageUrl": "/games/savalou1.jfif",
+  "imageAlt": "Patrimoine et reliefs de Savalou",
+  "descriptionHistoire": "01. Origines et fondation du royaume Mahi\nFondée au XVIIe siècle par le roi Gbaguidi 1er (Ahosu Soha), Savalou est la capitale historique du royaume Mahi. Née de la volonté de préserver l'indépendance des populations face aux expansions du royaume de Dahomey, la cité s'est érigée au creux des collines, qui servaient de remparts naturels.\n\n02. Épicentre de la fête de l'igname (15 août)\nSavalou est célèbre dans tout le Bénin et au-delà pour la célébration de la fête de l'igname (Tchogan), organisée chaque 15 août. Cette fête ancestrale marque la récolte et la consommation des nouvelles ignames pilées, accompagnées de grandes cérémonies rituelles et de réjouissances populaires.\n\n03. Cité spirituelle et berceau du culte Vodoun\nSanctuaire de traditions spirituelles vivantes, Savalou abrite de nombreux sites sacrés, dont le musée de la chasse, le palais royal des Gbaguidi et le sanctuaire Marial de Dassa-Savalou. Les couvents Vodoun et le culte des divinités du terroir y conservent une place centrale.\n\n04. Savalou aujourd'hui : culture, artisanat et dynamisme agropastoral\nGrand centre de production d'igname, de maïs, d'anacarde et d'arachide, Savalou est une commune dynamique du département des Collines. Elle continue de développer son potentiel touristique, son artisanat d'art et ses infrastructures routières tout en honorant sa glorieuse dynastie.",
+  "leSaviezVous": "La dynastie royale de Savalou est portée par la lignée des rois « Gbaguidi », un nom historique qui signifie littéralement « homme puissant » ou « colosse », incarnant la force et la résistance du peuple Mahi.",
+  "lieuxAVisiter": [
+    {
+      "id": "palais-royal-gbaguidi-savalou",
+      "nom": "Le Palais Royal de la dynastie Gbaguidi",
+      "description": "Siège du royaume Mahi à Savalou, abritant le trône historique, les récadres royaux, la cour des rois et les sépultures des anciens souverains Gbaguidi.",
+      "imageUrl": "/games/savalou_palais.webp",
+      "imageAlt": "Façade et architecture du Palais Royal Gbaguidi de Savalou"
+    },
+    {
+      "id": "maison-chasse-savalou",
+      "nom": "Le Musée de la Chasse et les collines de Savalou",
+      "description": "Site mémoriel et relief panoramique exposant les outils, armes et traditions des chasseurs historiques Mahi au pied des collines environnantes.",
+      "imageUrl": "/games/savalou_collines.jfif",
+      "imageAlt": "Reliefs des collines et paysage naturel de Savalou"
+    },
+    {
+      "id": "marche-central-savalou",
+      "nom": "Le grand marché traditionnel de Savalou",
+      "description": "Plaque tournante du commerce de tubercules d'igname, de galettes d'arachide (Klouiklui), de moutarde locale (Afitin) et d'artisanat du terroir.",
+      "imageUrl": "/games/savalou_marche.jfif",
+      "imageAlt": "Animation au marché traditionnel de Savalou"
+    },
+    {
+      "id": "foret-sacree-savalou",
+      "nom": "La forêt sacrée de Zounzonmé et les couvents Vodoun",
+      "description": "Espace naturel préservé et haut lieu spirituel abritant des arbres centenaires, des autels rituels et les secrets de la médecine traditionnelle Mahi.",
+      "imageUrl": "/games/savalou_foret.jfif",
+      "imageAlt": "Forêt sacrée et sanctuaire spirituel à Savalou"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Dynastie des Gbaguidi de Savalou",
+    "accroche": "Penses-tu connaître l'histoire de la dynastie Gbaguidi, la grande fête de l'igname du 15 août et le patrimoine de Savalou ?",
+    "encouragement": "Revois l'histoire du royaume Mahi, la tradition de l'igname pilée et la géographie des Collines pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Savalou ?",
+      "options": ["Les Collines", "Le Zou", "Le Borgou", "L’Atlantique"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Savalou est une grande commune située dans le département des Collines, au centre du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel titre patronymique royal portent traditionnellement les souverains du royaume de Savalou ?",
+      "options": ["Gbaguidi", "Sina Boro", "Olofin", "Kpassè"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les rois du royaume Mahi de Savalou portent tous le nom dynastique de Gbaguidi.",
+      "points": 25
+    },
+    {
+      "question": "Quelle grande fête traditionnelle et culinaire est célébrée chaque 15 août à Savalou ?",
+      "options": ["La fête de l'igname", "La fête du manioc", "La fête du maïs", "La fête du karité"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Chaque 15 août, Savalou accueille des milliers de visiteurs pour la traditionnelle fête de l'igname (dégustation de l'igname nouvelle pilée).",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel est historiquement le fondateur et le pilier du royaume de Savalou ?",
+      "options": ["Les Mahi", "Les Bariba", "Les Dendi", "Les Somba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Savalou est le berceau et la capitale historique du peuple Mahi.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

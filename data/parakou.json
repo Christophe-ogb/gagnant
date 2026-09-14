@@ -1,0 +1,78 @@
+{
+  "id": "parakou",
+  "type": "commune",
+  "nom": "Parakou",
+  "sousTitre": "Métropole du septentrion, cité de Kobourou et carrefour stratégique du Borgou",
+  "communeAssociee": "Parakou",
+  "imageUrl": "/games/parakou1.jfif",
+  "imageAlt": "Patrimoine et monuments de Parakou",
+  "descriptionHistoire": "01. Origines et fondation de la cité de Kobourou\nFondée au XVIe siècle par Akpaki Gobi Yina, Parakou tire son nom du mot dendi « Bara Kourou » signifiant « la ville de tout le monde ». Surnommée la cité de Kobourou, elle s'est imposée dès ses origines comme un havre d'accueil cosmopolite au cœur du Borgou.\n\n02. Métropole et pôle économique du septentrion\nDeuxième plus grande ville du Bénin et chef-lieu du département du Borgou, Parakou est le véritable moteur économique et industriel du nord du pays. Hub logistique majeur, la ville est le terminus historique de la ligne ferroviaire (l'Organisation Commune Bénin-Niger).\n\n03. Un carrefour socioculturel exceptionnel\nParakou incarne une synthèse culturelle unique où se côtoient les traditions royales Baatonu (Bariba), les communautés Peules, Dendi, Fon et Yoruba. Le Palais Royal du Kobourou continue de veiller sur le patrimoine coutumier, la musique traditionnelle et les fêtes équestres.\n\n04. Parakou aujourd'hui : modernité et enseignement supérieur\nVille universitaire moderne abritant l'Université de Parakou, la commune se transforme rapidement avec la rénovation de son réseau routier, le développement du marché de Guéma et l'essor des industries de transformation (coton, noix d'anacarde, beurre de karité).",
+  "leSaviezVous": "Le nom « Parakou » dérive de l'expression dendi « Bara Kourou », qui veut dire « la ville de tout le monde », illustrant la tradition d'hospitalité et la diversité culturelle qui caractérisent la cité depuis sa fondation.",
+  "lieuxAVisiter": [
+    {
+      "id": "place-bio-guera-parakou",
+      "nom": "La Place Bio Guéra et sa statue monumentale",
+      "description": "Lieu mémoriel emblématique marquant l'entrée de la ville avec la statue du héros national Bio Guéra cabré sur son cheval, symbole de la résistance anticoloniale.",
+      "imageUrl": "/games/parakou_bioguera.webp",
+      "imageAlt": "Statue monumentale de Bio Guéra à Parakou"
+    },
+    {
+      "id": "palais-royal-kobourou",
+      "nom": "Le Palais Royal de Parakou (Palais du Akpaki)",
+      "description": "Siège de la monarchie traditionnelle de Parakou où réside le Roi Akpaki, gardien des coutumes ancestrales, des rites et du trône du Kobourou.",
+      "imageUrl": "/games/parakou_palais.jfif",
+      "imageAlt": "Architecture du Palais Royal de Parakou"
+    },
+    {
+      "id": "marche-guema-parakou",
+      "nom": "Le marché international de Guéma et le marché Arzèkè",
+      "description": "Grands centres d'échanges commerciaux de la métropole nord du Bénin, réputés pour les textiles, l'artisanat du cuir, le fromage (wagashi) et les vivres.",
+      "imageUrl": "/games/parakou_marche.jfif",
+      "imageAlt": "Animation au marché commercial de Parakou"
+    },
+    {
+      "id": "musee-plein-air-parakou",
+      "nom": "Le Musée de plein air de Parakou",
+      "description": "Espace culturel et touristique présentant des habitats traditionnels des différentes ethnies du nord Bénin et des expositions d'artisanat d'art.",
+      "imageUrl": "/games/parakou_musee.jfif",
+      "imageAlt": "Cases et habitats traditionnels du musée de plein air"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité du Kobourou et Métropole du Nord",
+    "accroche": "Penses-tu connaître l'histoire du roi Akpaki, la statue de Bio Guéra et le patrimoine cosmopolite de Parakou ?",
+    "encouragement": "Revois l'histoire du Borgou, le rôle économique de la cité de Kobourou et les héros nationaux pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "De quel département du Bénin la ville de Parakou est-elle la préfecture (chef-lieu) ?",
+      "options": ["Le Borgou", "L’Alibori", "L’Atacora", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Parakou est la grande métropole du nord et le chef-lieu du département du Borgou.",
+      "points": 25
+    },
+    {
+      "question": "Que signifie littéralement le nom « Parakou » (Bara Kourou) en langue dendi ?",
+      "options": ["La ville de tout le monde", "La cité des cavaliers", "La terre du coton", "Le rocher sacré"],
+      "reponseCorrecteIndex": 0,
+      "explication": "« Parakou » dérive de la formule dendi « Bara Kourou », qui signifie « la ville de tout le monde », en référence à son caractère cosmopolite.",
+      "points": 25
+    },
+    {
+      "question": "Quel célèbre héros de la résistance anticoloniale est immortalisé par une statue monumentale à cheval à l'entrée de Parakou ?",
+      "options": ["Bio Guéra", "Béhanzin", "Kaba", "Toffa 1er"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Place Bio Guéra à Parakou abrite la statue du célèbre prince et guerrier Wasangari Bio Guéra à cheval.",
+      "points": 25
+    },
+    {
+      "question": "Quel surnom traditionnel est communément donné à la ville de Parakou ?",
+      "options": ["La cité de Kobourou", "La cité des Agosuvi", "La cité des Kpassè", "La cité de la Mékrou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Parakou est traditionnellement surnommée la cité de Kobourou, en hommage au trône et à l'esprit fondateur de la ville.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

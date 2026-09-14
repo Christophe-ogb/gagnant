@@ -1,0 +1,48 @@
+{
+  "id": "roi-alade-ife",
+  "type": "roi",
+  "nom": "Roi Aladé Ifè (50e Alakétou)",
+  "sousTitre": "Le gardien du trône de Kétou, protecteur de l'héritage yoruba et symbole de l'unité",
+  "communeAssociee": "Kétou",
+  "imageUrl": "/games/krttou1.jfif",
+  "imageAlt": "La porte fortifiée Akaba Idena, symbole historique du royaume de Kétou",
+  "descriptionHistoire": "01. 1948–2005 · Du service de l'État au destin royal\nNé en 1948 sous le nom de Basile Gbotché, le futur souverain grandit au cœur de la cité historique de Kétou. Avant son accession au trône, il mène une carrière dans l'administration publique béninoise, où il développe une expérience de gestion et de service public. Issu des lignées royales liées à l'histoire yoruba de Kétou, il est appelé à assumer la charge de souverain d'un royaume ancien de la région.\n\n02. 17 décembre 2005 · L'intronisation du 50e Alakétou\nLe 17 décembre 2005, Basile Gbotché est intronisé sous le nom d'Aladé Ifè, comme 50e Alakétou de Kétou. Le titre d'Alakétou désigne le souverain traditionnel de la cité. Son rôle est alors de veiller aux traditions royales, aux rituels sacrés et à la mémoire des souverains qui ont façonné l'histoire de Kétou. Son règne se place sous le signe de la concorde, du développement communautaire et de la préservation du patrimoine.\n\n03. 2005–2018 · Patrimoine et cohésion de la cité\nAu cours de son règne, Aladé Ifè soutient le rayonnement culturel de Kétou et la mise en valeur de ses repères historiques, notamment la porte fortifiée Akaba Idena. Il exerce un rôle de médiation au sein de la communauté et entretient les liens entre les traditions royales du Bénin et celles du Nigeria voisin. Sa fonction coutumière contribue à la cohésion sociale et à la transmission des pratiques culturelles yoruba et nagot.\n\n04. 2018 · Une mémoire transmise\nLe roi Aladé Ifè meurt le 22 janvier 2018, après treize années de règne. Sa disparition suscite une grande émotion à Kétou et au sein des communautés attachées à la tradition de l'Alakétou. Il laisse l'image d'un souverain engagé dans la sauvegarde de l'identité culturelle de sa cité et dans le renouveau du patrimoine de Kétou.",
+  "leSaviezVous": "Dans la tradition de Kétou, le décès d'un Alakétou est marqué par des rites particuliers, dont l'extinction des feux de la ville avant le retour symbolique du feu sacré.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de l'Alakétou de Kétou",
+    "accroche": "Entre dans la lignée des gardiens de la porte sacrée Akaba Idena.",
+    "encouragement": "Bravo ! Tu as découvert l'histoire du roi Aladé Ifè et de Kétou."
+  },
+  "quiz": [
+    {
+      "question": "Quel titre ancestral porte le souverain du royaume historique de Kétou ?",
+      "options": ["Alakétou", "Yovogan", "Oba d'Oyo", "Migan"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le souverain traditionnel de Kétou porte le titre d'Alakétou.",
+      "points": 20
+    },
+    {
+      "question": "En quelle année Aladé Ifè a-t-il été intronisé comme 50e Alakétou ?",
+      "options": ["1990", "2005", "2010", "2018"],
+      "reponseCorrecteIndex": 1,
+      "explication": "Son intronisation a eu lieu le 17 décembre 2005 à Kétou.",
+      "points": 20
+    },
+    {
+      "question": "Quel monument historique emblématique est associé à Kétou ?",
+      "options": ["La porte fortifiée Akaba Idena", "Les palais royaux d'Abomey", "La place Goho", "Le fort portugais de Ouidah"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Akaba Idena est l'une des portes fortifiées les plus connues de la cité historique de Kétou.",
+      "points": 20
+    },
+    {
+      "question": "Quelle était l'activité de Basile Gbotché avant son accession au trône ?",
+      "options": ["Cadre dans l'administration publique", "Capitaine de navire", "Marchand d'or", "Officier militaire"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Avant son couronnement, il a exercé dans l'administration publique béninoise.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

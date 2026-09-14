@@ -1,0 +1,78 @@
+{
+  "id": "toviklin",
+  "type": "commune",
+  "nom": "Toviklin",
+  "sousTitre": "Terre d'histoire du Couffo, berceau de l'artisanat et carrefour agricole du plateau",
+  "communeAssociee": "Toviklin",
+  "imageUrl": "/games/toviklin1.jfif",
+  "imageAlt": "Paysage et marché traditionnel de Toviklin",
+  "descriptionHistoire": "01. Origines et peuplement du plateau du Couffo\nSituée au cœur du département du Couffo, la commune de Toviklin est une terre d'histoire et de traditions principalement peuplée par la communauté Adja. Née du regroupement de plusieurs vagues migratoires historiques, elle a su préserver au fil des siècles une structure sociale solide et un attachement profond à ses coutumes ancrées dans la culture Adja-Tado.\n\n02. Un carrefour commercial et un artisanat renommé\nToviklin occupe une position centrale qui en fait un pôle d'échanges très actif dans la région. La commune est particulièrement réputée pour le savoir-faire de ses artisans, notamment dans le travail de la forge, de la poterie, de la vannerie et de la transformation des produits du palmier à huile.\n\n03. Une vocation agricole dynamique\nBénéficiant des terres fertiles du plateau du Couffo, l'économie de Toviklin repose essentiellement sur l'agriculture. On y produit en abondance le maïs, le manioc, le niébé, l'ananas ainsi que la noix de palme. La fabrication de la farine de manioc (gari) et la production d'huile de palme y constituent des activités majeures.\n\n04. Toviklin aujourd'hui : modernisation et valorisation locale\nToujours ancrée dans ses traditions spirituelles et communautaires, la commune s'investit dans la modernisation de ses infrastructures, le développement du commerce local et le renforcement des filières agricoles pour offrir de meilleures opportunités à sa jeunesse.",
+  "leSaviezVous": "Le nom « Toviklin » dérive de termes en langue Adja évoquant les origines de l'installation de ses premiers habitants et la recherche d'un territoire paisible sur le plateau du Couffo.",
+  "lieuxAVisiter": [
+    {
+      "id": "marche-central-toviklin",
+      "nom": "Le marché central de Toviklin",
+      "description": "Cœur de la vie économique locale, ce marché haut en couleur regorge de produits vivriers, d'épices, de gari et d'objets d'artisanat fabriqués par les forgeurs et artisans de la région.",
+      "imageUrl": "/games/herttoviklin.webp",
+      "imageAlt": "Marché traditionnel et échanges à Toviklin"
+    },
+    {
+      "id": "ateliers-forgerons-toviklin",
+      "nom": "Les ateliers traditionnels de forge et d'artisanat",
+      "description": "Espaces de démonstration où les maîtres forgerons et artisans perpétuent la fabrication traditionnelle d'outils agricoles, de sculptures et d'ustensiles locaux.",
+      "imageUrl": "/games/toviklin1.jfif",
+      "imageAlt": "Atelier d'artisanat et travail du métal"
+    },
+    {
+      "id": "palmeraies-unites-gari-toviklin",
+      "nom": "Les palmeraies et unités de transformation du manioc",
+      "description": "Sites de découverte rurale illustrant la transformation artisanale et semi-industrielle du manioc en gari de qualité ainsi que l'extraction de l'huile de palme.",
+      "imageUrl": "/games/toviklin2.jfif",
+      "imageAlt": "Champ de manioc et palmeraie à Toviklin"
+    },
+    {
+      "id": "couvents-lieux-sacres-toviklin",
+      "nom": "Les couvents et sites patrimoniaux Adja",
+      "description": "Lieux sacrés préservant la mémoire ancestrale, les rites voodoo et les danses traditionnelles de l'aire culturelle Adja.",
+      "imageUrl": "/games/toviklin3.jfif",
+      "imageAlt": "Patrimoine culturel et tradition Adja à Toviklin"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité Artisanale de Toviklin",
+    "accroche": "Connaissez-vous l'histoire, la culture Adja et l'artisanat de la commune de Toviklin ?",
+    "encouragement": "Presque ! Révisez la géographie du département du Couffo et les traditions locales de Toviklin pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Toviklin ?",
+      "options": ["Le Couffo", "Le Mono", "L'Atlantique", "Le Zou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Toviklin est l'une des communes constituant le département du Couffo.",
+      "points": 25
+    },
+    {
+      "question": "Quelle communauté socio-culturelle constitue le socle historique et démographique majeur de Toviklin ?",
+      "options": ["Les Adja", "Les Bariba", "Les Dendi", "Les Lokpa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Toviklin est située dans l'aire culturelle Adja, groupe majoritaire de la région.",
+      "points": 25
+    },
+    {
+      "question": "Quelle activité artisanale et technique fait historiquement la renommée du savoir-faire à Toviklin ?",
+      "options": ["La forge et le travail des métaux", "Le tissage de la soie", "La sculpture sur ivoire", "La fabrication de pirogues"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Toviklin abrite d'anciens ateliers de forgerons renommés pour la fabrication d'outils agricoles et d'objets traditionnels.",
+      "points": 25
+    },
+    {
+      "question": "Quel produit dérivé du manioc est massivement produit et transformé à Toviklin ?",
+      "options": ["Le gari", "Le tapioca de luxe uniquement", "Le pain de farine de blé", "L'amidon industriel purifié"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La transformation du manioc en gari est l'une des principales activités économiques des femmes de la commune de Toviklin.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

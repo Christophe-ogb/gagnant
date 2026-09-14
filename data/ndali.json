@@ -1,0 +1,78 @@
+{
+  "id": "ndali",
+  "type": "commune",
+  "nom": "N'Dali",
+  "sousTitre": "Carrefour stratégique du Borgou, cité de la Boura et carrefour des cultures Baatonu et Peule",
+  "communeAssociee": "N'Dali",
+  "imageUrl": "/games/ndali1.jfif",
+  "imageAlt": "Paysages et patrimoine de N'Dali",
+  "descriptionHistoire": "01. Origines et fondation au cœur du Borgou\nSituée au centre du département du Borgou, la commune de N'Dali est une cité historique fondée par les populations Baatonu. Son nom dérive de la tradition orale faisant référence à l'emplacement et à la générosité des terres d'accueil choisies par les premiers habitants.\n\n02. Un carrefour routier et commercial stratégique\nN'Dali occupe une position géographique privilégiée au croisement des grands axes routiers reliant Parakou au nord du pays (Kandi, Malanville) et à la frontière du Nigéria (Nikki). Cette situation en fait un centre névralgique pour le transit des personnes, du bétail et des produits agricoles.\n\n03. Coexistence culturelle et traditions pastorales\nLa commune est marquée par une riche diversité culturelle où se côtoient harmonieusement les traditions équestres et royales Baatonu (Bariba) et le mode de vie pastoral des communautés Peules. Les fêtes traditionnelles, les marchés à bétail et l'artisanat local reflètent cette symbiose.\n\n04. N'Dali aujourd'hui : pôle agropastoral en essor\nGrand bassin de production de coton, d'anacarde, de maïs et de soja, N'Dali est également un centre important pour la transformation et la commercialisation des produits de l'élevage. La commune continue de moderniser ses équipements urbains et routiers pour soutenir sa croissance.",
+  "leSaviezVous": "Grâce à sa position de nœud routier reliant Parakou, Djougou, Bembèrèké et Nikki, N'Dali est surnommée le « carrefour du Borgou », essentielle au transport marchand de tout le nord du Bénin.",
+  "lieuxAVisiter": [
+    {
+      "id": "carrefour-routier-ndali",
+      "nom": "Le carrefour stratégique et centre-ville de N'Dali",
+      "description": "Nœud routier majeur du septentrion où convergent les axes reliant Parakou, Kandi, Nikki et Djougou, animé par un commerce de transit très dynamique.",
+      "imageUrl": "/games/ndali_carrefour.webp",
+      "imageAlt": "Carrefour routier animé de N'Dali"
+    },
+    {
+      "id": "palais-traditionnel-ndali",
+      "nom": "Le Palais du Roi et la chefferie traditionnelle de N'Dali",
+      "description": "Haut lieu de la culture Baatonu gardant la mémoire des dignitaires locaux, les insignes royaux et les traditions équestres de la région.",
+      "imageUrl": "/games/ndali_palais.jfif",
+      "imageAlt": "Architecture du palais traditionnel à N'Dali"
+    },
+    {
+      "id": "marche-betail-ndali",
+      "nom": "Le grand marché à bétail de N'Dali",
+      "description": "L'un des plus importants marchés de commercialisation de bovins et de petits ruminants du Borgou, géré par les communautés d'éleveurs Peuls et commerçants.",
+      "imageUrl": "/games/ndali_betail.jfif",
+      "imageAlt": "Marché à bétail à N'Dali"
+    },
+    {
+      "id": "foret-classee-ndali",
+      "nom": "Les réserves forestières et paysages de savane de N'Dali",
+      "description": "Espaces naturels de savane arborée bordant la commune, propices à la découverte de la flore locale, de la faune aviaire et de l'apiculture.",
+      "imageUrl": "/games/ndali_foret.jfif",
+      "imageAlt": "Savane et réserve naturelle à N'Dali"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Carrefour Stratégique du Borgou",
+    "accroche": "Penses-tu connaître l'histoire, la position stratégique et la culture agropastorale de N'Dali ?",
+    "encouragement": "Revois la géographie du Borgou, les axes routiers du nord et les traditions Baatonu/Peule pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de N'Dali ?",
+      "options": ["Le Borgou", "L’Alibori", "L’Atacora", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "N'Dali est une commune située au cœur du département du Borgou, au nord du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel est le rôle géographique principal de la ville de N'Dali dans le transport du septentrion béninois ?",
+      "options": ["C'est un carrefour routier majeur reliant plusieurs grandes villes", "C'est un port fluvio-maritime", "C'est une station de haute montagne", "C'est une île frontalière"],
+      "reponseCorrecteIndex": 0,
+      "explication": "N'Dali est un carrefour routier stratégique où se croisent les routes allant vers Parakou, Kandi, Nikki et Djougou.",
+      "points": 25
+    },
+    {
+      "question": "Quelles sont les deux principales communautés socioculturelles historiques de N'Dali ?",
+      "options": ["Les Baatonu (Bariba) et les Peuls", "Les Fon et les Goun", "Les Adja et les Mina", "Les Somba et les Waama"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de N'Dali est constituée principalement de communautés Baatonu (Bariba) et Peules.",
+      "points": 25
+    },
+    {
+      "question": "Quel type de marché spécifique fait la grande renommée économique de N'Dali dans la région du Borgou ?",
+      "options": ["Un grand marché à bétail", "Un marché aux poissons de mer", "Un marché de poterie fine", "Un marché de fleurs sauvages"],
+      "reponseCorrecteIndex": 0,
+      "explication": "N'Dali abrite un marché à bétail très fréquenté pour la commercialisation des bovins et ovins dans le Borgou.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

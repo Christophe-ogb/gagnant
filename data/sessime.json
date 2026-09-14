@@ -1,0 +1,48 @@
+{
+  "id": "sessime",
+  "type": "contemporain",
+  "nom": "Sessimè",
+  "sousTitre": "La Fana Fana Lady et l'Étoile de l'Afro-pop Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/sessime.webp",
+  "imageAlt": "Portrait de l'artiste béninoise Sessimè",
+  "descriptionHistoire": "01. 2007 - 2011 · Des compétitions aux premiers succès\nOriginaire du Bénin, Bidossessi Christelle Guédou, plus connue sous le nom de Sessimè, baigne très tôt dans un univers artistique. Elle se fait connaître du grand public lors de concours de chant télévisés comme « Coca-Cola Stars Tour ». En 2011, elle sort son premier album intitulé « Wazakina », porté par des sonorités fusionnant musique traditionnelle béninoise, afro-pop et zouk, qui séduit rapidement la sous-région.\n\n02. L'envol international et les distinctions\nAvec des titres phares comme « Mayirho » et « Fana Fana », Sessimè s'impose comme une artiste incontournable. Elle remporte plusieurs récompenses internationales prestigieuses, notamment le prix du Meilleur Espoir Féminin du continent africain aux Kora Awards en 2012, propulsant sa musique sur la scène panafricaine et internationale.\n\n03. Un style engagé et des collaborations marquantes\nSessimè associe la richesse des rythmes traditionnels béninois (notamment le tchinkoumé et le kaleta) aux sonorités urbaines modernes. Surnommée la « Fana Fana Lady », elle prône dans ses textes l'amour, l'empouvoirement de la femme, la tolérance et la résilience. Elle multiplie les collaborations avec de grands noms de la musique africaine, dont Freddy De Majunga, DJ Arafat et Nikanor.\n\n04. Une icône de la culture et un modèle de ténacité\nGrâce à sa présence scénique captivante, son énergie et son attachement aux valeurs culturelles du Bénin, Sessimè demeure un pilier de la scène musicale béninoise et continue d'inspirer la nouvelle génération d'artistes à travers l'Afrique.",
+  "leSaviezVous": "En 2012, Sessimè a remporté le trophée du Meilleur Espoir Féminin d'Afrique aux prestigieux Kora Music Awards à Abidjan, consacrant son talent au niveau continental.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Fana Fana Lady et de l'Afro-fusion",
+    "accroche": "Explorez l'univers musical riche et le parcours inspirant de Sessimè",
+    "encouragement": "Vous maîtrisez parfaitement la discographie et l'histoire de la star Sessimè."
+  },
+  "quiz": [
+    {
+      "question": "Quel prix continental prestigieux Sessimè a-t-elle remporté en 2012 ?",
+      "options": ["Meilleur Espoir Féminin aux Kora Awards", "Grammy Award de la World Music", "BET Award de la meilleure artiste internationale", "Prix RFI Musique du Monde"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Elle a décroché le Kora Award du Meilleur Espoir Féminin en 2012.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le titre de son premier album solo sorti en 2011 ?",
+      "options": ["Wazakina", "Mayirho", "Fana Fana", "Gbéhounkpè"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Son premier album à succès s'intitule « Wazakina ».",
+      "points": 20
+    },
+    {
+      "question": "Quel surnom artistique emblématique est souvent attribué à Sessimè ?",
+      "options": ["La Fana Fana Lady", "La Reine du Coton", "La Diva de Ouidah", "L'Amazone du Hip-Hop"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sessimè est affectueusement surnommée la « Fana Fana Lady » par ses fans.",
+      "points": 20
+    },
+    {
+      "question": "Quelles sonorités traditionnelles et modernes Sessimè fusionne-t-elle dans ses chansons ?",
+      "options": ["L'Afro-pop, le Zouk et les rythmes béninois", "Le Jazz pur et le Rock classique", "La Rumba congolaise et le Reggae roots", "Le Rap us et la musique classique"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Elle combine l'Afro-pop, le Zouk et des rythmes traditionnels comme le tchinkoumé.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pipi-wobaho",
+  "type": "contemporain",
+  "nom": "Pipi Wobaho",
+  "sousTitre": "Le Monstre Sacré du Théâtre Comique et de la Comédie Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/pipi-wobaho.webp",
+  "imageAlt": "Portrait du comédien béninois Pipi Wobaho",
+  "descriptionHistoire": "01. 1990 - 2000 · Les débuts et la création de la troupe « Sèmobo »\nDe son vrai nom Simplice Behanzin, Pipi Wobaho se passionne très jeune pour les arts de la scène et le théâtre dramatique. Dans les années 1990, il fait ses premières armes sur les planches à Cotonou et fonde la compagnie théâtrale « Sèmobo ». Très vite, son talent pour l'improvisation, son expression corporelle unique et son sens du dialogue populaire séduisent le public béninois.\n\n02. L'ère légendaire du duo « Les Lotois » et de la troupe Wobaho\nAu début des années 2000, Simplice Behanzin s'associe à l'artiste Elephant Mouillé pour former un duo comique mythique. Leurs pièces de théâtre enregistrées sur cassettes VHS puis VCD s'arrachent dans tous les foyers du Bénin et de la diaspora. À travers sa compagnie « la Troupe Pipi Wobaho », il produit des dizaines de spectacles et téléfilms devenus cultes, abordant avec humour et pertinence les faits de société, la vie de famille et la politique.\n\n03. Un pionnier de l'industrie du spectacle et du cinéma local\nAu-delà de la comédie, Pipi Wobaho est un véritable entrepreneur culturel. Il a formé plusieurs générations de comédiens, de metteurs en scène et d'acteurs de la scène béninoise. Sa capacité à dramatiser les travers de la société béninoise en langue fon et en français lui vaut une immense popularité intergénérationnelle sur l'ensemble du territoire national.\n\n04. Un patriarche de la culture et un héritage vivant\nConsidéré comme l'un des piliers fondamentaux du théâtre comique contemporain au Bénin, Pipi Wobaho continue de se produire, de produire des films et d'inspirer les nouveaux humoristes du web. Son nom demeure indissociable de l'histoire du divertissement et du patrimoine artistique béninois.",
+  "leSaviezVous": "Simplice Behanzin a choisi le nom de scène « Pipi Wobaho » pour marquer l'esprit populaire. Ses sketchs et téléfilms en langue fon et français ont été parmi les premiers à être distribués massivement sur support vidéo à travers tout le Bénin.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Roi du Théâtre Comique et du Rire",
+    "accroche": "Explorez la carrière légendaire et le répertoire théâtral de Pipi Wobaho",
+    "encouragement": "Vous maîtrisez parfaitement l'histoire et les grands succès du comédien Pipi Wobaho."
+  },
+  "quiz": [
+    { "question": "Quel est le vrai nom à l'état civil du célèbre comédien Pipi Wobaho ?", "options": ["Simplice Behanzin", "Marcel Pade", "Ignace Yechenou", "Gérard Houessou"], "reponseCorrecteIndex": 0, "explication": "Pipi Wobaho s'appelle à l'état civil Simplice Behanzin.", "points": 20 },
+    { "question": "Avec quel comédien emblématique Pipi Wobaho a-t-il formé un duo comique historique ?", "options": ["Elephant Mouillé", "Dah Zoundji", "Gambo", "Sèjan"], "reponseCorrecteIndex": 0, "explication": "Son duo avec Elephant Mouillé a marqué l'âge d'or du théâtre populaire béninois.", "points": 20 },
+    { "question": "Quel est le domaine artistique principal qui a fait la renommée de Pipi Wobaho ?", "options": ["Le théâtre comique et le cinéma populaire", "La musique symphonique", "La sculpture sur bois", "La peinture contemporaine"], "reponseCorrecteIndex": 0, "explication": "Il est un pionnier incontournable du théâtre de comédie et des téléfilms comiques au Bénin.", "points": 20 },
+    { "question": "Quelle langue nationale béninoise Pipi Wobaho utilise-t-il abondamment dans ses pièces aux côtés du français ?", "options": ["Le Fon", "Le Dendi", "Le Baatonu", "Le Ditammari"], "reponseCorrecteIndex": 0, "explication": "Le Fon est la langue principale utilisée dans la plupart de ses pièces de théâtre populaires.", "points": 20 }
+  ],
+  "isReady": true
+}

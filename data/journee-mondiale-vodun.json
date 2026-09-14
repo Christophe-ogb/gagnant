@@ -1,0 +1,48 @@
+{
+  "id": "journee-mondiale-vodun",
+  "type": "evenement-national",
+  "nom": "Journée Mondiale de la Culture Vodun & Vodun Days",
+  "sousTitre": "La Grande Célébration du Patrimoine Spiritualiste et Ancestral Béninois",
+  "communeAssociee": "Ouidah",
+  "imageUrl": "/games/vodun-days.webp",
+  "imageAlt": "Célébrations des Vodun Days sur la plage de Ouidah au Bénin",
+  "descriptionHistoire": "01. Des origines de la fête du 10 janvier au rayonnement mondial\nInstaurée dans les années 1990 au Bénin, la Journée Nationale du Vodun célébrée chaque 10 janvier est devenue un rendez-vous annuel majeur pour glorifier les cultes ancestraux, la spiritualité et les arts vodun. En reconnaissant officiellement cette fête, le Bénin est devenu le pionnier mondial de la valorisation de ce patrimoine culturel et spirituel partagé avec les diasporas des Caraïbes et des Amériques.\n\n02. La métamorphose : Naissance des « Vodun Days »\nSous l'impulsion des réformes de promotion du tourisme culturel, la célébration traditionnelle s'est réinventée pour devenir les « Vodun Days ». Cet événement d'envergure internationale s'étend désormais sur plusieurs jours autour du 10 janvier à Ouidah, cité historique et berceau de la spiritualité vodun, attirant des dizaines de milliers de visiteurs, de pèlerins et de touristes du monde entier.\n\n03. L'organisation et l'expérience festive à Ouidah\nL'événement s'organise autour d'un parcours immersif et sécurisé combinant authenticité sacrée et modernité. La ville de Ouidah vibre au rythme de plusieurs pôles majeurs : les couvents et places sacrées pour les rituels et prières des dignitaires (Dah, Hounnon), la Place du Chacha et la Porte du Non-Retour pour le pèlerinage mémoriel, ainsi qu'un grand village festif au bord de la plage abritant des concerts géants, des animations de danses régionales (Egungun, Zangbéto) et des expositions artisanales.\n\n04. Un vecteur de fierté, d'unité et d'attractivité touristique\nLes Vodun Days constituent aujourd'hui une vitrine culturelle majeure pour le Bénin. Ils permettent de déconstruire les préjugés, de réaffirmer la fierté de l'identité béninoise et de créer un pont fraternel entre les Afro-descendants et leur terre d'origine, tout en positionnant le pays comme la capitale mondiale des arts et de la culture vodun.",
+  "leSaviezVous": "La réinvention de la fête du 10 janvier en « Vodun Days » réunit chaque année à Ouidah à la fois des rites sacrés traditionnels présidés par les hauts dignitaires et des concerts de stars internationales, créant un carrefour unique entre foi, mémoire et célébration.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau des Vodun Days et de la Mémoire Ancestrale",
+    "accroche": "Explorez l'organisation et la richesse culturelle des Vodun Days à Ouidah",
+    "encouragement": "Vous connaissez parfaitement l'histoire et l'organisation de la Journée Mondiale du Vodun."
+  },
+  "quiz": [
+    {
+      "question": "À quelle date emblématique de janvier la Journée Nationale du Vodun est-elle traditionnellement célébrée au Bénin ?",
+      "options": ["Le 10 janvier", "Le 1er janvier", "Le 15 janvier", "Le 26 janvier"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La journée du 10 janvier est historiquement consacrée à la fête des religions traditionnelles au Bénin.",
+      "points": 20
+    },
+    {
+      "question": "Dans quelle ville béninoise historique se déroule le cœur des festivités des Vodun Days ?",
+      "options": ["Ouidah", "Parakou", "Natitingou", "Kandi"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ouidah, cité patrimoniale et spirituelle, accueille le centre névralgique des Vodun Days.",
+      "points": 20
+    },
+    {
+      "question": "Comment s'organise l'expérience des Vodun Days sur le terrain à Ouidah ?",
+      "options": ["En articulant rituels dans les couvents, défilés de masques et grands concerts sur la plage", "En organisant uniquement des conférences fermées à huis clos", "Par une compétition sportive exclusivement", "En interdisant l'accès de la ville au public"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Vodun Days combinent cérémonies sacrées, défilés culturels (Zangbéto, Egungun) et scènes musicales géantes.",
+      "points": 20
+    },
+    {
+      "question": "Quel est l'un des objectifs principaux de la modernisation de cet événement sous le label Vodun Days ?",
+      "options": ["Valoriser le patrimoine béninois et attirer le tourisme international et la diaspora", "Remplacer les fêtes nationales par des événements uniquement commerciaux", "Limiter la participation des dignitaires traditionnels", "Fermer les sites historiques de la ville"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le concept vise à faire du Bénin la destination mondiale incontournable de la culture et des arts vodun.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

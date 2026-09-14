@@ -1,0 +1,48 @@
+{
+  "id": "madara",
+  "type": "contemporain",
+  "nom": "Madara",
+  "sousTitre": "Le Roi du Divertissement Web et Figure Majeure de l'Influence Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/madara.webp",
+  "imageAlt": "Portrait de l'influenceur béninois Madara",
+  "descriptionHistoire": "01. Des réseaux sociaux au phénomène web\nPassionné par la création de contenu et le divertissement, Madara commence son aventure sur les réseaux sociaux avec des vidéos courtes, des concepts humoristiques et une analyse originale des faits de société. Son sens du timing, son authenticité et son humour accessible séduisent très vite un public jeune au Bénin et au-delà des frontières.\n\n02. Une empreinte unique et un langage populaire\nGrâce à des expressions devenues cultes et des concepts engageants, Madara construit une communauté fidèle et active. Il sait capter les tendances urbaines béninoises tout en les adaptant aux codes des plateformes modernes (TikTok, Instagram, Facebook), devenant un véritable créateur de tendances (trendsetter) pour la jeunesse.\n\n03. Collaborations de marque et rayonnement international\nFort de son audience de plusieurs centaines de milliers d'abonnés, Madara devient l'égérie de grandes marques locales et internationales. Ses collaborations avec d'autres figures célèbres du web africain renforcent sa notoriété et démontrent la montée en puissance de l'industrie de l'influence au Bénin.\n\n04. Un acteur engagé de la Web Culture béninoise\nAu-delà du simple divertissement, Madara utilise sa visibilité pour soutenir des causes sociales, promouvoir la culture béninoise et encourager l'entrepreneuriat des jeunes dans le secteur du numérique. Il incarne la réussite et la créativité de la nouvelle génération de créateurs web béninois.",
+  "leSaviezVous": "Madara fait partie de cette génération de créateurs béninois qui ont réussi à transformer la passion pour les réseaux sociaux en une véritable profession structurée, devenant un partenaire incontournable pour la communication des marques.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Créateur de Tendances et de la Web Culture",
+    "accroche": "Explorez l'univers et le parcours digital de l'influenceur Madara",
+    "encouragement": "Vous maîtrisez le parcours et le succès web de l'influenceur Madara."
+  },
+  "quiz": [
+    {
+      "question": "Sur quelles plateformes Madara s'est-il imposé comme une figure majeure de l'influence ?",
+      "options": ["Les réseaux sociaux (TikTok, Instagram, Facebook)", "Les journaux imprimés uniquement", "La radio hertzienne traditionnelle", "Les conférences scientifiques"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il a bâti sa popularité grâce à ses contenus sur les réseaux sociaux.",
+      "points": 20
+    },
+    {
+      "question": "Quelle ville est au cœur de ses activités et de son rayonnement ?",
+      "options": ["Cotonou", "Natitingou", "Djougou", "Kandi"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Cotonou est la métropole où se concentrent la majorité des créateurs web au Bénin.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le domaine principal qui a fait connaître Madara au grand public ?",
+      "options": ["La création de contenu divertissant et humoristique", "Le journalisme d'investigation", "La politique institutionnelle", "L'athlétisme professionnel"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ses vidéos humoristiques et ses concepts originaux ont fait son succès.",
+      "points": 20
+    },
+    {
+      "question": "Comment Madara valorise-t-il sa forte visibilité sur le web ?",
+      "options": ["En collaborant avec des marques et en promouvant la culture béninoise", "En arrêtant toute activité sur les réseaux", "En vendant des équipements industriels", "En écrivant uniquement des livres d'histoire anciens"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il travaille avec des marques majeures et soutient la culture web locale.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,78 @@
+{
+  "id": "perere",
+  "type": "commune",
+  "nom": "Pèrèrè",
+  "sousTitre": "Terre de traditions du Borgou, cité des chefferies Baatonu et havre agropastoral",
+  "communeAssociee": "Pèrèrè",
+  "imageUrl": "/games/perere1.jfif",
+  "imageAlt": "Paysages et traditions de Pèrèrè",
+  "descriptionHistoire": "01. Origines et ancrage historique dans le Borgou\nSituée dans la partie orientale du département du Borgou, la commune de Pèrèrè est une terre d'histoire ancrée dans les traditions royales Baatonu. La cité s'est développée au fil des siècles sous l'influence des grandes chefferies traditionnelles et des alliances entre peuples guerriers et agriculteurs.\n\n02. Coexistence harmonieuse et traditions pastorales\nPèrèrè abrite une communauté chaleureuse où les traditions équestres Bariba côtoient le mode de vie pastoral des Peuls. Cette cohabitation pacifique se traduit par une intense activité agropastorale, notamment l'élevage bovin, la production de fromage traditionnel (wagashi) et les foires locales.\n\n03. Culture, cérémonies et patrimoine immatériel\nLa vie spirituelle et culturelle à Pèrèrè est rythmée par les célébrations coutumières, la musique traditionnelle aux sons des tambours et des flûtes, ainsi que par la participation active aux festivités de la Gaani. La chefferie traditionnelle y conserve une grande influence sociale et morale.\n\n04. Pèrèrè aujourd'hui : valorisation agricole et essor local\nGrand bassin de production de coton, de maïs, d'anacarde et de soja, Pèrèrè modernise ses voies de communication et ses équipements marchands. La commune s'investit dans la valorisation de son potentiel agropastoral tout en préservant l'authenticité de ses coutumes.",
+  "leSaviezVous": "La commune de Pèrèrè est reconnue dans le Borgou pour son savoir-faire dans l'élevage et la transformation du lait, produisant un fromage traditionnel (wagashi) très apprécié dans tout le Bénin.",
+  "lieuxAVisiter": [
+    {
+      "id": "palais-royal-perere",
+      "nom": "Le Palais et la chefferie traditionnelle de Pèrèrè",
+      "description": "Siège du pouvoir coutumier local gardant la mémoire des rois et dignitaires Baatonu, les symboles du trône et les objets rituels sacrés.",
+      "imageUrl": "/games/perere_palais.webp",
+      "imageAlt": "Architecture du palais traditionnel à Pèrèrè"
+    },
+    {
+      "id": "marche-betail-perere",
+      "nom": "Le grand marché commercial et à bétail de Pèrèrè",
+      "description": "Espace d'échanges animé se tenant régulièrement où éleveurs peuls et commerçants négocient le bétail, les céréales, le fromage local et l'artisanat.",
+      "imageUrl": "/games/perere_marche.jfif",
+      "imageAlt": "Animation au marché traditionnel de Pèrèrè"
+    },
+    {
+      "id": "champs-coton-anacarde-perere",
+      "nom": "Les grandes plaines agricoles de Pèrèrè",
+      "description": "Paysages ruraux verdoyants marqués par les plantations d'anacardiers, les champs de coton et les cultures céréalières à perte de vue.",
+      "imageUrl": "/games/perere_agriculture.jfif",
+      "imageAlt": "Plaines agricoles à Pèrèrè"
+    },
+    {
+      "id": "campements-peuls-perere",
+      "nom": "Les campements pastoraux et circuits d'élevage",
+      "description": "Immersions au cœur du mode de vie pastoral Peul pour découvrir les techniques d'élevage traditionnel et la fabrication artisanale du wagashi.",
+      "imageUrl": "/games/perere_peul.jfif",
+      "imageAlt": "Campement pastoral à Pèrèrè"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité Agropastorale de Pèrèrè",
+    "accroche": "Penses-tu connaître l'histoire, la culture Baatonu et le potentiel agropastoral de la commune de Pèrèrè ?",
+    "encouragement": "Revois la géographie du Borgou, les traditions équestres et pastorales de Pèrèrè pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Pèrèrè ?",
+      "options": ["Le Borgou", "L’Alibori", "L’Atacora", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Pèrèrè est située dans le département du Borgou, à l'est du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quelles sont les deux principales communautés socioculturelles historiques composant la population de Pèrèrè ?",
+      "options": ["Les Baatonu (Bariba) et les Peuls", "Les Fon et les Goun", "Les Adja et les Mina", "Les Somba et les Waama"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de Pèrèrè est majoritairement constituée des communautés Baatonu (Bariba) et Peules.",
+      "points": 25
+    },
+    {
+      "question": "Quel produit laitier traditionnel transformé fait la fierté culinaire et économique des communautés de Pèrèrè ?",
+      "options": ["Le wagashi (fromage traditionnel)", "Le beurre de cacao", "Le gari", "L'huile de palme"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Pèrèrè est réputée pour sa production de wagashi, le fromage traditionnel de lait de vache fabriqué par les Peuls.",
+      "points": 25
+    },
+    {
+      "question": "Quelle grande culture de rente agricole est abondamment produite dans les champs de Pèrèrè ?",
+      "options": ["Le coton", "La vanille", "Le hévéa", "La canne à sucre"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Comme plusieurs communes du Borgou, Pèrèrè est un bassin majeur de production du coton.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

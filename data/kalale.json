@@ -1,0 +1,98 @@
+{
+  "id": "kalale",
+  "type": "commune",
+  "nom": "Kalalé",
+  "sousTitre": "Terre de la sous-préfecture historique de Bouka, royaume Bariba et empire agro-pastoral du Borgou",
+  "communeAssociee": "Kalalé",
+  "imageUrl": "/games/kalale1.jfif",
+  "imageAlt": "Paysages et traditions de la commune de Kalalé",
+  "descriptionHistoire": "01. Origines et fondation historique\nLa commune de Kalalé tire ses racines de l'ancien royaume de Bouka, un important pôle politique du nord du Bénin. Fondée et développée par les peuples Baatonu (Bariba) et Peulh, la cité s'est bâtie sur la vaillance de ses cavaliers et l'attachement à ses terres fécondes.\n\n02. Un carrefour socioculturel et pastoral\nSituée dans le nord-est du département du Borgou, Kalalé est une zone de brassage culturel remarquable où cohabitent harmonieusement les traditions guerrières et équestres des Baatonu avec le mode de vie pastoral des communautés Peulhes. Les festivals traditionnels, les parades de cavaliers, les rites familiaux et les récits de mémoire créent une identité locale forte et dynamique.\n\n03. Une terre d'agriculture et d'élevage\nBénéficiant de vastes savanes et d'un climat favorable, Kalalé s'impose comme l'un des plus grands bassins de production agricole du Borgou. Le coton, le maïs, le sorgho et l'arachide occupent une place centrale dans les activités des ménages, tandis que l'élevage bovin et la production laitière constituent une composante essentielle de l'économie locale.\n\n04. Kalalé aujourd'hui : dynamisme frontalier et potentiel local\nLimitrophe du Nigeria, la commune de Kalalé est aujourd'hui un pôle économique transfrontalier stratégique en plein essor. Elle s'efforce d'allier le développement de ses infrastructures avec la valorisation de son riche patrimoine culturel et immatériel. Le dynamisme commercial de la zone, l'essor des échanges et la résilience des populations en font un territoire au potentiel très prometteur.\n\n05. Une identité marquée par la mémoire et la terre\nLes habitants de Kalalé ont su préserver leurs liens avec les traditions, l'histoire de Bouka et la souveraineté culturelle de la région. Le territoire demeure un symbole de continuité, de courage et d'organisation sociale dans le Borgou, où la terre, le bétail et la mémoire collective restent des piliers essentiels de la vie quotidienne.",
+  "leSaviezVous": "La commune de Kalalé abrite l'arrondissement historique de Bouka, qui était autrefois le siège d'un royaume puissant et respecté dans tout le pays Bariba.",
+  "lieuxAVisiter": [
+    {
+      "id": "palais-bouka-kalale",
+      "nom": "Le Palais Royal de Bouka",
+      "description": "Haut lieu de mémoire et siège du pouvoir traditionnel où sont conservés les symboles, les reliques et l'histoire des souverains du royaume de Bouka.",
+      "imageUrl": "/games/plantation.jfif",
+      "imageAlt": "Palais royal et architecture traditionnelle à Bouka"
+    },
+    {
+      "id": "marche-betail-kalale",
+      "nom": "Le Marché aux bestiaux de Kalalé",
+      "description": "Lieu de rassemblement économique majeur où se rencontrent éleveurs, commerçants et acheteurs de toute la sous-région pour le négoce du bétail.",
+      "imageUrl": "/games/allada.jfif",
+      "imageAlt": "Marché traditionnel et élevage à Kalalé"
+    },
+    {
+      "id": "campements-peulhs-kalale",
+      "nom": "Les circuits pastoraux et campements traditionnels",
+      "description": "Espaces d'immersion dans la vie rurale pastorale, réputés pour la démonstration des savoir-faire d'élevage et la fabrication du fromage Wagashi.",
+      "imageUrl": "/games/ze5.jfif",
+      "imageAlt": "Campement et troupeaux à Kalalé"
+    },
+    {
+      "id": "grand-marche-kalale",
+      "nom": "Le Grand Marché de Kalalé",
+      "description": "Cœur de l'animation commerciale de la commune où s'échangent produits agricoles, cotonnades, céréales et articles en provenance du Nigeria voisin.",
+      "imageUrl": "/games/cotonou1.jfif",
+      "imageAlt": "Marché local animé à Kalalé"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Royaume de Bouka et de Kalalé",
+    "accroche": "Penses-tu connaître l'histoire du royaume de Bouka, les traditions équestres et les richesses de Kalalé ?",
+    "encouragement": "Presque ! Revois l'histoire des Baatonu du Borgou, du royaume de Bouka et le patrimoine de Kalalé pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe la commune de Kalalé ?",
+      "options": [
+        "Le Borgou",
+        "L'Alibori",
+        "L'Atacora",
+        "La Donga"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kalalé est une commune du département du Borgou, située dans le nord-est du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel royaume historique très célèbre du Borgou se situe sur le territoire actuel de la commune de Kalalé ?",
+      "options": [
+        "Le Royaume de Bouka",
+        "Le Royaume de Nikki",
+        "Le Royaume de Kouande",
+        "Le Royaume de Sabè"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le royaume de Bouka, dans l'arrondissement du même nom à Kalalé, est un centre historique majeur de l'ère culturelle Bariba.",
+      "points": 25
+    },
+    {
+      "question": "Avec quel pays voisin la commune de Kalalé partage-t-elle une frontière ?",
+      "options": [
+        "Le Nigeria",
+        "Le Togo",
+        "Le Burkina Faso",
+        "Le Niger"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kalalé est une commune frontalière du Nigeria, un point de passage majeur pour les échanges commerciaux et culturels.",
+      "points": 25
+    },
+    {
+      "question": "Quelles sont les deux activités économiques dominantes de la population de Kalalé ?",
+      "options": [
+        "L'agriculture (coton, céréales) et l'élevage bovin",
+        "La pêche industrielle et la saliculture",
+        "L'artisanat maritime et le commerce de pirogues",
+        "La culture intensive du café et du cacao"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kalalé repose essentiellement sur une économie agro-pastorale combinant la culture du coton et des céréales avec l'élevage.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

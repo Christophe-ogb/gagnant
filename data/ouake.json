@@ -1,0 +1,78 @@
+{
+  "id": "ouake",
+  "type": "commune",
+  "nom": "Ouaké",
+  "sousTitre": "Terre des Lokpa, carrefour transfrontalier de la Donga et cité des collines de Tanéka",
+  "communeAssociee": "Ouaké",
+  "imageUrl": "/games/ouake1.jfif",
+  "imageAlt": "Paysages et reliefs de Ouaké",
+  "descriptionHistoire": "01. Origines et berceau du peuple Lokpa\nSituée à l'ouest du département de la Donga, le long de la frontière avec le Togo, la commune de Ouaké est le foyer historique majeur des populations Lokpa (Lokpa/Yoa). La cité s'est bâtie autour de valeurs de solidarité, d'agriculture et d'une organisation sociale marquée par les rites initiatiques et le respect des aînés.\n\n02. Un carrefour commercial transfrontalier\nDe par sa position géographique limitrophe de la ville togolaise de Kara, Ouaké s'est imposée comme une plaque tournante du commerce transfrontalier. Son marché attire commerçants et visiteurs venus du Bénin et du Togo pour échanger vivres, textiles et objets d'artisanat.\n\n03. Richesse culturelle et rites sacrés\nOuaké possède un patrimoine immatériel remarquable rythmé par les grandes cérémonies traditionnelles Lokpa, notamment la fête de la Kamou et les rites d'initiation. La proximité avec les collines de Tanéka confère également à la région une dimension spirituelle forte, gardée par les chefs coutumiers et les féticheurs.\n\n04. Ouaké aujourd'hui : dynamisme agropastoral et ouverture\nCommune en plein essor, Ouaké mise sur la production agricole (igname, sorgho, maïs, anacarde) et le développement des infrastructures marchandes. Elle continue de moderniser son cadre de vie tout en préservant l'authenticité de sa culture et son sens réputé de l'hospitalité.",
+  "leSaviezVous": "Ouaké est la capitale culturelle du peuple Lokpa ; la commune est très réputée pour sa production d'igname de qualité supérieure et pour la fabrication de la moutarde traditionnelle locale (le kpalou ou afitin).",
+  "lieuxAVisiter": [
+    {
+      "id": "marche-international-ouake",
+      "nom": "Le marché transfrontalier de Ouaké",
+      "description": "Grand centre commercial animé se tenant régulièrement, où s'échangent produits agricoles, épices, produits manufacturés et artisanat entre le Bénin et le Togo.",
+      "imageUrl": "/games/ouake_marche.webp",
+      "imageAlt": "Animation au marché de Ouaké"
+    },
+    {
+      "id": "collines-reliefs-ouake",
+      "nom": "Les collines et paysages pittoresques de Ouaké",
+      "description": "Reliefs rocheux et collines verdoyantes offrant des points de vue panoramiques exceptionnels sur la vallée et les contreforts de la région du Togo voisin.",
+      "imageUrl": "/games/ouake_collines.jfif",
+      "imageAlt": "Paysage de collines à Ouaké"
+    },
+    {
+      "id": "palais-chefferies-ouake",
+      "nom": "Les chefferies traditionnelles et couvents Lokpa",
+      "description": "Lieux de pouvoir coutumier et de préservation des symboles sacrés où sont célébrés les rites initiatiques et les cérémonies ancestrales des Lokpa.",
+      "imageUrl": "/games/ouake_palais.jfif",
+      "imageAlt": "Architecture traditionnelle à Ouaké"
+    },
+    {
+      "id": "champs-igname-ouake",
+      "nom": "Les grandes plaines agricoles et tubercules d'igname",
+      "description": "Espaces ruraux réputés pour la culture intensive de l'igname et de céréales, témoins du savoir-faire agropastoral de la région.",
+      "imageUrl": "/games/ouake_agriculture.jfif",
+      "imageAlt": "Champ d'igname à Ouaké"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité des Lokpa de Ouaké",
+    "accroche": "Penses-tu connaître l'histoire, la culture Lokpa et le rôle transfrontalier de la commune de Ouaké ?",
+    "encouragement": "Revois la géographie de la Donga, le peuple Lokpa et les traditions de Ouaké pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Ouaké ?",
+      "options": ["La Donga", "L’Atacora", "Le Borgou", "L’Alibori"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Ouaké est située dans le département de la Donga, à l'ouest du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel a pour foyer historique principal la commune de Ouaké ?",
+      "options": ["Les Lokpa", "Les Fon", "Les Adja", "Les Bariba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ouaké est le berceau et le centre culturel majeur du peuple Lokpa (Lokpa/Yoa).",
+      "points": 25
+    },
+    {
+      "question": "Avec quel pays voisin la commune de Ouaké partage-t-elle sa frontière directe à l'Ouest ?",
+      "options": ["Le Togo", "Le Nigéria", "Le Burkina Faso", "Le Niger"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ouaké est une commune frontalière située immédiatement à la frontière avec la République Togolaise.",
+      "points": 25
+    },
+    {
+      "question": "Quelle grande culture vivrière sous forme de tubercule fait la fierté des agriculteurs de Ouaké ?",
+      "options": ["L'igname", "La pomme de terre", "Le manioc", "Le taro"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ouaké est particulièrement réputée pour sa production abondante d'igname de grande qualité.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

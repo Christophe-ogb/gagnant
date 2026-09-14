@@ -1,0 +1,48 @@
+{
+  "id": "first-king",
+  "type": "contemporain",
+  "nom": "First King",
+  "sousTitre": "La Plume Aiguisée et le Poids Lourd du Hip-Hop Béninois",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/first-king.webp",
+  "imageAlt": "Portrait du rappeur béninois First King",
+  "descriptionHistoire": "01. Des battles de rue à l'éclosion dans le Rap\nOriginaire du Bénin, First King se passionne très jeune pour la culture Hip-Hop. Il peaufine son écriture et sa technique dans les battles et les scènes underground de Cotonou. Grâce à une plume poignante, un timbre de voix imposant et une maîtrise parfaite des codes du rap, il se fait rapidement remarquer par les passionnés du genre.\n\n02. L'affirmation et les premiers grands succès\nIl s'impose sur la scène musicale béninoise à travers des singles percutants et des collaborations remarquées. Ses textes parlent de la réalité des jeunes, de la persévérance face aux épreuves, de la fierté culturelle et de la recherche du succès. Son authenticité et son énergie scénique lui permettent de conquérir un public fidèle.\n\n03. Un style engagé et polyvalent\nAu-delà du rap hardcore, First King explore diverses sonorités urbaines en fusionnant l'Afro-beat et des sonorités traditionnelles avec le Hip-Hop moderne. Il livre des titres poignants qui résonnent aussi bien dans la rue que sur les grandes antennes radio et télévisions du pays.\n\n04. Une référence pour la culture urbaine\nGrâce à sa régularité, son professionnalisme et sa capacité à se renouveler, First King demeure l'un des rappeurs les plus respectés de sa génération au Bénin, inspirant la jeunesse et portant haut les couleurs du Hip-Hop béninois.",
+  "leSaviezVous": "First King est reconnu dans la musique urbaine béninoise pour la rigueur de son écriture et son attachement à transmettre des messages d'espoir et de détermination à la jeunesse.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Plume d'Or et du Hip-Hop",
+    "accroche": "Explorez l'univers musical et les titres emblématiques du rappeur First King",
+    "encouragement": "Vous maîtrisez parfaitement le parcours et les succès de First King."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel genre musical principal s'illustre l'artiste First King ?",
+      "options": ["Le Rap / Hip-Hop", "La Musique classique", "Le Jazz pur", "Le Reggae roots"],
+      "reponseCorrecteIndex": 0,
+      "explication": "First King est l'une des figures majeures de la scène Rap et Hip-Hop au Bénin.",
+      "points": 20
+    },
+    {
+      "question": "Quelle est la ville béninoise de référence associée à son ascension artistique ?",
+      "options": ["Cotonou", "Natitingou", "Kandi", "Djougou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "C'est à Cotonou qu'il a développé sa carrière et conquis le public.",
+      "points": 20
+    },
+    {
+      "question": "Quels thèmes First King aborde-t-il fréquemment dans ses chansons ?",
+      "options": ["La persévérance, les réalités sociales et le vécu de la jeunesse", "La mythologie grecque ancienne", "La cuisine gastronomique européenne", "L'astronomie et l'exploration spatiale"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ses textes sont ancrés dans le vécu quotidien, l'effort et la détermination.",
+      "points": 20
+    },
+    {
+      "question": "Comment First King enrichit-il son style Hip-Hop ?",
+      "options": ["En le fusionnant avec l'Afro-beat et des sonorités locales", "En jouant uniquement de l'accordéon", "En chantant en opéra lyrique", "En abandonnant les percussions"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il allie le rap moderne à des sonorités afro et urbaines contemporaines.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

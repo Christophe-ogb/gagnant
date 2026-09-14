@@ -6,14 +6,20 @@ import {
   Gamepad2,
   MapPinned,
   MessageCircle,
+  MessageSquareQuote,
   ScanLine,
 } from "lucide-react";
 import { PlayerProgress } from "@/components/player-progress";
 import { DestinationCarousel } from "@/components/destination-carousel";
+// Section des fêtes conservée pour une prochaine mise en ligne.
+// import { EventsCarousel } from "@/components/events-carousel";
+import { VisitorCounter } from "@/components/visitor-counter";
+import { TestimonialForm } from "@/components/testimonial-form";
+import { PublishedTestimonials } from "@/components/published-testimonials";
 import { getAllHeritage } from "@/lib/heritage";
 
 const communeIds = new Set(["ouidah", "abomey", "ganvie", "natitingou"]);
-const kingIds = new Set(["ghezo", "glele", "behanzin", "toffa-1er"]);
+const kingIds = ["behanzin", "toffa-1er", "bio-guerra", "roi-alade-ife"];
 const contemporaryIds = new Set(["thomas-boni-yayi", "patrice-talon"]);
 const destinationTaglines: Record<string, string> = {
   ouidah: "Mémoires, rites et océan",
@@ -23,13 +29,17 @@ const destinationTaglines: Record<string, string> = {
   ze: "Au cœur de la civilisation Aïzo",
   cotonou: "Le poumon cosmopolite du Bénin",
 };
-const orderMessage = "Bonjour Gagnants, je souhaite commander un jeu. Je voudrais choisir d'autres personnages et motifs personnalisés selon mes goûts.";
+const orderMessage = "Bonjour Gagnants 229, je souhaite commander un jeu. Je voudrais choisir d'autres personnages et motifs personnalisés selon mes goûts.";
 
 export default function Home() {
   const communes = getAllHeritage().filter((heritage) => communeIds.has(heritage.id));
-  const kings = getAllHeritage().filter((heritage) => kingIds.has(heritage.id));
+  const allHeritage = getAllHeritage();
+  const kings = kingIds
+    .map((id) => allHeritage.find((heritage) => heritage.id === id))
+    .filter((heritage): heritage is NonNullable<typeof heritage> => Boolean(heritage));
   const contemporaryFigures = getAllHeritage().filter((heritage) => contemporaryIds.has(heritage.id));
   const destinations = Object.keys(destinationTaglines).map((id) => getAllHeritage().find((heritage) => heritage.id === id)).filter((heritage): heritage is NonNullable<typeof heritage> => Boolean(heritage)).map((heritage) => ({ ...heritage, tagline: destinationTaglines[heritage.id] }));
+  // const events = getAllHeritage().filter((heritage) => heritage.type === "evenement-national");
 
   return (
     <main className="relative isolate min-h-screen overflow-hidden bg-earth text-kaolin">
@@ -37,13 +47,9 @@ export default function Home() {
       <div className="hero-orb hero-orb-bottom" />
 
       <header className="relative mx-auto flex w-full max-w-6xl items-center justify-between px-5 pb-6 pt-5 sm:px-8 lg:px-10">
-        <Link href="/" className="group flex items-center gap-3 rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
-          <span className="relative grid size-11 overflow-hidden rounded-full border border-gold/45 bg-gold/10 shadow-[0_0_24px_rgba(212,175,55,0.14)] transition-transform duration-200 group-hover:-rotate-6">
-            <img src="/games/logo-gagnants.jpeg" alt="Logo Jeux Gagnants" className="absolute inset-0 h-full w-full object-cover" />
-          </span>
-          <span>
-            <span className="font-display block text-[0.72rem] tracking-[0.2em] text-gold">JEUX</span>
-            <span className="font-display block text-lg leading-4 tracking-wide text-white">GAGNANTS</span>
+        <Link href="/" className="group flex items-center rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
+          <span className="relative grid size-12 overflow-hidden rounded-xl border border-gold/60 bg-[#2b1005] p-0.5 shadow-[0_0_24px_rgba(212,175,55,0.18)] transition-transform duration-200 group-hover:-rotate-2">
+            <img src="/games/logoweb_BJ.jpg.jpeg" alt="Logo Gagnants 229" className="h-full w-full object-contain" />
           </span>
         </Link>
 
@@ -108,7 +114,7 @@ export default function Home() {
                 <p className="mt-3 max-w-2xl text-sm leading-6 text-kaolin/70">Une partie de dames familière, enrichie par les 77 communes, leurs départements et des défis de connaissance. Une manière simple de faire découvrir le pays en jouant.</p>
                 <div className="mt-5 grid grid-cols-2 gap-2">
                   <Link href="/communes" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Découvrir les communes <ArrowRight aria-hidden="true" size={16} /></Link>
-                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants, je souhaite commander un jeu dames.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Commander</a>
+                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite commander un jeu dames.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Commander</a>
                 </div>
               </div>
             </article>
@@ -123,14 +129,14 @@ export default function Home() {
                 <p className="mt-3 text-sm leading-6 text-kaolin/70">Un Ludo inspiré des rois, des cours et des personnages historiques du Bénin.</p>
                 <div className="mt-5 grid grid-cols-2 gap-2">
                   <Link href="/royaumes" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Explorer les royaumes <ArrowRight aria-hidden="true" size={16} /></Link>
-                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants, je souhaite commander un jeu de ludo.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Commander</a>
+                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite commander un jeu de ludo.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Commander</a>
                 </div>
               </div>
             </article>
 
             <article className="group overflow-hidden rounded-2xl border border-gold/25 bg-panel lg:col-span-3 lg:flex">
-              <div className="relative min-h-48 lg:w-1/3">
-                <img src="/games/logo-gagnants.jpeg" alt="Logo de la collection Cartes du Bénin" className="absolute inset-0 h-full w-full bg-[#f4f1ea] object-contain p-3 transition duration-500 group-hover:scale-105" />
+              <div className="relative min-h-64 bg-[#2b1005] lg:w-72 lg:shrink-0">
+                <img src="/games/logoweb_BJ.jpg.jpeg" alt="Logo Gagnants 229" className="absolute inset-0 h-full w-full object-contain p-2 transition duration-500 group-hover:scale-105" />
               </div>
               <div className="p-5 sm:p-7 lg:w-2/3">
                 <p className="text-xs font-bold uppercase tracking-[0.14em] text-gold">Cartes du Bénin</p>
@@ -148,6 +154,12 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/*
+        Section Fêtes & événements temporairement masquée.
+        Pour la réafficher, décommente aussi l'import et la constante `events` ci-dessus.
+        <EventsCarousel events={events} />
+      */}
 
       <DestinationCarousel destinations={destinations} />
 
@@ -222,6 +234,16 @@ export default function Home() {
                 ))}
               </div>
               <Link href="/contemporain/personnalites" className="mt-7 inline-flex min-h-12 items-center gap-2 rounded-xl border border-gold/40 bg-gold/10 px-5 py-3 text-sm font-extrabold text-gold transition hover:bg-gold hover:text-earth active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">Voir plus de présidents et personnalités <ArrowRight aria-hidden="true" size={17} /></Link>
+              <section id="temoignages" className="mt-14 rounded-3xl border border-gold/35 bg-[radial-gradient(circle_at_88%_14%,rgba(212,175,55,0.2),transparent_32%)] p-6 shadow-[0_20px_60px_rgba(0,0,0,0.2)] sm:p-9" aria-labelledby="temoignages-title">
+                <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.18em] text-gold"><MessageSquareQuote aria-hidden="true" size={16} /> Avis & témoignages</p>
+                <h2 id="temoignages-title" className="font-display mt-3 text-3xl leading-tight text-white sm:text-4xl">Votre voix peut faire grandir Gagnants 229.</h2>
+                <p className="mt-4 max-w-2xl text-sm leading-7 text-kaolin/75 sm:text-base">Un retour sur votre expérience ou une idée de nouvelle fonctionnalité ? Partagez vos impressions et vos suggestions d&apos;amélioration. Les meilleurs avis et idées seront mis en avant sur la plateforme !</p>
+                <PublishedTestimonials />
+                <TestimonialForm />
+              </section>
+              <div className="flex justify-center text-center">
+                <VisitorCounter />
+              </div>
             </section>
           </div>
         </div>

@@ -1,0 +1,48 @@
+{
+  "id": "fanicko",
+  "type": "contemporain",
+  "nom": "Fanicko",
+  "sousTitre": "L'Ambassadeur de la Musique Urbaine et la Voix de la Jeunesse Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/fanicko.webp",
+  "imageAlt": "Portrait de l'artiste béninois Fanicko",
+  "descriptionHistoire": "01. 2013 - 2015 · Des débuts dans la danse aux premiers hits\nPassionné de culture urbaine, Fanicko fait d'abord ses armes dans la danse au sein de groupes Hip-Hop à Cotonou avant de se lancer dans la chanson. Il se fait remarquer sur la scène nationale avec le titre « Le gâteau », mais c'est le morceau « On va faire comment ? » en 2015 qui le propulse instantanément sur le devant de la scène béninoise et ouest-africaine.\n\n02. L'affirmation sur la scène continentale\nAvec son style mêlant Afropop, Coupé-Décalé et sonorités béninoises, Fanicko enchaîne les tubes à succès comme « Zakélé », « Tourne la tête » et « C'est doux ». Signé par le label Blue Diamond, il acquiert une notoriété internationale et effectue de nombreuses tournées à travers l'Afrique et l'Europe, devenant l'un des artistes béninois les plus écoutés de sa génération.\n\n03. Un style polyvalent et des collaborations prestigieuses\nAu fil des années, Fanicko affine son style musical en proposant des chansons à la fois festives et engagées, abordant l'amour, la persévérance et les réalités de la jeunesse. Il collabore avec de grands noms de la musique africaine, notamment Daphné, Mink's, Petit Denis et Sidiki Diabaté, renforçant la visibilité de la musique béninoise à l'international.\n\n04. Un modèle pour la jeune génération\nPar sa régularité, ses clips soignés et sa présence scénique dynamique, Fanicko s'impose comme un pilier de l'industrie musicale béninoise. Il continue d'exporter les couleurs du Bénin et d'inspirer les jeunes talents de la musique urbaine à travers tout le continent.",
+  "leSaviezVous": "Avant de devenir un chanteur à succès continental, Fanicko a commencé sa carrière artistique en tant que danseur de Hip-Hop et d'électro à Cotonou.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Rythme Urbain et de l'Afropop",
+    "accroche": "Explorez le parcours musical et les plus grands succès de Fanicko",
+    "encouragement": "Vous connaissez parfaitement la carrière et les titres phares de Fanicko."
+  },
+  "quiz": [
+    {
+      "question": "Quel titre sorti en 2015 a propulsé Fanicko sur la scène internationale ?",
+      "options": ["On va faire comment ?", "Le gâteau", "Angelina", "Zakélé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le morceau « On va faire comment ? » a été un immense succès en Afrique de l'Ouest.",
+      "points": 20
+    },
+    {
+      "question": "Par quelle discipline artistique Fanicko a-t-il commencé sa carrière ?",
+      "options": ["La danse", "Le théâtre", "La peinture", "Le beatmaking"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il a débuté en tant que danseur dans des groupes urbains à Cotonou.",
+      "points": 20
+    },
+    {
+      "question": "Quelle est la ville béninoise associée à l'éclosion artistique de Fanicko ?",
+      "options": ["Cotonou", "Natitingou", "Abomey", "Kandi"],
+      "reponseCorrecteIndex": 0,
+      "explication": "C'est à Cotonou qu'il s'est révélé au grand public.",
+      "points": 20
+    },
+    {
+      "question": "Quel label majeur de musique au Bénin l'a accompagné dans son essor international ?",
+      "options": ["Blue Diamond", "Mavins", "Universal Music", "Capitol Africa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Blue Diamond a produit plusieurs de ses hits phares et géré sa carrière.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

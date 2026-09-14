@@ -1,0 +1,78 @@
+{
+  "id": "toffo",
+  "type": "commune",
+  "nom": "Toffo",
+  "sousTitre": "Terre de mémoire, berceau du Cardinal Bernardin Gantin et carrefour agricole de l'Atlantique",
+  "communeAssociee": "Toffo",
+  "imageUrl": "/games/toffo1.jfif",
+  "imageAlt": "Paysage et nature de Toffo",
+  "descriptionHistoire": "01. Une terre ancrée dans l'histoire de l'Atlantique\nSituée au cœur du département de l'Atlantique, la commune de Toffo est une terre historique peuplée majoritairement par les communautés Aizo et Fon. Elle tire une grande partie de sa renommée de ses figures emblématiques, notamment le Cardinal Bernardin Gantin, éminente personnalité spirituelle du Bénin et du Vatican.\n\n02. Un carrefour stratégique et commercial\nGrâce à sa position géographique traversée par la route nationale inter-états, Toffo constitue un point de passage privilégié entre le sud du Bénin et le département des Collines. Son marché régional de Houègbo est l'un des centres névralgiques du commerce agricole de la région.\n\n03. Un potentiel agricole diversifié\nToffo est réputée pour la fertilité de ses terres. La commune se distingue par une importante production d'ananas, de maïs, de manioc, de bananes plantains et de palmier à huile. La transformation de l'huile de palme et de la farine de manioc (gari) y occupe une place centrale.\n\n04. Toffo aujourd'hui : valorisation du patrimoine et développement local\nAlliant tradition et modernisation, Toffo s'investit dans la promotion de ses richesses culturelles et touristiques, le renforcement des infrastructures locales et l'amélioration des filières agricoles pour le bien-être de ses populations.",
+  "leSaviezVous": "Toffo est la commune natale du Cardinal Bernardin Gantin (né à Toffo en 1922), premier évêque africain à la tête d'un dicastère de la Curie romaine au Vatican et figure majeure de l'Église catholique mondiale.",
+  "lieuxAVisiter": [
+    {
+      "id": "maison-cardinal-gantin-toffo",
+      "nom": "Le site mémoriel Cardinal Bernardin Gantin",
+      "description": "Lieu d'hommage et de recueillement dédié à la mémoire du Cardinal Bernardin Gantin, illustre fils de Toffo et figure spirituelle d'envergure internationale.",
+      "imageUrl": "/games/herttoffo.webp",
+      "imageAlt": "Site mémoriel à Toffo"
+    },
+    {
+      "id": "marche-houegbo-toffo",
+      "nom": "Le marché de Houègbo",
+      "description": "Grand marché périodique très animé situé dans l'arrondissement de Houègbo, où s'échangent produits vivriers, régimes de palme, ananas et artisanat local.",
+      "imageUrl": "/games/toffo1.jfif",
+      "imageAlt": "Animation du marché de Houègbo"
+    },
+    {
+      "id": "plantations-ananas-toffo",
+      "nom": "Les grandes plantations d'ananas et de palmiers",
+      "description": "Vastes étendues agricoles illustrant la vocation fruitière et oléagineuse de la commune, idéales pour découvrir les méthodes de culture locales.",
+      "imageUrl": "/games/toffo2.jfif",
+      "imageAlt": "Champ d'ananas et de palmiers à Toffo"
+    },
+    {
+      "id": "palais-traditionnels-aizo-toffo",
+      "nom": "Les couvents et lieux sacrés Aizo",
+      "description": "Espaces culturels et spirituels préservant les rites ancestraux, la musique traditionnelles et les danses patrimoniales de la communauté Aizo.",
+      "imageUrl": "/games/toffo3.jfif",
+      "imageAlt": "Patrimoine culturel Aizo à Toffo"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité Mémorielle de Toffo",
+    "accroche": "Connaissez-vous l'histoire, les personnalités célèbres et la culture de la commune de Toffo ?",
+    "encouragement": "Presque ! Révisez la géographie du département de l'Atlantique et l'histoire des grandes figures de Toffo pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Toffo ?",
+      "options": ["L'Atlantique", "Le Zou", "Le Mono", "Le Couffo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Toffo est l'une des communes formant le département de l'Atlantique au Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quelle grande personnalité religieuse béninoise de renommée internationale est originaire de Toffo ?",
+      "options": ["Le Cardinal Bernardin Gantin", "Monseigneur Isidore de Souza", "Le Père Thomas Mouléro", "Monseigneur Julien Kpassou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Cardinal Bernardin Gantin est né à Toffo en 1922.",
+      "points": 25
+    },
+    {
+      "question": "Quel marché très fréquenté de la commune de Toffo est un carrefour majeur pour les produits agricoles ?",
+      "options": ["Le marché de Houègbo", "Le marché Tokpa", "Le marché Houndjro", "Le marché d'Azovè"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le marché de Houègbo est le principal marché économique et commercial de la commune de Toffo.",
+      "points": 25
+    },
+    {
+      "question": "Quelle communauté socio-culturelle est historiquement prédominante dans la commune de Toffo ?",
+      "options": ["Les Aizo", "Les Bariba", "Les Dendi", "Les Lokpa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Toffo est principalement peuplée par la communauté Aizo (et Fon).",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

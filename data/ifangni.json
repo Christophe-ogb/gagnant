@@ -1,0 +1,78 @@
+{
+  "id": "ifangni",
+  "type": "commune",
+  "nom": "Ifangni",
+  "sousTitre": "Terre de convergence, carrefour transfrontalier du Plateau et berceau culturel Nago-Goun",
+  "communeAssociee": "Ifangni",
+  "imageUrl": "/games/valledeleau.jfif",
+  "imageAlt": "Patrimoine et paysages d'Ifangni",
+  "descriptionHistoire": "01. Origines et terre d'accueil\nSituée au cœur du département du Plateau, la commune d'Ifangni s'est développée au fil des siècles comme un carrefour stratégique peuplé principalement par des communautés Nago, Yoruba et Goun. Sa position géographique en fait une zone d’échanges séculaires et d’intégration communautaire unique.\n\n02. Un carrefour commercial transfrontalier\nEn raison de sa frontière directe avec le Nigéria, Ifangni a très tôt bâti son dynamisme sur le commerce international et les marchés transfrontaliers. Ce brassage économique a façonné un mode de vie dynamique axé sur l'ouverture, l'artisanat et le négoce.\n\n03. Traditions, cultes et expressions culturelles\nIfangni abrite une culture vivante bercée par les divinités du terroir, les danses traditionnelles, le culte du Gèlédé et la vénération des ancêtres. Les chefferies traditionnelles et les divinités tutélaires continuent de structurer la vie spirituelle des localités.\n\n04. Ifangni aujourd'hui : carrefour d'échanges et de modernisation\nIntégrée au département du Plateau, la commune connaît une modernisation progressive de ses infrastructures urbaines et de ses axes routiers. Elle valorise aujourd'hui sa situation transfrontalière privilégiée tout en préservant son identité culturelle et son artisanat local.",
+  "leSaviezVous": "La commune d'Ifangni constitue un véritable pont économique et culturel entre le Bénin et le Nigéria, favorisant un bilinguisme naturel (français, yoruba/nago, goun) chez une grande partie de sa population.",
+  "lieuxAVisiter": [
+    {
+      "id": "marche-banigbe-ifangni",
+      "nom": "Le marché international de Banigbé",
+      "description": "Grand centre névralgique du commerce transfrontalier entre le Bénin et le Nigéria. On y trouve des produits agricoles, des textiles, des vivres et des marchandises diverses dans une ambiance très animée.",
+      "imageUrl": "/games/ouere2.jfif",
+      "imageAlt": "Animation au marché de Banigbé"
+    },
+    {
+      "id": "riviere-iguidi-ifangni",
+      "nom": "La vallée et la rivière Iguidi (Aguidi)",
+      "description": "Cours d'eau majeur bordant le plateau d'Ifangni, offrant des paysages verdoyants, des zones marécageuses propices au maraîchage et des espaces de biodiversité locale.",
+      "imageUrl": "/games/plantation.jfif",
+      "imageAlt": "Rivière Iguidi à Ifangni"
+    },
+    {
+      "id": "cour-royale-ifangni",
+      "nom": "La Cour Royale et chefferie d'Ifangni",
+      "description": "Lieu de préservation des coutumes ancestrales où réside la chefferie traditionnelle, gardienne des rites, de l'histoire locale et de la médiation sociale de la commune.",
+      "imageUrl": "/games/abomey1.jfif",
+      "imageAlt": "Cour royale d'Ifangni"
+    },
+    {
+      "id": "centre-artisanal-tchaada",
+      "nom": "Les ateliers d'artisanat de Tchaada et Daagbé",
+      "description": "Localités réputées pour la transformation des produits agricoles (huile de palme, gari) ainsi que pour la fabrique d'objets artisanaux traditionnels.",
+      "imageUrl": "/games/abomey2.jfif",
+      "imageAlt": "Atelier d'artisanat local à Ifangni"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Carrefour de la Cité d'Ifangni",
+    "accroche": "Penses-tu connaître l'histoire, la géographie transfrontalière et les traditions de la commune d'Ifangni ?",
+    "encouragement": "Revois la géographie du Plateau, les marchés transfrontaliers et la culture locale d'Ifangni pour valider ce défi avec succès !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune d’Ifangni ?",
+      "options": ["Le Plateau", "L’Ouémé", "Le Zou", "L’Atlantique"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune d'Ifangni est située dans le sud-est du Bénin, au sein du département du Plateau.",
+      "points": 25
+    },
+    {
+      "question": "Avec quel pays voisin la commune d'Ifangni partage-t-elle sa frontière orientale ?",
+      "options": ["Le Nigéria", "Le Togo", "Le Burkina Faso", "Le Niger"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ifangni est une commune transfrontalière directement limitée à l'Est par la République Fédérale du Nigéria.",
+      "points": 25
+    },
+    {
+      "question": "Quel cours d'eau longe la commune d'Ifangni et constitue l'un de ses principaux atouts hydrographiques ?",
+      "options": ["La rivière Iguidi (Aguidi)", "Le fleuve Ouémé", "La rivière Zou", "Le fleuve Mono"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le plateau d'Ifangni est dominé à l'Est par la rivière Iguidi (ou Aguidi), un cours d'eau majeur de la région.",
+      "points": 25
+    },
+    {
+      "question": "Quel grand marché d'arrondissement d'Ifangni est particulièrement reconnu pour le commerce transfrontalier ?",
+      "options": ["Le marché de Banigbé", "Le marché Houndjro", "Le marché Dantokpa", "Le marché d'Azovè"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le marché de Banigbé (arrondissement de Banigbé à Ifangni) est un grand carrefour d'échanges de marchandises avec le Nigéria.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

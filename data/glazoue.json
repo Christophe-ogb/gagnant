@@ -1,0 +1,98 @@
+{
+  "id": "glazoue",
+  "type": "commune",
+  "nom": "Glazoué",
+  "sousTitre": "Carrefour des collines, capitale du maïs et terre des Idaatcha",
+  "communeAssociee": "Glazoué",
+  "imageUrl": "/games/valledeleau.jfif",
+  "imageAlt": "Paysage des collines et patrimoine de Glazoué",
+  "descriptionHistoire": "01. Origines et peuplement\nHabitée principalement par la communauté Idaatcha, ainsi que par d'autres groupes présents dans le centre du Bénin, la région de Glazoué s'est constituée au pied des collines et des reliefs rocheux qui donnent à la localité son identité singulière. Cette configuration géographique a favorisé l'installation de populations organisées autour de traditions orales fortes, de cultes ancestraux et de réseaux de parenté solidement ancrés.\n\n02. Le carrefour ferroviaire et commercial\nLa ville de Glazoué a pris un essor remarquable au XXe siècle grâce au passage de la ligne de chemin de fer reliant Cotonou à Parakou. Cet axe de circulation a transformé la commune en un point névralgique pour le transit des voyageurs et des marchandises. L'activité commerciale s'est alors intensifiée, faisant de Glazoué un lieu de rencontre entre populations rurales et urbaines, mais aussi un centre d'échanges agricole et artisanal important.\n\n03. Un patrimoine naturel et spirituel remarquable\nGlazoué est entourée de collines sacrées, d'inselbergs et de paysages de savane qui constituent un cadre naturel exceptionnel. Ces sites sont intimement liés à la mémoire collective locale et à la spiritualité des communautés du centre du Bénin. Les traditions orales, les rites de terre, les pratiques de divination ainsi que certains masques de société demeurent vivants dans l'imaginaire et la vie quotidienne des habitants.\n\n04. Glazoué aujourd'hui : capitale agricole et pôle d'échanges\nSituée dans le département des Collines, Glazoué est aujourd'hui célébrée comme l'une des capitales du maïs du Bénin. Son marché est réputé pour son dynamisme, notamment dans le commerce du maïs, du manioc, du yam et des produits vivriers. La commune conjugue la tradition, la production agricole, les échanges commerciaux et un potentiel écotouristique encore à valoriser, ce qui en fait une ville centrale pour l'économie du centre du pays.\n\n05. Une identité à préserver\nAu-delà de son rythme commercial, Glazoué incarne une mémoire territoriale riche, faite de collines, de rites, de savoir-faire et de valeurs communautaires. Sa force repose sur l'équilibre entre agriculture, patrimoine culturel et ouverture vers le développement local durable.",
+  "leSaviezVous": "Glazoué est historiquement reconnue comme l'un des grands greniers céréaliers du Bénin. Son marché central est considéré comme un des lieux les plus dynamiques du pays pour le commerce du maïs, du manioc et des produits vivriers.",
+  "lieuxAVisiter": [
+    {
+      "id": "collines-glazoue",
+      "nom": "Les collines sacrées de Glazoué",
+      "description": "Formations rocheuses emblématiques qui offrent un panorama exceptionnel sur la savane environnante et qui portent en eux des traces de l'histoire spirituelle et culturelle de la commune.",
+      "imageUrl": "/games/plantation.jfif",
+      "imageAlt": "Relief rocheux et collines à Glazoué"
+    },
+    {
+      "id": "gare-historique-glazoue",
+      "nom": "La Gare ferroviaire de Glazoué",
+      "description": "Bâtiment historique symbolisant l'essor économique et commercial de la ville grâce au chemin de fer et à l'ouverture de nouveaux axes de circulation.",
+      "imageUrl": "/games/allada.jfif",
+      "imageAlt": "Ancienne gare ferroviaire de Glazoué"
+    },
+    {
+      "id": "centre-artisanal-glazoue",
+      "nom": "Le centre artisanal et la transformation locale",
+      "description": "Lieu de promotion des savoir-faire locaux : poterie, transformation du manioc, tissage, sculpture sur bois et production d'objets artisanaux.",
+      "imageUrl": "/games/ze5.jfif",
+      "imageAlt": "Artisanat et produits locaux de Glazoué"
+    },
+    {
+      "id": "grand-marche-glazoue",
+      "nom": "Le Grand Marché de Glazoué",
+      "description": "Marché central très animé, réputé pour la vente en gros de maïs, yams, tubercules, épices et autres denrées alimentaires de la région.",
+      "imageUrl": "/games/cotonou1.jfif",
+      "imageAlt": "Marché céréalier et vivrier de Glazoué"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité des Collines de Glazoué",
+    "accroche": "Penses-tu connaître l'histoire, les collines, le marché et les traditions de Glazoué ?",
+    "encouragement": "Presque ! Revois l'histoire des Idaatcha, le rôle du chemin de fer et la culture commerciale de Glazoué pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe la commune de Glazoué ?",
+      "options": [
+        "Les Collines",
+        "Le Zou",
+        "Le Borgou",
+        "Le Plateau"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Glazoué est une commune majeure située dans le département des Collines, au centre du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quelle communauté linguistique et culturelle est majoritairement associée à Glazoué ?",
+      "options": [
+        "Les Idaatcha",
+        "Les Dendi",
+        "Les Baatonu",
+        "Les Berba"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population autochtone de Glazoué est principalement constituée du peuple Idaatcha, un groupe culturel de la zone centro-béninoise.",
+      "points": 25
+    },
+    {
+      "question": "Pour quelle activité agricole commerciale le marché de Glazoué est-il particulièrement célèbre ?",
+      "options": [
+        "Le négoce du maïs et des céréales",
+        "La vente de poisson séché",
+        "La culture de l'ananas",
+        "La production de canne à sucre"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Glazoué est connue comme l'un des grands greniers céréaliers du Bénin, avec un marché réputé pour le commerce du maïs et des vivriers.",
+      "points": 25
+    },
+    {
+      "question": "Quel axe de transport a historiquement favorisé le développement rapide de Glazoué ?",
+      "options": [
+        "La ligne de chemin de fer (OCBN)",
+        "Un port maritime profond",
+        "Un canal fluvial international",
+        "Un grand aérodrome militaire"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le passage de la ligne de chemin de fer reliant Cotonou au nord du Bénin a transformé Glazoué en un carrefour commercial central.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

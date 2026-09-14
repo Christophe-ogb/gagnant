@@ -1,0 +1,48 @@
+{
+  "id": "nonvitcha",
+  "type": "evenement-national",
+  "nom": "Fête Identitaire Nonvitcha",
+  "sousTitre": "La Doyenne des Fêtes Identitaires du Bénin et l'Union des Peuples Xwla et Xwéda",
+  "communeAssociee": "Grand-Popo",
+  "imageUrl": "/games/nonvitcha.webp",
+  "imageAlt": "Festivités et retrouvailles communautaires de Nonvitcha à Grand-Popo",
+  "descriptionHistoire": "01. 1921 · La genèse d'une alliance fraternelle\nCréée en 1921 sous l'initiative d'Adolphe Gnansounou Akpa, l'association « Nonvitcha » (qui signifie « Frères unis » en langue mina) naît de la volonté de sceller la paix, la cohésion et la solidarité entre les peuples Xwla et Xwéda du Sud-Bénin. Célébrée pour la première fois en 1923 à Grand-Popo, elle est officiellement reconnue comme la plus ancienne association et fête identitaire du Bénin.\n\n02. Un rendez-vous centenaire chaque dimanche de Pentecôte\nDepuis plus d'un siècle, Nonvitcha rassemble chaque weekend de Pentecôte les filles et fils des communautés Xwla et Xwéda venus de tout le Bénin, des pays voisins (Togo, Ghana, Nigeria) et de la diaspora mondiale. C'est un moment fort de retrouvailles, de réaffirmation de l'identité culturelle et de transmission des valeurs de fraternité.\n\n03. L'organisation et le déroulement des festivités à Grand-Popo\nLes festivités s'étalent sur plusieurs jours et transforment la ville côtière de Grand-Popo. Le programme articule une messe d'action de grâce et des libations ancestrales, une majestueuse caravane fluviale sur le fleuve Mono, des défilés culturels aux rythmes des percussions locales, ainsi que des compétitions traditionnelles (courses de pirogues, concours du meilleur noueur de pagne et de danses). La gastronomie locale est à l'honneur avec le fameux « Dakouin » (plat à base de poisson frais et gari) partagé en toute convivialité.\n\n04. Un levier de développement local et d'unité nationale\nAu-delà de la réjouissance populaire, Nonvitcha est une plateforme d'engagement citoyen et de développement. L'association mène des projets d'aménagement urbain, de soutien aux écoles et aux structures de santé de la région de la Bouche du Roi. Elle constitue un modèle unique d'unité communautaire et un pôle majeur du tourisme culturel béninois.",
+  "leSaviezVous": "Fondée en 1921 et célébrée depuis 1923, Nonvitcha est la plus ancienne fête identitaire du Bénin. Son nom signifie littéralement « Frères unis » en dialecte mina.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Fraternité et de la Cohésion Xwla-Xwéda",
+    "accroche": "Explorez l'histoire centenaire et les traditions de la fête Nonvitcha à Grand-Popo",
+    "encouragement": "Vous maîtrisez parfaitement l'histoire et l'organisation de la fête Nonvitcha."
+  },
+  "quiz": [
+    {
+      "question": "Que signifie littéralement le mot « Nonvitcha » en langue mina ?",
+      "options": ["Frères unis", "Bonne année", "Terre de paix", "Fête du poisson"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le terme « Nonvitcha » exprime l'union et la cohésion fraternelle entre les membres de la communauté.",
+      "points": 20
+    },
+    {
+      "question": "Quelles sont les deux principales communautés originaires réunies par la fête Nonvitcha ?",
+      "options": ["Les Xwla et les Xwéda", "Les Fon et les Bariba", "Les Dendi et les Yom", "Les Nagot et les Waama"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Nonvitcha a été créée pour rapprocher et unir historiquement les peuples Xwla et Xwéda.",
+      "points": 20
+    },
+    {
+      "question": "À quel moment religieux ou calendrier annuel se déroule traditionnellement la grande fête de Nonvitcha ?",
+      "options": ["Le weekend de la Pentecôte", "Le 10 janvier", "Le 15 août", "Le soir du Nouvel An"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La fête se tient chaque année lors du dimanche et weekend de la Pentecôte.",
+      "points": 20
+    },
+    {
+      "question": "Quel plat emblématique de la gastronomie de Grand-Popo trône sur les tables lors de Nonvitcha ?",
+      "options": ["Le Dakouin", "L'Atassi", "Le Kassa", "Le Djongoli"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Dakouin, plat traditionnel préparé à base de poisson et de gari, est le mets incontournable de cette célébration.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,48 @@
+{
+  "id": "fete-du-travail",
+  "type": "evenement-national",
+  "nom": "Fête du Travail",
+  "sousTitre": "La Journée Internationale de Célébration, de Dialogue Social et de Revalorisation des Travailleurs",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/fete-travail.webp",
+  "imageAlt": "Rassemblement et défilé syndical des travailleurs à la Bourse du Travail de Cotonou",
+  "descriptionHistoire": "01. 1er mai · Une commémoration internationale ancrée dans l'histoire béninoise\nChaque 1er mai, le Bénin célèbre la Fête Internationale du Travail, une journée chômée et payée sur toute l'étendue du territoire national. Officialisée dans la législation béninoise pour consacrer les droits de la classe ouvrière et des salariés, cette journée rend hommage à la contribution essentielle de l'ensemble des travailleurs (actifs du secteur public, privé et informel) à la construction et à l'économie du pays.\n\n02. Le cœur battant du syndicalisme à la Bourse du Travail\nÀ Cotonou, capitale économique et siège des grands mouvements syndicaux, la journée du 1er mai s'articule autour de la Bourse du Travail et des centrales syndicales majeures. C'est le lieu emblématique où les travailleurs et les dirigeants syndicaux se rassemblent pour remettre aux autorités gouvernementales leurs cahiers de doléances portant sur l'amélioration des conditions de travail, la revalorisation des salaires et la protection sociale.\n\n03. L'organisation et l'ambiance des festivités à travers le pays\nL'événement combine concertation sociale et manifestations festives. La journée s'ouvre souvent par les messages officiels du gouvernement et le dialogue tripartite (État, patronat, syndicats). Ensuite, dans chaque commune et entreprise du Bénin, les employés organisent des réjouissances populaires, des banquets de convivialité, des activités sportives (tournois de football inter-entreprises) et le port de tenues uniformes en tissu imprimé (pagne du 1er mai).\n\n04. Un levier de progrès social et d'unité nationale\nAu-delà de la revendication salariale, la Fête du Travail demeure un puissant vecteur de cohésion sociale et de fraternité professionnelle. Elle rappelle l'importance de la valeur travail, du dialogue permanent et de la justice sociale comme fondements du développement durable et de la prospérité du Bénin.",
+  "leSaviezVous": "La Bourse du Travail de Cotonou est le symbole historique des luttes sociales béninoises : c'est là que se réunissent traditionnellement les centrales syndicales chaque 1er mai pour remettre leurs cahiers de doléances officielles.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Valeur Travail et du Progrès Social",
+    "accroche": "Explorez l'histoire, le rôle des syndicats et l'organisation de la Fête du Travail au Bénin",
+    "encouragement": "Vous connaissez parfaitement le sens et le déroulement de la Fête du Travail."
+  },
+  "quiz": [
+    {
+      "question": "À quelle date la Fête du Travail est-elle célébrée chaque année au Bénin ?",
+      "options": ["Le 1er mai", "Le 1er août", "Le 10 janvier", "Le 8 mars"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le 1er mai est la date légale consacrée à la Fête Internationale du Travail, chômée et payée au Bénin.",
+      "points": 20
+    },
+    {
+      "question": "Quel lieu emblématique de Cotonou abrite traditionnellement les rassemblements syndicaux du 1er mai ?",
+      "options": ["La Bourse du Travail", "La Porte du Non-Retour", "Le Palais des Gouverneurs", "Le Stade de l'Amitié"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Bourse du Travail à Cotonou est le centre historique des rassemblements et revendications syndicales.",
+      "points": 20
+    },
+    {
+      "question": "Quel document essentiel les représentants syndicaux remettent-ils officiellement au gouvernement le 1er mai ?",
+      "options": ["Le cahier de doléances", "Le budget général de l'État", "L'acte d'indépendance", "La charte du tourisme"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le cahier de doléances regroupe l'ensemble des revendications des travailleurs pour l'amélioration de leurs conditions de vie.",
+      "points": 20
+    },
+    {
+      "question": "Comment les travailleurs célèbrent-ils habituellement cette journée dans leurs entreprises et administrations ?",
+      "options": ["Par des réjouissances en pagne uniforme, des repas collectifs et des rencontres sportives", "Par des épreuves de pirogue en haute mer", "En fermant définitivement les bureaux toute l'année", "En organisant des compétitions d'équitation"],
+      "reponseCorrecteIndex": 0,
+      "explication": "En plus de la dimension syndicale, la Fête du Travail est marquée par des réjouissances et la convivialité entre collègues.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

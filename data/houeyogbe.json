@@ -1,0 +1,98 @@
+{
+  "id": "houeyogbe",
+  "type": "commune",
+  "nom": "Houéyogbé",
+  "sousTitre": "Terre de traditions Sahouè, berceau de l'artisanat et cœur agricole du Mono",
+  "communeAssociee": "Houéyogbé",
+  "imageUrl": "/games/plantation.jfif",
+  "imageAlt": "Paysage et traditions de la commune de Houéyogbé",
+  "descriptionHistoire": "01. Origines et fondation\nFondée par les populations du groupe socioculturel Sahouè, appartenant à la grande famille des peuples Adja et du bassin du Mono, la région de Houéyogbé s'est structurée au cœur des plaines fertiles du sud-ouest du Bénin. Son histoire est intimement liée aux déplacements humains, aux luttes de pouvoir local et à la quête de terres propices à l'agriculture.\n\n02. Un patrimoine culturel et spirituel ancré\nHouéyogbé est un conservatoire vivant de la culture Sahouè. La commune se distingue par ses cérémonies traditionnelles, le culte des divinités tutélaires, les danses rituelles, les fêtes de la terre et la transmission orale des récits de l'ancestralité. Les pratiques religieuses et sociales font partie intégrante de la cohésion locale et de l'identité collective.\n\n03. Un savoir-faire artisan et agricole\nLa commune s'est taillée une solide réputation dans l'artisanat d'art et d'usage. La poterie traditionnelle de Sè, capitale de l'argile de la commune, témoigne d'un savoir-faire séculaire. Les femmes potières façonnent des jarres, canaris et objets utilitaires à la main, tandis que les artisans produisent des nattes, des objets en palmier et des ustensiles dignes des traditions locales.\n\n04. Houéyogbé aujourd'hui : dynamisme et développement local\nSituée dans le département du Mono, la commune de Houéyogbé tire profit de sa position sur les axes reliant Lokossa et Comé. Elle combine le développement des activités agricoles (maïs, manioc, palmier à huile, cultures vivrières) et la valorisation de son potentiel artisanal, tout en préservant les coutumes et les symboles de l'identité Sahouè.\n\n05. Une ville de mémoire et d'avenir\nAu-delà de son cadre rural et culturel, Houéyogbé incarne la rencontre de la tradition et du développement local. Sa richesse repose sur une agriculture vivrière performante, un artisanat original et le souci constant de faire vivre la mémoire des ancêtres au cœur des pratiques contemporaines.",
+  "leSaviezVous": "La commune de Houéyogbé abrite l'arrondissement de Sè, mondialement réputé au Bénin pour ses potières traditionnelles qui façonnent à la main des jarres, canaris et ustensiles en argile cuite selon des techniques séculaires.",
+  "lieuxAVisiter": [
+    {
+      "id": "village-potiere-se-houeyogbe",
+      "nom": "Le centre de poterie traditionnelle de Sè",
+      "description": "Site artisanal emblématique de la commune où les femmes potières fabriquent et cuisent des objets en argile réputés dans toute l'Afrique de l'Ouest.",
+      "imageUrl": "/games/valledeleau.jfif",
+      "imageAlt": "Potière façonnant une argile traditionnelle à Sè"
+    },
+    {
+      "id": "palais-royaume-houeyogbe",
+      "nom": "La Chefferie et les sites sacrés de Houéyogbé",
+      "description": "Lieux de mémoire et de spiritualité où sont conservés les symboles traditionnels Sahouè et où se déroulent les fêtes coutumières.",
+      "imageUrl": "/games/allada.jfif",
+      "imageAlt": "Architecture et lieux sacrés à Houéyogbé"
+    },
+    {
+      "id": "palmeraies-et-artisans-houeyogbe",
+      "nom": "Les circuits artisanaux et plantations de palmiers",
+      "description": "Espaces ruraux dédiés à l'extraction de l'huile de palme, au vin de palme (Sodabi) et au tissage traditionnel de nattes.",
+      "imageUrl": "/games/ze5.jfif",
+      "imageAlt": "Plantations et artisanat local à Houéyogbé"
+    },
+    {
+      "id": "grand-marche-houeyogbe",
+      "nom": "Le Marché central de Houéyogbé",
+      "description": "Marché local très animé où s'échanger produits vivriers, poteries de Sè, huiles végétales et produits de la pharmacopée traditionnelle.",
+      "imageUrl": "/games/cotonou1.jfif",
+      "imageAlt": "Marché local et étals à Houéyogbé"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau Artisanal et Culturel de Houéyogbé",
+    "accroche": "Penses-tu connaître l'histoire, la culture Sahouè et le savoir-faire unique de Houéyogbé ?",
+    "encouragement": "Presque ! Revois l'histoire des Sahouè, la poterie de Sè et les traditions du Mono pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe la commune de Houéyogbé ?",
+      "options": [
+        "Le Mono",
+        "Le Couffo",
+        "L’Atlantique",
+        "Le Zou"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Houéyogbé est une commune du département du Mono, située dans le sud-ouest du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quelle communauté socioculturelle est majoritairement représentée dans la commune de Houéyogbé ?",
+      "options": [
+        "Les Sahouè",
+        "Les Bariba",
+        "Les Dendi",
+        "Les Mahi"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Houéyogbé est le bastion historique du peuple Sahouè, un sous-groupe de la grande famille Adja.",
+      "points": 25
+    },
+    {
+      "question": "Quel artisanat traditionnel fait la célébrité de l'arrondissement de Sè ?",
+      "options": [
+        "La poterie en argile",
+        "La sculpture sur ivoire",
+        "La fonderie de bronze",
+        "La taille de pierre précieuse"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sè est le centre de poterie artisanale le plus célèbre du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quelle ressource agricole et sa transformation jouent un rôle économique majeur à Houéyogbé ?",
+      "options": [
+        "Le palmier à huile (huile de palme et sodabi)",
+        "La culture du blé",
+        "La plantation de thé",
+        "L'élevage de chameaux"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'exploitation du palmier à huile pour l'huile de palme et le Sodabi constitue l'une des ressources économiques majeures du Mono.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

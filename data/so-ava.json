@@ -1,0 +1,98 @@
+{
+  "id": "so-ava",
+  "type": "commune",
+  "nom": "Sô-Ava",
+  "sousTitre": "Venise de l'Afrique, cité lacustre du lac Nokoué et cœur de la culture Toffin",
+  "communeAssociee": "Sô-Ava",
+  "imageUrl": "/games/so-ava1.jfif",
+  "imageAlt": "Cité lacustre de Sô-Ava et pirogues sur le lac Nokoué",
+  "descriptionHistoire": "01. Refuge lacustre et fondation mythique\nL'histoire de Sô-Ava est intimement liée à celle de Ganvié et du peuple Toffin. Au XVIIIe siècle, pour échapper aux razzias de captifs perpétrées par les armées du puissant royaume du Danxomè, les ancêtres Toffin ont cherché refuge au milieu des eaux du lac Nokoué. Tirant parti des croyances religieuses ennemies qui interdisaient aux guerriers de franchir les eaux sacrées, ils y ont érigé une civilisation lacustre unique entièrement bâtie sur pilotis.\n\n02. Un mode de vie forgé par l'eau\nLe nom « Sô-Ava » témoigne de cet ancrage hydrologique et spirituel. Durant plus de deux siècles, les habitants ont développé une parfaite symbiose avec le milieu aquatique. Sans aucune voie terrestre entre les habitations, la pirogue y est devenue le prolongement naturel du corps, utilisée pour les déplacements quotidiens, le transport des marchandises, la pêche artisanale et les cérémonies religieuses.\n\n03. Ganvié et la richesse du patrimoine Toffin\nPartie intégrante de la commune de Sô-Ava, le célèbre village sur pilotis de Ganvié attire l'attention du monde entier. Sô-Ava abrite un patrimoine culturel exceptionnel : techniques ancestrales de pêche (acadjas), marchés flottants traditionnels, artisanat du vannerie et rites consacrés aux divinités des eaux (Mami Wata et Zangbéto).\n\n04. Sô-Ava aujourd'hui : transition écologique et développement\nAujourd'hui, Sô-Ava est le chef-lieu d'une commune insulaire et lacustre stratégique. Entre la préservation de son écosystème lagunaire fragile, le développement du tourisme mémoriel et écotouristique, et le défi de la modernisation des infrastructures flottantes, la ville demeure un symbole vivant d'adaptation et de résilience humaine.",
+  "leSaviezVous": "Sô-Ava signifie « la terre de Sô » ou « le rassemblement de Sô » en langue toffin, en référence à la rivière Sô qui traverse la commune avant de se jeter dans le lac Nokoué.",
+  "lieuxAVisiter": [
+    {
+      "id": "ganvie-so-ava",
+      "nom": "La cité lacustre de Ganvié (UNESCO)",
+      "description": "Plus grande cité sur pilotis d'Afrique, surnommée la « Venise africaine ». Ses maisons en bois, ses ruelles d'eau et sa vie quotidienne au fil de la pirogue offrent un spectacle féerique unique.",
+      "imageUrl": "/games/ganvie.webp",
+      "imageAlt": "Maisons sur pilotis de Ganvié"
+    },
+    {
+      "id": "marche-flottant-so-ava",
+      "nom": "Le marché flottant de Sô-Ava",
+      "description": "Lieu de commerce spectaculaire où les marchandes Toffin échangent poissons, crevettes, tubercules et légumes à bord de leurs pirogues bariolées.",
+      "imageUrl": "/games/marche-flottant.jfif",
+      "imageAlt": "Marché traditionnel flottant sur le lac"
+    },
+    {
+      "id": "parc-acadjas-so-ava",
+      "nom": "Les parcs à poissons traditionnels (Acadjas)",
+      "description": "Technique d'aquaculture ancestrale propre au lac Nokoué, consistant à créer des récifs artificiels en branchages pour élever le poisson de manière écologique.",
+      "imageUrl": "/games/acadjas.jfif",
+      "imageAlt": "Installations d'acadjas sur l'eau"
+    },
+    {
+      "id": "embarcadere-vekky-so-ava",
+      "nom": "L'embarcadère et les canaux de Vekky",
+      "description": "Point de départ vers les villages lacustres profonds, traversant des mangroves verdoyantes et des canaux bordés de pirogues d'artisans et de pêcheurs.",
+      "imageUrl": "/games/vekky.jfif",
+      "imageAlt": "Canal bordé de végétation aquatique"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Piroguer d'Or de Sô-Ava",
+    "accroche": "Penses-tu connaître l'histoire du peuple Toffin, la vie sur pilotis et les secrets du lac Nokoué ?",
+    "encouragement": "Presque ! Revois l'histoire de la création de Ganvié et les traditions lacustres de Sô-Ava pour décrocher ton badge."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Sô-Ava ?",
+      "options": [
+        "L’Atlantique",
+        "L’Ouémé",
+        "Le Littoral",
+        "Le Zou"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sô-Ava est une commune située dans le département de l'Atlantique, au bord du lac Nokoué.",
+      "points": 25
+    },
+    {
+      "question": "Pour quelle raison historique principale le peuple Toffin s'est-il installé sur les eaux du lac Nokoué ?",
+      "options": [
+        "Pour échapper aux razzias du royaume du Danxomè",
+        "Pour développer le commerce du sel avec l'Europe",
+        "À la suite d'une grande sécheresse sur le continent",
+        "Sur ordre du roi d'Allada"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Toffin ont fui sur l'eau au XVIIIe siècle pour se protéger des attaques de captifs, profitant de l'interdit religieux des assaillants de traverser l'eau.",
+      "points": 25
+    },
+    {
+      "question": "Quel célèbre village sur pilotis, inscrit sur la liste indicative du patrimoine mondial de l'UNESCO, fait partie de la commune de Sô-Ava ?",
+      "options": [
+        "Ganvié",
+        "Aguégués",
+        "Ouidah",
+        "Grand-Popo"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ganvié, surnommée la Venise de l'Afrique, est l'un des arrondissements clés de la commune de Sô-Ava.",
+      "points": 25
+    },
+    {
+      "question": "Comment appelle-t-on la technique traditionnelle d'aquaculture à base de branchages utilisée sur le lac à Sô-Ava ?",
+      "options": [
+        "Les Acadjas",
+        "Les Pirogues",
+        "Les Taboutous",
+        "Les Zangbétos"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les acadjas sont des parcs à poissons faits de branchages enfoncés dans le fond de la lagune, servant d'abri et de nourriture pour les poissons.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

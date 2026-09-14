@@ -1,0 +1,78 @@
+{
+  "id": "malanville",
+  "type": "commune",
+  "nom": "Malanville",
+  "sousTitre": "Porte du Sahel, carrefour commercial international et perle du fleuve Niger",
+  "communeAssociee": "Malanville",
+  "imageUrl": "/games/malanville1.jfif",
+  "imageAlt": "Le fleuve Niger et le pont transfrontalier à Malanville",
+  "descriptionHistoire": "01. Origines et porte septentrionale du Bénin\nSituée à l'extrême nord-est du Bénin dans le département de l'Alibori, Malanville s'est développée le long des rives du fleuve Niger. Fondée au carrefour des voies de transhumance et de commerce, la cité tire son nom de l'administrateur colonial Henri Malan et constitue le principal point de passage vers le Niger et l'Afrique sahélienne.\n\n02. Le géant du commerce transfrontalier\nMalanville est l'un des plus grands poumons économiques du Bénin grâce à son grand marché international et son pont stratégique reliant le Bénin au Niger. Ce statut de hub logistique favorise un intarissable brassage de populations dendi, peule, bariba, haoussa et djerma.\n\n03. Agriculture de la vallée du Niger et ressources halieutiques\nBénéficiant des plaines inondables fertiles du fleuve Niger et de la rivière Sota, Malanville est le premier bassin de production rizicole et maraîchère (riz, oignons, tomates) du pays. La pêche et le pastoralisme y occupent également une place prépondérante.\n\n04. Malanville aujourd'hui : carrefour sahélien en mutation\nEn tant que ville frontière stratégique, Malanville modernise ses infrastructures de transport, ses espaces marchands et son port sec. La commune valorise son identité multiculturelle et ses paysages fluviaux spectaculaires aux portes du Sahel.",
+  "leSaviezVous": "Malanville abrite le pont sur le fleuve Niger reliant le Bénin à la ville de Gaya au Niger, constituant l'un des axes de transit de marchandises les plus fréquentés d'Afrique de l'Ouest.",
+  "lieuxAVisiter": [
+    {
+      "id": "fleuve-niger-pont-malanville",
+      "nom": "Le fleuve Niger et le pont transfrontalier de Gaya",
+      "description": "Ouvrage emblématique marquant la frontière avec le Niger, offrant une vue impressionnante sur le fleuve, les pirogues de pêcheurs dendi et le balai des convois commerciaux.",
+      "imageUrl": "/games/malanville_pont.webp",
+      "imageAlt": "Le pont transfrontalier sur le fleuve Niger à Malanville"
+    },
+    {
+      "id": "marche-international-malanville",
+      "nom": "Le grand marché international de Malanville",
+      "description": "L'un des plus vastes marchés d'Afrique de l'Ouest où s'échangent du riz local, des oignons, du bétail, des épices et des produits manufacturés venus de toute la sous-région.",
+      "imageUrl": "/games/malanville_marche.jfif",
+      "imageAlt": "Animation au grand marché international de Malanville"
+    },
+    {
+      "id": "perimetres-rizicoles-guene",
+      "nom": "Les aménagements rizicoles et maraîchers de Guéné",
+      "description": "Vastes étendues de cultures irriguées s'étendant à perte de vue le long des vallées de la Sota et du Niger, témoignage du dynamisme agricole local.",
+      "imageUrl": "/games/malanville_riziculture.jfif",
+      "imageAlt": "Périmètres irrigués de riziculture à Malanville"
+    },
+    {
+      "id": "ile-de-bodjecali-malanville",
+      "nom": "L'île de Bodjécali et les villages fluviaux",
+      "description": "Sites pittoresques situés sur le fleuve Niger permettant de découvrir les modes de vie traditionnels des pêcheurs dendi et djerma.",
+      "imageUrl": "/games/malanville_ile.jfif",
+      "imageAlt": "Village traditionnel riverain du fleuve Niger"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Porte du Sahel et du Fleuve Niger",
+    "accroche": "Penses-tu connaître l'histoire transfrontalière, les périmètres rizicoles et le géant commercial de Malanville ?",
+    "encouragement": "Revois la géographie de l'Alibori, le rôle du fleuve Niger et le commerce de Malanville pour réussir ce défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Malanville ?",
+      "options": ["L’Alibori", "Le Borgou", "L’Atacora", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Malanville est située à l'extrême nord-est du Bénin, dans le département de l'Alibori.",
+      "points": 25
+    },
+    {
+      "question": "Quel pays voisin du Bénin est directement relié à Malanville par un pont sur le fleuve Niger ?",
+      "options": ["Le Niger", "Le Nigéria", "Le Burkina Faso", "Le Togo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Malanville partage une frontière majeure avec la République du Niger, reliée par le pont franchissant le fleuve Niger vers Gaya.",
+      "points": 25
+    },
+    {
+      "question": "Quelle grande culture agricole irriguée fait la renommée nationale de la commune de Malanville ?",
+      "options": ["Le riz", "Le cacao", "Le café", "Le palmier à huile"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Grâce aux aménagements de la vallée du fleuve Niger, Malanville est l'un des plus grands bassins de production rizicole du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel cours d'eau majeur borde la commune de Malanville et sert de frontière naturelle ?",
+      "options": ["Le fleuve Niger", "Le fleuve Mono", "Le fleuve Ouémé", "La rivière Pendjari"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le fleuve Niger arrose Malanville et constitue la frontière naturelle entre le Bénin et le Niger.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

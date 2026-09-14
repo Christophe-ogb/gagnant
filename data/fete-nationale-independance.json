@@ -1,0 +1,48 @@
+{
+  "id": "fete-nationale-independance",
+  "type": "evenement-national",
+  "nom": "Fête Nationale de l'Indépendance",
+  "sousTitre": "La Célébration de la Souveraineté, de l'Unité et de la Fierté Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/independance-benin.webp",
+  "imageAlt": "Défilé militaire et festivités de la Fête Nationale du Bénin",
+  "descriptionHistoire": "01. 1er août 1960 · L'accession à la souveraineté internationale\nLe 1er août 1960 marque un tournant historique majeur pour le Dahomey (actuel Bénin). Après des décennies de colonisation française, le président Hubert Maga proclame officiellement l'indépendance du pays à Cotonou. Cette accession à la souveraineté nationale concrétise la lutte des figures politiques, des patriotes et des peuples du Dahomey pour leur liberté et leur autodétermination.\n\n02. Les symboles de la République et l'identité nationale\nCette accession à l'indépendance s'accompagne de la création des symboles républicains fondateurs : le drapeau tricolore (vert, jaune, rouge), l'hymne national « L'Aube Nouvelle » composé par le père Fabien Adonon, et la devise nationale « Fraternité - Justice - Travail ». En 1975, le pays prend le nom officiel de République du Bénin, affirmant son ancrage africain et son unité.\n\n03. L'organisation des célébrations officielles\nChaque 1er août, le Bénin vibre au rythme des festivités patriotiques. À Cotonou, la journée commence par le dépôt officiel de gerbe de fleurs au Monument des Dévoués en hommage aux martyrs et héros de la nation, suivi du majestueux défilé militaire, paramilitaire et civil sur le boulevard de la Marina. Les défilés et concerts populaires sont également organisés simultanément dans toutes les préfectures et communes du pays.\n\n04. Un moment de cohésion nationale et de rayonnement\nAu-delà du protocole officiel, la Fête de l'Indépendance est un moment privilégié de communion fraternelle pour l'ensemble des Béninoises et Béninois, ainsi que pour la diaspora. C'est l'occasion de célébrer les progrès socio-économiques du pays, de mettre en valeur les cultures locales et de réaffirmer l'engagement de la nation envers la paix et le développement.",
+  "leSaviezVous": "Le drapeau national du Bénin arbore les couleurs panafricaines : le vert symbolise l'espoir et l'agriculture, le jaune représente la richesse du sol, et le rouge incarne le courage des ancêtres.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Souveraineté et de l'Aube Nouvelle",
+    "accroche": "Explorez l'histoire et les symboles de la Fête Nationale du Bénin",
+    "encouragement": "Vous maîtrisez parfaitement l'histoire et l'organisation de la Fête de l'Indépendance."
+  },
+  "quiz": [
+    {
+      "question": "À quelle date précise le Bénin célèbre-t-il sa Fête Nationale de l'Indépendance ?",
+      "options": ["Le 1er août", "Le 10 janvier", "Le 1er août 1975", "Le 28 février"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Bénin a proclamé son indépendance le 1er août 1960.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le titre de l'hymne national du Bénin chanté lors des cérémonies officielles ?",
+      "options": ["L'Aube Nouvelle", "Bénin Révélé", "Debout Bénin", "La Marche de la Liberté"],
+      "reponseCorrecteIndex": 0,
+      "explication": "« L'Aube Nouvelle » est l'hymne national composé en 1960 lors de l'indépendance.",
+      "points": 20
+    },
+    {
+      "question": "Où se déroule le grand défilé militaire officiel du 1er août à Cotonou ?",
+      "options": ["Sur le boulevard de la Marina", "À la Porte du Non-Retour", "Au stade de Parakou", "Au Palais des Gouverneurs de Porto-Novo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le défilé militaire et civil se tient sur le boulevard de la Marina à Cotonou.",
+      "points": 20
+    },
+    {
+      "question": "Que symbolise la couleur rouge sur le drapeau national du Bénin ?",
+      "options": ["Le courage et le sang des ancêtres", "L'agriculture et les forêts", "La richesse du sous-sol", "L'océan Atlantique"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le rouge rappelle le courage et la bravoure de ceux qui ont lutté pour la patrie.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

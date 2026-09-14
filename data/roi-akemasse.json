@@ -1,0 +1,48 @@
+{
+  "id": "roi-akemasse",
+  "type": "roi",
+  "nom": "Roi Akémassè",
+  "sousTitre": "Souverain de Dassa-Zoumè, protecteur du peuple Idaatcha et des collines",
+  "communeAssociee": "Dassa-Zoumè",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Collines_de_Dassa-Zoume.jpg/800px-Collines_de_Dassa-Zoume.jpg",
+  "imageAlt": "Vue panoramique des collines sacrées de Dassa-Zoumè",
+  "descriptionHistoire": "01. XVIIe siècle · La lignée des Gbaguidi et le trône de Dassa\nIssu de la dynastie Gbaguidi, le roi Akémassè prend les rênes du royaume de Dassa-Zoumè dans une période de structuration territoriale. Garant des coutumes et des alliances entre les clans Idaatcha liés aux migrations yoruba, il consolide la légitimité du trône au pied des collines sacrées. Son règne s'inscrit dans la préservation de l'identité culturelle et spirituelle de Dassa face aux pressions politiques et militaires des royaumes voisins.\n\n02. XVIIIe siècle · La protection de la cité au cœur des collines\nFace à l'expansion de puissances régionales, Akémassè s'appuie sur le relief particulier de son territoire. Les collines deviennent des repères défensifs et des lieux de refuge. Avec des guetteurs, des sanctuaires et une bonne connaissance du terrain rocailleux, le royaume protège les populations, les récoltes et les lieux de culte contre les incursions extérieures.\n\n03. L'organisation des cultes et de la justice royale\nPour préserver la cohésion des communautés de la région des Collines, Akémassè renforce la fonction du souverain comme médiateur et gardien des traditions locales. Il s'appuie sur les conseils de sages, veille au respect des lois du royaume et encadre les pratiques de chasse et d'agriculture. Dassa-Zoumè devient ainsi un carrefour d'échanges où l'autorité royale est liée à la paix et au respect des règles ancestrales.\n\n04. Un héritage durable dans le pays Idaatcha\nEn transmettant à ses successeurs un royaume présenté comme uni et spirituellement fortifié, le roi Akémassè demeure une figure tutélaire de l'histoire de Dassa-Zoumè. Son nom est associé, dans la mémoire collective locale, à la sagesse, à la protection de son peuple et à la résistance du pays Idaatcha.",
+  "leSaviezVous": "La région de Dassa-Zoumè est connue pour ses nombreuses collines. La tradition locale les associe à des lieux de refuge, de communication et de protection des populations.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Protecteur de Dassa",
+    "accroche": "Explore la cité des collines et découvre l'héritage de la dynastie Gbaguidi.",
+    "encouragement": "Bravo ! Tu as découvert l'histoire du roi Akémassè de Dassa-Zoumè."
+  },
+  "quiz": [
+    {
+      "question": "De quelle dynastie royale Akémassè fait-il partie à Dassa-Zoumè ?",
+      "options": ["La dynastie Gbaguidi", "La dynastie Wassangari", "La dynastie des Alakétou", "La dynastie Houégbadja"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Akémassè est associé à la dynastie royale Gbaguidi de Dassa-Zoumè.",
+      "points": 20
+    },
+    {
+      "question": "Quelle commune est historiquement associée au règne du roi Akémassè ?",
+      "options": ["Dassa-Zoumè", "Abomey", "Nikki", "Ouidah"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le récit situe le royaume d'Akémassè dans l'actuelle commune de Dassa-Zoumè.",
+      "points": 20
+    },
+    {
+      "question": "Quel élément naturel jouait un rôle défensif majeur pour le royaume ?",
+      "options": ["Les collines de la région", "Le fleuve Ouémé", "La forêt sacrée de Kétou", "Les lagunes de Porto-Novo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le relief rocailleux et les collines étaient des refuges et des repères stratégiques.",
+      "points": 20
+    },
+    {
+      "question": "Quel groupe socioculturel Akémassè est-il associé à la protection de son royaume ?",
+      "options": ["Le peuple Idaatcha", "Le peuple Bariba", "Le peuple Fon", "Le peuple Dendi"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Dassa-Zoumè est un repère historique important pour les communautés Idaatcha.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

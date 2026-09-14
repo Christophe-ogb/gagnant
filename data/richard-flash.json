@@ -1,0 +1,48 @@
+{
+  "id": "richard-flash",
+  "type": "contemporain",
+  "nom": "Richard Flash",
+  "sousTitre": "Le Roi du Zouk Béninois et le Romantique de la Chanson Africaine",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/richard-flash.webp",
+  "imageAlt": "Portrait du chanteur béninois Richard Flash",
+  "descriptionHistoire": "01. Des ondes radio à la vocation musicale\nDe son vrai nom Richard Kakpo, Richard Flash débute sa carrière dans les médias en tant qu'animateur radio au Bénin. Passionné de musique, de rythmes caribéens et de mélodies romantiques, il décide de franchir le pas et de se consacrer à la chanson. Sa voix suave et son sens du rythme séduisent rapidement le public béninois.\n\n02. 2002 · La révélation avec « Kiss »\nEn 2002, Richard Flash sort son tout premier album intitulé « Kiss ». Porté par des titres romantiques et dansants, l'album rencontre un succès phénoménal au Bénin et en Afrique de l'Ouest. Il s'impose immédiatement comme la référence incontournable du Zouk et de l'Afro-zouk béninois.\n\n03. La confirmation et la conquête sous-régionale\nAvec des albums et des hits comme « Zékemi », « T'en vas pas » et « Kisiko », Richard Flash enchaîne les distinctions et les concerts à guichets fermés. Il collabore avec de grandes figures du Zouk antillais et africain (notamment Eric Virgal et Harry Diboula), affirmant sa capacité à fusionner le Zouk avec des sonorités traditionnelles africaines.\n\n04. Un artiste accompli et un modèle de longévité\nGrâce à sa régularité, son élégance et son répertoire riche en chansons d'amour et de sensibilisation sociale, Richard Flash demeure l'un des artistes béninois les plus respectés. Il continue de faire vibrer toutes les générations à travers ses prestations scéniques et ses productions de qualité.",
+  "leSaviezVous": "Avant de devenir la star incontestée du Zouk béninois avec son album « Kiss » en 2002, Richard Flash était un animateur radio très apprécié à Cotonou.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Roi du Zouk et de la Mélodie Romantique",
+    "accroche": "Explorez le répertoire et le parcours de la star du Zouk Richard Flash",
+    "encouragement": "Vous connaissez parfaitement les grands succès et l'histoire de Richard Flash."
+  },
+  "quiz": [
+    {
+      "question": "Quel est le nom du tout premier album de Richard Flash sorti en 2002 ?",
+      "options": ["Kiss", "Zékemi", "Kisiko", "Kiki"],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'album « Kiss » l'a propulsé au sommet des classements musicaux dès 2002.",
+      "points": 20
+    },
+    {
+      "question": "Dans quel genre musical principal Richard Flash s'est-il imposé comme une référence au Bénin ?",
+      "options": ["Le Zouk / Afro-zouk", "Le Rap Hardcore", "Le Rock Métal", "Le Reggae Roots"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il est considéré comme le roi du Zouk et de l'Afro-zouk au Bénin.",
+      "points": 20
+    },
+    {
+      "question": "Quelle profession dans les médias Richard Flash exerçait-il avant d'embrasser la musique ?",
+      "options": ["Animateur radio", "Journaliste presse écrite", "Photographe de presse", "Cadreur de télévision"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il a commencé sa carrière dans l'animation radio avant de se consacrer au chant.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le vrai nom de famille à l'état civil de Richard Flash ?",
+      "options": ["Kakpo", "Behanzin", "Lawson", "Ahouansou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Richard Flash s'appelle à l'état civil Richard Kakpo.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

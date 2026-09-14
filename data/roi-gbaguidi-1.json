@@ -1,0 +1,48 @@
+{
+  "id": "roi-gbaguidi-1",
+  "type": "roi",
+  "nom": "Roi Ahossou Soha Gbaguidi Ier",
+  "sousTitre": "Fondateur du royaume de Savalou, patriarche de la dynastie Gbaguidi et unificateur des Mahi",
+  "communeAssociee": "Savalou",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Palais_royal_de_Nikki.jpg/800px-Palais_royal_de_Nikki.jpg",
+  "imageAlt": "Symboles du palais royal et de la dynastie Gbaguidi de Savalou",
+  "descriptionHistoire": "01. Début du XVIIe siècle · Les origines et l'installation à Savalou\nAu début du XVIIe siècle, le prince Soha guide son peuple à la recherche de terres fertiles et protégées. Il s'installe au cœur du pays Mahi, près des collines de Savalou. Grâce à son autorité et à son sens politique, il rassemble des populations jusque-là dispersées et fonde le royaume de Savalou sous le nom d'Ahossou Soha Gbaguidi Ier.\n\n02. Le titre Gbaguidi et l'organisation du royaume\nLe nom Gbaguidi est associé dans la tradition locale à la force et à l'autorité du souverain. En adoptant ce titre dynastique, Soha Gbaguidi Ier affirme l'indépendance de son royaume. Il organise le palais royal, s'appuie sur les conseils de notables et structure la justice coutumière, fondant ainsi une lignée royale qui demeure importante dans la mémoire de Savalou.\n\n03. Une terre d'accueil et l'unification des Mahi\nLe roi Gbaguidi Ier est connu comme une figure d'ouverture et de diplomatie. Savalou devient une terre d'accueil pour des communautés fuyant les conflits régionaux. Il renforce les alliances entre les clans Mahi et soutient le développement de l'agriculture, en particulier la culture de l'igname, qui occupe une place centrale dans la vie économique et culturelle de la région.\n\n04. L'héritage de la fête de l'Igname\nLes premières récoltes sont offertes aux ancêtres et aux divinités selon des coutumes liées à l'histoire royale de Savalou. Cette mémoire se perpétue dans la fête de l'Igname du 15 août. Ahossou Soha Gbaguidi Ier laisse ainsi l'image d'un roi fondateur, associé à un royaume structuré et à une dynastie majeure du centre du Bénin.",
+  "leSaviezVous": "Le titre Gbaguidi est associé dans la tradition locale à la force et à l'autorité du souverain. Il est devenu le nom de la dynastie royale de Savalou.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Patriarche de Savalou",
+    "accroche": "Découvre l'histoire du roi fondateur de la cité de Savalou.",
+    "encouragement": "Bravo ! Tu as exploré l'histoire d'Ahossou Soha Gbaguidi Ier."
+  },
+  "quiz": [
+    {
+      "question": "Quelle commune est le berceau historique du royaume fondé par Soha Gbaguidi Ier ?",
+      "options": ["Savalou", "Abomey", "Porto-Novo", "Ouidah"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Soha Gbaguidi Ier est associé à la fondation du royaume de Savalou.",
+      "points": 20
+    },
+    {
+      "question": "Quel groupe socioculturel Gbaguidi Ier est-il associé à l'unification à Savalou ?",
+      "options": ["Le peuple Mahi", "Le peuple Baatonu", "Le peuple Bariba", "Le peuple Yoruba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Savalou est un repère historique et culturel important pour les communautés Mahi.",
+      "points": 20
+    },
+    {
+      "question": "Quelle célébration annuelle de Savalou est liée aux traditions agricoles de la région ?",
+      "options": ["La fête de l'Igname", "La Gaani", "Le festival Ouidah 92", "La fête Vodun"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La fête de l'Igname célèbre les récoltes et la mémoire des traditions locales de Savalou.",
+      "points": 20
+    },
+    {
+      "question": "Que symbolise le titre royal Gbaguidi ?",
+      "options": ["La force et l'autorité", "Le chef des mers", "Le gardien des forêts", "Le messager de la paix"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Dans les récits locaux, Gbaguidi évoque un souverain puissant et respecté.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

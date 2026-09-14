@@ -1,0 +1,48 @@
+{
+  "id": "seri-kpera-2",
+  "type": "roi",
+  "nom": "Roi Séro Kpéra II",
+  "sousTitre": "Le souverain de Nikki, protecteur du Borgou et héros de la bataille d'Ilorin",
+  "communeAssociee": "Nikki",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Palais_royal_de_Nikki.jpg/800px-Palais_royal_de_Nikki.jpg",
+  "imageAlt": "Palais royal et symboles du royaume de Nikki",
+  "descriptionHistoire": "01. Fin du XVIIIe siècle · L'héritage wassangari et l'accession au trône\nIssu de la lignée des cavaliers wassangari, Séro Kpéra II monte sur le trône de Nikki à une époque où le royaume constitue un centre politique et spirituel majeur du Borgou. Il veille aux traditions transmises par les souverains de Nikki, s'appuie sur les dignitaires du palais et participe à la préservation de la Gaani, grande fête qui rassemble les communautés baatonu autour de la culture équestre et de la mémoire royale.\n\n02. Début du XIXe siècle · Une puissance régionale\nSous son règne, Nikki se situe au croisement de routes commerciales reliant le fleuve Niger, les cités yoruba et le golfe de Guinée. Le royaume protège ses marchés, ses campagnes et les principautés qui lui sont liées. La cavalerie constitue l'un de ses principaux moyens de défense et de rayonnement. Séro Kpéra II est ainsi associé à la protection du Borgou et à la continuité des institutions royales de Nikki.\n\n03. Vers 1830 · Une alliance face aux menaces régionales\nAu début du XIXe siècle, les conflits et les transformations politiques de l'Afrique de l'Ouest fragilisent l'équilibre régional. Selon les récits historiques transmis dans le Borgou, Séro Kpéra II s'allie à l'Alaafin d'Oyo pour faire face aux forces venues d'Ilorin. Cette alliance exprime une solidarité militaire entre les royaumes baatonu et yoruba, dans un contexte où la souveraineté des États de la région est contestée.\n\n04. 1831 · Le combat d'Ilorin et une mémoire durable\nEn 1831, Séro Kpéra II conduit ses cavaliers dans les combats près d'Ilorin. Il y trouve la mort, ce qui lui vaut dans la mémoire locale le nom d'Ilorinkpunon, « celui qui est mort à Ilorin ». Sa disparition demeure associée au courage, au devoir de protection et à la défense des alliés. Son souvenir est honoré dans le nord du Bénin, notamment par le camp militaire Séro Kpéra de Parakou.",
+  "leSaviezVous": "Le camp militaire de Parakou porte le nom de Séro Kpéra, perpétuant la mémoire de ce souverain de Nikki et de son rôle dans l'histoire du Borgou.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Souverain de Nikki",
+    "accroche": "Découvre le destin du roi qui a défendu l'alliance des peuples du Borgou.",
+    "encouragement": "Bravo ! Tu as exploré l'histoire de Séro Kpéra II et du royaume de Nikki."
+  },
+  "quiz": [
+    {
+      "question": "De quelle capitale historique du peuple baatonu Séro Kpéra II était-il le souverain ?",
+      "options": ["Nikki", "Abomey", "Porto-Novo", "Kétou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Séro Kpéra II est associé au royaume de Nikki, l'un des grands centres historiques du Borgou.",
+      "points": 20
+    },
+    {
+      "question": "Quel nom mémoriel est associé à Séro Kpéra II après le combat d'Ilorin ?",
+      "options": ["Ilorinkpunon", "Yovogan", "Baura Kpé", "Sabi Gbassi"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ilorinkpunon signifie « celui qui est mort à Ilorin » dans les récits qui commémorent son sacrifice.",
+      "points": 20
+    },
+    {
+      "question": "Avec quel empire Séro Kpéra II est-il associé dans l'alliance militaire contre Ilorin ?",
+      "options": ["L'Empire d'Oyo", "Le royaume du Danxomè", "L'Empire ashanti", "Le royaume d'Allada"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les récits du Borgou évoquent une alliance avec l'Alaafin d'Oyo dans ce contexte de conflit régional.",
+      "points": 20
+    },
+    {
+      "question": "Quel lieu de Parakou porte aujourd'hui le nom de Séro Kpéra ?",
+      "options": ["Le camp militaire", "L'aéroport international", "Le musée national", "Le grand stade municipal"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le camp militaire Séro Kpéra de Parakou contribue à entretenir cette mémoire historique.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

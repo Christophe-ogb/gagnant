@@ -1,0 +1,78 @@
+{
+  "id": "toucountouna",
+  "type": "commune",
+  "nom": "Toucountouna",
+  "sousTitre": "Joyau de l'Atacora, terre des Natimba et porte des paysages de montagne",
+  "communeAssociee": "Toucountouna",
+  "imageUrl": "/games/toucountouna1.jfif",
+  "imageAlt": "Paysage montagneux de Toucountouna",
+  "descriptionHistoire": "01. Origines et identité du peuple Natimba\nNiché au cœur de la chaîne de l'Atacora, Toucountouna est le berceau historique de l'ethnie Natimba (ou Waama/Nateni). Réputée pour ses traditions guerrières et son attachement à la terre, la commune a su préserver au fil des siècles une identité culturelle forte marquée par des rites d'initiation uniques et une architecture traditionnelle authentique.\n\n02. Un relief grandiose au sein de l'Atacora\nLe territoire de Toucountouna est caractérisé par un relief accidenté composé de collines, de vallées encaissées et de cours d'eau saisonniers. Ses paysages spectaculaires offrent une transition naturelle entre Natitingou au sud et Kouandé ou Tanguiéta au nord, au pied du massif de l'Atacora.\n\n03. Agriculture vivrière et savoir-faire traditionnel\nL'économie local repose principalement sur l'agriculture de subsistance et de rente. Les habitants y cultivent le sorgho, le mil, le maïs, l'igname ainsi que le fonio. La récolte des noix de karité et la préparation de la bière de mil traditionnelle (Choukoutou) rythment la vie quotidienne des habitants.\n\n04. Toucountouna aujourd'hui : écotourisme et valorisation culturelle\nLa commune s'engage activement dans la préservation de son environnement exceptionnel et de ses traditions. En misant sur l'écotourisme, la randonnée en montagne et la valorisation du patrimoine artisanal, Toucountouna entend développer un tourisme durable et respectueux de son identité.",
+  "leSaviezVous": "Le nom « Toucountouna » dérive des termes locaux évoquant la position de la cité nichée entre les collines et les cours d'eau, symbolisant un havre de paix au milieu des montagnes de l'Atacora.",
+  "lieuxAVisiter": [
+    {
+      "id": "chaine-atacora-toucountouna",
+      "nom": "Les montagnes et sentiers de randonnée de l'Atacora",
+      "description": "Reliefs pittoresques offrant de magnifiques parcours de trekking, des points de vue panoramiques sur la chaîne de l'Atacora et des découvertes de la flore des montagnes.",
+      "imageUrl": "/games/herttoucountouna.webp",
+      "imageAlt": "Vue panoramique sur les montagnes de l'Atacora"
+    },
+    {
+      "id": "marche-traditionnel-toucountouna",
+      "nom": "Le marché central de Toucountouna",
+      "description": "Lieu de rassemblement populaire et haut en couleur où l'on trouve les céréales locales, le fonio, le beurre de karité artisanal et où l'on dégustes la bière de mil locale (Choukoutou).",
+      "imageUrl": "/games/toucountouna1.jfif",
+      "imageAlt": "Marché local et animation à Toucountouna"
+    },
+    {
+      "id": "concessions-natimba-toucountouna",
+      "nom": "Les habitats traditionnels Natimba",
+      "description": "Ensembles d'habitations traditionnelles en terre intégrées au paysage rocheux, témoignant de l'architecture vernaculaire et de l'organisation sociale du peuple Natimba.",
+      "imageUrl": "/games/toucountouna2.jfif",
+      "imageAlt": "Habitat traditionnel au pied des collines"
+    },
+    {
+      "id": "cascades-rivieres-toucountouna",
+      "nom": "Les rivières et sources d'eau de montagne",
+      "description": "Cours d'eau saisonniers et petites cascades nichées au fond des vallées, offrants des oasis d'ombre et de fraîcheur aux randonneurs.",
+      "imageUrl": "/games/toucountouna3.jfif",
+      "imageAlt": "Rivière de montagne à Toucountouna"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau des Monts de Toucountouna",
+    "accroche": "Connaissez-vous le relief, l'histoire et les traditions du peuple Natimba à Toucountouna ?",
+    "encouragement": "Presque ! Révisez la géographie du département de l'Atacora et les spécificités culturelles de Toucountouna pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Toucountouna ?",
+      "options": ["L'Atacora", "La Donga", "Borgou", "L'Alibori"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Toucountouna est l'une des communes montagnardes du département de l'Atacora.",
+      "points": 25
+    },
+    {
+      "question": "Quel grand ensemble géographique et montagneux traverse le territoire de Toucountouna ?",
+      "options": ["La chaîne de l'Atacora", "Les collines de Savalou", "Le plateau de Zagnanado", "Les monts du Niger"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Toucountouna est implantée au cœur de la chaîne de l'Atacora.",
+      "points": 25
+    },
+    {
+      "question": "Quelle communauté socio-culturelle est historiquement majeure dans la commune de Toucountouna ?",
+      "options": ["Les Natimba (Waama/Nateni)", "Les Fon", "Les Goun", "Les Aizo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le peuple Natimba constitue le groupe socio-culturel autochtone et majoritaire de Toucountouna.",
+      "points": 25
+    },
+    {
+      "question": "Boisson traditionnelle très populaire dans l'Atacora, qu'aime-t-on déguster sur les marchés de Toucountouna ?",
+      "options": ["Le Choukoutou (bière de mil)", "Le Sodabi", "Le vin de palme", "Le jus de pomme cajou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Choukoutou est la bière de mil traditionnelle emblématique du nord du Bénin et particulièrement appréciée dans l'Atacora.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

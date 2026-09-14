@@ -1,0 +1,78 @@
+{
+  "id": "kouande",
+  "type": "commune",
+  "nom": "Kouandé",
+  "sousTitre": "Cité des Bagana, royaume historique des Wassangari et cœur culturel de l'Atacora",
+  "communeAssociee": "Kouandé",
+  "imageUrl": "/games/kouande1.jfif",
+  "imageAlt": "Patrimoine et paysages de Kouandé",
+  "descriptionHistoire": "01. Origines et fondation de la cité des Bagana\nFondée au XVIIIe siècle, Kouandé est une cité historique majeure du nord-ouest du Bénin. Capitale du royaume de Kouandé, la ville fut érigée par les princes Wassangari sous le règne de la dynastie des Bagana, marquant durablement l'organisation politique et sociale de la région.\n\n02. Terre de traditions et d'art équestre\nKouandé est célèbre pour sa tradition chevaleresque héritée de la culture Wassangari et Baatonu. Les parades équestres, les fanfares royales et la célébration de la fête de la Gaani témoignent d'un patrimoine immatériel remarquable et d'un respect profond de la hiérarchie coutumière.\n\n03. Un cadre naturel majestueux dans l'Atacora\nNiche au pied des contreforts de la chaîne de l'Atacora, la commune dispose d'un relief accidenté, de cascades, de cours d'eau et de forêts classées (comme la forêt de l'Ouémé Supérieur). Sa biodiversité et ses paysages pittoresques en font un espace privilégié pour l'écotourisme.\n\n04. Kouandé aujourd'hui : culture et développement agropastoral\nChef-lieu de commune dans l'Atacora, Kouandé concilie la préservation de son trône séculaire avec l'essor des activités agropastorales (production de coton, d'anacarde, de maïs et élevage). La ville continue de moderniser ses infrastructures tout en restant un foyer culturel vivant.",
+  "leSaviezVous": "Le nom « Kouandé » provient de l'expression baatonu « Kora-ndé », qui fait référence à la mare ou au point d'eau autour duquel la cité originelle s'est implantée.",
+  "lieuxAVisiter": [
+    {
+      "id": "palais-royal-kouande",
+      "nom": "Le Palais Royal de Kouandé",
+      "description": "Siège séculaire du Roi de Kouandé (le Bagana), où sont conservés les attributs du pouvoir, la garde royale et le tambour sacré de la chefferie Wassangari.",
+      "imageUrl": "/games/kouande_palais.webp",
+      "imageAlt": "Palais royal et architecture traditionnelle à Kouandé"
+    },
+    {
+      "id": "chaine-atacora-kouande",
+      "nom": "Les contreforts de la chaîne de l'Atacora",
+      "description": "Formations montagneuses offrant des parcours d'escalade, des circuits de randonnée et une vue panoramique sur les vallées environnantes de Kouandé.",
+      "imageUrl": "/games/kouande_montagnes.jfif",
+      "imageAlt": "Reliefs et contreforts de l'Atacora à Kouandé"
+    },
+    {
+      "id": "foret-oueme-superieur",
+      "nom": "La forêt classée de l'Ouémé Supérieur",
+      "description": "Vaste réserve forestière partagée abritant une faune et une flore diversifiées, idéale pour les randonnées guidées et l'écotourisme.",
+      "imageUrl": "/games/kouande_foret.jfif",
+      "imageAlt": "Paysage forestier à Kouandé"
+    },
+    {
+      "id": "marche-central-kouande",
+      "nom": "Le marché traditionnel de Kouandé",
+      "description": "Lieu de rencontre commercial et culturel où s'échangent les produits locaux, l'artisanat du cuir, le beurre de karité et les céréales.",
+      "imageUrl": "/games/kouande_marche.jfif",
+      "imageAlt": "Marché local animé à Kouandé"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Royaume des Bagana de Kouandé",
+    "accroche": "Penses-tu connaître l'histoire du royaume de Kouandé, ses traditions équestres et ses reliefs de l'Atacora ?",
+    "encouragement": "Revois l'histoire des souverains Bagana, les traditions Wassangari et la géographie de Kouandé pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Kouandé ?",
+      "options": ["L’Atacora", "L’Alibori", "Le Borgou", "La Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Kouandé est située dans le département de l'Atacora, au nord-ouest du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel titre traditionnel porte le souverain du royaume de Kouandé ?",
+      "options": ["Le Bagana", "Le Kabiési", "Le Dada", "Le Bio Kina"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Roi de Kouandé est traditionnellement désigné sous le titre de Bagana.",
+      "points": 25
+    },
+    {
+      "question": "Quelle aristocratie guerrière historique a fondé le royaume de Kouandé ?",
+      "options": ["Les Wassangari", "Les Agosuvi", "Les Fon", "Les Yoruba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le royaume de Kouandé a été établi par les princes guerriers Wassangari issus des migrations et alliances septentrionales.",
+      "points": 25
+    },
+    {
+      "question": "Quelle grande chaîne de montagnes borde la commune de Kouandé ?",
+      "options": ["La chaîne de l'Atacora", "Les collines de Dassa", "Le mont Nimba", "Les monts Mandara"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kouandé est adossée aux contreforts de la chaîne de l'Atacora, relief majeur du nord-ouest béninois.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

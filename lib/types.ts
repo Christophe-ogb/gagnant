@@ -1,4 +1,4 @@
-export type HeritageType = "commune" | "divinite" | "roi" | "site" | "contemporain";
+export type HeritageType = "commune" | "divinite" | "roi" | "site" | "contemporain" | "evenement-national";
 
 export type Quiz = {
   question: string;
@@ -23,6 +23,12 @@ export type HeritagePlace = {
   description: string;
   imageUrl: string;
   imageAlt: string;
+  imagePending?: boolean;
+};
+
+export type HeritageGalleryImage = {
+  imageUrl: string;
+  imageAlt: string;
 };
 
 export type HeritageItem = {
@@ -35,6 +41,8 @@ export type HeritageItem = {
   imageAlt: string;
   /** Masque les images provisoires en attendant les photos officielles. */
   imagePending?: boolean;
+  /** Jusqu’à cinq photos à faire défiler sur une carte de fête. */
+  galerie?: HeritageGalleryImage[];
   descriptionHistoire: string;
   leSaviezVous: string;
   scenes?: HeritageScene[];

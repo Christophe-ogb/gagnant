@@ -1,0 +1,78 @@
+{
+  "id": "sakete",
+  "type": "commune",
+  "nom": "Sakété",
+  "sousTitre": "Terre de la royauté Nagot-Nago, berceau du masque Gėlėdė et carrefour du Plateau",
+  "communeAssociee": "Sakété",
+  "imageUrl": "/games/sakete1.jfif",
+  "imageAlt": "Patrimoine culturel et palais à Sakété",
+  "descriptionHistoire": "01. Origines et fondation du royaume Nagot\nSituée au sud du département du Plateau, la commune de Sakété est une cité historique majeure fondée par les peuples Nagot (Yoruba). Érigée en royaume fort dès le XVIe siècle, la ville s'est développée autour de la dynastie royale et des institutions coutumières préservées jusqu'à nos jours.\n\n02. Sanctuaire du patrimoine culturel et du Gėlėdė\nSakété est l'un des hauts lieux du patrimoine immatériel béninois, célèbre pour la société secrète et le masque sacré Gėlėdė, classé par l'UNESCO. Les rites spirituels, les masques Egungun et le culte des orishas (divinités Yoruba) y occupent une place fondamentale.\n\n03. Un carrefour économique et commercial transfrontalier\nBénéficiant d'une proximité géographique immédiate avec le Nigéria et Porto-Novo, Sakété est un centre commercial très actif. Ses marchés vibrants facilitent l'échange d'animaux, d'ingrédients de la pharmacopée, de produits agricoles et d'artisanat textile.\n\n04. Sakété aujourd'hui : dynamisme agropastoral et perspectives\nGrand centre de production de maïs, de manioc, d'huile de palme et d'anacarde, Sakété allie la modernisation de ses infrastructures urbaines à la valorisation de ses richesses culturelles et touristiques.",
+  "leSaviezVous": "La commune de Sakété est mondialement reconnue pour son festival et ses représentations du masque Gėlėdė, une tradition orale et spectaculaire rendant hommage à la Mère Terre et au pouvoir des femmes.",
+  "lieuxAVisiter": [
+    {
+      "id": "palais-royal-sakete",
+      "nom": "Le Palais Royal d'Olofin de Sakété",
+      "description": "Siège séculaire de la royauté Nagot où réside l'Olofin (Roi) de Sakété, conservant les attributs du trône, les tambours sacrés et la cour royale.",
+      "imageUrl": "/games/sakete_palais.webp",
+      "imageAlt": "Architecture du Palais Royal à Sakété"
+    },
+    {
+      "id": "couvents-gelede-sakete",
+      "nom": "Les couvents et sanctuaires du masque Gėlėdė",
+      "description": "Lieux sacrés où sont sculptés et conservés les masques traditionnels avant les cérémonies et danses rituelles dédiées aux mères ancêtres.",
+      "imageUrl": "/games/sakete_gelede.jfif",
+      "imageAlt": "Masques traditionnels Gėlėdė à Sakété"
+    },
+    {
+      "id": "marche-central-sakete",
+      "nom": "Le grand marché traditionnel de Sakété",
+      "description": "Plaque tournante du commerce local et transfrontalier où s'échangent l'huile de palme, le manioc, les tissusy et les produits de soins traditionnels.",
+      "imageUrl": "/games/sakete_marche.jfif",
+      "imageAlt": "Marché traditionnel animé à Sakété"
+    },
+    {
+      "id": "foret-sacree-sakete",
+      "nom": "La forêt sacrée de Sakété",
+      "description": "Espace boisé protégé abritant les autels des orishas et des arbres centenaires préservés par les dignitaires et gardiens du culte.",
+      "imageUrl": "/games/sakete_foret.jfif",
+      "imageAlt": "Forêt sacrée et nature à Sakété"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité du Gėlėdė et du Royaume Nagot",
+    "accroche": "Penses-tu connaître l'histoire du royaume Nagot, les secrets du masque Gėlėdė et le patrimoine de Sakété ?",
+    "encouragement": "Revois la géographie du Plateau, les traditions Yoruba-Nagot et l'histoire de Sakété pour valider ce défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Sakété ?",
+      "options": ["Le Plateau", "L’Ouémé", "Le Zou", "L’Atlantique"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Sakété est située dans la partie sud du département du Plateau.",
+      "points": 25
+    },
+    {
+      "question": "Quel titre traditionnel porte le souverain du royaume historique de Sakété ?",
+      "options": ["L’Olofin", "Le Sina Boro", "Le Bagana", "Le Oba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Roi de Sakété porte traditionnellement le titre d'Olofin.",
+      "points": 25
+    },
+    {
+      "question": "Quel masque traditionnel rituel classé par l'UNESCO fait la renommée culturelle majeure de Sakété ?",
+      "options": ["Le masque Gėlėdė", "Le masque Zangbeto", "Le masque Kora", "Le masque Guėlė"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sakété est un sanctuaire majeur du masque Gėlėdė, chef-d'œuvre du patrimoine oral et immatériel de l'humanité.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel est historiquement prédominant dans la commune de Sakété ?",
+      "options": ["Les Nagot (Yoruba)", "Les Bariba", "Les Dendi", "Les Somba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de Sakété est majoritairement issue du peuple Nagot, sous-groupe de l'aire culturelle Yoruba.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,48 @@
+{
+  "id": "fete-de-la-gaani",
+  "type": "evenement-national",
+  "nom": "Fête de la Gaani",
+  "sousTitre": "La Grande Célébration Majeure du Royaume de Nikki et des Peuples Baatonu et Boo",
+  "communeAssociee": "Nikki",
+  "imageUrl": "/games/gaani.webp",
+  "imageAlt": "Procession royale et cavaliers lors de la Fête de la Gaani à Nikki",
+  "descriptionHistoire": "01. Une tradition multiséculaire et d'ascendance royale\nCélébrée chaque année à Nikki, capitale du royaume suprême Wasangari, la Gaani est la fête traditionnelle et identitaire emblématique du Nord-Bénin. À l'origine fête de la joie et du triomphe, elle rassemble les peuples Baatonu (Bariba), Boo, Peulh et les dynasties princières autour du roi souverain, le Sinaboko, pour réaffirmer l'allégeance, la fierté et l'unité de l'empire.\n\n02. La sortie des tambours sacrés et le parcours rituel\nLa célébration débute par le retentissement solennel des tambours sacrés (Barakarou), percussions royales vénérées. Le Sinaboko effectue sa procession rituelle à travers les lieux saints et les tombeaux des anciens rois pour leur rendre hommage et invoquer la protection et la prospérité sur le royaume et le Bénin tout entier.\n\n03. La majestueuse cavalcade et le Kayessi\nLe point d'orgue de la Gaani réside dans la parade équestre spectaculaire. Les cavaliers princes et guerriers, vêtus de riches boubous traditionnels et guidant des chevaux parés d'atours majestueux, exécutent des démonstrations de dressage impressionnantes devant la foule et les dignitaires. Le lendemain, la cérémonie du Kayessi réunit les reines (Gnon Kogui), les chefs de cantons et les sujets venus prêter allégeance et recevoir les bénédictions royales.\n\n04. Un joyau du patrimoine et de l'attractivité touristique\nGrâce aux réformes de valorisation du patrimoine et à la modernisation des infrastructures du nouveau Palais Impérial et de la grande Arène Royale de Nikki, la Gaani est devenue un carrefour touristique de classe internationale. Elle incarne la noblesse, la tradition guerrière et la beauté culturelle du septentrion béninois.",
+  "leSaviezVous": "Les tambours sacrés « Barakarou » ne sortent de leur sanctuaire qu'une seule fois par an, spécifiquement lors de la nuit d'ouverture de la Fête de la Gaani à Nikki.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Chevalerie et du Trône de Nikki",
+    "accroche": "Explorez l'histoire majestueuse, la cavalcade et les rituels de la Fête de la Gaani",
+    "encouragement": "Vous maîtrisez parfaitement les traditions et le déroulement de la Fête de la Gaani à Nikki."
+  },
+  "quiz": [
+    {
+      "question": "Dans quelle cité royale du Nord-Bénin se déroule le cœur historique de la Fête de la Gaani ?",
+      "options": ["Nikki", "Ouidah", "Grand-Popo", "Abomey"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Nikki est la capitale historique du royaume Wasangari et le centre névralgique de la Gaani.",
+      "points": 20
+    },
+    {
+      "question": "Quel titre porte le souverain suprême du royaume de Nikki qui préside les festivités de la Gaani ?",
+      "options": ["Le Sinaboko", "Le Dah", "Le Migan", "Le Kpêdétin"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le roi suprême du royaume de Nikki porte le titre traditionnel de Sinaboko.",
+      "points": 20
+    },
+    {
+      "question": "Quelle démonstration spectaculaire fait la renommée visuelle de la Fête de la Gaani ?",
+      "options": ["La parade équestre et la cavalcade des princes", "Une compétition de natation en haute mer", "Un défilé de pirogues décorées", "Un concours de sculpture sur glace"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La parade des cavaliers et le dressage des chevaux en habits d'apparat constituent le moment fort du festival.",
+      "points": 20
+    },
+    {
+      "question": "Comment s'appellent les tambours sacrés royaux qui ne sortent qu'au lancement de la Gaani ?",
+      "options": ["Les tambours Barakarou", "Le Djembé", "Le Tchinkoumé", "Les Castagnettes"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les tambours sacrés Barakarou marquent le début solennel des rituels de la Gaani.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

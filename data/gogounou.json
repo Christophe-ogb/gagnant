@@ -1,0 +1,98 @@
+{
+  "id": "gogounou",
+  "type": "commune",
+  "nom": "Gogounou",
+  "sousTitre": "Terre des Baatonu et des Peulhs, berceau de l'élevage et carrefour agro-pastoral du Borgou",
+  "communeAssociee": "Gogounou",
+  "imageUrl": "/games/gogounou1.jfif",
+  "imageAlt": "Paysage agro-pastoral et traditions de Gogounou",
+  "descriptionHistoire": "01. Origines et fondation historique\nEncadrée par les grands royaumes Bariba du Nord-Bénin, Gogounou s'est développée comme un point d'ancrage territorial stratégique. Peuplée à l'origine par les communautés Baatonu et Fulbé, la cité incarne l'alliance historique entre agriculteurs et éleveurs, deux formes de vie qui se complètent dans les zones de savane et de culture du Nord.\n\n02. Un carrefour de cultures et de traditions équestres\nLa commune est profondément marquée par la culture du peuple Baatonu et les coutumes pastorales peulhes. Les cavaliers, les danses cérémonielles, la musique, les coutumes de transmission orale et les rites d'initiation participent à la richesse de cette identité. Gogounou est aussi un lieu de mémoire où les récits des aînés, les fêtes royales et les familles lignagères structurent l'existence sociale.\n\n03. Le cœur de l'élevage et du monde rural\nGrâce à ses vastes étendues de savane, Gogounou s'est imposée comme l'un des plus grands centres d'élevage bovin et de production laitière du Bénin. Le bétail constitue une ressource centrale pour les familles, le commerce local et les échanges régionaux. La transhumance, la traite du lait et le commerce du bétail font de la commune un acteur majeur de l'économie agro-pastorale du Nord-Bénin.\n\n04. Gogounou aujourd'hui : dynamique locale et agro-pastorale\nSituée dans le département de l'Alibori, Gogounou se modernise tout en consolidant sa place de grand pôle de production agricole et commerciale. Le coton, les céréales et l'élevage occupent une place décisive dans l'économie locale. La commune tient à concilier le développement communautaire, la préservation des coutumes royales et l'adaptation aux nouvelles réalités du monde rural.\n\n05. Une identité forte du Nord\nGogounou représente bien plus qu'une simple commune du Nord : elle est la rencontre dynamique de plusieurs cultures, de grands savoir-faire pastoraux et d'une histoire profondément liée à la vie de la savane et aux échanges interrégionaux. Son histoire est celle de la résilience, du commerce, de la tradition et de la mobilité des peuples.",
+  "leSaviezVous": "Gogounou abrite l'un des marchés au bétail les plus importants du nord du Bénin. C'est un lieu d'échange majeur où transitent des milliers de têtes de bétail vendues vers d'autres régions du pays et vers les pays voisins.",
+  "lieuxAVisiter": [
+    {
+      "id": "marche-betail-gogounou",
+      "nom": "Le grand marché au bétail de Gogounou",
+      "description": "L'un des plus grands marchés d'élevage de la région. Un spectacle vivant et impressionnant qui met en lumière la culture pastorale et le commerce du bétail.",
+      "imageUrl": "/games/marchebetailgogounou.webp",
+      "imageAlt": "Grand marché au bétail à Gogounou"
+    },
+    {
+      "id": "palais-traditionnel-gogounou",
+      "nom": "La Cour royale et chefferie de Gogounou",
+      "description": "Lieu mémoriel et spirituel où réside l'autorité traditionnelle, garant des rites ancestraux, des fêtes d'intronisation et de la cohésion sociale.",
+      "imageUrl": "/games/gogounou1.jfif",
+      "imageAlt": "Architecture traditionnelle et palais à Gogounou"
+    },
+    {
+      "id": "campements-pastoraux-gogounou",
+      "nom": "Les campements peulhs et circuits pastoraux",
+      "description": "Espaces de vie et de transhumance offrant une immersion unique dans le mode de vie traditionnel des éleveurs, la fabrication du fromage local (Wagashi) et la traite du lait.",
+      "imageUrl": "/games/gogounou2.jfif",
+      "imageAlt": "Campement pastoral et élevage à Gogounou"
+    },
+    {
+      "id": "centre-artisanal-gogounou",
+      "nom": "Le marché central et l'artisanat local",
+      "description": "Marché traditionnel et ateliers de fabrication d'outils agricoles, de travail du cuir, de tissage et de produits régionaux.",
+      "imageUrl": "/games/gogounou3.jfif",
+      "imageAlt": "Marché et produits locaux de Gogounou"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau Agro-Pastoral et Royal de Gogounou",
+    "accroche": "Penses-tu connaître l'histoire, les traditions pastorales et les richesses de la commune de Gogounou ?",
+    "encouragement": "Presque ! Revois l'histoire des Baatonu, des Peulhs et du patrimoine de Gogounou pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe la commune de Gogounou ?",
+      "options": [
+        "L'Alibori",
+        "Le Borgou",
+        "L'Atacora",
+        "La Donga"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Gogounou est une commune située dans le département de l'Alibori, au nord du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quelles sont les deux principales communautés socio-culturelles historiques de Gogounou ?",
+      "options": [
+        "Les Baatonu (Bariba) et les Peulhs",
+        "Les Fon et les Mahi",
+        "Les Adja et les Goun",
+        "Les Somba et les Yom"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Gogounou est principalement peuplée par les communautés Baatonu (agriculteurs/guerriers) et Peulhes (éleveurs).",
+      "points": 25
+    },
+    {
+      "question": "Pour quelle activité économique majeure la commune de Gogounou est-elle particulièrement réputée dans le nord du Bénin ?",
+      "options": [
+        "L'élevage bovin et le marché au bétail",
+        "La pêche lagunaire",
+        "La culture intensive du cacao",
+        "L'extraction de sel marin"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Gogounou abrite l'un des plus grands marchés au bétail du pays et constitue un pôle majeur de l'élevage agro-pastoral.",
+      "points": 25
+    },
+    {
+      "question": "Quel fromage traditionnel en forme de galette rouge, spécialité du nord du Bénin, y est abondamment produit ?",
+      "options": [
+        "Le Wagashi",
+        "Le Kankan",
+        "Le Gari",
+        "Le Klui-klui"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Wagashi est le fromage traditionnel de lait de vache fabriqué artisanalement par les femmes peulhes dans les zones d'élevage comme Gogounou.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

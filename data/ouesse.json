@@ -1,0 +1,78 @@
+{
+  "id": "ouesse",
+  "type": "commune",
+  "nom": "Ouèssè",
+  "sousTitre": "Terre de l'igname, carrefour des cultures Nago, Mahi et Mahi-Idaatcha au cœur des Collines",
+  "communeAssociee": "Ouèssè",
+  "imageUrl": "/games/ouesse1.jfif",
+  "imageAlt": "Paysages et collines de Ouèssè",
+  "descriptionHistoire": "01. Origines et fondation au cœur des Collines\nSituée dans la partie nord du département des Collines, la commune de Ouèssè s'est formée par la rencontre des peuples Nago (Yoruba) et Mahi. Fondée sur des terres fertiles entourées de reliefs pittoresques, elle est devenue au fil des siècles un pôle d'intégration socioculturelle préservé.\n\n02. Le sanctuaire de la production d'igname\nOuèssè est reconnue dans tout le Bénin comme l'un des plus grands greniers d'igname du pays. Ses agriculteurs y cultivent une grande variété de tubercules (notamment la variété Laboko), faisant de la commune un acteur central du commerce vivrier et de la sécurité alimentaire nationale.\n\n03. Traditions spirituelles et patrimoine immatériel\nLa vie communautaire à Ouèssè est rythmée par la vénération des divinités du terroir, le culte des ancêtres, les danses traditionnelles et la célébration du masque Gėlėdė. Les forêts sacrées et les collines environnantes constituent des lieux de mémoire et de protection pour les populations.\n\n04. Ouèssè aujourd'hui : dynamisme agricole et modernisation\nEn constante évolution, la commune de Ouèssè développe ses infrastructures de transport pour faciliter l'évacuation des produits agricoles vers Cotonou et Parakou. Elle valorise son artisanat (transformation de gari, cosmétique de karité) et ses richesses agropastorales.",
+  "leSaviezVous": "La commune de Ouèssè est l'un des principaux centres de production de la célèbre variété d'igname « Laboko », particulièrement prisée pour la préparation du pilonné (foutou d'igname).",
+  "lieuxAVisiter": [
+    {
+      "id": "champs-igname-ouesse",
+      "nom": "Les grandes vallées agricoles et plantations d'igname",
+      "description": "Vastes étendues de cultures d'igname illustrant le savoir-faire agricole d'exception des paysans Mahi et Nago de Ouèssè.",
+      "imageUrl": "/games/ouesse_igname.webp",
+      "imageAlt": "Culture et récolte de l'igname à Ouèssè"
+    },
+    {
+      "id": "collines-reliefs-ouesse",
+      "nom": "Les collines pittoresques de Ouèssè",
+      "description": "Formations rocheuses et paysages vallonnés offrant des vues imprenables sur la savane boisée des Collines et des parcours de randonnée.",
+      "imageUrl": "/games/ouesse_collines.jfif",
+      "imageAlt": "Reliefs et collines verdoyantes de Ouèssè"
+    },
+    {
+      "id": "marche-central-ouesse",
+      "nom": "Le grand marché agricole de Ouèssè-Centre",
+      "description": "Plaque tournante du commerce de tubercules, de céréales, d'huile de palme et de cosmétiques traditionnels au nord du département des Collines.",
+      "imageUrl": "/games/ouesse_marche.jfif",
+      "imageAlt": "Animation au marché commercial de Ouèssè"
+    },
+    {
+      "id": "palais-chefferies-ouesse",
+      "nom": "Les chefferies traditionnelles et couvents Nago-Mahi",
+      "description": "Lieux de mémoire coutumière gardant les objets rituels, la médecine traditionnelle et l'histoire des fondateurs de la région.",
+      "imageUrl": "/games/ouesse_palais.jfif",
+      "imageAlt": "Architecture traditionnelle à Ouèssè"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Grenier d'Igname des Collines",
+    "accroche": "Penses-tu connaître l'histoire, les traditions Nago-Mahi et la réputation agricole de Ouèssè ?",
+    "encouragement": "Revois la géographie du département des Collines, la culture de l'igname et l'histoire de Ouèssè pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Ouèssè ?",
+      "options": ["Les Collines", "Le Zou", "Borgou", "Donga"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ouèssè est située dans la partie nord du département des Collines.",
+      "points": 25
+    },
+    {
+      "question": "Quel produit agricole sous forme de tubercule fait la renommée nationale de Ouèssè ?",
+      "options": ["L'igname", "La pomme de terre", "Le gingembre", "Le taro"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ouèssè est l'un des plus grands centres de production d'igname du Bénin, réputée notamment pour la variété Laboko.",
+      "points": 25
+    },
+    {
+      "question": "Quels sont les deux principaux groupes socioculturels historiques peuplant la commune de Ouèssè ?",
+      "options": ["Les Nago (Yoruba) et les Mahi", "Les Bariba et les Peuls", "Les Fon et les Goun", "Les Somba et les Waama"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de Ouèssè est principalement constituée de communautés Nago (Yoruba) et Mahi.",
+      "points": 25
+    },
+    {
+      "question": "Quelle variété d'igname, très prisée pour préparer le pilonné, fait particulièrement la fierté des agriculteurs de Ouèssè ?",
+      "options": ["La variété Laboko", "La variété Florido", "La variété Kokoro", "La variété Gnanngni"],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'igname Laboko de Ouèssè est célèbre à travers tout le pays pour sa qualité idéale pour le foutou d'igname (pilonné).",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

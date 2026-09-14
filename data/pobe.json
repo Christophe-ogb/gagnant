@@ -1,0 +1,78 @@
+{
+  "id": "pobe",
+  "type": "commune",
+  "nom": "Pobè",
+  "sousTitre": "Capitale du Plateau, cité de l'or vert et berceau des cultures Nago et Holli",
+  "communeAssociee": "Pobè",
+  "imageUrl": "/games/pobe1.jfif",
+  "imageAlt": "Paysages et patrimoine de Pobè",
+  "descriptionHistoire": "01. Origines et fondation en pays Nago et Holli\nSituée au cœur du département du Plateau, la commune de Pobè a été fondée par les populations Nago (d'origine Yoruba) et Holli. Son histoire est marquée par une forte tradition de résistance anticoloniale, notamment lors de la révolte des Holli menée par le roi Kpoyizoun au début du XXe siècle.\n\n02. Capitale administrative du département du Plateau\nÉrigée en chef-lieu du département du Plateau, Pobè occupe une position géostratégique majeure. Proche de la frontière avec le Nigéria, elle s'impose comme une plaque tournante du commerce transfrontalier, du transit de marchandises et des services administratifs.\n\n03. Cité du palmier à huile et de l'« Or Vert »\nPobè est réputée dans tout le Bénin et la sous-région pour la culture industrielle et artisanale du palmier à huile. Abritant des centres de recherche agronomique (CRA-PP) et d'importantes huileries, la ville est le cœur battant de la filière oléagineuse nationale.\n\n04. Pobè aujourd'hui : modernité et richesse culturelle\nAlliant modernisme urbain et traditions séculaires, Pobè vibre au rythme des cérémonies rituelles Vodoun, des sorties du masque Gėlėdė et d'Egungun. La commune poursuit sa modernisation à travers le renforcement de ses infrastructures routières, éducatives et marchandes.",
+  "leSaviezVous": "Pobè accueille le Centre de Recherches Agricoles Plantes Pérennes (CRA-PP), un centre de référence en Afrique de l'Ouest pour la sélection, l'amélioration génétique et la production de semences de palmier à huile de haute qualité.",
+  "lieuxAVisiter": [
+    {
+      "id": "palmeraies-crapp-pobe",
+      "nom": "Les grandes palmeraies et le Centre de Recherche Agricole (CRA-PP)",
+      "description": "Vastes plantations de palmiers à huile à perte de vue et centre scientifique de référence pour la recherche sur les oléagineux.",
+      "imageUrl": "/games/pobe_palmeraie.webp",
+      "imageAlt": "Grandes plantations de palmiers à huile à Pobè"
+    },
+    {
+      "id": "palais-royal-pobe",
+      "nom": "Le Palais Royal et la chefferie traditionnelle de Pobè",
+      "description": "Haut lieu du pouvoir coutumier Nago gardant la mémoire des rois de Pobè, les symboles du trône et l'histoire des luttes anticoloniales.",
+      "imageUrl": "/games/pobe_palais.jfif",
+      "imageAlt": "Architecture du Palais Royal de Pobè"
+    },
+    {
+      "id": "marche-central-pobe",
+      "nom": "Le grand marché transfrontalier de Pobè",
+      "description": "Carrefour commercial très animé favorisant les échanges de vivres, d'huile de palme, de produits manufacturés et de tissus avec le Nigéria voisin.",
+      "imageUrl": "/games/pobe_marche.jfif",
+      "imageAlt": "Animation au marché traditionnel de Pobè"
+    },
+    {
+      "id": "foret-sacree-pobe",
+      "nom": "Les forêts sacrées et couvents traditionnels de Pobè",
+      "description": "Espaces naturels préservés où sont célébrés les cultes ancestraux, les rites d'initiation et les représentations des masques Gėlėdė et Egungun.",
+      "imageUrl": "/games/pobe_foret.jfif",
+      "imageAlt": "Forêt sacrée et nature à Pobè"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Capitale du Plateau et Cité de l'Or Vert",
+    "accroche": "Penses-tu connaître l'histoire des Holli, la culture du palmier à huile et le rôle stratégique de Pobè ?",
+    "encouragement": "Revois la géographie du Plateau, la révolte de Kpoyizoun et le patrimoine Nago pour valider ce défi !"
+  },
+  "quiz": [
+    {
+      "question": "De quel département du Bénin la ville de Pobè est-elle le chef-lieu (préfecture) ?",
+      "options": ["Le Plateau", "L’Ouémé", "Le Zou", "Le Couffo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Pobè est la préfecture et le chef-lieu administratif du département du Plateau.",
+      "points": 25
+    },
+    {
+      "question": "Quelle culture agricole pérenne fait la renommée industrielle et scientifique de Pobè à l'échelle nationale ?",
+      "options": ["Le palmier à huile", "Le cacaoyer", "Le caféier", "Le hévéa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Pobè est le pôle majeur de la culture du palmier à huile au Bénin, abritant des palmeraies géantes et le centre national de recherche agronomique dédié.",
+      "points": 25
+    },
+    {
+      "question": "Quels sont les deux principaux groupes socioculturels historiques établis dans la commune de Pobè ?",
+      "options": ["Les Nago et les Holli", "Les Bariba et les Peuls", "Les Somba et les Waama", "Les Dendi et les Fon"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de Pobè est majoritairement issue des communautés Nago (Yoruba) et Holli.",
+      "points": 25
+    },
+    {
+      "question": "Quel souverain historique de la région de Pobè/Igana s'est illustré par sa résistance contre la colonisation française au début du XXe siècle ?",
+      "options": ["Le roi Kpoyizoun", "Le roi Béhanzin", "Le roi Kpassè", "Le roi Toffa 1er"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le roi Kpoyizoun a dirigé la résistance du peuple Holli contre l'administration coloniale française entre 1913 et 1914.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

@@ -1,0 +1,53 @@
+{
+  "id": "zeynab",
+  "type": "contemporain",
+  "nom": "Zeynab Abib",
+  "sousTitre": "La Diva au Rossignol et Ambassadrice de la Musique Béninoise",
+  "communeAssociee": "Porto-Novo",
+  "imageUrl": "/games/zeynab.webp",
+  "imageAlt": "Portrait de la chanteuse béninoise Zeynab Abib",
+  "descriptionHistoire": "01. Des côtes de Porto-Novo à l'éclosion artistique\nNée à Abidjan et originaire de Porto-Novo au Bénin, Oloukèmi Zeynab Abib grandit au sein d'une famille passionnée par la culture. Elle fait ses premiers pas dans la musique en tant que choriste aux côtés de grands artistes. En 2002, elle sort son premier album intitulé « Intori », qui la révèle au public béninois grâce à sa voix harmonieuse et son style mêlant sonorités traditionnelles et modernes.\n\n02. La consécration continentale aux Kora Awards\nEn 2005, Zeynab franchit une étape majeure dans sa carrière en remportant le prix de la « Meilleure Artiste Féminine d'Afrique de l'Ouest » aux prestigieux Kora Music Awards à Durban. Portée par des morceaux à succès comme « Interdit », « D'un endroit à un autre » et « Mogba Ara », elle devient une référence incontournable de la World Music africaine.\n\n03. La reine du Bolojo et la promotion du patrimoine\nReconnue pour son attachement à l'identité culturelle béninoise, Zeynab modernise et popularise le bolojo, une danse et un rythme traditionnel yoruba/nagot. À travers des clips colorés, des costumes élégants et des sonorités travaillées, elle valorise le patrimoine béninois sur les plus grandes scènes internationales.\n\n04. Engagements humanitaires et figure d'inspiration\nEn plus de sa carrière musicale riche en collaborations, notamment avec Lokua Kanza, Koffi Olomidé et Sekouba Bambino, Zeynab s'engage activement pour la cause des enfants et le droit des femmes en tant qu'Ambassadrice de Bonne Volonté de l'UNICEF au Bénin. Elle demeure une icône de grâce, de talent et de leadership féminin.",
+  "leSaviezVous": "Zeynab a été sacrée Meilleure Artiste Féminine d'Afrique de l'Ouest aux Kora Awards en 2005 et a joué un rôle déterminant dans la modernisation et la diffusion internationale du rythme traditionnel bolojo.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Reine du Bolojo et de l'Élégance Culturelle",
+    "accroche": "Explorez la discographie et le parcours exceptionnel de la diva Zeynab",
+    "encouragement": "Vous maîtrisez parfaitement la carrière et l'héritage musical de Zeynab Abib."
+  },
+  "quiz": [
+    {
+      "question": "Quel prix continental d'exception Zeynab a-t-elle remporté en 2005 ?",
+      "options": [
+        "Meilleure Artiste Féminine d'Afrique de l'Ouest aux Kora Awards",
+        "Grammy Award du meilleur album world",
+        "BET Award de l'artiste de l'année",
+        "Prix RFI Découvertes"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Elle a remporté le Kora Award de la meilleure artiste féminine de la sous-région en 2005.",
+      "points": 20
+    },
+    {
+      "question": "Quel rythme traditionnel béninois Zeynab a-t-elle fortement popularisé à l'international ?",
+      "options": ["Le Bolojo", "Le Tchinkoumé", "Le Zinli", "Le Sato"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Zeynab est célèbre pour avoir remis au goût du jour le rythme et la danse bolojo.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le titre de son tout premier album sorti en 2002 ?",
+      "options": ["Intori", "Mogba Ara", "D'un endroit à un autre", "Oloukèmi"],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'album « Intori » a marqué le début de sa brillante carrière solo.",
+      "points": 20
+    },
+    {
+      "question": "Quelle organisation internationale Zeynab représente-t-elle en tant qu'Ambassadrice de Bonne Volonté au Bénin ?",
+      "options": ["L'UNICEF", "L'UNESCO", "L'OMS", "Le HCR"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Zeynab œuvre activement auprès de l'UNICEF pour la défense des droits des enfants.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

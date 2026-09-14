@@ -1,0 +1,48 @@
+{
+  "id": "axel-merryl",
+  "type": "contemporain",
+  "nom": "Axel Merryl",
+  "sousTitre": "L'Ambassadeur de l'Humour Web et de la Musique Afropop Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/axel-merryl.webp",
+  "imageAlt": "Portrait de l'humoriste et chanteur béninois Axel Merryl",
+  "descriptionHistoire": "01. Des vidéos comiques sur YouTube au succès sous-régional\nOriginaire du Bénin, Axel Merryl Sofonnou commence sa carrière en publiant des vidéos humoristiques sur YouTube alors qu'il poursuit ses études à l'étranger. Grâce à son sens de l'autodérision, son personnage expressif et ses parodies sur les réalités africaines, il séduit très vite des millions d'abonnés et devient un pionnier du web-humour francophone.\n\n02. L'explosion de la série « Joana » et l'envol musical\nFort de son succès dans la comédie, Axel Merryl se lance avec brio dans la musique. En 2023, il sort le titre « Kiki », accompagné d'un clip romantique aux côtés de la fille du célèbre artiste guinéen Grand P, Kim. Le morceau devient un phénomène viral sur YouTube et TikTok, accumulant des dizaines de millions de vues et le consacrant comme chanteur de talent.\n\n03. Un artiste polyvalent entre scène et studio\nCombinant humour et musique Afropop, Axel Merryl enchaîne les tubes comme « C'est pas des conseils », « Embrasser la mariée » et « Ma Chérie ». Il remplit des salles de spectacle en Afrique et en Europe, apportant une énergie débordante sur scène et montrant la richesse artistique de la jeunesse béninoise.\n\n04. Une figure incontournable de la Pop Culture africaine\nAvec plusieurs millions d'abonnés cumulés sur ses réseaux sociaux, Axel Merryl est aujourd'hui l'un des ambassadeurs les plus influents de la culture béninoise. Il utilise sa visibilité pour valoriser le talent de son pays et collaborer avec des artistes majeurs du continent.",
+  "leSaviezVous": "Avant de conquérir la musique avec des dizaines de millions de vues sur YouTube, Axel Merryl a obtenu un Master en Télécommunications et Réseaux au Sénégal tout en tournant ses premières vidéos comiques.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de l'Humour et de la Melodie Pop",
+    "accroche": "Explorez le parcours d'Axel Merryl, du web-humour aux sommets de la musique",
+    "encouragement": "Vous connaissez parfaitement la carrière comique et musicale d'Axel Merryl."
+  },
+  "quiz": [
+    {
+      "question": "Quel titre musical devenu viral a propulsé Axel Merryl au sommet des classements en 2023 ?",
+      "options": ["Kiki", "On va faire comment ?", "Wazakina", "Agolo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le morceau « Kiki » et son clip cumulent des dizaines de millions de vues sur YouTube.",
+      "points": 20
+    },
+    {
+      "question": "Dans quel domaine artistique Axel Merryl s'est-il d'abord fait connaître du grand public ?",
+      "options": ["L'humour et les vidéos comiques sur le web", "Le cinéma dramatique", "La peinture contemporaine", "La danse classique"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il a commencé par créer des sketchs humoristiques très populaires sur YouTube et Facebook.",
+      "points": 20
+    },
+    {
+      "question": "Dans quel domaine académique Axel Merryl a-t-il obtenu un Master au Sénégal ?",
+      "options": ["Télécommunications et Réseaux", "Droit international", "Médecine générale", "Architecture d'intérieur"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il a mené à bien ses études en Télécommunications et Réseaux parallèlement à sa carrière de créateur.",
+      "points": 20
+    },
+    {
+      "question": "Quelle est la ville béninoise de référence associée à Axel Merryl ?",
+      "options": ["Cotonou", "Natitingou", "Kandi", "Djougou"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Cotonou est la ville d'origine et la vitrine artistique de l'artiste.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

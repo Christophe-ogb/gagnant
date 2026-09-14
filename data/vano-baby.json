@@ -1,0 +1,68 @@
+{
+  "id": "vano-baby",
+  "type": "contemporain",
+  "nom": "Vano Baby",
+  "sousTitre": "L'Enfant de Cotonou et le Chef de Gang de la Scène Urbaine Béninoise",
+  "communeAssociee": "Cotonou",
+  "imageUrl": "/games/vano-baby.webp",
+  "imageAlt": "Portrait du rappeur béninois Vano Baby",
+  "descriptionHistoire": "01. Des quartiers de Cotonou aux premiers textes\nNé à Cotonou, Aurelus Ahouansou se passionne très jeune pour le Hip-Hop et la culture urbaine. Il commence à écrire ses premiers textes de rap en observant le quotidien, la débrouillardise et les réalités sociales de la jeunesse cotonoise. Avec sa voix éraillée caractéristique et sa diction percutante en fon et en français, il se fait rapidement remarquer sur la scène underground.\n\n02. L'explosion avec « Adigoue Gboun Gboun » et le succès national\nEn 2016, Vano Baby sort le titre provocateur et percutant « Adigoue Gboun Gboun ». Le morceau devient immédiatement un phénomène viral et un hymne dans les maquis et sur les ondes radio à travers tout le Bénin. Ce succès retentissant le propulse au-devant de la scène urbaine et lui vaut le surnom de « L'Enfant de Cotonou ».\n\n03. L'affirmation d'un style et la conquête des sommets\nEnchaînant les hits comme « Tu mérites tout », « Coupé Décalé », « Madame », « T'es un homme » ou encore « Chérie Coco », Vano Baby démontre une polyvalence artistique remarquable en oscillant entre Rap hardcore, Afropop et chansons d'amour touchantes. Il enchaîne les distinctions individuelles aux cérémonies de récompenses béninoises et remplit les plus grands stades du pays.\n\n04. Un pilier influent et la consécration internationale\nAutoproclamé le « Chef de Gang » de ses fans (la communauté des « Gangsters »), Vano Baby est devenu un véritable modèle de réussite pour la jeunesse. En 2023, il franchit une nouvelle étape en sortant son album très attendu « Vous Êtes Pas Prêts », marquant sa maturité artistique et consolidant son statut d'ambassadeur majeur de la musique béninoise à l'échelle africaine.",
+  "leSaviezVous": "Surnommé « L'Enfant de Cotonou », Vano Baby est reconnu pour sa capacité unique à rapper en langue fon avec un vocabulaire de la rue extrêmement authentique et imagé, créant ainsi un lien fusionnel avec son public.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Chef de Gang et du Rap Cotonois",
+    "accroche": "Explorez la discographie et l'univers percutant du rappeur Vano Baby",
+    "encouragement": "Vous connaissez parfaitement le parcours et les classiques de Vano Baby."
+  },
+  "quiz": [
+    {
+      "question": "Quel titre à succès sorti en 2016 a révélé Vano Baby au grand public béninois ?",
+      "options": [
+        "Adigoue Gboun Gboun",
+        "Tu mérites tout",
+        "Chérie Coco",
+        "Madame"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "« Adigoue Gboun Gboun » a été le morceau déclencheur de son immense popularité.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le surnom emblématique souvent donné à Vano Baby ?",
+      "options": [
+        "L'Enfant de Cotonou / Le Chef de Gang",
+        "Le Roi de Ouidah",
+        "Le Prince de Parakou",
+        "La Fana Fana Star"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il est affectueusement appelé L'Enfant de Cotonou et le Chef de Gang par sa communauté.",
+      "points": 20
+    },
+    {
+      "question": "Dans quelle langue nationale béninoise Vano Baby brille-t-il particulièrement en rap ?",
+      "options": [
+        "Le Fon",
+        "Le Baatonu",
+        "Le Dendi",
+        "Le Ditammari"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sa maîtrise du Fon et du parler urbain cotonois est la marque de fabrique de son style.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le nom de son album studio majeur sorti à la fin de l'année 2023 ?",
+      "options": [
+        "Vous Êtes Pas Prêts",
+        "Le Nouveau Départ",
+        "Nouveau Chapitre",
+        "Cotonou Boy"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'album « Vous Êtes Pas Prêts » a concrétisé sa maturité musicale et son statut de leader.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

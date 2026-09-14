@@ -1,0 +1,54 @@
+{
+  "id": "fete-de-l-igname",
+  "type": "evenement-national",
+  "nom": "Fête de l'Igname",
+  "sousTitre": "La Célébration des Premières Récoltes, de la Gratitude et du Renouveau",
+  "communeAssociee": "Savalou",
+  "imageUrl": "/games/igname2.jpg",
+  "imageAlt": "Offrandes et célébration de la nouvelle igname au Bénin",
+  "galerie": [
+    {
+      "imageUrl": "/games/fete-igname.webp",
+      "imageAlt": "Offrandes et célébration de la nouvelle igname au Bénin"
+    }
+  ],
+  "descriptionHistoire": "01. Une tradition séculaire ancrée au cœur du Bénin\nCélébrée à la mi-août dans plusieurs régions du Centre et du Nord du Bénin (notamment à Savalou, Glazoué, Dassa-Zoumè et dans le Borgou), la Fête de l'Igname marque le début de la consommation de la nouvelle récolte. L'igname étant considérée comme un don sacré de la terre et des ancêtres, sa récolte obéit à un calendrier strict fondé sur le respect de la nature et des divinités agrariennes. \n\n02. 15 août · Les rituels sacrés et l'accord des ancêtres\nLe 15 août est le point culminant des cérémonies. Avant toute consommation publique ou familiale de la nouvelle igname, les rois, chefs traditionnels et dignitaires des couvents accomplissent des rituels sacrés et des libations d'action de grâce. Ces rites visent à remercier la terre nourricière pour sa fertilité, à purifier les récoltes et à invoquer la paix, la santé et l'abondance pour toute la communauté durant l'année à venir.\n\n03. L'organisation et l'expérience festive à Savalou\nÀ Savalou, capitale emblématique de cette célébration, la ville accueille des milliers de visiteurs, de pèlerins et de membres de la diaspora. Après la levée du tabou rituel par le Roi de Savalou, la fête populaire éclate : dégustation du « labou » (pâte d'igname pilée accompagnée de sauces locales savoureuses), défilés de rois et de dignitaires en tenues d'apparat, danses traditionnelles aux sons des tam-tams sacrés et foires agricoles.\n\n04. Un vecteur d'unité culturelle et de valorisation agricole\nAu-delà de son caractère spirituel et festif, la Fête de l'Igname est une vitrine majeure de la richesse agricole béninoise et de la souveraineté alimentaire. Elle constitue un moment privilégié de cohésion sociale, d'échanges économiques et de transmission des valeurs de respect du travail de la terre aux jeunes générations.",
+  "leSaviezVous": "Selon la tradition, il est formellement interdit de consommer la nouvelle igname pilée avant que les hauts dignitaires et les rois n'aient accompli les rituels d'offrande aux ancêtres le 15 août.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Terre Nourricière et de l'Igname Sacrée",
+    "accroche": "Explorez les coutumes, les rituels et les traditions de la Fête de l'Igname",
+    "encouragement": "Vous maîtrisez parfaitement le sens spirituel et festif de la Fête de l'Igname."
+  },
+  "quiz": [
+    {
+      "question": "À quelle date clé du mois d'août la Fête de l'Igname est-elle traditionnellement célébrée au Bénin ?",
+      "options": ["Le 15 août", "Le 1er août", "Le 10 août", "Le 30 août"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le 15 août marque l'accomplissement des rites sacrés autorisant la consommation de la nouvelle igname.",
+      "points": 20
+    },
+    {
+      "question": "Quelle commune du département des Collines est particulièrement célèbre pour sa grande célébration de la Fête de l'Igname ?",
+      "options": ["Savalou", "Ouidah", "Grand-Popo", "Sèmè-Podji"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Savalou est le centre névralgique emblématique de la célébration de la nouvelle igname.",
+      "points": 20
+    },
+    {
+      "question": "Quel plat traditionnel incontournable est préparé et partagé lors de la Fête de l'Igname ?",
+      "options": ["L'igname pilée (Labou)", "Le Dakouin", "L'Atassi", "Le Djongoli"],
+      "reponseCorrecteIndex": 0,
+      "explication": "L'igname pilée fraîchement récoltée est le mets roi dégusté au cours des festivités.",
+      "points": 20
+    },
+    {
+      "question": "Quel est le but principal des rituels accomplis par les dignitaires avant la fête publique ?",
+      "options": ["Rendre grâce aux ancêtres et à la terre pour la fertilité des récoltes", "Vendre des céréales sur le marché international", "Organiser des courses de pirogues", "Inaugurer des bâtiments industriels"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les rites sacrés expriment la gratitude envers les divinités et purifient les récoltes pour l'abondance future.",
+      "points": 20
+    }
+  ],
+  "isReady": true
+}

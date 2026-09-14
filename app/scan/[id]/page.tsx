@@ -15,7 +15,11 @@ const typeLabel = {
   divinite: "Patrimoine spirituel",
   roi: "Roi & histoire",
   contemporain: "Bénin contemporain",
+  "evenement-national": "Fête & événement",
 };
+
+// Seules les quatre communes mises en avant sur l'accueil ont une visite guidée publique pour le moment.
+const featuredCommunesWithGuidedTour = new Set(["ouidah", "abomey", "ganvie", "natitingou"]);
 
 export function generateStaticParams() {
   return getAllHeritage().map(({ id }) => ({ id }));
@@ -33,12 +37,10 @@ export default async function HeritageScanPage({
     notFound();
   }
 
-  const story = heritage.type === "roi" || heritage.type === "contemporain" || heritage.type === "commune"
-    ? heritage.descriptionHistoire.split(/\n\n+/).map((part) => {
-        const [title, ...text] = part.split("\n");
-        return { title, text: text.join(" ") };
-      })
-    : [];
+  const story = heritage.descriptionHistoire.split(/\n\n+/).map((part) => {
+    const [title, ...text] = part.split("\n");
+    return { title, paragraphs: text.filter(Boolean) };
+  });
 
   const placesAsScenes = heritage.lieuxAVisiter?.map((place) => ({
     titre: place.nom,
@@ -46,15 +48,19 @@ export default async function HeritageScanPage({
     texte: place.description,
     imageUrl: place.imageUrl,
     imageAlt: place.imageAlt,
-    imagePending: heritage.imagePending,
+    // Les photos officielles des lieux de Zè sont encore en attente.
+    imagePending: heritage.id === "ze" || place.imagePending || heritage.imagePending,
   }));
+  const showGuidedTour = heritage.type !== "commune" || featuredCommunesWithGuidedTour.has(heritage.id);
   const returnTarget = heritage.type === "commune"
     ? { href: "/communes", label: "Retour aux communes" }
     : heritage.type === "roi"
       ? { href: "/royaumes", label: "Retour aux royaumes" }
       : heritage.type === "contemporain"
         ? { href: "/contemporain/personnalites", label: "Retour aux personnalités" }
-        : undefined;
+        : heritage.type === "evenement-national"
+          ? { href: "/evenements", label: "Retour aux fêtes et événements" }
+          : undefined;
 
   return (
     <main className="min-h-screen bg-earth px-5 py-5 text-kaolin sm:px-8 sm:py-8">
@@ -89,14 +95,14 @@ export default async function HeritageScanPage({
               <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.16em] text-gold">
                 <BookOpenText aria-hidden="true" size={16} /> L’histoire
               </p>
-              {story.length > 1 ? (
+              {story.length > 1 && story.every((beat) => /^\d+[.]/.test(beat.title.trim())) ? (
                 <div className="mt-4 space-y-5">
                   {story.map((beat, index) => (
                     <div key={beat.title} className="flex gap-4 border-l border-gold/35 pl-4">
                       <span className="font-display text-xl text-gold">0{index + 1}</span>
                       <div>
                         <h2 id={index === 0 ? "histoire" : undefined} className="font-display text-2xl text-white">{beat.title}</h2>
-                        <p className="mt-2 text-sm leading-7 text-kaolin/80 sm:text-base">{beat.text}</p>
+                        <div className="mt-3 space-y-3 text-sm leading-7 text-kaolin/80 sm:text-base">{beat.paragraphs.map((paragraph, paragraphIndex) => <p key={paragraphIndex}>{paragraph}</p>)}</div>
                       </div>
                     </div>
                   ))}
@@ -104,7 +110,7 @@ export default async function HeritageScanPage({
               ) : (
                 <>
                   <h2 id="histoire" className="font-display mt-3 text-2xl text-white">Une mémoire à découvrir</h2>
-                  <p className="mt-4 text-sm leading-7 text-kaolin/80 sm:text-base">{heritage.descriptionHistoire}</p>
+                  <div className="mt-4 space-y-4 text-sm leading-7 text-kaolin/80 sm:text-base">{heritage.descriptionHistoire.split(/\n\n+/).map((paragraph, index) => <p key={index}>{paragraph}</p>)}</div>
                 </>
               )}
             </section>
@@ -116,7 +122,8 @@ export default async function HeritageScanPage({
               <p id="saviez-vous" className="mt-3 text-sm leading-7 text-kaolin/85 sm:text-base">{heritage.leSaviezVous}</p>
             </section>
 
-            {placesAsScenes && placesAsScenes.length > 0 && <HeritagePhotoStory
+            {/* Visite guidée temporairement masquée pour les communes hors sélection de l'accueil. */}
+            {showGuidedTour && placesAsScenes && placesAsScenes.length > 0 && <HeritagePhotoStory
               scenes={placesAsScenes}
               heritageName={heritage.nom}
               heading={`Les lieux qui racontent ${heritage.nom}`}

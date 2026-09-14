@@ -1,0 +1,78 @@
+{
+  "id": "lalo",
+  "type": "commune",
+  "nom": "Lalo",
+  "sousTitre": "Terre de culture Adja, carrefour agricole du Couffo et cité de la poterie traditionnelle",
+  "communeAssociee": "Lalo",
+  "imageUrl": "/games/lalo1.jfif",
+  "imageAlt": "Paysages et marchés de Lalo",
+  "descriptionHistoire": "01. Origines et fondation en pays Adja\nSituée dans le département du Couffo, la commune de Lalo a été fondée par des migrations du peuple Adja venues des centres historiques de Tado et d'Allada. Son installation sur le plateau du Couffo a donné naissance à une communauté solidaire organisée autour de rites ancestraux et du travail de la terre.\n\n02. Savoir-faire artisanal et poterie séculaire\nLalo se distingue par son riche patrimoine artisanal, en particulier la poterie traditionnelle perpétuée par les femmes des localités comme Se. Les créations en argile (canaris, objets rituels, ustensiles de cuisine) constituent une marque identitaire et artistique majeure de la commune.\n\n03. Richesse culturelle et traditions spirituelles\nLa vie communautaire à Lalo est rythmée par les manifestations culturelles Adja, les danses traditionnelles (Tchinkounmey, Agbadja) et la présence de couvents sacrés. La commune préserve un attachement profond au respect des ancêtres et des divinités du terroir.\n\n04. Lalo aujourd'hui : dynamisme agropastoral et perspectives\nGrand bassin de production de manioc, d'ananas, de maïs et d'huile de palme, Lalo affirme son rôle de pôle économique dans le Couffo. La commune s'investit dans la valorisation de ses produits agricoles et la modernisation de ses infrastructures locales.",
+  "leSaviezVous": "Le nom « Lalo » fait référence dans la tradition orale aux conditions d'installation des premiers habitants, symbolisant la quiétude et la fertilité des terres trouvées par les fondateurs.",
+  "lieuxAVisiter": [
+    {
+      "id": "marche-lalo",
+      "nom": "Le grand marché commercial de Lalo",
+      "description": "Lieu d'échanges animé se tenant tous les 5 jours, réputé pour la vente d'objets en poterie, de vivres locaux et de produits dérivés du manioc.",
+      "imageUrl": "/games/lalo_marche.webp",
+      "imageAlt": "Animation au marché de Lalo"
+    },
+    {
+      "id": "ateliers-poterie-lalo",
+      "nom": "Les ateliers traditionnels de poterie",
+      "description": "Sites artisanaux où les potières façonnent à la main l'argile brute pour fabriquer des jarres, canaris et ustensiles traditionnels selon des techniques transmises de génération en génération.",
+      "imageUrl": "/games/lalo_poterie.jfif",
+      "imageAlt": "Poterie traditionnelle à Lalo"
+    },
+    {
+      "id": "palais-chefferies-lalo",
+      "nom": "Les chefferies et couvents traditionnels",
+      "description": "Sanctuaires coutumiers et sièges des dignitaires locaux préservant l'histoire des divinités protectrices et les symboles royaux Adja.",
+      "imageUrl": "/games/lalo_palais.jfif",
+      "imageAlt": "Architecture traditionnelle à Lalo"
+    },
+    {
+      "id": "champs-palmeraies-lalo",
+      "nom": "Les vallées agricoles et palmeraies",
+      "description": "Espaces ruraux verdoyants dédiés à la culture du manioc, de l'ananas et de la production artisanale d'huile de palme et d'alcool local (Sodabi).",
+      "imageUrl": "/games/lalo_agriculture.jfif",
+      "imageAlt": "Paysage agricole et palmeraie à Lalo"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Cité de l'Argile et du Terroir d'Adja",
+    "accroche": "Penses-tu connaître l'histoire, l'artisanat de la poterie et les traditions de la commune de Lalo ?",
+    "encouragement": "Revois la géographie du Couffo, les traditions Adja et le savoir-faire de Lalo pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Lalo ?",
+      "options": ["Le Couffo", "Le Zou", "Le Mono", "L’Atlantique"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Lalo est située dans le département du Couffo, au sud-ouest du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel artisanat traditionnel fait particulièrement la renommée culturelle de la région de Lalo ?",
+      "options": ["La poterie en argile", "La sculpture sur marbre", "Le travail du bronze à la cire perdue", "La verrerie d'art"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Lalo et ses localités environnantes sont célèbres pour leur artisanat de la poterie traditionnelle en argile.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel est prédominant dans la commune de Lalo ?",
+      "options": ["Les Adja", "Les Baatonu", "Les Dendi", "Les Peuls"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de Lalo est majoritairement composée de communautés Adja.",
+      "points": 25
+    },
+    {
+      "question": "Quelle est l'une des principales cultures vivrières transformées dans la commune de Lalo ?",
+      "options": ["Le manioc (pour le gari et le tapioca)", "Le blé dur", "La pomme de terre", "Le cacao"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le manioc est une culture phare de Lalo, abondamment transformée en gari et tapioca.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

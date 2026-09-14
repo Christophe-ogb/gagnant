@@ -1,0 +1,98 @@
+{
+  "id": "kandi",
+  "type": "commune",
+  "nom": "Kandi",
+  "sousTitre": "Cité des Mokollé et des Bariba, carrefour agro-pastoral et porte du Grand Nord",
+  "communeAssociee": "Kandi",
+  "imageUrl": "/games/kandi1.jfif",
+  "imageAlt": "Paysage et patrimoine de Kandi",
+  "descriptionHistoire": "01. Origines et fondation historique\nFondée par les populations Mokollé, puis rejointe par les Bariba, Kandi s'est affirmée au fil des siècles comme un foyer de puissance politique et culturelle dans le Nord du Bénin. Située à la croisée des routes commerciales et des axes migratoires, la cité a servi de point de rencontre entre plusieurs ethnies et communautés, ce qui a façonné son identité plurielle et dynamique.\n\n02. Un carrefour commercial et culturel\nKandi s'est développée comme un important centre d'échange entre les populations du Borgou, de l'Alibori et des régions voisines. Les marchés, les caravanes, les troupeaux, les échanges de produits vivriers, de textiles et d'animaux ont contribué à l'essor économique de la ville. La cohabitation entre les traditions Mokollé, Bariba, Peulh et autres groupes a fait de Kandi une commune à forte identité multiculturelle.\n\n03. Un patrimoine vivant et des traditions pastorales\nLa ville est reconnue pour ses festivités traditionnelles, ses rites royaux, ses danses, son artisanat du cuir et ses savoir-faire liés à l'élevage. Les pratiques agro-pastorales, la culture des céréales, le commerce du bétail et la fierté des valeurs coutumières nourrissent les liens sociaux et renforcent l'attachement des habitants à leur patrimoine. Le travail du cuir, la forge et les objets d'art local témoignent d'une créativité profondément ancrée dans la vie quotidienne.\n\n04. Kandi aujourd'hui : capitale de l'Alibori\nChef-lieu du département de l'Alibori, Kandi est aujourd'hui un pôle agricole, commercial et administratif majeur du Nord-Bénin. La commune s'affirme aussi comme une ville de transition entre la ruralité et la modernité, avec des infrastructures qui se développent sans oublier les traditions. Elle reste à la fois un lieu de production agricole, d'activités pastorales et de mémoire collective, où le patrimoine culturel continue d'orienter la vie sociale et politique.\n\n05. Une ville de mémoire, de commerce et d'avenir\nAu-delà de son rôle économique, Kandi symbolise une histoire de résilience, d'accueil et d'entente entre communautés. Sa réputation repose sur la richesse de ses traditions, la vitalité de ses marchés et la capacité de ses habitants à faire vivre ensemble le passé, le présent et les ambitions du futur.",
+  "leSaviezVous": "Le nom « Kandi » trouverait son origine dans les traditions locales Mokollé et Bariba, symbolisant un lieu de rassemblement, de commerce et d'établissement au cœur des savanes de l'Alibori.",
+  "lieuxAVisiter": [
+    {
+      "id": "palais-imperial-kandi",
+      "nom": "Le Palais Royal de Kandi",
+      "description": "Siège de la chefferie traditionnelle et de la royauté locale, lieu empreint d'histoire où sont préservés les rites, la mémoire des souverains et les symboles du pouvoir traditionnel.",
+      "imageUrl": "/games/palaiskandi.webp",
+      "imageAlt": "Palais royal et architecture traditionnelle à Kandi"
+    },
+    {
+      "id": "place-independance-kandi",
+      "nom": "La Place publique et les monuments de Kandi",
+      "description": "Espace de rassemblement civique et culturel au centre-ville, témoignant des grands évènements historiques et de la vie communautaire de la commune.",
+      "imageUrl": "/games/kandi1.jfif",
+      "imageAlt": "Centre-ville et lieux mémoriels de Kandi"
+    },
+    {
+      "id": "centre-artisanal-kandi",
+      "nom": "Le centre artisanal et les ateliers de maroquinerie",
+      "description": "Lieu de fabrication artisanale spécialisé dans le travail du cuir, la forge, le tissage et les objets d'art traditionnel du département de l'Alibori.",
+      "imageUrl": "/games/kandi2.jfif",
+      "imageAlt": "Artisanat du cuir et créations locales à Kandi"
+    },
+    {
+      "id": "grand-marche-kandi",
+      "nom": "Le Grand Marché de Kandi",
+      "description": "Cœur économique de la ville et véritable carrefour commercial où s'échanger céréales, bétail, produits vivriers, textiles et épices de toute la région.",
+      "imageUrl": "/games/kandi3.jfif",
+      "imageAlt": "Marché animé de Kandi"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Royaume et de la Cité de Kandi",
+    "accroche": "Penses-tu connaître l'histoire, les traditions, la culture et les secrets de la ville de Kandi ?",
+    "encouragement": "Presque ! Revois l'histoire du chef-lieu de l'Alibori, ses traditions royales et ses caractéristiques pour réussir le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe la commune de Kandi ?",
+      "options": [
+        "L'Alibori",
+        "Le Borgou",
+        "L'Atacora",
+        "La Donga"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kandi est le chef-lieu du département de l'Alibori, situé dans le nord du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Kandi est historiquement liée à la cohabitation de quelles communautés majeures ?",
+      "options": [
+        "Les Mokollé et les Bariba",
+        "Les Fon et les Adja",
+        "Les Nagot et les Yoabou",
+        "Les Sahouè et les Kotafon"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kandi a été fondée par les Mokollé et s'est développée au sein de l'aire culturelle Bariba et Peulh.",
+      "points": 25
+    },
+    {
+      "question": "Quel statut administratif particulier la ville de Kandi occupe-t-elle dans le nord du Bénin ?",
+      "options": [
+        "Chef-lieu du département de l'Alibori",
+        "Chef-lieu du département du Borgou",
+        "Capitale économique du Bénin",
+        "Chef-lieu du département de l'Atacora"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kandi est la ville principale et le chef-lieu administratif du département de l'Alibori.",
+      "points": 25
+    },
+    {
+      "question": "Quel secteur économique et artisanal fait la renommée de la région de Kandi et du Nord-Bénin ?",
+      "options": [
+        "L'artisanat du cuir et l'élevage agro-pastoral",
+        "La pêche hauturière et le sel",
+        "La fabrication de pirogues de mer",
+        "La sculpture sur corail"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kandi et sa région sont reconnues pour l'élevage, le travail du cuir (maroquinerie traditionnelle) et la production agricole.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

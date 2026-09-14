@@ -1,0 +1,78 @@
+{
+  "id": "ouinhi",
+  "type": "commune",
+  "nom": "Ouinhi",
+  "sousTitre": "Terre de la vallée de l'Ouémé, berceau du peuple Holli et havre agropastoral du Zou",
+  "communeAssociee": "Ouinhi",
+  "imageUrl": "/games/ouinhi1.jfif",
+  "imageAlt": "Paysages et marécages de Ouinhi",
+  "descriptionHistoire": "01. Origines et terre d'implantation des Holli et Mahi\nSituée dans la partie sud-est du département du Zou, la commune de Ouinhi est une cité historique marquée par l'installation des peuples Holli, Mahi et Fon. Sa proximité avec la grande vallée de l'Ouémé a façonné un mode de vie profondément ancré dans le respect des cycles de la nature et du fleuve.\n\n02. Un grenier agricole dans la basse vallée du Zou\nGrâce aux terres alluvionnaires extrêmement fertiles bordant l'Ouémé et la rivière Zou, Ouinhi est un pôle agricole d'exception. La commune se distingue par sa production rizicole, le maraîchage, la culture du maïs, du manioc et l'exploitation des palmeraies.\n\n03. Richesses culturelles et spiritualité du terroir\nOuinhi préserve une identité culturelle forte portée par le culte des ancêtres, les danses traditionnelles (notamment le Sato et le Gėlėdė) et les couvents Vodoun. Les forêts sacrées et les sanctuaires fluviaux jouent un rôle central dans la protection de la communauté et de l'environnement.\n\n04. Ouinhi aujourd'hui : désenclavement et valorisation agropastorale\nCommune rurale en plein développement, Ouinhi modernise ses voies d'accès et ses infrastructures marchandes. Elle valorise son fort potentiel halieutique et agricole tout en renforçant son rôle d'approvisionnement pour les grands marchés du Zou et de l'Ouémé.",
+  "leSaviezVous": "La commune de Ouinhi bénéficie de la présence de vastes zones humides et de cours d'eau poissonneux qui en font l'un des plus importants centres de pêche artisanale et de riziculture du département du Zou.",
+  "lieuxAVisiter": [
+    {
+      "id": "vallee-oueme-ouinhi",
+      "nom": "La vallée et les berges de l'Ouémé",
+      "description": "Espaces naturels et marécageux longeant le fleuve, propices à la balade en pirogue, à la pêche artisanale et à l'observation de la biodiversité aquatique.",
+      "imageUrl": "/games/ouinhi_vallee.webp",
+      "imageAlt": "La vallée de l'Ouémé à Ouinhi"
+    },
+    {
+      "id": "perimetres-rizicoles-ouinhi",
+      "nom": "Les aménagements rizicoles de Ouinhi",
+      "description": "Vastes périmètres agricoles irrigués illustrant le savoir-faire des riziculteurs locaux et verdoyant les vallées de la commune.",
+      "imageUrl": "/games/ouinhi_riz.jfif",
+      "imageAlt": "Champs de riziculture à Ouinhi"
+    },
+    {
+      "id": "palais-chefferies-ouinhi",
+      "nom": "Les palais et chefferies traditionnelles de Ouinhi",
+      "description": "Lieux d'histoire et de pouvoir coutumier préservant les attributs des dignitaires Holli et Mahi ainsi que la mémoire des fondateurs de la cité.",
+      "imageUrl": "/games/ouinhi_palais.jfif",
+      "imageAlt": "Architecture traditionnelle à Ouinhi"
+    },
+    {
+      "id": "marche-central-ouinhi",
+      "nom": "Le marché traditionnel de Ouinhi",
+      "description": "Cœur économique de la commune où s'échangent les poissons frais et fumés, le riz local, le gari, l'huile de palme et les produits du maraîchage.",
+      "imageUrl": "/games/ouinhi_marche.jfif",
+      "imageAlt": "Animation au marché traditionnel de Ouinhi"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Terroir Agricole de la Vallée du Zou",
+    "accroche": "Penses-tu connaître l'histoire, la richesse agricole et la géographie de la commune de Ouinhi ?",
+    "encouragement": "Revois la géographie du département du Zou, le rôle du fleuve Ouémé et la culture de Ouinhi pour valider ce défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Ouinhi ?",
+      "options": ["Le Zou", "L’Ouémé", "Le Plateau", "Le Couffo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Ouinhi est située dans la partie sud-est du département du Zou.",
+      "points": 25
+    },
+    {
+      "question": "Quel grand fleuve du Bénin longe la commune de Ouinhi et fertilise ses terres agricoles ?",
+      "options": ["Le fleuve Ouémé", "Le fleuve Niger", "Le fleuve Mono", "La rivière Couffo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le fleuve Ouémé borde la commune de Ouinhi, offrant d'immenses vallées alluvionnaires fertiles.",
+      "points": 25
+    },
+    {
+      "question": "Quelle culture céréalière irriguée fait particulièrement la renommée agricole de la commune de Ouinhi ?",
+      "options": ["Le riz", "Le blé", "Le fonio", "L'orge"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ouinhi est reconnue dans le département du Zou pour ses périmètres rizicoles florissants.",
+      "points": 25
+    },
+    {
+      "question": "Quels sont les principaux groupes socioculturels historiques établis dans la commune de Ouinhi ?",
+      "options": ["Les Holli, Mahi et Fon", "Les Bariba et Peuls", "Les Dendi et Somba", "Les Yom et Lokpa"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La population de Ouinhi est principalement constituée de communautés Holli, Mahi et Fon.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

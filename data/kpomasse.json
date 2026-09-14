@@ -1,0 +1,78 @@
+{
+  "id": "kpomasse",
+  "type": "commune",
+  "nom": "Kpomassè",
+  "sousTitre": "Terre de traditions lacustres, berceau du culte Vodoun et perle du lac Ahémé",
+  "communeAssociee": "Kpomassè",
+  "imageUrl": "/games/kpomasse1.jfif",
+  "imageAlt": "Paysages du lac Ahémé à Kpomassè",
+  "descriptionHistoire": "01. Origines et terre des Pedah et Saxwè\nSituée dans le département de l'Atlantique, la commune de Kpomassè s'est développée au fil des siècles autour du lac Ahémé. Peuplée principalement par les communautés Pedah (Xwla) et Saxwè, son histoire est intimement liée à la maîtrise des espaces aquatiques et aux migrations historiques de la région maritime.\n\n02. Le lac Ahémé et les traditions de pêche\nLa vie économique et culturelle de Kpomassè s'organise autour des berges du lac Ahémé. Les techniques de pêche traditionnelle, le maraîchage et l'exploitation des ressources de la lagune constituent l'épine dorsale du mode de vie local depuis plusieurs générations.\n\n03. Sanctuaires spirituels et divinités tutélaires\nKpomassè est un haut lieu du Vodoun et des cultes spectraux du Sud-Bénin. La commune abrite de nombreuses forêts sacrées, des couvents et des sanctuaires dédiés aux divinités des eaux (Mami Wata, Avlekete) et de la terre (Sakpata), où se perpétuent des rites ancestraux préservés.\n\n04. Kpomassè aujourd'hui : écotourisme et développement rural\nIntégrée au circuit touristique de la route des pêches et du lac Ahémé, Kpomassè valorise son cadre naturel paisible à travers l'écotourisme communautaire. La commune mise sur l'aménagement de ses berges, la pisciculture et l'artisanat local pour impulser son développement durable.",
+  "leSaviezVous": "Le nom « Kpomassè » fait référence à la position de la cité à l'abri des regards et des invasions, profitant des barrières naturelles formées par le lac Ahémé et la végétation environnante.",
+  "lieuxAVisiter": [
+    {
+      "id": "lac-aheme-kpomasse",
+      "nom": "Les berges et embarcadères du lac Ahémé (Possotomè / Kpomassè)",
+      "description": "Plan d'eau paisible idéal pour les balades en pirogue à la découverte des légendes du lac, des divinités aquatiques et de la pêche traditionnelle à l'acadja.",
+      "imageUrl": "/games/kpomasse_lac.webp",
+      "imageAlt": "Pirogues et pêcheurs sur le lac Ahémé à Kpomassè"
+    },
+    {
+      "id": "foret-sacree-kpomasse",
+      "nom": "La forêt sacrée de Kpassèzoùn et les couvents Vodoun",
+      "description": "Espaces boisés protégés abritant des arbres centenaires, des sanctuaires rituels et les secrets de la médecine traditionnelle du terroir Pedah.",
+      "imageUrl": "/games/kpomasse_foret.jfif",
+      "imageAlt": "Sanctuaire et forêt sacrée à Kpomassè"
+    },
+    {
+      "id": "village-tokpa-dome",
+      "nom": "Le village lacustre de Tokpa-Domè",
+      "description": "Localité bordant la lagune où s'observent la transformation artisanale du poisson (fumé et séché) ainsi que l'extraction du sel traditionnel.",
+      "imageUrl": "/games/kpomasse_tokpadome.jfif",
+      "imageAlt": "Village traditionnel au bord de l'eau"
+    },
+    {
+      "id": "marche-kpomasse",
+      "nom": "Le marché traditionnel de Kpomassè-Centre",
+      "description": "Lieu de rencontre des pêcheurs et agriculteurs où s'échangent poissons frais du lac, huile de palme, piment et produits artisanaux.",
+      "imageUrl": "/games/kpomasse_marche.jfif",
+      "imageAlt": "Marché local de Kpomassè"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Gardien du Lac Ahémé de Kpomassè",
+    "accroche": "Penses-tu connaître les traditions lacustres, la culture Vodoun et le patrimoine naturel de Kpomassè ?",
+    "encouragement": "Revois la géographie de l'Atlantique, les légendes du lac Ahémé et l'histoire de Kpomassè pour réussir le défi !"
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se situe la commune de Kpomassè ?",
+      "options": ["L’Atlantique", "Le Mono", "Le Zou", "L’Ouémé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Kpomassè est une commune située dans le département de l'Atlantique, au sud du Bénin.",
+      "points": 25
+    },
+    {
+      "question": "Quel célèbre plan d'eau borde la commune de Kpomassè et structure ses activités écotouristiques ?",
+      "options": ["Le lac Ahémé", "Le lac Nokoué", "La lagune de Porto-Novo", "Le lac Nokouè-Gbékon"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La commune de Kpomassè s'étend le long de la rive orientale du lac Ahémé.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe socioculturel est historiquement lié à l'implantation et aux traditions de pêche à Kpomassè ?",
+      "options": ["Les Pedah (Xwla)", "Les Bariba", "Les Dendi", "Les Somba"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Pedah (Xwla) constituent l'un des peuples fondateurs et majoritaires de la zone du lac Ahémé à Kpomassè.",
+      "points": 25
+    },
+    {
+      "question": "Quelle activité économique traditionnelle est centrale pour les communautés riveraines de Kpomassè ?",
+      "options": ["La pêche artisanale et la pisciculture", "L'élevage de chameaux", "L'exploitation minière de l'or", "La culture industrielle du café"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La pêche artisanale dans les eaux du lac Ahémé et la transformation du poisson sont les activités phares de la commune.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}
