@@ -11,9 +11,9 @@ type RewardPageProps = {
 
 export function RewardPage({ heritageName, badgeName }: RewardPageProps) {
   const searchParams = useSearchParams();
-  const player = searchParams.get("user") || "Explorateur·rice";
+  const player = searchParams.get("user") || "Joueur Gagnants 229";
   const score = searchParams.get("score") || "0";
-  const heritage = heritageName || searchParams.get("heritage") || "le patrimoine béninois";
+  const heritage = (heritageName || searchParams.get("heritage") || "le patrimoine béninois").replace(/^commune\s+(de\s+)?/i, "").trim();
   const badge = badgeName || searchParams.get("badge") || "Badge du patrimoine";
   const isCompleted = searchParams.get("status") !== "progress";
   const grade = isCompleted ? `Gardien du Patrimoine de ${heritage}` : `Explorateur de ${heritage}`;
@@ -38,7 +38,7 @@ export function RewardPage({ heritageName, badgeName }: RewardPageProps) {
         <div className="p-5 text-center sm:p-10">
           <p className="text-sm text-kaolin/70">Félicitations,</p>
           <p className="font-display mt-1 text-3xl text-white sm:text-4xl">{player}</p>
-          <p className="font-display mt-6 text-4xl text-gold sm:text-5xl">+{score} <span className="text-lg sm:text-xl">POINTS DE SAGESSE</span></p>
+          <p className="font-display mt-6 text-4xl text-gold sm:text-5xl">+{score} <span className="text-lg sm:text-xl">POINTS</span></p>
           <p className="mt-4 text-sm leading-6 text-kaolin/70">Épreuve de {heritage}</p>
           <p className="mt-3 font-bold text-gold">👑 {grade}</p>
           <p className="mt-7 text-xs italic leading-6 text-kaolin/55">« Peux-tu battre mon score sur Gagnants 229 ? »</p>

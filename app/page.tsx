@@ -90,6 +90,7 @@ export default function Home() {
           </Link>
         </div>
 
+        <VisitorCounter />
         <p className="mt-5 text-xs text-kaolin/50">Aucune inscription requise · Votre progression reste sur ce téléphone.</p>
 
       </section>
@@ -240,10 +241,10 @@ export default function Home() {
                 <p className="mt-4 max-w-2xl text-sm leading-7 text-kaolin/75 sm:text-base">Un retour sur votre expérience ou une idée de nouvelle fonctionnalité ? Partagez vos impressions et vos suggestions d&apos;amélioration. Les meilleurs avis et idées seront mis en avant sur la plateforme !</p>
                 <PublishedTestimonials />
                 <TestimonialForm />
+                <div className="flex justify-center text-center">
+                  <VisitorCounter animated={false} />
+                </div>
               </section>
-              <div className="flex justify-center text-center">
-                <VisitorCounter />
-              </div>
             </section>
           </div>
         </div>

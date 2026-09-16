@@ -3,6 +3,7 @@
 import { createClient } from "@supabase/supabase-js";
 import { CheckCircle2, ImagePlus, MessageSquareQuote, Send, Star, X } from "lucide-react";
 import { FormEvent, useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 
 type FormStatus = "idle" | "sending" | "success" | "error";
 
@@ -125,8 +126,8 @@ export function TestimonialForm() {
     <>
       <button type="button" onClick={() => { setMessage(""); setStatus("idle"); setIsOpen(true); }} className="mt-6 inline-flex min-h-12 items-center justify-center gap-2 rounded-xl bg-gold px-5 py-3 text-sm font-extrabold text-earth shadow-[0_12px_30px_rgba(212,175,55,0.2)] transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageSquareQuote aria-hidden="true" size={18} /> Donner mon avis ou témoignage</button>
 
-      {isOpen && <div className="fixed inset-0 z-50 grid place-items-end bg-black/75 p-0 backdrop-blur-sm sm:place-items-center sm:p-6" role="dialog" aria-modal="true" aria-labelledby="testimonial-title">
-        <div className="max-h-[90dvh] w-full max-w-2xl overflow-y-auto rounded-t-3xl border border-gold/55 bg-[#20140d] p-4 pb-[max(1rem,env(safe-area-inset-bottom))] shadow-[0_0_60px_rgba(212,175,55,0.22)] sm:rounded-3xl sm:p-7">
+      {isOpen && createPortal(<div className="fixed inset-0 z-50 flex items-stretch bg-black/80 backdrop-blur-sm sm:grid sm:place-items-center sm:p-6" role="dialog" aria-modal="true" aria-labelledby="testimonial-title">
+        <div className="h-[100dvh] w-full max-w-2xl overflow-y-auto overscroll-contain bg-[#20140d] p-4 pb-[calc(6rem+env(safe-area-inset-bottom))] shadow-[0_0_60px_rgba(212,175,55,0.22)] sm:h-auto sm:max-h-[90dvh] sm:rounded-3xl sm:border sm:border-gold/55 sm:p-7 sm:pb-7">
           <div className="flex items-start justify-between gap-4"><div><p className="text-xs font-extrabold uppercase tracking-[0.16em] text-gold">Gagnants 229</p><h3 id="testimonial-title" className="font-display mt-2 text-2xl text-white">Partagez votre expérience</h3><p className="mt-2 text-sm leading-6 text-kaolin/70">Votre message sera lu avant toute publication sur la plateforme.</p></div><button type="button" onClick={() => setIsOpen(false)} className="grid size-11 shrink-0 place-items-center rounded-full border border-white/15 text-kaolin/75 transition hover:border-gold hover:text-gold active:scale-95" aria-label="Fermer le formulaire"><X aria-hidden="true" size={19} /></button></div>
     <form onSubmit={submitTestimonial} className="mt-6 grid gap-4 rounded-2xl border border-white/10 bg-earth/35 p-4 text-left sm:p-5">
       <div className="grid gap-4 sm:grid-cols-2">
@@ -151,7 +152,7 @@ export function TestimonialForm() {
       {message && <p className={`flex items-start gap-2 rounded-xl border p-3 text-sm leading-6 ${status === "success" ? "border-emerald-400/40 bg-emerald-500/10 text-emerald-100" : "border-laterite/50 bg-laterite/10 text-kaolin"}`}>{status === "success" && <CheckCircle2 className="mt-0.5 shrink-0" aria-hidden="true" size={18} />}{message}</p>}
     </form>
         </div>
-      </div>}
+      </div>, document.body)}
       {isSuccessOpen && <div className="fixed inset-0 z-[60] grid place-items-center bg-black/80 p-5 backdrop-blur-sm" role="alertdialog" aria-modal="true" aria-labelledby="testimonial-success-title">
         <div className="w-full max-w-md rounded-3xl border border-gold/60 bg-[#20140d] p-7 text-center shadow-[0_0_70px_rgba(212,175,55,0.28)] sm:p-9">
           <div className="mx-auto grid size-20 place-items-center rounded-full border-2 border-emerald-400 bg-emerald-500/15 text-emerald-300 shadow-[0_0_32px_rgba(52,211,153,0.22)]"><CheckCircle2 aria-hidden="true" size={42} /></div>
