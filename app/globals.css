@@ -12,6 +12,8 @@
 }
 
 :root {
+  --font-display: Georgia, "Times New Roman", serif;
+  --font-body: Arial, Helvetica, sans-serif;
   color-scheme: dark;
   background: #1a120b;
 }
@@ -34,14 +36,28 @@ body {
   font-family: var(--font-body), Arial, sans-serif;
 }
 
-/* Les pages utilisent le header global afin de conserver le même logo et la même navigation partout. */
+/* Les pages utilisent le header global afin de conserver le mÃªme logo et la mÃªme navigation partout. */
 main > header,
 main > div > header {
   display: none;
 }
 
-img {
+img,
+svg,
+video,
+canvas {
   max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+p,
+dd,
+button,
+a {
+  overflow-wrap: anywhere;
 }
 
 ::selection {
@@ -96,4 +112,10 @@ img {
     scroll-behavior: auto !important;
     transition-duration: 0.01ms !important;
   }
+}
+
+
+#site-header {
+  position: fixed !important;
+  inset: 0 0 auto 0 !important;
 }

@@ -1,0 +1,98 @@
+{
+  "id": "bopa",
+  "type": "commune",
+  "nom": "Bopa",
+  "sousTitre": "Joyau du lac Ahémé, terre de traditions halieutiques",
+  "communeAssociee": "Bopa",
+  "imageUrl": "/games/bopa.jpeg",
+  "imageAlt": "Lac, image d’ambiance",
+  "descriptionHistoire": "01. Une histoire liée au lac Ahémé\nBopa s’est construite au contact des eaux et des rives du lac Ahémé. Les communautés locales y ont développé des pratiques de pêche et de commerce.\n\n02. L’eau, une ressource et une mémoire\nLe lac nourrit des récits, des pratiques culturelles et des activités quotidiennes. Sa préservation est essentielle à la vie des populations riveraines.\n\n03. Pêche et agriculture\nLa pêche continentale, l’aquaculture et les cultures vivrières constituent des piliers de l’économie locale.\n\n04. Bopa aujourd’hui\nLa commune invite à une découverte responsable de ses paysages lacustres et de ses traditions vivantes.",
+  "leSaviezVous": "Le lac Ahémé est au cœur des activités et des paysages de Bopa.",
+  "lieuxAVisiter": [
+    {
+      "id": "lac",
+      "nom": "Les rives du lac Ahémé",
+      "description": "Des circuits en pirogue pour observer les paysages et les techniques de pêche.",
+      "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Lac, image d’ambiance"
+    },
+    {
+      "id": "lobogo",
+      "nom": "Le marché de Lobogo",
+      "description": "Un marché d’échange pour poissons, gari, huile et produits locaux.",
+      "imageUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Marché, image d’ambiance"
+    },
+    {
+      "id": "memoire",
+      "nom": "Les repères de mémoire locale",
+      "description": "Des espaces culturels à découvrir avec le respect des communautés.",
+      "imageUrl": "https://images.unsplash.com/photo-1529154036614-a60975f5c760?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Patrimoine, image d’ambiance"
+    },
+    {
+      "id": "paysages",
+      "nom": "Les paysages lacustres",
+      "description": "Des zones humides et des rives qui invitent à l’écotourisme responsable.",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Paysage, image d’ambiance"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Lac Ahémé",
+    "accroche": "Peux-tu naviguer dans l’histoire de Bopa ?",
+    "encouragement": "Reviens découvrir le lac Ahémé avant de retenter le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe Bopa ?",
+      "options": [
+        "Le Mono",
+        "Le Couffo",
+        "Le Zou",
+        "L’Atlantique"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Bopa appartient au département du Mono.",
+      "points": 25
+    },
+    {
+      "question": "Quel lac borde Bopa ?",
+      "options": [
+        "Le lac Ahémé",
+        "Le lac Nokoué",
+        "Le lac Tchad",
+        "Le lac Toho"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le lac Ahémé est un repère majeur de Bopa.",
+      "points": 25
+    },
+    {
+      "question": "Quelle activité est essentielle à Bopa ?",
+      "options": [
+        "La pêche continentale",
+        "La pêche hauturière",
+        "La mine",
+        "La viticulture"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La pêche sur le lac contribue fortement à la vie locale.",
+      "points": 25
+    },
+    {
+      "question": "Quel type de tourisme est pertinent sur le lac ?",
+      "options": [
+        "L’écotourisme responsable",
+        "Le ski alpin",
+        "La croisière maritime",
+        "Le désert"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les paysages lacustres se découvrent dans une démarche respectueuse.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

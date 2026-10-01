@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ReturnToExploration } from "@/components/return-to-exploration";
 import { ArrowLeft, ExternalLink, Gamepad2, ScanLine, Trophy } from "lucide-react";
 import { PlayerProgress } from "@/components/player-progress";
 
@@ -15,9 +16,7 @@ export default function AboutPage() {
           <PlayerProgress />
         </header>
 
-        <Link href="/" className="mt-9 inline-flex min-h-11 items-center gap-2 text-sm font-bold text-kaolin/70 transition hover:text-gold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
-          <ArrowLeft aria-hidden="true" size={17} /> Retour à l’accueil
-        </Link>
+        <ReturnToExploration href="/" label={"Retour \u00e0 l\u2019accueil"} className="mt-9 text-kaolin/70 hover:text-gold" />
 
         <section className="mt-5 border-b border-gold/20 pb-12 pt-5">
           <p className="text-xs font-bold uppercase tracking-[0.18em] text-gold">À propos de Gagnants 229</p>

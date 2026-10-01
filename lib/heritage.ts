@@ -7,18 +7,31 @@ import type { HeritageItem } from "@/lib/types";
 const detailsById = new Map(catalogueDetails.map((item) => [item.id, item]));
 const seriesBDetails = new Map((seriesB as HeritageItem[]).map((item) => [item.id, item]));
 
-// Ces communes possèdent actuellement des visuels validés. Les autres fiches
-// restent volontairement sans image jusqu'à l'ajout de leurs photos officielles.
+// Les 77 identifiants exacts des communes. Ils correspondent au champ `id`
+// dans les fichiers JSON et s'écrivent toujours sans accents.
 const communesWithAvailableImages = new Set([
-  "dangbo", "allada", "cotonou", "ganvie", "abomey", "ze", "ouidah",
-  "natitingou", "porto-novo", "abomey-calavi",
+  "abomey", "abomey-calavi", "adja-ouere", "adjara", "adjohoun",
+  "agbangnizoun", "aguegues", "akpro-misserete", "allada", "aplahoue",
+  "athieme", "avrankou", "banikoara", "bante", "bassila", "bembereke",
+  "bohicon", "bonou", "bopa", "boukoumbe", "cobly", "come", "copargo",
+  "cotonou", "cove", "dangbo", "dassa-zoume", "djakotomey", "djidja",
+  "djougou", "dogbo", "glazoue", "gogounou", "grand-popo", "houeyogbe",
+  "ifangni", "kalale", "kandi", "karimama", "kerou", "ketou", "klouekanme",
+  "kouande", "kpomasse", "lalo", "lokossa", "malanville", "materi",
+  "natitingou", "ndali", "nikki", "ouake", "ouassa-pehunco", "ouesse",
+  "ouidah", "ouinhi", "parakou", "perere", "pobe", "porto-novo", "sakete",
+  "savalou", "save", "segbana", "seme-podji", "sinende", "so-ava",
+  "tanguieta", "tchaourou", "toffo", "tori-bossito", "toucountouna",
+  "toviklin", "za-kpota", "zagnanado", "ze", "zogbodomey",
 ]);
 
 function prepareItem(item: HeritageItem): HeritageItem {
   const descriptionHistoire = royalDetails[item.id as keyof typeof royalDetails];
   const enriched = descriptionHistoire ? { ...item, descriptionHistoire } : item;
+  // Toute image ajoutée dans public/games est automatiquement reconnue.
+  const hasLocalImage = enriched.imageUrl.startsWith("/games/");
 
-  return enriched.type === "commune" && !communesWithAvailableImages.has(enriched.id)
+  return enriched.type === "commune" && !hasLocalImage && !communesWithAvailableImages.has(enriched.id)
     ? { ...enriched, imagePending: true }
     : enriched;
 }

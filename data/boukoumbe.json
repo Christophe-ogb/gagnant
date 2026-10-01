@@ -1,0 +1,78 @@
+{
+  "id": "boukoumbe",
+  "type": "commune",
+  "nom": "Boukoumbé",
+  "sousTitre": "La Cité des Tata Somba, capitale du pays Otammari",
+  "communeAssociee": "Boukoumbé",
+  "imageUrl": "/games/bokoumbe.jpeg",
+  "imageAlt": "Tata Somba traditionnelle de Boukoumbé",
+  "descriptionHistoire": "01. La capitale culturelle du pays Otammari\nSituée au cœur de la chaîne de l’Atacora, près de la frontière avec le Togo, Boukoumbé est la capitale culturelle du peuple Bètammaribè. La commune est mondialement connue pour son architecture traditionnelle exceptionnelle représentée par les Tata Somba.\n\n02. Les Tata, habitations-forteresses\nLes Tatas sont des habitations-forteresses à étage construites à la main avec de la terre, du bois et de la paille. Elles servaient historiquement de défense contre les invasions et les animaux sauvages. Chaque structure reflète la cosmogonie et l’organisation sociale de la famille.\n\n03. Un patrimoine vivant reconnu\nAu-delà de l’architecture de terre reconnue dans le paysage culturel du Koutammakou, Boukoumbé porte des savoir-faire, des rites et des traditions vivantes. Ce patrimoine se découvre avec respect des familles et des communautés qui le transmettent.\n\n04. Paysages, artisanat et fêtes\nBoukoumbé offre des paysages montagneux, un artisanat riche, notamment la poterie et la sculpture sur bois, ainsi que des fêtes traditionnelles vibrantes. L’agriculture et le tourisme culturel participent aujourd’hui à la vie de la commune.",
+  "leSaviezVous": "Les Tata Somba sont de véritables châteaux-forts miniatures en terre battue, uniques en Afrique de l’Ouest. Le paysage culturel du Koutammakou est inscrit au patrimoine mondial de l’UNESCO.",
+  "lieuxAVisiter": [
+    {
+      "id": "koussoukoingou",
+      "nom": "Koussoukoingou, village écotouristique",
+      "description": "Un village emblématique pour découvrir les Tata, les paysages du pays Otammari et les savoir-faire locaux.",
+      "imageUrl": "/games/bokoumbe.jpeg",
+      "imageAlt": "Tata Somba à Koussoukoingou"
+    },
+    {
+      "id": "tata-koufilakou",
+      "nom": "La Tata Koufilakou",
+      "description": "Un repère d’architecture traditionnelle en terre qui illustre l’organisation familiale et la culture Bètammaribè.",
+      "imageUrl": "/games/bokoumbe.jpeg",
+      "imageAlt": "Habitation Tata traditionnelle à Boukoumbé"
+    },
+    {
+      "id": "belvedere-koussoukoingou",
+      "nom": "Le belvédère de Koussoukoingou",
+      "description": "Un point de vue sur les reliefs, les villages et les paysages de l’Atacora.",
+      "imageUrl": "/games/bokoumbe.jpeg",
+      "imageAlt": "Paysage de l’Atacora près de Boukoumbé"
+    },
+    {
+      "id": "marche-boukoumbe",
+      "nom": "Le marché traditionnel de Boukoumbé",
+      "description": "Un lieu de rencontres et d’échanges autour des produits agricoles, de la poterie et de l’artisanat local.",
+      "imageUrl": "/games/bokoumbe.jpeg",
+      "imageAlt": "Artisanat et marché traditionnel de Boukoumbé"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau des Tata Somba",
+    "accroche": "Connais-tu les forteresses de terre du pays Otammari ?",
+    "encouragement": "Bravo ! Tu as découvert l’architecture, les paysages et les traditions de Boukoumbé."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe Boukoumbé ?",
+      "options": ["L’Atacora", "La Donga", "Le Borgou", "Les Collines"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Boukoumbé se situe dans le département de l’Atacora.",
+      "points": 25
+    },
+    {
+      "question": "Comment s’appelle l’habitat traditionnel emblématique de Boukoumbé ?",
+      "options": ["La Tata", "Le palais de paille", "La case peule", "Le fort colonial"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Tata sont les habitations-forteresses traditionnelles du pays Otammari.",
+      "points": 25
+    },
+    {
+      "question": "Quel peuple est particulièrement associé aux Tata de Boukoumbé ?",
+      "options": ["Les Bètammaribè", "Les Wémènou", "Les Kotafon", "Les Anii"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Bètammaribè, aussi appelés Otammari, sont les détenteurs de cette architecture et de cette culture.",
+      "points": 25
+    },
+    {
+      "question": "Quelle activité artisanale est citée parmi les savoir-faire de Boukoumbé ?",
+      "options": ["La poterie", "La fabrication de verre", "Le tissage de la soie", "La construction navale"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La poterie et la sculpture sur bois font partie des savoir-faire mis en valeur à Boukoumbé.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

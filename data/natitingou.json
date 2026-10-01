@@ -1,0 +1,23 @@
+{
+  "id": "natitingou",
+  "type": "commune",
+  "nom": "Natitingou",
+  "sousTitre": "Aux portes de l’Atacora et des paysages du Nord",
+  "communeAssociee": "Natitingou",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Benin_Natitingou.JPG/960px-Benin_Natitingou.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "imageAlt": "Paysage de collines et végétation au soleil",
+  "descriptionHistoire": "Natitingou est une commune du nord-ouest du Bénin, dans le département de l’Atacora. Elle constitue une porte d’entrée vers des paysages de collines et vers des patrimoines culturels liés aux communautés de cette région.",
+  "leSaviezVous": "Natitingou est souvent choisie comme point de départ pour découvrir la chaîne de l’Atacora et les territoires voisins.",
+  "quiz": {
+    "question": "Dans quel département se situe Natitingou ?",
+    "options": [
+      "L’Atacora",
+      "Le Littoral",
+      "Le Plateau",
+      "L’Ouémé"
+    ],
+    "reponseCorrecteIndex": 0,
+    "explication": "Natitingou est située dans le département de l’Atacora, au nord-ouest du Bénin.",
+    "points": 100
+  }
+}

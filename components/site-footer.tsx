@@ -1,50 +1,34 @@
-import Link from "next/link";
+﻿import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
 
 const footerLinks = [
   { href: "/", label: "Accueil" },
   { href: "/#nos-jeux", label: "Nos jeux" },
-  { href: "/explorer", label: "Explorer le Bénin" },
+  { href: "/explorer", label: "Explorer le B\u00e9nin" },
   { href: "/communes", label: "Les 77 communes" },
   { href: "/royaumes", label: "Royaumes & histoire" },
-  { href: "/contemporain", label: "Bénin contemporain" },
-  { href: "/#temoignages", label: "Avis & témoignages" },
-  { href: "/a-propos", label: "À propos" },
+  { href: "/contemporain", label: "B\u00e9nin contemporain" },
+  { href: "/#temoignages", label: "Avis & t\u00e9moignages" },
+  { href: "/a-propos", label: "\u00c0 propos" },
 ];
 
 export function SiteFooter() {
-  return (
-    <footer className="border-t border-gold/20 bg-[#120c08] px-5 py-10 text-kaolin sm:px-8 lg:px-10">
-      <div className="mx-auto grid w-full max-w-6xl gap-10 md:grid-cols-[1.4fr_1fr_1fr]">
-        <div>
-          <Link href="/" className="inline-flex items-center rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
-            <span className="relative grid size-14 overflow-hidden rounded-xl border border-gold/60 bg-[#2b1005] p-0.5">
-              <img src="/games/logoweb_BJ.jpg.jpeg" alt="Logo Gagnants 229" className="h-full w-full object-contain" />
-            </span>
-          </Link>
-          <p className="mt-5 max-w-sm text-sm leading-7 text-kaolin/65">Des jeux de société pour jouer, partager et faire découvrir l’histoire et le patrimoine du Bénin.</p>
-        </div>
-
-        <nav aria-label="Liens du pied de page">
-          <h2 className="text-xs font-bold uppercase tracking-[0.16em] text-gold">Navigation</h2>
-          <ul className="mt-4 grid gap-3 text-sm text-kaolin/70">
-            {footerLinks.map((link) => <li key={link.href}><Link href={link.href} className="transition hover:text-gold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">{link.label}</Link></li>)}
-          </ul>
-        </nav>
-
-        <div>
-          <h2 className="text-xs font-bold uppercase tracking-[0.16em] text-gold">Suivez-nous</h2>
-          <a href="https://www.facebook.com/share/186k87YHaF/" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center gap-3 rounded-xl border border-gold/35 bg-gold/10 px-4 py-3 text-sm font-bold text-gold transition hover:bg-gold hover:text-earth focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
-            <span className="grid size-7 place-items-center rounded-md bg-[#1877f2] font-bold text-lg text-white" aria-hidden="true">f</span>
-            Facebook <ArrowUpRight aria-hidden="true" size={16} />
-          </a>
-          <p className="mt-4 max-w-xs text-xs leading-6 text-kaolin/50">Retrouvez les actualités, les jeux et les nouveautés de Gagnants 229.</p>
-        </div>
+  return <footer className="border-t border-gold/20 bg-[#120c08] px-5 py-10 text-kaolin sm:px-8 lg:px-10">
+    <div className="mx-auto grid w-full max-w-6xl gap-10 md:grid-cols-[1.4fr_1fr_1fr]">
+      <div>
+        <Link href="/" className="inline-flex items-center rounded-xl focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold"><span className="relative grid size-14 overflow-hidden rounded-xl border border-gold/60 bg-[#2b1005] p-0.5"><img src="/games/logoweb_BJ.jpg.jpeg" alt="Logo Gagnants 229" className="h-full w-full object-contain" /></span></Link>
+        <p className="mt-5 max-w-sm text-sm leading-7 text-kaolin/65">Des jeux de soci&#233;t&#233; pour jouer, partager et faire d&#233;couvrir l&apos;histoire et le patrimoine du B&#233;nin.</p>
       </div>
-      <div className="mx-auto mt-10 flex w-full max-w-6xl flex-col gap-2 border-t border-white/10 pt-5 text-xs text-kaolin/40 sm:flex-row sm:items-center sm:justify-between">
-        <p>© {new Date().getFullYear()} Gagnants 229</p>
-        <p>Jouons notre histoire.</p>
+      <nav aria-label="Liens du pied de page">
+        <h2 className="text-xs font-bold uppercase tracking-[0.16em] text-gold">Navigation</h2>
+        <ul className="mt-4 grid gap-3 text-sm text-kaolin/70">{footerLinks.map((link) => <li key={link.href}><Link href={link.href} className="transition hover:text-gold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">{link.label}</Link></li>)}</ul>
+      </nav>
+      <div>
+        <h2 className="text-xs font-bold uppercase tracking-[0.16em] text-gold">Suivez-nous</h2>
+        <a href="https://www.facebook.com/share/186k87YHaF/" target="_blank" rel="noreferrer" className="mt-4 inline-flex items-center gap-3 rounded-xl border border-gold/35 bg-gold/10 px-4 py-3 text-sm font-bold text-gold transition hover:bg-gold hover:text-earth focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold"><span className="grid size-7 place-items-center rounded-md bg-[#1877f2] text-lg font-bold text-white" aria-hidden="true">f</span>Facebook <ArrowUpRight aria-hidden="true" size={16} /></a>
+        <p className="mt-4 max-w-xs text-xs leading-6 text-kaolin/50">Retrouvez les actualit&#233;s, les jeux et les nouveaut&#233;s de Gagnants 229.</p>
       </div>
-    </footer>
-  );
+    </div>
+    <div className="mx-auto mt-10 flex w-full max-w-6xl flex-col gap-2 border-t border-white/10 pt-5 text-xs text-kaolin/40 sm:flex-row sm:items-center sm:justify-between"><p>&#169; {new Date().getFullYear()} Gagnants 229</p><p>Jouons notre histoire.</p></div>
+  </footer>;
 }

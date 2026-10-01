@@ -17,19 +17,23 @@ import { VisitorCounter } from "@/components/visitor-counter";
 import { TestimonialForm } from "@/components/testimonial-form";
 import { PublishedTestimonials } from "@/components/published-testimonials";
 import { getAllHeritage } from "@/lib/heritage";
+import { DepartmentsPreview } from "@/components/departments-preview";
+import { CarteBeninInteractive } from "@/components/carte-benin-interactive";
+import { HeroBackground } from "@/components/hero-background";
+import { CardImage } from "@/components/card-image";
 
 const communeIds = new Set(["ouidah", "abomey", "ganvie", "natitingou"]);
 const kingIds = ["behanzin", "toffa-1er", "bio-guerra", "roi-alade-ife"];
-const contemporaryIds = new Set(["thomas-boni-yayi", "patrice-talon"]);
+const contemporaryIds = new Set(["romuald-wadagni", "patrice-talon"]);
 const destinationTaglines: Record<string, string> = {
   ouidah: "Mémoires, rites et océan",
   "porto-novo": "La capitale aux trois noms",
   dangbo: "La porte de la vallée de l’Ouémé",
   allada: "Aux sources d’un grand royaume",
-  ze: "Au cœur de la civilisation Aïzo",
+  ze: "Au cÅ“ur de la civilisation Aïzo",
   cotonou: "Le poumon cosmopolite du Bénin",
 };
-const orderMessage = "Bonjour Gagnants 229, je souhaite commander un jeu. Je voudrais choisir d'autres personnages et motifs personnalisés selon mes goûts.";
+const orderMessage = "Bonjour Gagnants 229, je souhaite acheter un jeu. Je voudrais choisir d'autres personnages et motifs personnalis\u00e9s selon mes go\u00fbts.";
 
 export default function Home() {
   const communes = getAllHeritage().filter((heritage) => communeIds.has(heritage.id));
@@ -66,19 +70,17 @@ export default function Home() {
       </header>
 
       <section className="relative mx-auto flex w-full max-w-6xl flex-col px-5 pb-20 pt-10 sm:px-8 sm:pt-16 lg:px-10 lg:pt-24">
-        <img src="/games/amazone.jpg" alt="Amazone béninoise, image de patrimoine et de mémoire" className="pointer-events-none absolute inset-0 -z-10 h-full w-full object-cover object-[60%_25%] opacity-35" />
-        <div className="pointer-events-none absolute inset-0 -z-10 bg-[linear-gradient(90deg,rgba(26,18,11,0.98)_0%,rgba(26,18,11,0.82)_42%,rgba(26,18,11,0.3)_100%)]" />
-        <div className="pointer-events-none absolute inset-0 -z-10 bg-[linear-gradient(0deg,#1a120b_0%,transparent_42%)]" />
-        <div className="max-w-3xl">
-          {/* <p className="mb-5 flex items-center gap-2 text-xs font-bold uppercase tracking-[0.18em] text-gold sm:text-sm">
-            <span className="h-px w-8 bg-gold/70" /> Vodun Days · Bénin
-          </p> */}
-          <h1 className="font-display max-w-3xl text-4xl leading-[1.08] text-white sm:text-6xl lg:text-7xl">
-            Et si on jouait <span className="text-gold">notre histoire</span> ?
-          </h1>
-          <p className="mt-6 max-w-xl text-base leading-7 text-kaolin/75 sm:text-lg sm:leading-8">
-            Scannez. Découvrez les mémoires du Bénin. Relevez le défi et devenez un explorateur du patrimoine.
-          </p>
+        <HeroBackground />
+        <div className="grid items-center gap-8 lg:grid-cols-[minmax(0,1fr)_330px] lg:gap-12">
+          <div className="max-w-3xl">
+            <h1 className="font-display max-w-3xl text-4xl leading-[1.08] text-white sm:text-6xl lg:text-7xl">
+              Et si on jouait <span className="text-gold">notre histoire</span> ?
+            </h1>
+            <p className="mt-6 max-w-xl text-base leading-7 text-kaolin/75 sm:text-lg sm:leading-8">
+              Scannez. D&#233;couvrez les m&#233;moires du B&#233;nin. Relevez le d&#233;fi et devenez un explorateur du patrimoine.
+            </p>
+          </div>
+          <CarteBeninInteractive className="mx-auto max-w-[390px]" />
         </div>
 
         <div className="mt-9 flex flex-col gap-3 sm:flex-row">
@@ -98,7 +100,7 @@ export default function Home() {
       <section id="nos-jeux" className="relative border-y border-gold/20 bg-[#21160f]/90 px-5 py-16 sm:px-8 lg:px-10" aria-labelledby="jeux-gagnants">
         <div className="mx-auto w-full max-w-6xl">
           <div className="max-w-3xl">
-            <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.18em] text-gold"><Gamepad2 aria-hidden="true" size={16} /> Les jeux à jouer et à partager</p>
+            <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.18em] text-gold"><Gamepad2 aria-hidden="true" size={16} /> Les jeux &#224; jouer et &#224; partager</p>
             <h2 id="jeux-gagnants" className="font-display mt-3 text-3xl leading-tight text-white sm:text-5xl">Le patrimoine béninois devient un jeu de société.</h2>
             <p className="mt-5 max-w-2xl text-base leading-7 text-kaolin/75">Découvrez nos jeux inspirés du Bénin, jouez en famille ou entre amis, puis scannez les communes et les personnages pour prolonger la partie par une histoire.</p>
           </div>
@@ -115,7 +117,7 @@ export default function Home() {
                 <p className="mt-3 max-w-2xl text-sm leading-6 text-kaolin/70">Une partie de dames familière, enrichie par les 77 communes, leurs départements et des défis de connaissance. Une manière simple de faire découvrir le pays en jouant.</p>
                 <div className="mt-5 grid grid-cols-2 gap-2">
                   <Link href="/communes" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Découvrir les communes <ArrowRight aria-hidden="true" size={16} /></Link>
-                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite commander un jeu dames.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Commander</a>
+                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite acheter un jeu dames.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Acheter</a>
                 </div>
               </div>
             </article>
@@ -126,11 +128,11 @@ export default function Home() {
               </div>
               <div className="p-5">
                 <p className="text-xs font-bold uppercase tracking-[0.14em] text-gold">Ludo des Royaumes</p>
-                <h3 className="font-display mt-2 text-2xl text-white">Traversez les grandes histoires.</h3>
+                <h3 className="font-display mt-2 min-h-14 line-clamp-2 text-2xl text-white">Traversez les grandes histoires.</h3>
                 <p className="mt-3 text-sm leading-6 text-kaolin/70">Un Ludo inspiré des rois, des cours et des personnages historiques du Bénin.</p>
                 <div className="mt-5 grid grid-cols-2 gap-2">
                   <Link href="/royaumes" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Explorer les royaumes <ArrowRight aria-hidden="true" size={16} /></Link>
-                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite commander un jeu de ludo.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Commander</a>
+                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite acheter un jeu de ludo.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Acheter</a>
                 </div>
               </div>
             </article>
@@ -148,7 +150,7 @@ export default function Home() {
             </article>
           </div>
           <div className="mt-8 flex flex-col items-start gap-3 border-t border-gold/15 pt-6 sm:flex-row sm:items-center sm:justify-between">
-            <p className="text-sm leading-6 text-kaolin/70">Tu veux commander un jeu avec les motifs QR de ton choix ?</p>
+            <p className="text-sm leading-6 text-kaolin/70">Tu veux acheter un jeu avec les motifs QR de ton choix ?</p>
             <a href={`https://wa.me/2290141757539?text=${encodeURIComponent(orderMessage)}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-[#25d366] px-4 py-2.5 text-sm font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">
               <MessageCircle aria-hidden="true" size={18} /> Commander sur WhatsApp
             </a>
@@ -162,6 +164,8 @@ export default function Home() {
         <EventsCarousel events={events} />
       */}
 
+      <DepartmentsPreview />
+
       <DestinationCarousel destinations={destinations} />
 
       <section id="communes" className="relative border-t border-gold/15 bg-[#21160f]/80 px-5 py-16 sm:px-8 lg:px-10">
@@ -169,17 +173,17 @@ export default function Home() {
           <div className="max-w-2xl">
             <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.18em] text-gold"><MapPinned aria-hidden="true" size={15} /> Gamme 01 · Territoires</p>
             <h2 className="font-display mt-3 text-3xl leading-tight text-white sm:text-4xl">Les communes du Bénin</h2>
-            <p className="mt-4 leading-7 text-kaolin/70">Commencez votre tour du Bénin par quatre territoires. Chaque carte ouvre une histoire, puis un défi à relever.</p>
+            <p className="mt-4 leading-7 text-kaolin/70">Commencez votre tour du B&#233;nin par quatre territoires. Chaque carte ouvre une histoire, puis un d&#233;fi &#224; relever.</p>
           </div>
-          <div className="-mx-3 mt-8 flex snap-x snap-mandatory gap-4 overflow-x-auto px-3 pb-4 [scrollbar-width:none] sm:mx-0 sm:grid sm:grid-cols-2 sm:overflow-visible sm:px-0 sm:pb-0 lg:grid-cols-4">
+          <div className="-mx-3 mt-8 flex items-start snap-x snap-mandatory gap-4 overflow-x-auto px-3 pb-4 [scrollbar-width:none] sm:mx-0 sm:grid sm:grid-cols-2 sm:items-stretch sm:overflow-visible sm:px-0 sm:pb-0 lg:grid-cols-4">
             {communes.map((commune) => (
-              <article key={commune.id} className="group w-[82vw] shrink-0 snap-start overflow-hidden rounded-2xl border border-white/10 bg-panel transition duration-300 hover:-translate-y-1 hover:border-gold/55 sm:w-auto">
-                <img src={commune.imageUrl} alt={commune.imageAlt} className="h-42 w-full object-cover object-[center_35%] transition duration-500 group-hover:scale-105" />
-                <div className="p-4">
+              <article key={commune.id} className="group flex h-[25.5rem] w-[82vw] shrink-0 snap-start flex-col overflow-hidden rounded-2xl border border-white/10 bg-panel transition duration-300 hover:-translate-y-1 hover:border-gold/55 sm:w-auto">
+                <CardImage src={commune.imageUrl} alt={commune.imageAlt} position="object-[center_35%]" />
+                <div className="flex flex-1 flex-col p-4">
                   <p className="text-xs font-bold uppercase tracking-[0.13em] text-gold">Commune</p>
-                  <h3 className="font-display mt-2 text-2xl text-white">{commune.nom}</h3>
+                  <h3 className="font-display mt-2 min-h-14 line-clamp-2 text-2xl text-white">{commune.nom}</h3>
                   <p className="mt-1 min-h-10 text-sm leading-5 text-kaolin/65">{commune.sousTitre}</p>
-                  <Link href={`/scan/${commune.id}`} className="mt-4 inline-flex min-h-10 items-center gap-1.5 text-sm font-bold text-gold transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
+                  <Link href={`/scan/${commune.id}`} className="mt-auto inline-flex min-h-10 items-center gap-1.5 pt-4 text-sm font-bold text-gold transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
                     En savoir plus <ArrowRight aria-hidden="true" size={16} />
                   </Link>
                 </div>
@@ -200,15 +204,15 @@ export default function Home() {
                 </ul>
               </div>
             </div>
-            <div className="-mx-3 mt-8 flex snap-x snap-mandatory gap-4 overflow-x-auto px-3 pb-4 [scrollbar-width:none] sm:mx-0 sm:grid sm:grid-cols-2 sm:overflow-visible sm:px-0 sm:pb-0 lg:grid-cols-4">
+            <div className="-mx-3 mt-8 flex items-start snap-x snap-mandatory gap-4 overflow-x-auto px-3 pb-4 [scrollbar-width:none] sm:mx-0 sm:grid sm:grid-cols-2 sm:items-stretch sm:overflow-visible sm:px-0 sm:pb-0 lg:grid-cols-4">
               {kings.map((king) => (
-                <article key={king.id} className="group w-[82vw] shrink-0 snap-start overflow-hidden rounded-2xl border border-gold/20 bg-panel transition duration-300 hover:-translate-y-1 hover:border-gold/55 sm:w-auto">
-                  <img src={king.imageUrl} alt={king.imageAlt} className="h-42 w-full object-cover object-[center_22%] transition duration-500 group-hover:scale-105" />
-                  <div className="p-4">
+                <article key={king.id} className="group flex h-[25.5rem] w-[82vw] shrink-0 snap-start flex-col overflow-hidden rounded-2xl border border-gold/20 bg-panel transition duration-300 hover:-translate-y-1 hover:border-gold/55 sm:w-auto">
+                  <CardImage src={king.imageUrl} alt={king.imageAlt} position="object-[center_22%]" />
+                  <div className="flex flex-1 flex-col p-4">
                     <p className="text-xs font-bold uppercase tracking-[0.13em] text-gold">{king.communeAssociee}</p>
-                    <h3 className="font-display mt-2 text-2xl text-white">{king.nom}</h3>
+                    <h3 className="font-display mt-2 min-h-14 line-clamp-2 text-2xl text-white">{king.nom}</h3>
                     <p className="mt-1 min-h-10 text-sm leading-5 text-kaolin/65">{king.sousTitre}</p>
-                    <Link href={`/scan/${king.id}`} className="mt-4 inline-flex min-h-10 items-center gap-1.5 text-sm font-bold text-gold transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">Découvrir <ArrowRight aria-hidden="true" size={16} /></Link>
+                    <Link href={`/scan/${king.id}`} className="mt-auto inline-flex min-h-10 items-center gap-1.5 pt-4 text-sm font-bold text-gold transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">Découvrir <ArrowRight aria-hidden="true" size={16} /></Link>
                   </div>
                 </article>
               ))}
@@ -223,13 +227,13 @@ export default function Home() {
               <p className="mt-3 max-w-2xl text-sm leading-6 text-kaolin/70">Découvrez les personnalités qui ont marqué la République du Bénin par leurs actions, leurs réformes et leur vision du développement.</p>
               <div className="mt-8 grid gap-4 sm:grid-cols-2">
                 {contemporaryFigures.map((figure) => (
-                  <article key={figure.id} className="group overflow-hidden rounded-2xl border border-gold/20 bg-panel transition duration-300 hover:-translate-y-1 hover:border-gold/55">
-                    <img src={figure.imageUrl} alt={figure.imageAlt} className="h-42 w-full object-cover object-[center_22%] transition duration-500 group-hover:scale-105" />
-                    <div className="p-4">
+                  <article key={figure.id} className="group flex h-[25.5rem] flex-col overflow-hidden rounded-2xl border border-gold/20 bg-panel transition duration-300 hover:-translate-y-1 hover:border-gold/55">
+                    <CardImage src={figure.imageUrl} alt={figure.imageAlt} position="object-[center_22%]" />
+                    <div className="flex flex-1 flex-col p-4">
                       <p className="text-xs font-bold uppercase tracking-[0.13em] text-gold">Personnalité contemporaine</p>
-                      <h3 className="font-display mt-2 text-2xl text-white">{figure.nom}</h3>
+                      <h3 className="font-display mt-2 min-h-14 line-clamp-2 text-2xl text-white">{figure.nom}</h3>
                       <p className="mt-1 min-h-10 text-sm leading-5 text-kaolin/65">{figure.sousTitre}</p>
-                      <Link href={`/scan/${figure.id}`} className="mt-4 inline-flex min-h-10 items-center gap-1.5 text-sm font-bold text-gold transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">Découvrir <ArrowRight aria-hidden="true" size={16} /></Link>
+                      <Link href={`/scan/${figure.id}`} className="mt-auto inline-flex min-h-10 items-center gap-1.5 pt-4 text-sm font-bold text-gold transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">Découvrir <ArrowRight aria-hidden="true" size={16} /></Link>
                     </div>
                   </article>
                 ))}

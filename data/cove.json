@@ -1,0 +1,98 @@
+{
+  "id": "cove",
+  "type": "commune",
+  "nom": "Cové",
+  "sousTitre": "Grenier agricole de la vallée de l’Ouémé et carrefour du Zou",
+  "communeAssociee": "Cové",
+  "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=1600&q=85",
+  "imageAlt": "Cultures, image d’ambiance",
+  "descriptionHistoire": "01. Des héritages Mahi et Nago\nCové s’inscrit dans une histoire de migrations et de communautés agricoles établies dans les terres fertiles du Zou.\n\n02. Un territoire de circulation\nSa position entre plateau et vallée a favorisé les échanges et les activités commerciales.\n\n03. Riziculture et maraîchage\nLes plaines et bas-fonds permettent la production de riz et de cultures vivrières.\n\n04. Cové aujourd’hui\nAgriculture, marché périodique et traditions locales font de Cové un territoire dynamique.",
+  "leSaviezVous": "Cové est souvent évoquée comme l’un des greniers agricoles du Zou.",
+  "lieuxAVisiter": [
+    {
+      "id": "riz",
+      "nom": "Les périmètres rizicoles",
+      "description": "Des plaines qui illustrent la fertilité et les savoir-faire agricoles.",
+      "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Rizière, image d’ambiance"
+    },
+    {
+      "id": "marche",
+      "nom": "Le marché de Cové",
+      "description": "Un grand rendez-vous d’échange de produits vivriers et d’artisanat.",
+      "imageUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Marché, image d’ambiance"
+    },
+    {
+      "id": "oueme",
+      "nom": "Les rives de l’Ouémé",
+      "description": "Des paysages fluviaux et des activités de pêche locale.",
+      "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Fleuve, image d’ambiance"
+    },
+    {
+      "id": "cultures",
+      "nom": "Les cultures du Zou",
+      "description": "Des champs de maïs, manioc et productions maraîchères.",
+      "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Cultures, image d’ambiance"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Grenier du Zou",
+    "accroche": "Penses-tu connaître les terres fertiles de Cové ?",
+    "encouragement": "Reviens explorer les plaines de Cové avant de retenter le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe Cové ?",
+      "options": [
+        "Le Zou",
+        "L’Ouémé",
+        "Le Plateau",
+        "L’Atlantique"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Cové appartient au département du Zou.",
+      "points": 25
+    },
+    {
+      "question": "Quelle culture est particulièrement associée à Cové ?",
+      "options": [
+        "Le riz",
+        "Le cacao",
+        "Le thé",
+        "Le café"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La riziculture est mise en avant dans la fiche.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe est lié à l’histoire locale ?",
+      "options": [
+        "Les Mahi",
+        "Les Otammari",
+        "Les Anii",
+        "Les Kotafon"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La fiche évoque les héritages Mahi et Nago.",
+      "points": 25
+    },
+    {
+      "question": "Quel fleuve nourrit les plaines de la région ?",
+      "options": [
+        "L’Ouémé",
+        "Le Mono",
+        "Le Niger",
+        "La Pendjari"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La vallée de l’Ouémé structure les paysages agricoles.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

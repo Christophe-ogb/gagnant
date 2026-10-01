@@ -1,8 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { Crown, Home, Share2 } from "lucide-react";
+import { Crown, Share2 } from "lucide-react";
 import { useSearchParams } from "next/navigation";
+import { ReturnToExploration } from "@/components/return-to-exploration";
 
 type RewardPageProps = {
   heritageName?: string;
@@ -44,7 +45,7 @@ export function RewardPage({ heritageName, badgeName }: RewardPageProps) {
           <p className="mt-7 text-xs italic leading-6 text-kaolin/55">« Peux-tu battre mon score sur Gagnants 229 ? »</p>
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:justify-center">
             <button type="button" onClick={shareReward} className="inline-flex min-h-12 items-center justify-center gap-2 rounded-xl bg-gold px-5 py-3 text-sm font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95"><Share2 aria-hidden="true" size={18} /> Partager ma récompense</button>
-            <Link href="/" className="inline-flex min-h-12 items-center justify-center gap-2 rounded-xl border border-gold/45 bg-gold/10 px-5 py-3 text-sm font-extrabold text-gold transition hover:bg-gold hover:text-earth active:scale-95"><Home aria-hidden="true" size={18} /> Retour à l’accueil</Link>
+            <ReturnToExploration href="/" label={"Retour \u00e0 l\u2019accueil"} className="min-h-12 justify-center rounded-xl border border-gold/45 bg-gold/10 px-5 py-3 font-extrabold text-gold hover:bg-gold hover:text-earth" />
           </div>
         </div>
       </section>

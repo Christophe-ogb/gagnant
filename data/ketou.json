@@ -1,0 +1,23 @@
+{
+  "id": "ketou",
+  "type": "commune",
+  "nom": "Kétou",
+  "sousTitre": "Un territoire de mémoire à la frontière orientale",
+  "communeAssociee": "Kétou",
+  "imageUrl": "https://www.gouv.bj/upload/images/articles//0163483001606824658.jpeg",
+  "imageAlt": "Patrimoine de la commune de Kétou",
+  "descriptionHistoire": "Kétou est un territoire dont l’histoire s’inscrit dans les circulations culturelles et politiques de la région yoruba. Sa mémoire royale, ses traditions et ses liens transfrontaliers en font une étape essentielle pour découvrir la diversité des récits béninois.",
+  "leSaviezVous": "La commune de Kétou est située dans le département du Plateau, à l’est du Bénin.",
+  "quiz": {
+    "question": "Dans quel département se situe la commune de Kétou ?",
+    "options": [
+      "Le Plateau",
+      "Le Littoral",
+      "L’Atacora",
+      "L’Alibori"
+    ],
+    "reponseCorrecteIndex": 0,
+    "explication": "Kétou est une commune du département du Plateau, dans l’est du Bénin.",
+    "points": 100
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "cobly",
+  "type": "commune",
+  "nom": "Cobly",
+  "sousTitre": "Terre de passage transfrontalière et grenier agricole de l’Atacora",
+  "communeAssociee": "Cobly",
+  "imageUrl": "/games/cobly.jpeg",
+  "imageAlt": "Paysage de l’Atacora, image d’ambiance",
+  "descriptionHistoire": "01. Des héritages Gurma et Otammari\nCobly est marquée par l’histoire de communautés Gurma et Bètammaribè. Les contreforts et les terres cultivables ont favorisé l’agriculture, l’élevage et les liens communautaires.\n\n02. Un carrefour transfrontalier\nLa proximité du Togo nourrit les échanges commerciaux, culturels et familiaux entre les deux rives de la frontière.\n\n03. Patrimoines et paysages\nArchitecture de terre, marchés et paysages de reliefs composent un patrimoine local vivant.\n\n04. Cobly aujourd’hui\nLa commune s’appuie sur le riz, le sorgho, le maïs, l’anacarde et les activités agropastorales.",
+  "leSaviezVous": "Cobly partage des liens importants avec les territoires voisins du Togo.",
+  "lieuxAVisiter": [
+    {
+      "id": "marche",
+      "nom": "Le marché transfrontalier",
+      "description": "Un lieu de circulation des produits et des savoir-faire locaux.",
+      "imageUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Marché, image d’ambiance"
+    },
+    {
+      "id": "riz",
+      "nom": "Les périmètres rizicoles",
+      "description": "Des bas-fonds qui soutiennent la production agricole.",
+      "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Cultures, image d’ambiance"
+    },
+    {
+      "id": "contreforts",
+      "nom": "Les contreforts de Cobly",
+      "description": "Des paysages de reliefs et de savanes à découvrir.",
+      "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Paysage, image d’ambiance"
+    },
+    {
+      "id": "habitat",
+      "nom": "Les repères d’architecture traditionnelle",
+      "description": "Des formes d’habitat et de mémoire du territoire.",
+      "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Architecture, image d’ambiance"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau des Contreforts",
+    "accroche": "Peux-tu suivre les routes et les paysages de Cobly ?",
+    "encouragement": "Reviens explorer Cobly avant de retenter le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe Cobly ?",
+      "options": [
+        "L’Atacora",
+        "La Donga",
+        "Le Borgou",
+        "Le Mono"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Cobly est une commune de l’Atacora.",
+      "points": 25
+    },
+    {
+      "question": "Quel pays voisin est proche de Cobly ?",
+      "options": [
+        "Le Togo",
+        "Le Niger",
+        "Le Ghana",
+        "Le Burkina Faso"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Cobly est située près de la frontière togolaise.",
+      "points": 25
+    },
+    {
+      "question": "Quelle céréale est mise en avant ?",
+      "options": [
+        "Le riz",
+        "Le blé",
+        "Le quinoa",
+        "L’orge"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La fiche évoque les périmètres rizicoles.",
+      "points": 25
+    },
+    {
+      "question": "Quelle activité est importante ?",
+      "options": [
+        "L’agriculture et l’élevage",
+        "Le port maritime",
+        "La pêche hauturière",
+        "La mine"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Ces activités structurent la vie locale.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

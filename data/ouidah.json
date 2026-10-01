@@ -1,0 +1,124 @@
+{
+  "id": "ouidah",
+  "type": "commune",
+  "nom": "Ouidah",
+  "sousTitre": "Au carrefour des mémoires, des rites et de l’océan",
+  "communeAssociee": "Ouidah",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/The_city_of_Ouidah.jpg",
+  "imageAlt": "Paysage tropical éclairé par le soleil",
+  "descriptionHistoire": "Située dans le département de l’Atlantique, sur la côte du golfe de Guinée, Ouidah est une commune où se rencontrent des mémoires historiques, spirituelles et diasporiques. Ancienne façade maritime du royaume du Danxomè, la ville est profondément liée à l’histoire de la traite atlantique. Elle est aussi un territoire où les traditions vodun restent vivantes et où se tiennent les Vodun Days. Découvrir Ouidah demande de tenir ensemble ces histoires : honorer les mémoires douloureuses, écouter les cultures vivantes et regarder la ville comme un lieu de transmission.",
+  "leSaviezVous": "Ouidah compte parmi les communes associées aux sites marquants de la Route de l’Esclave au Bénin, avec des lieux de mémoire qui relient l’histoire locale à celle des diasporas africaines.",
+  "scenes": [
+    {
+      "titre": "La Route de l’Esclave & la Porte du Non-Retour",
+      "localisation": "De la Place Chacha à la plage de Djègbadji · Ouidah",
+      "texte": "Ce parcours de mémoire relie le centre historique au littoral. Il rappelle les itinéraires empruntés par des personnes réduites en esclavage avant leur déportation vers les Amériques. Érigée en 1995 à l’initiative de l’UNESCO, la Porte du Non-Retour est un arc mémorial qui invite au recueillement, à la transmission et au dialogue avec les diasporas.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Porte_du_non-retour_au_Benin.jpg/1280px-Porte_du_non-retour_au_Benin.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageAlt": "Image d’ambiance du littoral de Ouidah"
+    },
+    {
+      "titre": "Le Temple des Pythons · culte Dangbé",
+      "localisation": "Quartier Dangbexuè · Place Agoli · Ouidah",
+      "texte": "Le Temple des Pythons est un sanctuaire vodun situé face à la basilique de l’Immaculée-Conception. Il est lié à la communauté Xwéda et à la vénération de Dangbé. Les pratiques qui s’y déroulent font partie d’un patrimoine vivant : une visite demande écoute, retenue et respect des règles du lieu.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Entr%C3%A9e_du_Temple_des_Pythons_%28Ouidah%29.jpg/960px-Entr%C3%A9e_du_Temple_des_Pythons_%28Ouidah%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageAlt": "Temple des Pythons de Ouidah"
+    },
+    {
+      "titre": "La Place Chacha & l’ancien marché",
+      "localisation": "Centre historique · Ouidah",
+      "texte": "La Place Chacha, aussi appelée Place des enchères, est un lieu majeur de la mémoire de la traite à Ouidah. Son nom est associé à Francisco Félix de Souza, surnommé Chacha. Les récits transmis autour de l’Arbre de l’Oubli et de l’Arbre du Retour font partie de la mémoire symbolique de ce parcours ; ils doivent être abordés avec dignité, sans transformer la souffrance en spectacle.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Les_lieux_touristiques_de_Ouidah,_place_Chacha.jpg",
+      "imageAlt": "Image d’ambiance d’un lieu historique d’Ouidah"
+    },
+    {
+      "titre": "Le Fort Portugais · Musée d’Histoire de Ouidah",
+      "localisation": "Centre historique · Ouidah",
+      "texte": "Le Fort Portugais témoigne de la présence marchande et diplomatique européenne sur la côte. Devenu Musée d’Histoire de Ouidah, il permet de replacer les échanges avec les royaumes de la région dans leur contexte historique. Le site fait partie des monuments au cœur des projets de revalorisation de la cité historique.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fort_of_S%C3%A3o_Jo%C3%A3o_Baptista_de_Ajud%C3%A1_%281890%29.jpg/1280px-Fort_of_S%C3%A3o_Jo%C3%A3o_Baptista_de_Ajud%C3%A1_%281890%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageAlt": "Architecture ancienne évoquant un fort historique"
+    },
+    {
+      "titre": "La Basilique de l’Immaculée-Conception",
+      "localisation": "Place Agoli · face au Temple des Pythons · Ouidah",
+      "texte": "La basilique fait face au Temple des Pythons, sur la Place Agoli. Cette proximité est souvent citée comme un repère de la diversité religieuse de Ouidah. Elle invite à raconter la ville avec nuance : plusieurs traditions, croyances et mémoires y coexistent et façonnent son identité.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Basilica_of_Ouidah.jpg/500px-Basilica_of_Ouidah.jpg?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageAlt": "Église historique illuminée par le soleil"
+    },
+    {
+      "titre": "La Forêt sacrée de Kpassè",
+      "localisation": "Cité historique de Ouidah",
+      "texte": "La forêt sacrée de Kpassè est reconnue comme un haut lieu spirituel du Vodun et accueille notamment des rituels liés au Tofâ. Des traditions orales relient ce lieu à la mémoire du roi Kpassè et à la fondation de la cité. Ces récits font partie d’un patrimoine vivant : ils ne se résument pas à une légende touristique et gagnent à être transmis avec les détenteurs de savoirs.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/For%C3%AAt_sacr%C3%A9e_de_Ouidah_01.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+      "imageAlt": "Forêt dense et chemin sous les arbres"
+    },
+    {
+      "titre": "La Maison du Brésil & les héritages afro-brésiliens",
+      "localisation": "Cité historique · Ouidah",
+      "texte": "Ouidah conserve des maisons à architecture afro-brésilienne et des traces des liens tissés de part et d’autre de l’Atlantique. La Maison du Brésil participe à cette mémoire architecturale et culturelle. Elle rappelle que les héritages de la diaspora se lisent aussi dans les savoir-faire, les cuisines, les langues et les histoires familiales.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fort_Ouidah_Benin.JPG/960px-Fort_Ouidah_Benin.JPG?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageAlt": "Maison ancienne aux détails architecturaux"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Quel événement culturel met notamment Ouidah à l’honneur ?",
+      "options": [
+        "Les Vodun Days",
+        "La Gaani de Nikki",
+        "Le Festival des Masques de Porto-Novo",
+        "Le Tour du Bénin"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les Vodun Days sont organisés à Ouidah et célèbrent des expressions culturelles et artistiques béninoises.",
+      "points": 20
+    },
+    {
+      "question": "Quel lieu de Ouidah se trouve face à la basilique de l’Immaculée-Conception ?",
+      "options": [
+        "Le Temple des Pythons",
+        "Le Palais royal d’Abomey",
+        "Le Musée de Porto-Novo",
+        "La place de la Gaani"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Temple des Pythons est situé à Dangbexuè, face à la basilique de l’Immaculée-Conception.",
+      "points": 20
+    },
+    {
+      "question": "Quel monument conclut le parcours de mémoire de la Route de l’Esclave à Ouidah ?",
+      "options": [
+        "La Porte du Non-Retour",
+        "L’Arc de Triomphe",
+        "Le Monument de l’Indépendance",
+        "Le Fort de Ouidah"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Porte du Non-Retour est un repère majeur de la Route de l’Esclave à Ouidah.",
+      "points": 20
+    },
+    {
+      "question": "Quel lieu de Ouidah est associé au roi Kpassè dans les traditions orales ?",
+      "options": [
+        "La Forêt sacrée de Kpassè",
+        "Le lac Nokoué",
+        "Le palais de Nikki",
+        "Le parc de la Pendjari"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Forêt sacrée de Kpassè est un haut lieu spirituel dont les traditions orales sont liées à la mémoire du roi Kpassè.",
+      "points": 20
+    },
+    {
+      "question": "Quel héritage culturel rappelle la Maison du Brésil à Ouidah ?",
+      "options": [
+        "Les liens afro-brésiliens à travers l’Atlantique",
+        "Une ancienne ligne de chemin de fer",
+        "La naissance du lac Nokoué",
+        "Les royaumes du Nord"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La Maison du Brésil évoque les héritages afro-brésiliens visibles dans l’architecture, les savoir-faire et les mémoires familiales.",
+      "points": 20
+    }
+  ]
+}

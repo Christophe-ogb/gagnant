@@ -1,0 +1,48 @@
+{
+  "id": "za-kpota",
+  "type": "commune",
+  "nom": "Za-Kpota",
+  "sousTitre": "Terre d’amitié, d’hospitalité et berceau de la virtuose Sessimè",
+  "communeAssociee": "Za-Kpota",
+  "imageUrl": "https://www.gouv.bj/upload/images/articles/ckeditor/WhatsApp%20Image%202020-12-01%20at%2000_01_55(1).jpeg",
+  "imageAlt": "Paysage de Za-Kpota, image à remplacer par une photo de la commune",
+  "descriptionHistoire": "01. Bienvenue à Za-Kpota\nBienvenue dans la ville natale de la virtuose Sessimè, une commune du département du Zou dont le nom évoque les vertus d’amitié, d’hospitalité et de fraternité.\n\n02. L’histoire de Dagba, Daka et Aïtchi\nSelon la tradition locale, Dagba s’était établi avec sa famille au bord d’un petit cours d’eau, sur des terres paisibles qui lui servaient de refuge pendant les guerres de l’époque. Des voyageurs yorubas auraient appelé cet endroit Za-Kékéré : « kékéré » signifie « petit » en yoruba, en référence au petit cours d’eau.\n\nDaka, ami de Dagba, choisit de ne pas s’installer à Za-Kékéré. Il désigna son lieu d’installation par « Minnawa », qui signifie en fon « des gens viendront ». Ce lieu fut plus tard appelé Za-Zounmê.\n\nAïtchi, aussi connu sous le nom de Kpolihamou, était maître féticheur et menuisier du roi Ghézo. Son fétiche lui interdisait les cris de singes ; il choisit donc de s’éloigner des terres où vivaient ses amis, alors très fréquentées par ces animaux. Dagba et Daka lui conseillèrent de s’installer sur une partie plus élevée. Le lieu prit le nom de Za-Kpota, « kpota » signifiant en langue fon un lieu situé en hauteur. La renommée d’Aïtchi contribua ensuite à faire connaître toute la zone habitée par les trois amis.\n\n03. Une commune du Zou\nD’une superficie de 409 km², Za-Kpota est l’une des neuf communes du département du Zou. Elle est limitée au nord-ouest par Djidja, au nord-est par Zagnanado, au sud-ouest par Bohicon, à l’est par Covè et au sud-est par Zogbodomey.\n\nLa commune compte 56 villages et quartiers de ville répartis entre huit arrondissements : Allahé, Assalin, Houngomey, Kpakpamè, Kpozoun, Tanta, Za-Kpota et Zèko. Les Mahi, les Yoruba et les Dendi y vivent notamment, dans une riche diversité culturelle et religieuse.\n\n04. Agriculture, savoir-faire et ressources locales\nZa-Kpota possède d’importants atouts agricoles. On y produit entre autres du maïs, du niébé, de la tomate, du manioc, du sorgho, de l’igname, du taro, des produits maraîchers, de l’orange et de l’anacarde. Le coton et l’arachide figurent parmi les cultures de rente.\n\nL’économie locale repose aussi sur l’élevage, la chasse, l’artisanat, la pêche ainsi que l’exploitation de ressources comme le sable, la latérite, le gravillon et le granite.\n\n05. Patrimoine et développement\nZa-Kpota partage le grand patrimoine culturel du plateau d’Abomey : chants, danses, rites, art culinaire, traditions et nombreuses divinités. La mémoire des rois du Danxomè, de Houégbadja à Agoli-Agbo, y occupe également une place importante.\n\nLa commune avance aussi grâce à des projets de développement, notamment la route Covè–Banamè et Koguédé–Za-Kpota. Ces aménagements accompagnent les actions menées dans l’agriculture, l’élevage, la pêche et la modernisation de l’administration publique.",
+  "leSaviezVous": "Le mot « kpota » signifie « lieu situé en hauteur » en langue fon. C’est cette particularité qui aurait donné son nom à Za-Kpota.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau des Hautes Terres de Za-Kpota",
+    "accroche": "Connaissez-vous l’histoire d’Aïtchi et les richesses de Za-Kpota ?",
+    "encouragement": "Presque ! Relisez l’histoire de Dagba, Daka et Aïtchi, puis explorez les productions de Za-Kpota."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe la commune de Za-Kpota ?",
+      "options": ["Le Zou", "Le Mono", "L’Atacora", "L’Ouémé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Za-Kpota est l’une des neuf communes du département du Zou.",
+      "points": 25
+    },
+    {
+      "question": "Que signifie « kpota » dans le nom Za-Kpota ?",
+      "options": ["Un lieu situé en hauteur", "Un grand marché", "Une rivière paisible", "Une terre de chasse"],
+      "reponseCorrecteIndex": 0,
+      "explication": "En langue fon, « kpota » désigne un lieu situé en hauteur.",
+      "points": 25
+    },
+    {
+      "question": "Quel personnage, maître féticheur et menuisier du roi Ghézo, est associé à la fondation de Za-Kpota ?",
+      "options": ["Aïtchi, aussi appelé Kpolihamou", "Dagba", "Daka", "Houégbadja"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Aïtchi, aussi connu sous le nom de Kpolihamou, s’est installé sur les hauteurs et sa notoriété a contribué à celle de Za-Kpota.",
+      "points": 25
+    },
+    {
+      "question": "Laquelle de ces activités contribue à l’économie de Za-Kpota ?",
+      "options": ["La culture du maïs et du manioc", "La pêche en haute mer", "La culture du thé", "L’extraction pétrolière offshore"],
+      "reponseCorrecteIndex": 0,
+      "explication": "L’agriculture est essentielle à Za-Kpota : le maïs, le manioc, le niébé et plusieurs autres cultures y sont produits.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

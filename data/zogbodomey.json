@@ -1,0 +1,78 @@
+{
+  "id": "zogbodomey",
+  "type": "commune",
+  "nom": "Zogbodomey",
+  "sousTitre": "La Porte du Royaume de Danxomè",
+  "communeAssociee": "Zogbodomey",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/All%C3%A9e_verte_pour_des_circuits_%C3%A9cotouristiques_dans_la_for%C3%AAts_de_la_Lama_dans_la_commune_de_Zogbodomey_au_B%C3%A9nin.jpg/960px-All%C3%A9e_verte_pour_des_circuits_%C3%A9cotouristiques_dans_la_for%C3%AAts_de_la_Lama_dans_la_commune_de_Zogbodomey_au_B%C3%A9nin.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+  "imageAlt": "Paysage de Zogbodomey, image d’ambiance à remplacer par une photo officielle de la commune",
+  "descriptionHistoire": "01. Une porte vers le plateau d’Abomey\nSituée dans le département du Zou, Zogbodomey est souvent présentée comme une porte d’entrée vers le plateau d’Abomey et l’ancien Royaume de Danxomè. Traversée par un axe routier important, la commune occupe une position de carrefour pour les échanges économiques et culturels du centre du Bénin.\n\n02. Histoire royale et traditions vivantes\nLa commune conserve un patrimoine fortement lié à l’histoire et à l’expansion du Royaume de Dahomey. Ses sites culturels, ses forêts sacrées et ses sanctuaires traditionnels témoignent de rites et de coutumes ancestrales qui demeurent vivaces dans les communautés.\n\n03. Terres agricoles et marchés locaux\nL’agriculture tient une place importante dans la vie économique de Zogbodomey. Les producteurs cultivent notamment des céréales, du maïs, du manioc et le palmier à huile. Les marchés locaux, animés par les échanges de produits vivriers et artisanaux, participent au dynamisme de la commune.\n\n04. Nature, culture et avenir\nEntre la vallée du fleuve Zou, les forêts sacrées et les sites de mémoire, Zogbodomey possède des atouts pour un écotourisme respectueux de l’environnement et des traditions. La préservation de la biodiversité et la transmission du patrimoine constituent des enjeux essentiels pour son avenir.",
+  "leSaviezVous": "Zogbodomey est une commune du Zou dont les forêts sacrées et les sanctuaires traditionnels font partie du patrimoine culturel local.",
+  "lieuxAVisiter": [
+    {
+      "id": "foret-sacree-bame",
+      "nom": "La forêt sacrée de Bamè",
+      "description": "Un espace de mémoire et de spiritualité, lié aux pratiques traditionnelles et au respect de la nature.",
+      "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Image d’ambiance pour la forêt sacrée de Bamè"
+    },
+    {
+      "id": "marche-central-zogbodomey",
+      "nom": "Le marché central de Zogbodomey",
+      "description": "Un lieu animé d’échanges, où se rencontrent produits agricoles, savoir-faire et vie quotidienne de la commune.",
+      "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Image d’ambiance pour le marché de Zogbodomey"
+    },
+    {
+      "id": "sanctuaires-canaan",
+      "nom": "Les sites historiques et sanctuaires de Canaan",
+      "description": "Des lieux qui invitent à découvrir la mémoire culturelle, les rites et les traditions de la région.",
+      "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Image d’ambiance pour les sanctuaires de Canaan"
+    },
+    {
+      "id": "vallee-fleuve-zou",
+      "nom": "La vallée du fleuve Zou",
+      "description": "Un paysage naturel propice à l’observation, aux activités rurales et à la découverte d’un environnement préservé.",
+      "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Image d’ambiance pour la vallée du fleuve Zou"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Porte du Danxomè",
+    "accroche": "Connaissez-vous les traditions et les paysages de Zogbodomey ?",
+    "encouragement": "Presque ! Explorez encore les forêts sacrées, l’agriculture et le patrimoine de Zogbodomey."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se trouve la commune de Zogbodomey ?",
+      "options": ["Le Zou", "L’Atlantique", "Le Mono", "L’Alibori"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Zogbodomey est une commune du département du Zou.",
+      "points": 25
+    },
+    {
+      "question": "Quel surnom est associé à Zogbodomey ?",
+      "options": ["La Porte du Royaume de Danxomè", "La Cité des Tata", "La Venise du Bénin", "La Ville aux sept collines"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Zogbodomey est présentée comme une porte vers le plateau d’Abomey et l’ancien Royaume de Danxomè.",
+      "points": 25
+    },
+    {
+      "question": "Laquelle de ces productions agricoles est citée pour Zogbodomey ?",
+      "options": ["Le maïs et le manioc", "Le café de montagne", "Le cacao", "Le thé"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le maïs et le manioc font partie des cultures importantes de la commune.",
+      "points": 25
+    },
+    {
+      "question": "Quel lieu naturel figure parmi les points d’intérêt de Zogbodomey ?",
+      "options": ["La vallée du fleuve Zou", "Les chutes de Kota", "Le mont Sokbaro", "La lagune de Porto-Novo"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La vallée du fleuve Zou fait partie des paysages à découvrir dans la commune.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

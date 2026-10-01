@@ -1,0 +1,3001 @@
+⚠ Slow filesystem detected. The benchmark took 605ms. If \\?\E:\MAAFRIK\gagnant_project\.next\dev is a network drive, consider moving it to a local folder.
+See more: https://nextjs.org/docs/app/guides/local-development
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] ./data/romuald-wadagni.json:40:1
+Error: Unable to make a module from invalid JSON
+  38 |     },
+  39 |     {
+> 40 |
+     | ^
+
+EOF while parsing an object at line 40 column 0 
+[browser] ./data/romuald-wadagni.json:40:1
+Error: Unable to make a module from invalid JSON
+  38 |     },
+  39 |     {
+> 40 |
+     | ^
+
+EOF while parsing an object at line 40 column 0 
+[browser] ./data/romuald-wadagni.json:40:1
+Error: Unable to make a module from invalid JSON
+  38 |     },
+  39 |     {
+> 40 |
+     | ^
+
+EOF while parsing an object at line 40 column 0 
+[browser] ./data/romuald-wadagni.json:40:1
+Error: Unable to make a module from invalid JSON
+  38 |     },
+  39 |     {
+> 40 |
+     | ^
+
+EOF while parsing an object at line 40 column 0 
+[browser] ./data/romuald-wadagni.json:40:1
+Error: Unable to make a module from invalid JSON
+  38 |     },
+  39 |     {
+> 40 |
+     | ^
+
+EOF while parsing an object at line 40 column 0 
+[browser] ./data/romuald-wadagni.json:40:1
+Error: Unable to make a module from invalid JSON
+  38 |     },
+  39 |     {
+> 40 |
+     | ^
+
+EOF while parsing an object at line 40 column 0 
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+[browser] Uncaught Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at eval (app\departements\[slug]\page.tsx:15:83)
+    at Array.map (<anonymous>:1:18)
+    at DepartmentPage (app\departements\[slug]\page.tsx:15:48)
+  13 |     <section className="mt-6 rounded-3xl border border-gold/25 bg-panel p-7 sm:p-10"><p className="text-xs font-bold uppercase tracking-[0.16em] text-gold">{department.region}</p><h1 className="font-display mt-3 text-5xl text-whit...
+  14 |     <h2 className="font-display mt-10 text-3xl text-white">Les communes du {department.nom}</h2>
+> 15 |     <div className="mt-5 grid gap-3">{communes.map((commune, index) => commune && <Link key={commune.id} href={`/scan/${commune.id}`} className="group flex items-center gap-4 rounded-2xl border border-white/10 bg-panel p-4 transit...
+     |                                                                                   ^
+  16 |   </div></main>;
+  17 | }
+  18 |
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ ReferenceError: DepartmentsPreview is not defined
+    at Home (app\page.tsx:166:8)
+  164 |       */}
+  165 |
+> 166 |       <DepartmentsPreview />
+      |        ^
+  167 |
+  168 |       <DestinationCarousel destinations={destinations} />
+  169 | {
+  digest: '1299457475'
+}
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⨯ ReferenceError: DepartmentsPreview is not defined
+    at Home (app\page.tsx:166:8)
+  164 |       */}
+  165 |
+> 166 |       <DepartmentsPreview />
+      |        ^
+  167 |
+  168 |       <DestinationCarousel destinations={destinations} />
+  169 | {
+  digest: '1299457475'
+}
+[browser] Uncaught ReferenceError: DepartmentsPreview is not defined
+    at Home (app\page.tsx:166:8)
+  164 |       */}
+  165 |
+> 166 |       <DepartmentsPreview />
+      |        ^
+  167 |
+  168 |       <DestinationCarousel destinations={destinations} />
+  169 |
+[browser] Uncaught TypeError: Failed to execute 'measure' on 'Performance': '​Home' cannot have a negative time stamp.
+[browser] Uncaught Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HTTPAccessFallbackErrorBoundary pathname="/" notFound={{...}} forbidden={undefined} unauthorized={undefined} ...>
+      <RedirectBoundary>
+        <RedirectErrorBoundary router={{...}}>
+          <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{rsc:{...}, ...}} segmentPath={[...]} ...>
+            <SegmentViewNode type="page" pagePath="page.tsx">
+              <SegmentTrieNode>
+              <Home>
+                <main className="relative i...">
+                  <div>
+                  <div>
+                  <header>
+                  <section>
+                  <section>
+                  <DepartmentsPreview>
+                  <DestinationCarousel destinations={[...]}>
+                    <section className="relative b..." aria-labelledby="destinatio...">
+                      <div className="mx-auto w-...">
+                        <div>
+                        <div ref={{current:null}} className="-mx-5 mt-8...">
+                          <article>
+                          <article>
+                          <article className="group rela...">
+                            <img>
+                            <div>
+                            <div className="relative f...">
+                              <p className="flex items...">
+                                <MapPin>
++                               Dangbo
+-                               <font dir="auto" style={{vertical-align:"inherit"}}>
+                              ...
+                          ...
+                        ...
+                  ...
+            ...
+          ...
+
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at p (<anonymous>)
+    at <unknown> (components/destination-carousel.tsx:23:529)
+    at Array.map (<anonymous>)
+    at DestinationCarousel (components/destination-carousel.tsx:23:23)
+    at Home (app\page.tsx:168:7)
+  21 | ...
+  22 | ...
+> 23 | ...from-[#1a120b] via-[#1a120b]/35 to-transparent" /><div className="relative flex h-full flex-col justify-end p-5"><p className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-[0.13em] text-gold"><MapPin aria-hidd...
+     |                                                                                                                     ^
+  24 | ...
+  25 | ...
+  26 | ...
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+[browser] Uncaught Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at eval (app\departements\[slug]\page.tsx:15:83)
+    at Array.map (<anonymous>:1:18)
+    at DepartmentPage (app\departements\[slug]\page.tsx:15:48)
+  13 |     <section className="mt-6 rounded-3xl border border-gold/25 bg-panel p-7 sm:p-10"><p className="text-xs font-bold uppercase tracking-[0.16em] text-gold">{department.region}</p><h1 className="font-display mt-3 text-5xl text-whit...
+  14 |     <h2 className="font-display mt-10 text-3xl text-white">Les communes du {department.nom}</h2>
+> 15 |     <div className="mt-5 grid gap-3">{communes.map((commune, index) => commune && <Link key={commune.id} href={`/scan/${commune.id}`} className="group flex items-center gap-4 rounded-2xl border border-white/10 bg-panel p-4 transit...
+     |                                                                                   ^
+  16 |   </div></main>;
+  17 | }
+  18 |
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+⨯ Error: Event handlers cannot be passed to Client Component props.
+  <img src=... alt="" className=... onError={function onError}>
+                                            ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at ignore-listed frames {
+  digest: '2354317419'
+}
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] ./data/journees-du-patrimoine-beninois.json:1:1
+Error: Unable to make a module from invalid JSON
+> 1 | ﻿{
+    | ^
+  2 |   "id": "journees-du-patrimoine-beninois",
+  3 |   "type": "evenement-national",
+  4 |   "nom": "JournÃ©es du Patrimoine BÃ©ninois",
+
+expected value at line 1 column 1 
+[browser] ./data/journees-du-patrimoine-beninois.json:1:1
+Error: Unable to make a module from invalid JSON
+> 1 | ﻿{
+    | ^
+  2 |   "id": "journees-du-patrimoine-beninois",
+  3 |   "type": "evenement-national",
+  4 |   "nom": "JournÃ©es du Patrimoine BÃ©ninois",
+
+expected value at line 1 column 1 
+[browser] Uncaught Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <RedirectErrorBoundary router={{...}}>
+      <InnerLayoutRouter url="/communes" tree={[...]} params={{}} cacheNode={{rsc:{...}, ...}} segmentPath={[...]} ...>
+        <SegmentViewNode type="page" pagePath="communes/p...">
+          <SegmentTrieNode>
+          <CommunesPage>
+            <main className="min-h-scre...">
+              <div className="mx-auto w-...">
+                <header>
+                <LinkComponent>
+                <section className="mt-5 round...">
+                  <p>
+                  <h1>
+                  <p>
+                  <p>
+                  <CommuneDirectory communes={[...]}>
+                    <label>
+                    <p>
+                    <div className="mt-5 grid ...">
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent>
+                      <LinkComponent href="/scan/glazoue" className="group over...">
+                        <a className="group over..." ref={function} onClick={function onClick} ...>
+                          <div className="relative h...">
+                            <img>
+                            <div>
+                            <span className="absolute b...">
+                              <MapPin>
++                             {" Commune"}
+-                             <font dir="auto" style={{vertical-align:"inherit"}}>
+                          ...
+                      ...
+        ...
+      ...
+
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at span (<anonymous>)
+    at <unknown> (components/commune-directory.tsx:30:13)
+    at Array.map (<anonymous>)
+    at CommuneDirectory (components/commune-directory.tsx:24:16)
+    at CommunesPage (app\communes\page.tsx:10:1792)
+  28 |             <img src={commune.imageUrl} alt={`Aper\u00e7u de ${commune.nom}`} loading="lazy" className="h-full w-full object-cover transition duration-500 group-hover:scale-105" onError={(event) => { event.currentTarget.style.disp...
+  29 |             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-earth/55 via-transparent to-transparent" />
+> 30 |             <span className="absolute bottom-3 left-4 flex items-center gap-1.5 text-xs font-bold uppercase tracking-[0.12em] text-gold"><MapPin aria-hidden="true" size={14} /> Commune</span>
+     |             ^
+  31 |           </div>
+  32 |           <div className="flex min-h-28 items-center justify-between gap-4 p-4">
+  33 |             <span>
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Uncaught Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={{...}} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={{...}} forbidden={undefined} unauthorized={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{rsc:{...}, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <Home>
+                    <main className="relative i...">
+                      <div>
+                      <div>
+                      <header>
+                      <section>
+                      <section>
+                      <DepartmentsPreview>
+                      <DestinationCarousel>
+                      <section id="communes" className="relative b...">
+                        <div className="mx-auto w-...">
+                          <div>
+                          <div>
+                          <LinkComponent>
+                            <LinkComponent href="/communes" className="mt-7 inlin...">
+                              <a className="mt-7 inlin..." ref={function} onClick={function onClick} ...>
++                               {"Voir les 77 communes "}
+-                               <font dir="auto" style={{vertical-align:"inherit"}}>
+                                ...
+                          ...
+                ...
+              ...
+
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at a (<anonymous>)
+    at Home (app\page.tsx:195:11)
+  193 |             ))}
+  194 |           </div>
+> 195 |           <Link href="/communes" className="mt-7 inline-flex min-h-12 items-center gap-2 rounded-xl border border-gold/40 bg-gold/10 px-5 py-3 text-sm font-extrabold text-gold transition hover:bg-gold hover:text-earth active:scal...
+      |           ^
+  196 |
+  197 |           <section className="mt-16">
+  198 |             <div className="max-w-3xl">
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+⨯ ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  [90m18 |[0m ...[36mfrom[0m [32m"@/components/published-testimonials"[0m;
+  [90m19 |[0m ...[32m/lib/heritage"[0m;
+[31m[1m>[0m [90m20 |[0m ...[36mm[0m [32m"@/components/departments-preview"[0m;[32m`r`[0mnimport { [33mCarteBeninInteractive[0m } [36mfrom[0m [32m"@/compo...[0m
+  [90m   |[0m                                            [31m[1m^^^^^^^[0m
+  [90m21 |[0m ...
+  [90m22 |[0m ...[32mah"[0m, [32m"abomey"[0m, [32m"ganvie"[0m, [32m"natitingou"[0m]);
+  [90m23 |[0m ...[32mfa-1er"[0m, [32m"bio-guerra"[0m, [32m"roi-alade-ife"[0m];
+
+Parsing ecmascript source code failed
+
+
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+⨯ ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  [90m3 |[0m ...[33mommuneDirectory[0m } [36mfrom[0m [32m"@/components/commune-directory"[0m;
+  [90m4 |[0m ...[33mlayerProgress[0m } [36mfrom[0m [32m"@/components/player-progress"[0m;
+[31m[1m>[0m [90m5 |[0m ...etAllHeritage } [36mfrom[0m [32m"@/lib/heritage"[0m;[32m`r`[0mnimport { departments } [36mfrom[0m [32m"@/lib/departements"[0m;
+  [90m  |[0m                                             [31m[1m^^^^^^^[0m
+  [90m6 |[0m ...
+  [90m7 |[0m ...[36mault[0m [36mfunction[0m [33mCommunesPage[0m() {
+  [90m8 |[0m ...mmunes = getAllHeritage().filter((item) => item.[36mtype[0m === [32m"commune"[0m).sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed
+
+
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] ./app/page.tsx:20:74
+Error: Expected ';', '}' or <eof>
+  18 | ...from "@/components/published-testimonials";
+  19 | .../lib/heritage";
+> 20 | ...m "@/components/departments-preview";`r`nimport { CarteBeninInteractive } from "@/compo...
+     |                                            ^^^^^^^
+  21 | ...
+  22 | ...ah", "abomey", "ganvie", "natitingou"]);
+  23 | ...fa-1er", "bio-guerra", "roi-alade-ife"];
+
+Parsing ecmascript source code failed 
+[browser] ./app/communes/page.tsx:5:52
+Error: Expected ';', '}' or <eof>
+  3 | ...ommuneDirectory } from "@/components/commune-directory";
+  4 | ...layerProgress } from "@/components/player-progress";
+> 5 | ...etAllHeritage } from "@/lib/heritage";`r`nimport { departments } from "@/lib/departements";
+    |                                             ^^^^^^^
+  6 | ...
+  7 | ...ault function CommunesPage() {
+  8 | ...mmunes = getAllHeritage().filter((item) => item.type === "commune").sort((a, b) => a.nom...
+
+Parsing ecmascript source code failed 
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Uncaught Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/communes" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="fr"
++                         className="h-full"
+-                         className="h-full translated-ltr"
+                        >
+                          <body className="min-h-full...">
+                            <VisitTracker>
+                            <header>
+                            <OuterLayoutRouter>
+                            <SiteFooter>
+                              <footer className="border-t b...">
+                                <div className="mx-auto gr...">
+                                  <div>
+                                    <LinkComponent>
+                                    <p className="mt-5 max-w-sm text-sm leading-7 text-kaolin/65">
++                                     Des jeux de société pour jouer, partager et faire découvrir l’histoire et le patr...
+-                                     {"Des jeux de société pour jouer, partager et faire découvrir l'histoire et le..."}
+                                  ...
+                                ...
+                            ...
+                  ...
+
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at p (<anonymous>)
+    at SiteFooter (components\site-footer.tsx:25:11)
+    at RootLayout (app\layout.tsx:17:158)
+  23 |             </span>
+  24 |           </Link>
+> 25 |           <p className="mt-5 max-w-sm text-sm leading-7 text-kaolin/65">Des jeux de société pour jouer, partager et faire découvrir l’histoire et le patrimoine du Bénin.</p>
+     |           ^
+  26 |         </div>
+  27 |
+  28 |         <nav aria-label="Liens du pied de page">
+⨯ Error: The destination stream closed early.
+    at ignore-listed frames {
+  digest: '2327477488'
+}
+⨯ Error: The destination stream closed early.
+    at ignore-listed frames {
+  digest: '2327477488'
+}
+⨯ Error: The destination stream closed early.
+    at ignore-listed frames {
+  digest: '2327477488'
+}
+⨯ Error: The destination stream closed early.
+    at ignore-listed frames {
+  digest: '2327477488'
+}

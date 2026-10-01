@@ -17,28 +17,48 @@
   "quiz": [
     {
       "question": "Quel est l'objectif principal des Journées du Patrimoine Béninois ?",
-      "options": ["Sensibiliser à la préservation de l'histoire, des musées et des monuments nationaux", "Organiser une compétition de sports mécaniques", "Vendre des équipements industriels importés", "Fermer temporairement l'accès aux sites touristiques"],
+      "options": [
+        "Sensibiliser à la préservation de l'histoire, des musées et des monuments nationaux",
+        "Organiser une compétition de sports mécaniques",
+        "Vendre des équipements industriels importés",
+        "Fermer temporairement l'accès aux sites touristiques"
+      ],
       "reponseCorrecteIndex": 0,
       "explication": "Ces journées visent à faire découvrir et protéger l'héritage culturel et historique du pays.",
       "points": 20
     },
     {
       "question": "Quelle cité historique emblématique abrite les palais royaux classés au patrimoine mondial de l'UNESCO ?",
-      "options": ["Abomey", "Natitingou", "Parakou", "Malanville"],
+      "options": [
+        "Abomey",
+        "Natitingou",
+        "Parakou",
+        "Malanville"
+      ],
       "reponseCorrecteIndex": 0,
       "explication": "Abomey est la capitale historique du royaume du Danxomè, célèbre pour ses palais royaux.",
       "points": 20
     },
     {
       "question": "Quel style architectural unique peut-on admirer à Porto-Novo lors des visites du patrimoine ?",
-      "options": ["L'architecture afro-brésilienne (style Agouda)", "L'architecture gothique du Moyen Âge", "Les gratte-ciels en verre modernes", "Les temples grecs anciens"],
+      "options": [
+        "L'architecture afro-brésilienne (style Agouda)",
+        "L'architecture gothique du Moyen âge",
+        "Les gratte-ciels en verre modernes",
+        "Les temples grecs anciens"
+      ],
       "reponseCorrecteIndex": 0,
       "explication": "Porto-Novo abrite un riche patrimoine architectural afro-brésilien hérité des déportés revenus du Brésil.",
       "points": 20
     },
     {
       "question": "Quelles activités sont fréquemment proposées aux visiteurs durant ces journées ?",
-      "options": ["Des visites guidées, des expositions d'artisanat et des conférences historiques", "Des cours de pilotage d'avion", "Uniquement des matchs de football", "Des ventes aux enchères de produits informatiques"],
+      "options": [
+        "Des visites guidées, des expositions d'artisanat et des conférences historiques",
+        "Des cours de pilotage d'avion",
+        "Uniquement des matchs de football",
+        "Des ventes aux enchères de produits informatiques"
+      ],
       "reponseCorrecteIndex": 0,
       "explication": "L'événement propose un vaste programme éducatif, culturel et artistique accessible à tous.",
       "points": 20

@@ -1,0 +1,98 @@
+{
+  "id": "come",
+  "type": "commune",
+  "nom": "Comé",
+  "sousTitre": "Ville carrefour du Mono et pôle commercial du Sud-Ouest",
+  "communeAssociee": "Comé",
+  "imageUrl": "/games/comè.jpeg",
+  "imageAlt": "Ville, image d’ambiance",
+  "descriptionHistoire": "01. Les héritages Watchi\nComé s’inscrit dans l’histoire des communautés Watchi de l’aire Adja-Tado. Les activités agricoles et commerciales ont participé à l’essor de la ville.\n\n02. Un carrefour routier\nSa position sur la route vers la frontière togolaise a fait de Comé une halte majeure pour les voyageurs, les transporteurs et les échanges.\n\n03. Une identité gastronomique\nLa ville est connue pour ses haltes et ses spécialités culinaires, qui font partie de l’expérience des voyageurs du Mono.\n\n04. Comé aujourd’hui\nCommerce, artisanat, pêche lagunaire et services donnent à Comé une place centrale dans le Sud-Ouest.",
+  "leSaviezVous": "Comé est un point de passage important sur l’axe reliant Cotonou à la frontière du Togo.",
+  "lieuxAVisiter": [
+    {
+      "id": "marche",
+      "nom": "Le grand marché de Comé",
+      "description": "Un lieu d’échange au cœur des activités commerciales.",
+      "imageUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Marché, image d’ambiance"
+    },
+    {
+      "id": "carrefour",
+      "nom": "Le carrefour de Comé",
+      "description": "Un repère de mobilité et de transit entre les territoires.",
+      "imageUrl": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Ville, image d’ambiance"
+    },
+    {
+      "id": "lac",
+      "nom": "Les berges du lac Ahémé",
+      "description": "Des paysages d’eau accessibles depuis la région de Comé.",
+      "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Lac, image d’ambiance"
+    },
+    {
+      "id": "saveurs",
+      "nom": "Les haltes gastronomiques",
+      "description": "Des repères de cuisine locale et de convivialité.",
+      "imageUrl": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Cuisine, image d’ambiance"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau du Carrefour du Mono",
+    "accroche": "Penses-tu connaître les routes et les saveurs de Comé ?",
+    "encouragement": "Reviens sur les repères de Comé avant de retenter le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe Comé ?",
+      "options": [
+        "Le Mono",
+        "Le Couffo",
+        "L’Atlantique",
+        "Le Zou"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Comé appartient au département du Mono.",
+      "points": 25
+    },
+    {
+      "question": "Quel groupe est associé à l’histoire locale ?",
+      "options": [
+        "Les Watchi",
+        "Les Anii",
+        "Les Baatonu",
+        "Les Otammari"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La fiche associe Comé à l’histoire des communautés Watchi.",
+      "points": 25
+    },
+    {
+      "question": "Quelle fonction distingue Comé ?",
+      "options": [
+        "Un carrefour routier",
+        "Un port maritime",
+        "Une île lacustre",
+        "Une ville minière"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Sa position routière en fait un point de transit majeur.",
+      "points": 25
+    },
+    {
+      "question": "Vers quel pays mène l’axe routier proche ?",
+      "options": [
+        "Le Togo",
+        "Le Niger",
+        "Le Mali",
+        "Le Ghana"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "L’axe relie le sud Bénin à la frontière togolaise.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

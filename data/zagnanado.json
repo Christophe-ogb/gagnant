@@ -1,0 +1,48 @@
+{
+  "id": "zagnanado",
+  "type": "commune",
+  "nom": "Zagnanado",
+  "sousTitre": "Terre d’Agonlin, de mémoire royale et de paysages lacustres",
+  "communeAssociee": "Zagnanado",
+  "imageUrl": "https://www.gouv.bj/upload/images/articles/ckeditor/WhatsApp%20Image%202020-11-30%20at%2018_05_52.jpeg",
+  "imageAlt": "Paysage de Zagnanado, image à remplacer par une photo de la commune",
+  "descriptionHistoire": "01. Zanylando, la nuit mal tombée\nDans la tradition fongbé, « Zanylando » signifie « une mauvaise nuit est tombée » ou « la nuit est mal tombée ». Cette expression est associée à l’histoire du territoire d’Agonlin, autrefois sous l’influence du royaume de Danxomè.\n\nAu temps du roi Ghézo, neuvième souverain du Danxomè, la tradition voulait que le roi ne meure pas hors du palais royal. Alors qu’il menait une campagne contre les Yorubas de Kétou et d’Abéokuta, Ghézo avait fait d’Agonlin le quartier général de son armée. Mortellement atteint lors d’une expédition, il tenta de regagner Abomey, mais le cortège fut surpris par « la nuit », expression qui symbolise ici la mort du roi. Le lieu où il rendit l’âme fut alors associé à cette nuit mal tombée.\n\n02. Le territoire d’Agonlin et la naissance de la commune\nZagnanado est issu des nombreuses mutations administratives du territoire d’Agonlin. Au début du XVIIe siècle, cette région dépendait du royaume d’Abomey. En 1895, le roi Agoli-Agbo renonça à son autorité sur la région, qui passa ensuite sous administration française.\n\nLe découpage territorial de 1896 transforma Agonlin en cercle de Zagnanado. Le territoire devint ensuite une subdivision rattachée à Abomey, puis une sous-préfecture à partir de 1961. À compter de 1974, elle fut organisée en trois districts : Zagnanado, Covè et Ouinhi. Avec la décentralisation engagée au Bénin en 1997, le district de Zagnanado devint une commune.\n\n03. Une commune du Zou\nLa commune actuelle couvre environ 750 km². Elle est limitée au nord par Dassa-Zoumè, au sud par Ouinhi et Zogbodomey, à l’est par Kétou et Adja-Ouèrè, et à l’ouest par Covè, Za-Kpota et Djidja.\n\nSes 43 villages et quartiers de ville sont répartis entre six arrondissements : Zagnanado, Agonlin-Houégbo, Banamè, Kpédékpo, Dovi et Don-Tan. Son climat est intermédiaire entre le climat subéquatorial maritime et le climat soudano-guinéen, avec deux saisons sèches et deux saisons pluvieuses.\n\n04. Un patrimoine touristique remarquable\nZagnanado possède un patrimoine riche : le camp des Amazones, les forgerons Thoto, les temples Guézo-Lègba et Glélé-Lègba, le site d’Awovidogbanmè, l’ancienne résidence des colons et plusieurs temples de divinités.\n\nOn y retrouve également un fromager associé à la mémoire du royaume d’Abomey, la source thermale Agluiglui, réputée comme l’eau préférée du roi Ghézo, ainsi que le lac Azili. Ce dernier abrite Agonvè, présentée comme l’unique île du Bénin, et offre de beaux paysages avec sa plage de sable fluvial.\n\n05. Arts, cultes et saveurs\nLa commune vibre au rythme des danses Guèlèdè, Sato, Toba, Tchinkounmè, Goh et Bolodjo. Les divinités Sakpata, Gou, Lègba et Hèviosso y tiennent une place importante, avec leurs rythmes, leurs adeptes et leurs apparats distinctifs.\n\nLa gastronomie locale met à l’honneur les galettes d’arachide, le bigo — préparé avec du kluiklui frais et du gari —, le zankpiti à base de haricot, farine de maïs et huile rouge, ainsi que la pâte de maïs accompagnée de sauce légumes.\n\n06. Personnalités et développement\nZagnanado est lié à de nombreuses personnalités, parmi lesquelles le cardinal Bernardin Gantin, les colonels Beyeton et Ahoueya, ainsi que plusieurs figures de la vie publique, culturelle et sportive béninoise.\n\nLa commune bénéficie aussi de projets routiers reliant notamment Zagnanado, Banamè, Paouignan, Covè et Za-Kpota, afin de soutenir les déplacements, les échanges et le développement local.",
+  "leSaviezVous": "Le lac Azili abrite Agonvè, une île qui fait partie des paysages les plus singuliers de Zagnanado.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau d’Agonlin",
+    "accroche": "Saurez-vous explorer la mémoire royale et les trésors de Zagnanado ?",
+    "encouragement": "Presque ! Retournez découvrir l’histoire d’Agonlin, le lac Azili et les traditions de Zagnanado."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département du Bénin se trouve Zagnanado ?",
+      "options": ["Le Zou", "Le Borgou", "Le Mono", "L’Atacora"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Zagnanado est une commune du département du Zou.",
+      "points": 25
+    },
+    {
+      "question": "Quel roi du Danxomè est associé à l’origine traditionnelle du nom Zanylando ?",
+      "options": ["Le roi Ghézo", "Le roi Béhanzin", "Le roi Agoli-Agbo", "Le roi Glèlè"],
+      "reponseCorrecteIndex": 0,
+      "explication": "La tradition locale relie l’expression « la nuit est mal tombée » aux derniers instants du roi Ghézo pendant une campagne militaire.",
+      "points": 25
+    },
+    {
+      "question": "Quel lac de Zagnanado abrite l’île d’Agonvè ?",
+      "options": ["Le lac Azili", "Le lac Ahémé", "Le lac Nokoué", "Le lac Toho"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le lac Azili est l’un des paysages remarquables de la commune et abrite Agonvè.",
+      "points": 25
+    },
+    {
+      "question": "Laquelle de ces danses fait partie des rythmes appréciés à Zagnanado ?",
+      "options": ["Le Guèlèdè", "Le ballet classique", "Le flamenco", "Le tango"],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Guèlèdè fait partie des danses et rythmes cités dans le patrimoine culturel de Zagnanado.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

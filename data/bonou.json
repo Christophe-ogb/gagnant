@@ -1,0 +1,98 @@
+{
+  "id": "bonou",
+  "type": "commune",
+  "nom": "Bonou",
+  "sousTitre": "Joyau de la vallée de l’Ouémé, terre de riziculture et de richesses fluviales",
+  "communeAssociee": "Bonou",
+  "imageUrl": "/games/bonou.jpeg",
+  "imageAlt": "Vallée fluviale, image d’ambiance",
+  "descriptionHistoire": "01. Une commune de la vallée de l’Ouémé\nBonou s’est développée au rythme du fleuve Ouémé, de ses crues et de ses terres fertiles. Les communautés de la vallée ont bâti des savoir-faire liés à la pêche, aux pirogues et à l’agriculture de décrue.\n\n02. Le fleuve comme lien de vie\nLes berges et les bras d’eau favorisent les déplacements, les échanges et la conservation des produits de pêche. Le fleuve est à la fois un paysage, une ressource et un repère de mémoire.\n\n03. Riziculture et cultures vivrières\nLes plaines inondables soutiennent la culture du riz, du maïs, du piment et le maraîchage. Elles relient Bonou aux marchés de Porto-Novo et de Cotonou.\n\n04. Bonou aujourd’hui\nLa commune valorise sa vallée, ses circuits fluviaux et une agriculture attentive aux saisons.",
+  "leSaviezVous": "Bonou appartient à la vallée de l’Ouémé, un espace majeur de production agricole et de vie fluviale.",
+  "lieuxAVisiter": [
+    {
+      "id": "oueme",
+      "nom": "Les berges du fleuve Ouémé",
+      "description": "Un circuit de découverte des paysages, des pirogues et de la vie fluviale.",
+      "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Fleuve, image d’ambiance"
+    },
+    {
+      "id": "riz",
+      "nom": "Les plaines rizicoles",
+      "description": "Des terres de décrue qui illustrent les savoir-faire agricoles de la vallée.",
+      "imageUrl": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Cultures, image d’ambiance"
+    },
+    {
+      "id": "marche",
+      "nom": "Le marché d’Affamè",
+      "description": "Un espace d’échanges pour poissons, gari, piments et produits vivriers.",
+      "imageUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Marché, image d’ambiance"
+    },
+    {
+      "id": "forets",
+      "nom": "Les forêts galeries",
+      "description": "Des paysages végétaux liés aux eaux de la vallée.",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1600&q=85",
+      "imageAlt": "Forêt, image d’ambiance"
+    }
+  ],
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Vallée",
+    "accroche": "Penses-tu connaître les secrets fluviaux de Bonou ?",
+    "encouragement": "Reviens sur les berges de l’Ouémé avant de retenter le défi."
+  },
+  "quiz": [
+    {
+      "question": "Dans quel département se situe Bonou ?",
+      "options": [
+        "L’Ouémé",
+        "Le Zou",
+        "Le Mono",
+        "L’Atlantique"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Bonou est une commune de l’Ouémé.",
+      "points": 25
+    },
+    {
+      "question": "Quel fleuve structure le territoire ?",
+      "options": [
+        "L’Ouémé",
+        "Le Mono",
+        "Le Niger",
+        "Le Couffo"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le fleuve Ouémé rythme la vie et les paysages de Bonou.",
+      "points": 25
+    },
+    {
+      "question": "Quelle culture est mise en avant ?",
+      "options": [
+        "Le riz",
+        "Le thé",
+        "Le cacao",
+        "Le café"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Les plaines de la vallée soutiennent la riziculture.",
+      "points": 25
+    },
+    {
+      "question": "Quelle activité est liée aux berges ?",
+      "options": [
+        "La pêche fluviale",
+        "La pêche en mer",
+        "La viticulture",
+        "La mine"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "La pêche fait partie des activités de la vallée.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

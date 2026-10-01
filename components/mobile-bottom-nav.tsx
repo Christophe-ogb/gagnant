@@ -5,7 +5,7 @@ const navigation = [
   { href: "/", label: "Accueil", icon: Home },
   { href: "/#nos-jeux", label: "Jeux", icon: Gamepad2 },
   { href: "/explorer", label: "Explorer", icon: Compass },
-  { href: "/communes", label: "Communes", icon: MapPinned },
+  { href: "/tourisme", label: "Tourisme", icon: MapPinned },
 ];
 
 export function MobileBottomNav() {

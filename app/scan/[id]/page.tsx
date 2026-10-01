@@ -38,8 +38,10 @@ export default async function HeritageScanPage({
   }
 
   const story = heritage.descriptionHistoire.split(/\n\n+/).map((part) => {
-    const [title, ...text] = part.split("\n");
-    return { title, paragraphs: text.filter(Boolean) };
+    const [rawTitle, ...text] = part.split("\n");
+    const numbered = /^\d{1,2}\s*[.:-]/.test(rawTitle.trim());
+    const title = numbered ? rawTitle.trim().replace(/^\d{1,2}\s*[.:-]\s*/, "") : rawTitle;
+    return { title, paragraphs: text.filter(Boolean), numbered };
   });
 
   const placesAsScenes = heritage.lieuxAVisiter?.map((place) => ({
@@ -95,14 +97,14 @@ export default async function HeritageScanPage({
               <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.16em] text-gold">
                 <BookOpenText aria-hidden="true" size={16} /> L’histoire
               </p>
-              {story.length > 1 && story.every((beat) => /^\d+[.]/.test(beat.title.trim())) ? (
+              {story.length > 1 && story.every((beat) => beat.numbered) ? (
                 <div className="mt-4 space-y-5">
                   {story.map((beat, index) => (
                     <div key={beat.title} className="flex gap-4 border-l border-gold/35 pl-4">
-                      <span className="font-display text-xl text-gold">0{index + 1}</span>
+                      <span className="font-display text-xl text-gold">{String(index + 1).padStart(2, "0")}</span>
                       <div>
                         <h2 id={index === 0 ? "histoire" : undefined} className="font-display text-2xl text-white">{beat.title}</h2>
-                        <div className="mt-3 space-y-3 text-sm leading-7 text-kaolin/80 sm:text-base">{beat.paragraphs.map((paragraph, paragraphIndex) => <p key={paragraphIndex}>{paragraph}</p>)}</div>
+                        <div className="mt-3 space-y-3 text-justify text-sm leading-7 text-kaolin/80 sm:text-base">{beat.paragraphs.map((paragraph, paragraphIndex) => <p key={paragraphIndex}>{paragraph}</p>)}</div>
                       </div>
                     </div>
                   ))}
@@ -110,7 +112,7 @@ export default async function HeritageScanPage({
               ) : (
                 <>
                   <h2 id="histoire" className="font-display mt-3 text-2xl text-white">Une mémoire à découvrir</h2>
-                  <div className="mt-4 space-y-4 text-sm leading-7 text-kaolin/80 sm:text-base">{heritage.descriptionHistoire.split(/\n\n+/).map((paragraph, index) => <p key={index}>{paragraph}</p>)}</div>
+                  <div className="mt-4 space-y-4 text-justify text-sm leading-7 text-kaolin/80 sm:text-base">{heritage.descriptionHistoire.split(/\n\n+/).map((paragraph, index) => <p key={index}>{paragraph}</p>)}</div>
                 </>
               )}
             </section>

@@ -19,9 +19,16 @@ import bassila from "@/data/bassila.json";
 import bembereke from "@/data/bembereke.json";
 import bioGuerra from "@/data/bio-guerra.json";
 import bohicon from "@/data/bohicon.json";
+import bonou from "@/data/bonou.json";
+import bopa from "@/data/bopa.json";
+import boukoumbe from "@/data/boukoumbe.json";
 import boniYayi from "@/data/boni-yayi.json";
 import ciara from "@/data/ciara.json";
+import cobly from "@/data/cobly.json";
+import come from "@/data/come.json";
+import copargo from "@/data/copargo.json";
 import cotonou from "@/data/cotonou.json";
+import cove from "@/data/cove.json";
 import dangbo from "@/data/dangbo.json";
 import dassaZoume from "@/data/dassa-zoume.json";
 import djakotomey from "@/data/djakotomey.json";
@@ -47,6 +54,7 @@ import kalale from "@/data/kalale.json";
 import kandi from "@/data/kandi.json";
 import karimama from "@/data/karimama.json";
 import kerou from "@/data/kerou.json";
+import ketou from "@/data/ketou.json";
 import klouekanme from "@/data/klouekanme.json";
 import kouande from "@/data/kouande.json";
 import kpomasse from "@/data/kpomasse.json";
@@ -56,6 +64,7 @@ import madara from "@/data/madara.json";
 import malanville from "@/data/malanville.json";
 import materi from "@/data/materi.json";
 import mathieuKerekou from "@/data/mathieu-kerekou.json";
+import natitingou from "@/data/natitingou.json";
 import ndali from "@/data/ndali.json";
 import nelOliver from "@/data/nel-oliver.json";
 import nicephoreSoglo from "@/data/nicephore-soglo.json";
@@ -64,6 +73,7 @@ import nonvitcha from "@/data/nonvitcha.json";
 import ouake from "@/data/ouake.json";
 import ouassaPehunco from "@/data/ouassa-pehunco.json";
 import ouesse from "@/data/ouesse.json";
+import ouidah from "@/data/ouidah.json";
 import ouinhi from "@/data/ouinhi.json";
 import parakou from "@/data/parakou.json";
 import patriceTalon from "@/data/patrice-talon.json";
@@ -72,6 +82,7 @@ import pipiWobaho from "@/data/pipi-wobaho.json";
 import pobe from "@/data/pobe.json";
 import portoNovo from "@/data/porto-novo.json";
 import richardFlash from "@/data/richard-flash.json";
+import romualdWadagni from "@/data/romuald-wadagni.json";
 import roiAkemasse from "@/data/roi-akemasse.json";
 import roiAladeIfe from "@/data/roi-alade-ife.json";
 import roiGbaguidi from "@/data/roi-gbaguidi-1.json";
@@ -93,23 +104,27 @@ import toriBossito from "@/data/tori-bossito.json";
 import toucountouna from "@/data/toucountouna.json";
 import toviklin from "@/data/toviklin.json";
 import vanoBaby from "@/data/vano-baby.json";
+import zaKpota from "@/data/za-kpota.json";
+import zagnanado from "@/data/zagnanado.json";
 import ze from "@/data/ze.json";
 import zeynab from "@/data/zeynab.json";
+import zogbodomey from "@/data/zogbodomey.json";
 
 // Toute nouvelle fiche doit uniquement être ajoutée à data/ puis importée ici.
 export const catalogueDetails: HeritageItem[] = [
   abomey, abomeyCalavi, adjaOuere, adjarra, adjohoun, agbangnizoun, aguegues,
   akproMisserete, allada, angeliqueKidjo, aplahoue, athieme, avrankou, axelMerryl,
-  banikoara, bante, bassila, bembereke, bioGuerra, bohicon, boniYayi, ciara,
-  cotonou, dangbo, dassaZoume, djakotomey, djidja, djougou, dogbo, fanicko,
+  banikoara, bante, bassila, bembereke, bioGuerra, bohicon, bonou, bopa, boukoumbe,
+  boniYayi, ciara, cobly, come, copargo, cotonou, cove, dangbo, dassaZoume, djakotomey,
+  djidja, djougou, dogbo, fanicko,
   feteGaani, feteIgname, feteTravail, feteIndependance, firstKing, glazoue,
   gogounou, grandPopo, houeyogbe, hubertMaga, ifangni, isidoreDeSouza,
-  journeeVodun, journeesPatrimoine, kalale, kandi, karimama, kerou, klouekanme,
+  journeeVodun, journeesPatrimoine, kalale, kandi, karimama, kerou, ketou, klouekanme,
   kouande, kpomasse, lalo, lokossa, madara, malanville, materi, mathieuKerekou,
-  ndali, nelOliver, nicephoreSoglo, nikki, nonvitcha, ouake, ouassaPehunco,
-  ouesse, ouinhi, parakou, patriceTalon, perere, pipiWobaho, pobe, portoNovo,
-  richardFlash, roiAkemasse, roiAladeIfe, roiGbaguidi, roiKpasse, sakete,
+  natitingou, ndali, nelOliver, nicephoreSoglo, nikki, nonvitcha, ouake, ouassaPehunco,
+  ouesse, ouidah, ouinhi, parakou, patriceTalon, perere, pipiWobaho, pobe, portoNovo,
+  richardFlash, romualdWadagni, roiAkemasse, roiAladeIfe, roiGbaguidi, roiKpasse, sakete,
   savalou, save, segbana, semePodji, seriKpera, sessime, sinende, soAva,
   tanguieta, tchaourou, tegbessou, toffo, toriBossito, toucountouna, toviklin,
-  vanoBaby, ze, zeynab,
+  vanoBaby, zaKpota, zagnanado, ze, zeynab, zogbodomey,
 ] as HeritageItem[];

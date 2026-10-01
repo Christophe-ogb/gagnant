@@ -1,0 +1,68 @@
+{
+  "id": "romuald-wadagni",
+  "type": "contemporain",
+  "nom": "Romuald Wadagni",
+  "sousTitre": "Président de la République du Bénin et artisan des réformes économiques",
+  "communeAssociee": "Lokossa",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSes5t-svghf7DJ_0hIMV3ZI4R1lNen_kjIAnZvGhiY5G4zvOgE64R0R1UO-mvcUaKrZhxtTcTKJTI9_JZoLzqJK-o_Yh1dOnzlZKsX3XM&s=10",
+  "imageAlt": "Portrait d’ambiance de Romuald Wadagni, à remplacer par un portrait officiel autorisé",
+  "descriptionHistoire": "01. Formation et expertise comptable\nNé le 20 juin 1976 à Lokossa, Romuald Wadagni se forme aux sciences de gestion et à la comptabilité. Il est expert-comptable diplômé en France et complète son parcours par des formations à la Harvard Business School et à l’ESSEC Business School.\n\n02. Une carrière internationale dans la finance\nAvant son entrée au gouvernement, il exerce au sein du cabinet international Deloitte. Il y devient associé et dirigeant pour l’Afrique francophone dans les domaines de l’audit et du conseil financier. Cette expérience l’amène à accompagner des entreprises, des institutions financières et des gouvernements sur des sujets de stratégie, de restructuration et de financement.\n\n03. Au service des finances publiques\nNommé ministre de l’Économie et des Finances en avril 2016, il conduit des réformes de la gestion budgétaire et de la modernisation des services fiscaux et douaniers. Ses fonctions sont élargies en mai 2021 lorsqu’il devient ministre d’État, ministre de l’Économie et des Finances.\n\nIl participe notamment au développement de la finance durable et à l’émission, en 2021, du premier Eurobond lié aux Objectifs de développement durable en Afrique subsaharienne.\n\n04. Président de la République\nRomuald Wadagni est investi président de la République du Bénin le 24 mai 2026. Son parcours relie ainsi l’expertise financière, la conduite de réformes publiques et l’exercice de la plus haute fonction de l’État.",
+  "leSaviezVous": "Avant sa présidence, Romuald Wadagni a été ministre de l’Économie et des Finances de 2016 à 2026.",
+  "scenes": [],
+  "challenge": {
+    "badge": "Sceau de la Transformation Économique",
+    "accroche": "Connaissez-vous le parcours de Romuald Wadagni, de la finance à la présidence ?",
+    "encouragement": "Presque ! Retournez découvrir les grandes étapes de son parcours et les réformes économiques du Bénin."
+  },
+  "quiz": [
+    {
+      "question": "Dans quelle commune du Bénin est né Romuald Wadagni ?",
+      "options": [
+        "Lokossa",
+        "Cotonou",
+        "Parakou",
+        "Porto-Novo"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Romuald Wadagni est né à Lokossa, dans le département du Mono.",
+      "points": 25
+    },
+    {
+      "question": "Dans quel cabinet international Romuald Wadagni a-t-il mené une grande partie de sa carrière avant le gouvernement ?",
+      "options": [
+        "Deloitte",
+        "UNESCO",
+        "BCEAO",
+        "OMS"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il a exercé chez Deloitte avant de rejoindre le gouvernement béninois.",
+      "points": 25
+    },
+    {
+      "question": "En quelle année Romuald Wadagni est-il devenu ministre de l’Économie et des Finances ?",
+      "options": [
+        "2016",
+        "2006",
+        "2021",
+        "2026"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Il a été nommé ministre de l’Économie et des Finances en avril 2016.",
+      "points": 25
+    },
+    {
+      "question": "Quel instrument de finance durable le Bénin a-t-il émis en 2021 sous sa direction financière ?",
+      "options": [
+        "Un Eurobond ODD",
+        "Une monnaie numérique",
+        "Une action pétrolière",
+        "Un prêt agricole local"
+      ],
+      "reponseCorrecteIndex": 0,
+      "explication": "Le Bénin a émis en 2021 un Eurobond lié aux Objectifs de développement durable.",
+      "points": 25
+    }
+  ],
+  "isReady": true
+}

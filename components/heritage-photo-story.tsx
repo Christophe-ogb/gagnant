@@ -49,9 +49,9 @@ export function HeritagePhotoStory({ scenes, heritageName, heading, description,
         <h3 className="font-display mt-2 text-2xl text-white sm:text-3xl">{activeScene.titre}</h3>
         <p className="mt-3 flex items-center gap-2 text-sm font-semibold text-gold/90"><MapPin aria-hidden="true" size={16} /> {activeScene.localisation}</p>
         <p className="mt-4 text-sm leading-7 text-kaolin/80 sm:text-base">{activeScene.texte}</p>
-        <div className="mt-6 flex items-center justify-between gap-3 border-t border-white/10 pt-4">
-          <button type="button" onClick={() => setActiveIndex((index) => index - 1)} disabled={isFirst} className="inline-flex min-h-10 items-center gap-1.5 rounded-lg px-2 text-sm font-bold text-kaolin/70 transition hover:text-white disabled:cursor-not-allowed disabled:opacity-30 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold"><ChevronLeft aria-hidden="true" size={18} /> {itemLabel} précédent</button>
-          <button type="button" onClick={() => setActiveIndex((index) => index + 1)} disabled={isLast} className="inline-flex min-h-10 items-center gap-1.5 rounded-lg bg-gold px-3 text-sm font-extrabold text-earth transition hover:bg-[#ebc94e] disabled:cursor-not-allowed disabled:opacity-35 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">{itemLabel} suivant <ChevronRight aria-hidden="true" size={18} /></button>
+        <div className="mt-6 flex flex-col gap-2 border-t border-white/10 pt-4 sm:flex-row sm:items-center sm:justify-between sm:gap-3">
+          <button type="button" onClick={() => setActiveIndex((index) => index - 1)} disabled={isFirst} className="inline-flex min-h-10 items-center justify-center gap-1.5 rounded-lg px-2 text-center text-sm font-bold text-kaolin/70 transition hover:text-white disabled:cursor-not-allowed disabled:opacity-30 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold"><ChevronLeft aria-hidden="true" size={18} /> {itemLabel} précédent</button>
+          <button type="button" onClick={() => setActiveIndex((index) => index + 1)} disabled={isLast} className="inline-flex min-h-10 items-center justify-center gap-1.5 rounded-lg bg-gold px-3 text-center text-sm font-extrabold text-earth transition hover:bg-[#ebc94e] disabled:cursor-not-allowed disabled:opacity-35 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">{itemLabel} suivant <ChevronRight aria-hidden="true" size={18} /></button>
         </div>
       </div>
     </article>
