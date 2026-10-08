@@ -1,9 +1,8 @@
 "use client";
 
-import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Suspense, useMemo, useState } from "react";
-import { ArrowLeft, ArrowRight, CalendarDays, Clock3, Compass, Landmark, MapPin, MapPinned, Phone, Search, Ticket, UtensilsCrossed, X } from "lucide-react";
+import { CalendarDays, Clock3, Compass, Landmark, MapPin, MapPinned, Phone, Search, Ticket, UtensilsCrossed, X } from "lucide-react";
 import { tourismEvents, type TourismEvent } from "@/data/tourism-events";
 import { tourismOutings, type TourismOuting } from "@/data/tourism-outings";
 import { tourismSites, type TourismSite } from "@/data/tourism-sites";
