@@ -29,6 +29,15 @@ function jsonError(error: string, status = 400) {
   return NextResponse.json({ error }, { status, headers: { "Cache-Control": "no-store" } });
 }
 
+function getAuthRedirectUrl(request: NextRequest, nextPath: "/dashboard" | "/reset-password") {
+  const baseUrl = process.env.VERCEL_ENV === "production"
+    ? process.env.APP_BASE_URL?.trim() || request.nextUrl.origin
+    : request.nextUrl.origin;
+  const redirectUrl = new URL("/auth/callback", baseUrl);
+  redirectUrl.searchParams.set("next", nextPath);
+  return redirectUrl.toString();
+}
+
 export async function GET() {
   const supabase = await createSupabaseServerClient();
   const { data: { user }, error } = await supabase.auth.getUser();
@@ -97,7 +106,7 @@ export async function POST(request: NextRequest) {
       email: payload.email,
       password: payload.password,
       options: {
-        emailRedirectTo: `${request.nextUrl.origin}/auth/callback?next=/dashboard`,
+        emailRedirectTo: getAuthRedirectUrl(request, "/dashboard"),
         data: {
           full_name: payload.fullName,
           email_updates_opt_in: payload.emailUpdatesOptIn,
@@ -110,7 +119,7 @@ export async function POST(request: NextRequest) {
 
   if (payload.action === "forgot-password") {
     const { error } = await supabase.auth.resetPasswordForEmail(payload.email, {
-      redirectTo: `${request.nextUrl.origin}/auth/callback?next=/reset-password`,
+      redirectTo: getAuthRedirectUrl(request, "/reset-password"),
     });
     if (error) return jsonError(getAuthErrorMessage(error, "forgot-password"), error.status === 429 ? 429 : 400);
     return NextResponse.json({ success: true }, { headers: { "Cache-Control": "no-store" } });
