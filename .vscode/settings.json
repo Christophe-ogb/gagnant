@@ -1,0 +1,6 @@
+{
+    "chatgpt.runCodexInWindowsSubsystemForLinux": false,
+    "chat.editor.preferCopilotHarness": false,
+    "chat.agentHost.codexAgent.enabled": false,
+    "chat.editor.codex.preferAgentHost": false
+}

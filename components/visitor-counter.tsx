@@ -27,28 +27,22 @@ export function VisitorCounter({ animated = true }: { animated?: boolean }) {
 
   useEffect(() => {
     if (count === null) return;
-    if (!animated) {
-      setDisplayedCount(count);
-      return;
-    }
+    if (!animated) return;
     const duration = 1_500;
-    const intervalDuration = 30;
-    const steps = duration / intervalDuration;
-    let currentStep = 0;
-    setDisplayedCount(0);
-    const animation = window.setInterval(() => {
-      currentStep += 1;
-      setDisplayedCount(Math.round((count * currentStep) / steps));
-      if (currentStep >= steps) {
-        window.clearInterval(animation);
-        setDisplayedCount(count);
-      }
-    }, intervalDuration);
-    return () => window.clearInterval(animation);
+    let animationFrame = 0;
+    let startTime: number | null = null;
+    const animateCount = (timestamp: number) => {
+      startTime ??= timestamp;
+      const progress = Math.min((timestamp - startTime) / duration, 1);
+      setDisplayedCount(Math.round(count * progress));
+      if (progress < 1) animationFrame = window.requestAnimationFrame(animateCount);
+    };
+    animationFrame = window.requestAnimationFrame(animateCount);
+    return () => window.cancelAnimationFrame(animationFrame);
   }, [animated, count]);
 
   if (count === null) return null;
-  const formattedCount = new Intl.NumberFormat("fr-FR").format(displayedCount);
+  const formattedCount = new Intl.NumberFormat("fr-FR").format(animated ? displayedCount : count);
 
   return (
     <div className="mt-6 inline-flex max-w-full flex-col items-center gap-3 rounded-2xl border border-gold/45 bg-gold/10 px-4 py-3 text-center shadow-[0_12px_32px_rgba(0,0,0,0.2)] backdrop-blur-sm sm:flex-row sm:text-left" aria-live="polite">

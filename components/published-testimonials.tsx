@@ -12,20 +12,20 @@ type Testimonial = {
 async function getPublishedTestimonials(): Promise<Testimonial[]> {
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const anonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
-  if (!url || !anonKey) return [];
+  if (!url || !anonKey) throw new Error("Supabase n'est pas configuré pour charger les témoignages.");
 
-  try {
-    const response = await fetch(
-      `${url.replace(/\/$/, "")}/rest/v1/temoignages?select=id,nom,fonction,temoignage,note,photo_url&affiche=eq.true&order=created_at.desc&limit=6`,
-      {
+  const response = await fetch(
+    `${url.replace(/\/$/, "")}/rest/v1/temoignages?select=id,nom,fonction,temoignage,note,photo_url&affiche=eq.true&order=created_at.desc&limit=6`,
+    {
         headers: { apikey: anonKey, Authorization: `Bearer ${anonKey}` },
-        cache: "no-store",
-      },
-    );
-    return response.ok ? (await response.json() as Testimonial[]) : [];
-  } catch {
-    return [];
+      cache: "no-store",
+    },
+  );
+  if (!response.ok) {
+    const detail = await response.text();
+    throw new Error(`Impossible de charger les témoignages (HTTP ${response.status}) : ${detail}`);
   }
+  return await response.json() as Testimonial[];
 }
 
 export async function PublishedTestimonials() {

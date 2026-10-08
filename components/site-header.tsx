@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Sparkles } from "lucide-react";
+import { AccountNavLink } from "@/components/auth/account-nav-link";
 import { PlayerProgress } from "@/components/player-progress";
 
 const navigation = [
@@ -18,7 +19,10 @@ export function SiteHeader() {
         <span className="relative grid size-11 shrink-0 overflow-hidden rounded-xl border border-gold/60 bg-[#2b1005] p-0.5 shadow-[0_0_20px_rgba(212,175,55,0.18)] transition-transform duration-300 group-hover:-rotate-3 group-hover:scale-105 sm:size-12"><img src="/games/logoweb_BJ.jpg.jpeg" alt="Gagnants 229" className="h-full w-full object-contain" /></span>
         <span className="relative hidden min-w-0 sm:block"><Sparkles className="absolute -left-2 -top-2 text-gold motion-safe:animate-pulse" aria-hidden="true" size={14} /><span className="font-display block text-[0.64rem] font-bold uppercase tracking-[0.28em] text-gold">Jeux</span><span className="font-display block truncate text-base leading-4 tracking-wide text-white transition-colors duration-300 group-hover:text-gold sm:text-lg">Gagnants <span className="inline-block text-gold">229</span></span></span>
       </Link>
-      <nav className="hidden items-center gap-5 text-sm font-bold text-kaolin/75 lg:flex" aria-label="Navigation principale">{navigation.map((link) => <Link key={link.href} href={link.href} className="whitespace-nowrap transition hover:text-gold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">{link.label}</Link>)}</nav>
+      <nav className="hidden items-center gap-5 text-sm font-bold text-kaolin/75 lg:flex" aria-label="Navigation principale">
+        {navigation.map((link) => <Link key={link.href} href={link.href} className="whitespace-nowrap transition hover:text-gold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">{link.label}</Link>)}
+        <AccountNavLink />
+      </nav>
       <div className="shrink-0"><PlayerProgress /></div>
     </div>
   </header>;

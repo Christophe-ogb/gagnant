@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
-import { useMemo, useState } from "react";
+import { Suspense, useMemo, useState } from "react";
 import { ArrowLeft, ArrowRight, CalendarDays, Clock3, Compass, Landmark, MapPin, MapPinned, Phone, Search, Ticket, UtensilsCrossed, X } from "lucide-react";
 import { tourismEvents, type TourismEvent } from "@/data/tourism-events";
 import { tourismOutings, type TourismOuting } from "@/data/tourism-outings";
@@ -31,6 +31,24 @@ const formatDateLong = (value: string | null) => { if (!value) return null; cons
 const formatEventDate = (event: TourismEvent) => { const start = formatDateLong(event.dateDebut); const end = formatDateLong(event.dateFin); if (!start) return "Date \u00e0 confirmer"; if (!end || event.dateDebut === event.dateFin) return start; return `Du ${start} au ${end}`; };
 
 export default function TourismePage() {
+  return (
+    <Suspense
+      fallback={
+        <main className="min-h-screen bg-earth px-5 py-6 text-kaolin sm:px-8 sm:py-8 lg:px-10">
+          <div className="mx-auto w-full max-w-6xl">
+            <div className="mt-5 rounded-3xl border border-gold/25 bg-panel p-8 text-center text-sm text-kaolin/70">
+              Chargement du catalogue…
+            </div>
+          </div>
+        </main>
+      }
+    >
+      <TourismePageContent />
+    </Suspense>
+  );
+}
+
+function TourismePageContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const selected = searchParams.get("rubrique");

@@ -8,7 +8,7 @@ export default function DepartementsPage() {
     <div className="mx-auto max-w-7xl">
       <h1 className="font-display text-4xl text-white sm:text-5xl">Les 12 d&#233;partements du B&#233;nin</h1>
       <p className="mt-4 max-w-2xl text-sm leading-7 text-kaolin/70 sm:text-base">Choisis un d&#233;partement pour retrouver ses communes. Chaque commune ouvre sa fiche, son histoire et son ar&#232;ne d&#233;j&#224; existantes.</p>
-      <ReturnToExploration href="/explorer" label="Retour \u00e0 Explorer le B\u00e9nin" className="mt-5 rounded-xl border border-gold/45 bg-gold/10 px-4 text-gold hover:bg-gold hover:text-earth" />
+      <ReturnToExploration href="/explorer" label="Retour à Explorer le Bénin" className="mt-5 rounded-xl border border-gold/45 bg-gold/10 px-4 text-gold hover:bg-gold hover:text-earth" />
       <div className="mt-6 grid overflow-hidden rounded-3xl border border-gold/25 bg-panel sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         {departments.map((department, index) => <Link key={department.slug} href={`/departements/${department.slug}`} className="group min-h-44 border-b border-r border-white/10 p-6 transition hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold">
           <p className="text-xs font-bold text-gold/75">{String(index + 1).padStart(2, "0")}</p>

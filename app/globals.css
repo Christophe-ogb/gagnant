@@ -36,28 +36,30 @@ body {
   font-family: var(--font-body), Arial, sans-serif;
 }
 
-/* Les pages utilisent le header global afin de conserver le mÃªme logo et la mÃªme navigation partout. */
+/* Les pages utilisent le header global afin de conserver le même logo et la même navigation partout. */
 main > header,
 main > div > header {
   display: none;
 }
 
-img,
-svg,
-video,
-canvas {
-  max-width: 100%;
-  height: auto;
-}
+@layer base {
+  img,
+  svg,
+  video,
+  canvas {
+    max-width: 100%;
+    height: auto;
+  }
 
-h1,
-h2,
-h3,
-p,
-dd,
-button,
-a {
-  overflow-wrap: anywhere;
+  h1,
+  h2,
+  h3,
+  p,
+  dd,
+  button,
+  a {
+    overflow-wrap: anywhere;
+  }
 }
 
 ::selection {
@@ -91,6 +93,22 @@ a {
   width: 34rem;
   height: 34rem;
   background: radial-gradient(circle, rgba(197, 160, 89, 0.18), rgba(43, 30, 22, 0.08) 43%, transparent 70%);
+}
+
+@media (max-width: 639px) {
+  .hero-orb-top {
+    top: -9rem;
+    right: -9rem;
+    width: 22rem;
+    height: 22rem;
+  }
+
+  .hero-orb-bottom {
+    top: 18rem;
+    left: -11rem;
+    width: 24rem;
+    height: 24rem;
+  }
 }
 
 @keyframes shake {

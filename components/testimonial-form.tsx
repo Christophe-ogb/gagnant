@@ -1,6 +1,5 @@
 "use client";
 
-import { createClient } from "@supabase/supabase-js";
 import { CheckCircle2, ImagePlus, MessageSquareQuote, Send, Star, X } from "lucide-react";
 import { FormEvent, useEffect, useState } from "react";
 import { createPortal } from "react-dom";
@@ -32,61 +31,17 @@ export function TestimonialForm() {
   async function submitTestimonial(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const formElement = event.currentTarget;
-    const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
-    const anonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
-    if (!url || !anonKey) {
-      setStatus("error");
-      setMessage("Le formulaire n’est pas encore connecté. Ajoute les clés Supabase dans .env.local.");
-      return;
-    }
-
     const form = new FormData(formElement);
-    let photoUrl: string | null = null;
-    const payload: {
-      nom: string;
-      fonction: string;
-      temoignage: string;
-      note: number;
-      photo_url: string | null;
-      affiche: boolean;
-    } = {
-      nom: String(form.get("nom") ?? "").trim(),
-      fonction: String(form.get("fonction") ?? "").trim(),
-      temoignage: String(form.get("temoignage") ?? "").trim(),
-      note,
-      photo_url: photoUrl,
-      affiche: false,
-    };
+    form.set("note", String(note));
+    if (photo) form.set("photo", photo);
 
     setStatus("sending");
     setMessage("");
     try {
-      if (photo) {
-        const extension = photo.name.split(".").pop()?.toLowerCase() || "jpg";
-        const photoPath = `temoignages/${crypto.randomUUID()}.${extension}`;
-        const supabase = createClient(url, anonKey);
-        const { error: uploadError } = await supabase.storage.from("temoignages").upload(photoPath, photo, {
-          cacheControl: "3600",
-          contentType: photo.type,
-          upsert: false,
-        });
-        if (uploadError) throw new Error(`Photo : ${uploadError.message}`);
-        photoUrl = supabase.storage.from("temoignages").getPublicUrl(photoPath).data.publicUrl;
-        payload.photo_url = photoUrl;
-      }
-      const response = await fetch(`${url.replace(/\/$/, "")}/rest/v1/temoignages`, {
-        method: "POST",
-        headers: {
-          apikey: anonKey,
-          Authorization: `Bearer ${anonKey}`,
-          "Content-Type": "application/json",
-          Prefer: "return=minimal",
-        },
-        body: JSON.stringify(payload),
-      });
+      const response = await fetch("/api/testimonials", { method: "POST", body: form });
       if (!response.ok) {
-        const errorBody = await response.json().catch(() => null) as { message?: string } | null;
-        throw new Error(errorBody?.message ?? `Erreur Supabase (${response.status})`);
+        const errorBody = await response.json().catch(() => null) as { error?: string } | null;
+        throw new Error(errorBody?.error ?? "Le témoignage n’a pas pu être envoyé. Réessayez.");
       }
       formElement.reset();
       setNote(5);
@@ -103,10 +58,9 @@ export function TestimonialForm() {
       setMessage(`L’envoi n’a pas abouti : ${detail}`);
     }
   }
-
   function choosePhoto(file: File | null) {
     if (!file) return;
-    if (!file.type.startsWith("image/")) {
+    if (!["image/jpeg", "image/png", "image/webp"].includes(file.type)) {
       setStatus("error");
       setMessage("Choisis uniquement une image au format JPG, PNG ou WebP.");
       return;

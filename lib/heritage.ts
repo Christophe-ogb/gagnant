@@ -7,7 +7,7 @@ import type { HeritageItem } from "@/lib/types";
 const detailsById = new Map(catalogueDetails.map((item) => [item.id, item]));
 const seriesBDetails = new Map((seriesB as HeritageItem[]).map((item) => [item.id, item]));
 
-// Les 77 identifiants exacts des communes. Ils correspondent au champ `id`
+// Les 77 identIls correspondent au champ `id`
 // dans les fichiers JSON et s'écrivent toujours sans accents.
 const communesWithAvailableImages = new Set([
   "abomey", "abomey-calavi", "adja-ouere", "adjara", "adjohoun",

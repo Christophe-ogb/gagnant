@@ -21,6 +21,7 @@ import { DepartmentsPreview } from "@/components/departments-preview";
 import { CarteBeninInteractive } from "@/components/carte-benin-interactive";
 import { HeroBackground } from "@/components/hero-background";
 import { CardImage } from "@/components/card-image";
+import { EstablishmentCategoryLinks, EstablishmentListings } from "@/components/business/establishment-listings";
 
 const communeIds = new Set(["ouidah", "abomey", "ganvie", "natitingou"]);
 const kingIds = ["behanzin", "toffa-1er", "bio-guerra", "roi-alade-ife"];
@@ -117,7 +118,7 @@ export default function Home() {
                 <p className="mt-3 max-w-2xl text-sm leading-6 text-kaolin/70">Une partie de dames familière, enrichie par les 77 communes, leurs départements et des défis de connaissance. Une manière simple de faire découvrir le pays en jouant.</p>
                 <div className="mt-5 grid grid-cols-2 gap-2">
                   <Link href="/communes" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Découvrir les communes <ArrowRight aria-hidden="true" size={16} /></Link>
-                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite acheter un jeu dames.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Acheter</a>
+                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite acheter un jeu dames.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Acheter</a>
                 </div>
               </div>
             </article>
@@ -132,7 +133,7 @@ export default function Home() {
                 <p className="mt-3 text-sm leading-6 text-kaolin/70">Un Ludo inspiré des rois, des cours et des personnages historiques du Bénin.</p>
                 <div className="mt-5 grid grid-cols-2 gap-2">
                   <Link href="/royaumes" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">Explorer les royaumes <ArrowRight aria-hidden="true" size={16} /></Link>
-                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite acheter un jeu de ludo.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-[#25d366] px-2 py-2.5 text-center text-xs font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Acheter</a>
+                  <a href={`https://wa.me/2290141757539?text=${encodeURIComponent("Bonjour Gagnants 229, je souhaite acheter un jeu de ludo.")}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center gap-1.5 rounded-xl bg-gold px-2 py-2.5 text-center text-xs font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white"><MessageCircle aria-hidden="true" size={16} /> Acheter</a>
                 </div>
               </div>
             </article>
@@ -151,7 +152,7 @@ export default function Home() {
           </div>
           <div className="mt-8 flex flex-col items-start gap-3 border-t border-gold/15 pt-6 sm:flex-row sm:items-center sm:justify-between">
             <p className="text-sm leading-6 text-kaolin/70">Tu veux acheter un jeu avec les motifs QR de ton choix ?</p>
-            <a href={`https://wa.me/2290141757539?text=${encodeURIComponent(orderMessage)}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-[#25d366] px-4 py-2.5 text-sm font-extrabold text-[#062b15] transition hover:bg-[#4ade80] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">
+            <a href={`https://wa.me/2290141757539?text=${encodeURIComponent(orderMessage)}`} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-gold px-4 py-2.5 text-sm font-extrabold text-earth transition hover:bg-[#ebc94e] active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white">
               <MessageCircle aria-hidden="true" size={18} /> Commander sur WhatsApp
             </a>
           </div>
@@ -163,6 +164,16 @@ export default function Home() {
         Pour la réafficher, décommente aussi l'import et la constante `events` ci-dessus.
         <EventsCarousel events={events} />
       */}
+
+      <section className="relative border-y border-gold/20 bg-[#21160f]/90 px-5 py-14 sm:px-8 lg:px-10">
+        <div className="mx-auto w-full max-w-6xl">
+          <p className="text-xs font-bold uppercase tracking-[0.18em] text-gold">Séjours & bonnes adresses</p>
+          <h2 className="font-display mt-3 text-3xl text-white sm:text-4xl">Découvrez les établissements du Bénin</h2>
+          <p className="mt-3 max-w-2xl text-sm leading-6 text-kaolin/70">Hébergements, restaurants et appartements vérifiés par notre équipe.</p>
+          <EstablishmentCategoryLinks />
+          <EstablishmentListings limit={3} />
+        </div>
+      </section>
 
       <DepartmentsPreview />
 

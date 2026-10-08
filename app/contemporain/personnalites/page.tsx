@@ -26,11 +26,13 @@ export default function ContemporaryFiguresPage() {
           <h1 className="font-display mt-3 text-4xl text-white sm:text-5xl">Présidents et personnalités</h1>
           <p className="mt-4 max-w-3xl text-sm leading-7 text-kaolin/75 sm:text-base">Découvrez les figures qui ont marqué la République du Bénin, ses institutions, sa transition démocratique et son développement.</p>
 
-          <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-8 grid items-stretch gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {figures.map((figure) => (
-              <article key={figure.id} className="group overflow-hidden rounded-2xl border border-gold/20 bg-panel transition duration-300 hover:-translate-y-1 hover:border-gold/55">
-                <img src={figure.imageUrl} alt={figure.imageAlt} className="h-48 w-full object-cover object-[center_22%] transition duration-500 group-hover:scale-105" />
-                <div className="p-5">
+              <article key={figure.id} className="group flex h-full flex-col overflow-hidden rounded-2xl border border-gold/20 bg-panel transition duration-300 hover:-translate-y-1 hover:border-gold/55">
+                <div className="relative h-40 shrink-0 overflow-hidden sm:h-48">
+                  <img src={figure.imageUrl} alt={figure.imageAlt} className="absolute inset-0 size-full object-cover object-[center_22%] transition duration-500 group-hover:scale-105" />
+                </div>
+                <div className="flex flex-1 flex-col p-5">
                   <p className="text-xs font-bold uppercase tracking-[0.13em] text-gold">Personnalité contemporaine</p>
                   <h2 className="font-display mt-2 text-2xl text-white">{figure.nom}</h2>
                   <p className="mt-1 min-h-10 text-sm leading-5 text-kaolin/65">{figure.sousTitre}</p>
