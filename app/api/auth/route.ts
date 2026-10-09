@@ -20,6 +20,7 @@ const authPayloadSchema = z.discriminatedUnion("action", [
     fullName: z.string().trim().min(2, "Le nom complet doit contenir au moins 2 caractères.").max(120, "Le nom complet ne peut pas dépasser 120 caractères."),
     emailUpdatesOptIn: z.boolean().optional().default(false),
   }).strict(),
+  z.object({ action: z.literal("resend-confirmation"), email: emailSchema }).strict(),
   z.object({ action: z.literal("forgot-password"), email: emailSchema }).strict(),
   z.object({ action: z.literal("reset-password"), password: passwordSchema }).strict(),
   z.object({ action: z.literal("logout") }).strict(),
@@ -31,7 +32,7 @@ function jsonError(error: string, status = 400) {
 
 function getAuthRedirectUrl(request: NextRequest, nextPath: "/dashboard" | "/reset-password") {
   const baseUrl = process.env.VERCEL_ENV === "production"
-    ? process.env.APP_BASE_URL?.trim() || request.nextUrl.origin
+    ? process.env.NEXT_PUBLIC_SITE_URL?.trim() || "https://gagnant.vercel.app"
     : request.nextUrl.origin;
   const redirectUrl = new URL("/auth/callback", baseUrl);
   redirectUrl.searchParams.set("next", nextPath);
@@ -80,6 +81,7 @@ export async function POST(request: NextRequest) {
   const limits = {
     login: 10,
     register: 5,
+    "resend-confirmation": 3,
     "forgot-password": 3,
     "reset-password": 5,
     logout: 10,
@@ -115,6 +117,23 @@ export async function POST(request: NextRequest) {
     });
     if (error) return jsonError(getAuthErrorMessage(error, "register"), error.status === 429 ? 429 : 400);
     return NextResponse.json({ confirmationRequired: !data.session }, { headers: { "Cache-Control": "no-store" } });
+  }
+
+  if (payload.action === "resend-confirmation") {
+    const { error } = await supabase.auth.resend({
+      type: "signup",
+      email: payload.email,
+      options: { emailRedirectTo: getAuthRedirectUrl(request, "/dashboard") },
+    });
+    if (error) {
+      return jsonError(
+        error.status === 429
+          ? "Trop de demandes de confirmation. Veuillez patienter quelques minutes avant de réessayer."
+          : "Impossible de renvoyer le lien pour le moment. Vérifiez l’adresse puis réessayez.",
+        error.status === 429 ? 429 : 400,
+      );
+    }
+    return NextResponse.json({ success: true }, { headers: { "Cache-Control": "no-store" } });
   }
 
   if (payload.action === "forgot-password") {

@@ -15,6 +15,7 @@ export default function RegisterPage() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [confirmationSent, setConfirmationSent] = useState(false);
+  const [resendMessage, setResendMessage] = useState<string | null>(null);
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -48,6 +49,28 @@ export default function RegisterPage() {
     }
   }
 
+  async function handleResendConfirmation() {
+    if (!email.trim() || loading) return;
+    setLoading(true);
+    setError(null);
+    setResendMessage(null);
+
+    try {
+      const response = await fetch("/api/auth", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ action: "resend-confirmation", email }),
+      });
+      const result = await response.json() as { error?: string };
+      if (!response.ok) throw new Error(result.error ?? "Impossible de renvoyer le lien pour le moment.");
+      setResendMessage("Si cette adresse attend une confirmation, un nouveau lien vient d’être envoyé.");
+    } catch (cause) {
+      setError(cause instanceof Error && cause.message ? cause.message : "Impossible de renvoyer le lien pour le moment.");
+    } finally {
+      setLoading(false);
+    }
+  }
+
   return (
     <main className="min-h-[70vh] bg-earth px-5 py-12 text-kaolin sm:px-8 lg:px-10">
       <section className="mx-auto w-full max-w-xl rounded-3xl border border-gold/25 bg-panel p-6 shadow-2xl sm:p-8">
@@ -62,6 +85,16 @@ export default function RegisterPage() {
               Si l’adresse peut être inscrite, un lien de confirmation a été envoyé à <strong className="text-white">{email}</strong>.
               Cliquez sur ce lien pour confirmer votre adresse et accéder à votre espace partenaire.
             </p>
+            {resendMessage && <p role="status" className="mt-3 text-sm text-gold">{resendMessage}</p>}
+            {error && <p role="alert" className="mt-3 rounded-lg border border-red-400/30 bg-red-950/30 p-3 text-sm text-red-200">{error}</p>}
+            <button
+              className="mt-5 min-h-11 w-full rounded-xl border border-gold/40 px-4 py-2 text-sm font-bold text-gold transition hover:bg-gold/10 disabled:cursor-not-allowed disabled:opacity-60"
+              disabled={loading || !email.trim()}
+              onClick={handleResendConfirmation}
+              type="button"
+            >
+              {loading ? "Envoi en cours…" : "Renvoyer le lien de confirmation"}
+            </button>
             <button className="mt-5 rounded-xl bg-gold px-5 py-3 text-sm font-bold text-earth" onClick={() => router.push("/login")} type="button">
               Retour à la connexion
             </button>
@@ -118,6 +151,15 @@ export default function RegisterPage() {
               type="submit"
             >
               {loading ? "Création de votre espace…" : "Créer mon espace gérant"}
+            </button>
+            {resendMessage && <p role="status" className="text-center text-sm text-gold">{resendMessage}</p>}
+            <button
+              className="w-full py-2 text-sm font-semibold text-kaolin/70 underline decoration-gold/50 underline-offset-4 transition hover:text-gold disabled:cursor-not-allowed disabled:opacity-50"
+              disabled={loading || !email.trim()}
+              onClick={handleResendConfirmation}
+              type="button"
+            >
+              Déjà inscrit mais pas confirmé ? Renvoyer le lien
             </button>
           </form>
         )}
